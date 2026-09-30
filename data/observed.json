@@ -1,5 +1,17 @@
 {
  "companies": {
+  "aecom": {
+   "name": "AECOM",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "smartrecruiters:AECOM2:744000152763988"
+     ],
+     "count": 1
+    }
+   }
+  },
   "amazon": {
    "name": "Amazon",
    "cycles": {
@@ -775,5 +787,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T20:09:32Z"
+ "updated_at": "2026-09-30T23:52:39Z"
 }

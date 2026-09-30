@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T20:09:32Z",
- "data_as_of": "2026-09-30T20:09:32Z",
- "rendered_at": "2026-09-30T20:09:32Z",
+ "generated_at": "2026-09-30T23:52:39Z",
+ "data_as_of": "2026-09-30T23:52:39Z",
+ "rendered_at": "2026-09-30T23:52:39Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -700,7 +700,7 @@
    "expected": "2026-09-24",
    "days_until": -6,
    "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -763,6 +763,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "AECOM",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000152763988",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-30"
    }
   },
   {
@@ -956,5 +975,5 @@
    }
   }
  ],
- "count": 50
+ "count": 51
 }

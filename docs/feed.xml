@@ -5,15 +5,15 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-09-30T20:09:32Z</updated>
+  <updated>2026-09-30T23:52:39Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workable:ace-it-careers-1:8E52B2BF7A</id>
-    <title>Ace It Careers 1: Entry-Level Software QA Analyst</title>
-    <link href="https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Pittsburgh, Pennsylvania, United States; Salt Lake City, Utah, United States (Remote) · SQL</summary>
+    <id>urn:grad-engine:smartrecruiters:AECOM2:744000152763988</id>
+    <title>AECOM: Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000152763988"/>
+    <updated>2026-09-30T23:52:39Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Arlington, VA, United States (Hybrid) · Python, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:bagsfm:012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4</id>
@@ -22,22 +22,6 @@
     <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · TypeScript, React, Next.js, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:deltasands:78ed860f-7c69-4888-9a05-e8c9006be291</id>
-    <title>Deltasands: Junior Software Engineer</title>
-    <link href="https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · Java, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:runlaminar:1112d528-3de4-4be2-b889-faa7f80381b6</id>
-    <title>Laminar: Junior Software Engineer, Edge Platform</title>
-    <link href="https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Somerville, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:miter:f4567649-a0eb-445d-bd00-a0673a26ec6d</id>
@@ -64,14 +48,6 @@
     <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, SQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529</id>
-    <title>General Motors: Software Engineer, AV Data Collection - Early Career</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, Linux, Git · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:giftogram:4392576009</id>
     <title>Giftogram: Junior Full Stack Developer</title>
     <link href="https://job-boards.greenhouse.io/giftogram/jobs/4392576009"/>
@@ -86,6 +62,38 @@
     <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Chicago, United States · Java, C++ · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:deltasands:78ed860f-7c69-4888-9a05-e8c9006be291</id>
+    <title>Deltasands: Junior Software Engineer</title>
+    <link href="https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:runlaminar:1112d528-3de4-4be2-b889-faa7f80381b6</id>
+    <title>Laminar: Junior Software Engineer, Edge Platform</title>
+    <link href="https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Somerville, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:ace-it-careers-1:8E52B2BF7A</id>
+    <title>Ace It Careers 1: Entry-Level Software QA Analyst</title>
+    <link href="https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Pittsburgh, Pennsylvania, United States; Salt Lake City, Utah, United States (Remote) · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529</id>
+    <title>General Motors: Software Engineer, AV Data Collection - Early Career</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, Linux, Git · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:mastercard:/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985</id>
@@ -147,9 +155,9 @@
     <id>urn:grad-engine:greenhouse:nuro:8227399</id>
     <title>Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad</title>
     <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-09-30T23:52:39Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · status: closed · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:renaissancelearning-nam:5434355008</id>
@@ -251,9 +259,9 @@
     <id>urn:grad-engine:ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96</id>
     <title>Color: Software Engineer, New Grad 2026</title>
     <link href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-09-30T23:52:39Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS</summary>
+    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed</id>
@@ -467,9 +475,9 @@
     <id>urn:grad-engine:greenhouse:andurilindustries:5239596007</id>
     <title>Anduril: Firmware Engineer, Space Emerging Talent</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-09-30T23:52:39Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Hardware · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision</summary>
+    <summary>Class of 2026 · Hardware · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:andurilindustries:5246141007</id>
@@ -589,7 +597,7 @@
     <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709039006"/>
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York · Java, LLMs, Git</summary>
+    <summary>2 openings · Not stated · Software · New York, New York · Java, LLMs, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:eulerity:4716146006</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Quant · Chicago, IL, United States · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:parallel:5247800007</id>
-    <title>Parallel Systems: Full Stack Software Engineer I</title>
-    <link href="https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, CA · Python, Rust, TypeScript, React</summary>
   </entry>
 </feed>
