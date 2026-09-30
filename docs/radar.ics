@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grad-engine//Drop Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Grad Hiring Radar (Class of 2027)
+X-WR-CALDESC:Expected opening dates for new grad tech roles. Dates come fro
+ m employers' own career APIs or hand-checked opening months; treat them as
+  when to start watching.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:radar-lila sciences-20261006@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🎯 Lila Sciences — expected to open (Class of 2027)
+DESCRIPTION:Lila Sciences expected to open around this date.  the employer'
+ s own posted date\, read from their careers API  Radar: https://apxxrv.git
+ hub.io/New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lila Sciences new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-nvidia-20270127@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎯 NVIDIA — expected to open (Class of 2027)
+DESCRIPTION:NVIDIA expected to open around this date.  the employer's own p
+ osted date\, read from their careers API  Radar: https://apxxrv.github.io/
+ New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:NVIDIA new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-globalfoundries-20270624@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:🎯 GlobalFoundries — expected to open (Class of 2027)
+DESCRIPTION:GlobalFoundries expected to open around this date.  the employe
+ r's own posted date\, read from their careers API  Radar: https://apxxrv.g
+ ithub.io/New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:GlobalFoundries new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-color-20270728@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:🎯 Color — expected to open (Class of 2027)
+DESCRIPTION:Color expected to open around this date.  the employer's own po
+ sted date\, read from their careers API  Radar: https://apxxrv.github.io/N
+ ew-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Color new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-notion-20270814@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:🎯 Notion — expected to open (Class of 2027)
+DESCRIPTION:Notion expected to open around this date.  the employer's own p
+ osted date\, read from their careers API  Radar: https://apxxrv.github.io/
+ New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Notion new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-general motors-20270909@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:🎯 General Motors — expected to open (Class of 2027)
+DESCRIPTION:General Motors expected to open around this date.  the employer
+ 's own posted date\, read from their careers API  Radar: https://apxxrv.gi
+ thub.io/New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:General Motors new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-okta-20270914@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:🎯 Okta — expected to open (Class of 2027)
+DESCRIPTION:Okta expected to open around this date.  the employer's own pos
+ ted date\, read from their careers API  Radar: https://apxxrv.github.io/Ne
+ w-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Okta new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-meow-20270917@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:🎯 Meow — expected to open (Class of 2027)
+DESCRIPTION:Meow expected to open around this date.  the employer's own pos
+ ted date\, read from their careers API  Radar: https://apxxrv.github.io/Ne
+ w-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Meow new grad roles open soon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:radar-stripe-20270917@grad-engine
+DTSTAMP:20260928T081544Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:🎯 Stripe — expected to open (Class of 2027)
+DESCRIPTION:Stripe expected to open around this date.  the employer's own p
+ osted date\, read from their careers API  Radar: https://apxxrv.github.io/
+ New-Grad-Tech-Jobs/#radar
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Stripe new grad roles open soon
+END:VALARM
+END:VEVENT
+END:VCALENDAR

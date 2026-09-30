@@ -1,0 +1,5 @@
+{
+ "note": "Hand-seeded typical opening MONTHS for new grad hiring at marquee employers, each with a link to that company's own careers page. Month precision only \u2014 never a fabricated day. Superseded per company the moment the engine observes a real posted date from an ATS. The internship windows this repo inherited were removed: new grad hiring follows its own calendar, and the engine now learns it from observed drops (data/observed.json).",
+ "verified_at": "2026-09-28",
+ "companies": []
+}

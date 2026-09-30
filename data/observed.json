@@ -1,0 +1,742 @@
+{
+ "companies": {
+  "american express": {
+   "name": "American Express",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26012796",
+      "oracle:egug.fa.us2.oraclecloud.com:26012801",
+      "oracle:egug.fa.us2.oraclecloud.com:26012869",
+      "oracle:egug.fa.us2.oraclecloud.com:26012982",
+      "oracle:egug.fa.us2.oraclecloud.com:26012985",
+      "oracle:egug.fa.us2.oraclecloud.com:26012987",
+      "oracle:egug.fa.us2.oraclecloud.com:26012988",
+      "oracle:egug.fa.us2.oraclecloud.com:26013252",
+      "oracle:egug.fa.us2.oraclecloud.com:26013253",
+      "oracle:egug.fa.us2.oraclecloud.com:26013254",
+      "oracle:egug.fa.us2.oraclecloud.com:26013255",
+      "oracle:egug.fa.us2.oraclecloud.com:26013256",
+      "oracle:egug.fa.us2.oraclecloud.com:26013258",
+      "oracle:egug.fa.us2.oraclecloud.com:26013259",
+      "oracle:egug.fa.us2.oraclecloud.com:26013286"
+     ],
+     "count": 15
+    }
+   }
+  },
+  "anduril": {
+   "name": "Anduril",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2025-08-11",
+     "role_ids": [
+      "greenhouse:andurilindustries:4802146007",
+      "greenhouse:andurilindustries:5239596007"
+     ],
+     "count": 2
+    },
+    "Class of 2027": {
+     "first_posted": "2026-06-11",
+     "role_ids": [
+      "greenhouse:andurilindustries:5162263007",
+      "greenhouse:andurilindustries:5228868007",
+      "greenhouse:andurilindustries:5246141007"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "applied materials": {
+   "name": "Applied Materials",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-20",
+     "role_ids": [
+      "workday:amat:/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "belvedere trading": {
+   "name": "Belvedere Trading",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "lever:belvederetrading:2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+      "lever:belvederetrading:34369a5c-55c0-4e9f-9d2e-4f21b9418bee"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "captech consulting": {
+   "name": "CapTech Consulting",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "smartrecruiters:CapTechConsulting:744000146449269"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "smartrecruiters:CapTechConsulting:744000146449269"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "chicago trading": {
+   "name": "Chicago Trading Company",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "greenhouse:ctccampusboard:4708724005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "color": {
+   "name": "Color",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-07-28",
+     "role_ids": [
+      "ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "costar group": {
+   "name": "CoStar Group",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
+      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
+      "workday:costar:/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
+      "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
+      "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
+     ],
+     "count": 6
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
+      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
+      "workday:costar:/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
+      "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
+      "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
+     ],
+     "count": 6
+    }
+   }
+  },
+  "doordash": {
+   "name": "DoorDash",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:doordashusa:8163709"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "dv trading": {
+   "name": "DV Trading",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "greenhouse:dvtrading:4719126005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ellipsis labs": {
+   "name": "Ellipsis Labs",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-03-26",
+     "role_ids": [
+      "ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "equifax": {
+   "name": "Equifax",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "freeform": {
+   "name": "Freeform",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "greenhouse:freeformfuturecorp:7826634003"
+     ],
+     "count": 1
+    },
+    "Class of 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "greenhouse:freeformfuturecorp:7895902003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "garner health": {
+   "name": "Garner Health",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:garnerhealth:6174210004"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:garnerhealth:6174210004"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "general motors": {
+   "name": "General Motors",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "global lending services": {
+   "name": "Global Lending Services",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "lever:glsllc:d81bfc16-2ba1-41ca-ab21-7d8cffac9e07"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "lever:glsllc:d81bfc16-2ba1-41ca-ab21-7d8cffac9e07"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "globalfoundries": {
+   "name": "GlobalFoundries",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-06-24",
+     "role_ids": [
+      "workday:globalfoundries:/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "graphcore": {
+   "name": "Graphcore",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "greenhouse:graphcore:8841995002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "greenboard": {
+   "name": "Greenboard",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "hudson river trading": {
+   "name": "Hudson River Trading",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-13",
+     "role_ids": [
+      "greenhouse:wehrtyou:8052050",
+      "greenhouse:wehrtyou:8052122"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "id me": {
+   "name": "ID.me",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:idmeuniversityrecruiting:7980382003",
+      "greenhouse:idmeuniversityrecruiting:7986505003"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "klaviyo": {
+   "name": "Klaviyo",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-12",
+     "role_ids": [
+      "greenhouse:klaviyocampus:7989324003",
+      "greenhouse:klaviyocampus:8003259003"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-12",
+     "role_ids": [
+      "greenhouse:klaviyocampus:7989324003",
+      "greenhouse:klaviyocampus:8003259003"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "lexisnexis risk solutions": {
+   "name": "LexisNexis Risk Solutions",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:relx:/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
+      "workday:relx:/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
+      "workday:relx:/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
+     ],
+     "count": 3
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:relx:/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
+      "workday:relx:/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
+      "workday:relx:/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "lila sciences": {
+   "name": "Lila Sciences",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2025-10-06",
+     "role_ids": [
+      "greenhouse:lilasciences:4031379009"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mastercard": {
+   "name": "Mastercard",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "meow": {
+   "name": "Meow",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "metron": {
+   "name": "Metron",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:metron:5211456007"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "momentum": {
+   "name": "Momentum",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-08",
+     "role_ids": [
+      "greenhouse:momentumcompany3:8614696002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "notion": {
+   "name": "Notion",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "ashby:notion:e32799d2-8ef8-4803-8189-c72514afa816"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nov": {
+   "name": "NOV",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "oracle:egay.fa.us6.oraclecloud.com:44448"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nvidia": {
+   "name": "NVIDIA",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-01-27",
+     "role_ids": [
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
+      "workday:nvidia:/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
+     ],
+     "count": 9
+    }
+   }
+  },
+  "okta": {
+   "name": "Okta",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:okta:8191506"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "old mission capital": {
+   "name": "Old Mission Capital",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-13",
+     "role_ids": [
+      "greenhouse:oldmissioncapital:7796031003",
+      "greenhouse:oldmissioncapital:7796044003",
+      "greenhouse:oldmissioncapital:7796048003",
+      "greenhouse:oldmissioncapital:7814534003"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "radiant": {
+   "name": "Radiant",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "ashby:radiant-industries:1ec29cec-d18f-417d-adc6-31adda87c687"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "relx": {
+   "name": "RELX",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "replit": {
+   "name": "Replit",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "roblox": {
+   "name": "Roblox",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-05",
+     "role_ids": [
+      "greenhouse:roblox:8072244"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "scale ai": {
+   "name": "Scale AI",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:scaleai:4730836005",
+      "greenhouse:scaleai:4736426005"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:scaleai:4730836005",
+      "greenhouse:scaleai:4736426005"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "sep": {
+   "name": "SEP",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "lever:sep:f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "singlestore": {
+   "name": "SingleStore",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "greenhouse:singlestore:8205389",
+      "greenhouse:singlestore:8205427"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "solace health": {
+   "name": "Solace Health",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "ashby:solace:77ca492c-4142-4931-beeb-e85d9d0ac443",
+      "ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd",
+      "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "spacex": {
+   "name": "SpaceX",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "greenhouse:spacex:8696058002",
+      "greenhouse:spacex:8696080002",
+      "greenhouse:spacex:8696097002",
+      "greenhouse:spacex:8724316002",
+      "greenhouse:spacex:8730567002",
+      "greenhouse:spacex:8743362002",
+      "greenhouse:spacex:8802897002"
+     ],
+     "count": 7
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "greenhouse:spacex:8696058002",
+      "greenhouse:spacex:8696080002",
+      "greenhouse:spacex:8696097002",
+      "greenhouse:spacex:8724316002",
+      "greenhouse:spacex:8730567002",
+      "greenhouse:spacex:8802897002"
+     ],
+     "count": 6
+    }
+   }
+  },
+  "stripe": {
+   "name": "Stripe",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "greenhouse:stripe:8212508"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "veeva systems": {
+   "name": "Veeva Systems",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2025-08-20",
+     "role_ids": [
+      "lever:veeva:52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "lever:veeva:8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "lever:veeva:907dccc7-0052-41e9-920b-28e5ba6aaba9"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "voloridge": {
+   "name": "Voloridge",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:voloridgeinvestmentmanagement:4419326009"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:voloridgeinvestmentmanagement:4419326009"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "weride": {
+   "name": "WeRide",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "lever:weride:5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+      "lever:weride:5cde0d09-ba2d-408d-947e-4a42028cd4f7"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "ziprecruiter": {
+   "name": "ZipRecruiter",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:ziprecruiter:8127108"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:ziprecruiter:8127108"
+     ],
+     "count": 1
+    }
+   }
+  }
+ },
+ "updated_at": "2026-09-28T08:15:44Z"
+}

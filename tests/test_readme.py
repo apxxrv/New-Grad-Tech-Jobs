@@ -1,0 +1,300 @@
+"""README/CSV generation: honest counts and a CSV that can't execute."""
+
+import csv
+
+import pytest
+
+from grad_engine import paths, readme
+
+
+def _rec(jid, **extra):
+    rec = {
+        "id": jid, "company": "Acme", "title": "Software Engineer, New Grad",
+        "season": "Class of 2027", "season_inferred": False, "category": "Software",
+        "location": "Austin, TX", "url": f"https://x/{jid}", "is_open": True,
+        "posted_at": "2026-07-01T00:00:00Z", "first_seen_at": "2026-07-01T00:00:00Z",
+        "sponsorship": "unknown", "skills": [],
+    }
+    rec.update(extra)
+    return rec
+
+
+@pytest.fixture
+def outputs(tmp_path, monkeypatch):
+    monkeypatch.setattr(paths, "README_PATH", str(tmp_path / "README.md"))
+    monkeypatch.setattr(paths, "CSV_PATH", str(tmp_path / "new_grad_jobs.csv"))
+    return tmp_path
+
+
+class TestEvidenceSplit:
+    """A class year heading is a claim; only employer-stated roles may sit under it."""
+
+    def test_inferred_roles_get_their_own_section(self, outputs):
+        store = {
+            "a": _rec("a"),
+            "b": _rec("b", season_inferred=True, title="Backend Engineer, New Grad"),
+        }
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## Class of 2027  (1 employer-stated)" in text
+        assert "Recently posted — class year not stated  (1 roles)" in text
+        # No guessed class year anywhere: the lane states the absence, not a value.
+        assert "~Class of 2027" not in text
+        assert "Likely class year" not in text
+
+    def test_hero_reports_the_split(self, outputs):
+        store = {
+            "a": _rec("a"),
+            "b": _rec("b", season_inferred=True),
+            "c": _rec("c", season_inferred=True),
+        }
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "1 have a class year the employer stated" in text
+        assert "2 are recent postings whose class year isn't stated" in text
+
+    def test_no_rolling_section_when_everything_is_stated(self, outputs):
+        readme.generate({"a": _rec("a")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## Recently posted" not in text
+
+    def test_role_rows_render_skill_tags(self, outputs):
+        readme.generate({"a": _rec("a", skills=["Python", "React", "SQL"])})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "| Company | Role | Apply | Location | Skills | Posted |" in text
+        assert "| Python, SQL, React |" in text
+
+    def test_role_rows_label_missing_skills(self, outputs):
+        readme.generate({"a": _rec("a", skills=[])})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "| No skills listed |" in text
+
+
+class TestMultiCycleRendering:
+    def test_role_appears_under_every_cycle_it_states(self, outputs):
+        store = {"a": _rec("a", title="Software Engineer, New Grad (Class of 2026/2027)",
+                           season="Class of 2027",
+                           seasons=["Class of 2027", "Class of 2026"])}
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## Class of 2027  (1 employer-stated)" in text
+        assert "## Class of 2026  (1 employer-stated)" in text
+
+    def test_it_is_counted_once_not_twice(self, outputs):
+        store = {"a": _rec("a", seasons=["Class of 2027", "Class of 2026"])}
+        out = readme.generate(store)
+        assert out["open"] == 1
+
+    def test_the_cross_reference_names_only_the_other_cycle(self, outputs):
+        store = {"a": _rec("a", seasons=["Class of 2027", "Class of 2026"])}
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        # Under Class of 2027 it should point at Class of 2026, and vice versa —
+        # repeating the section's own cycle back at the reader is noise.
+        assert "_(also open for Class of 2026)_" in text
+        assert "_(also open for Class of 2027)_" in text
+        assert "also open for Class of 2027, Class of 2026" not in text
+
+
+class TestCsvCompleteness:
+    def test_csv_holds_every_open_role_even_when_readme_caps(self, outputs):
+        # The README caps rows per company for readability; the CSV is the
+        # machine-readable export and must never silently drop roles.
+        store = {str(i): _rec(str(i), title=f"SWE New Grad {i}") for i in range(9)}
+        readme.generate(store)
+        rows = list(csv.DictReader((outputs / "new_grad_jobs.csv").open(encoding="utf-8")))
+        assert len(rows) == 9
+
+    def test_csv_carries_the_new_fields(self, outputs):
+        store = {"a": _rec("a", title="Data Engineer, Early Career", location="Remote - US")}
+        readme.generate(store)
+        row = next(csv.DictReader((outputs / "new_grad_jobs.csv").open(encoding="utf-8")))
+        assert row["id"]
+        assert row["program"] == "Early Career"
+        assert row["remote"] == "yes"
+
+    def test_closed_roles_are_excluded(self, outputs):
+        store = {"a": _rec("a"), "b": _rec("b", is_open=False)}
+        readme.generate(store)
+        rows = list(csv.DictReader((outputs / "new_grad_jobs.csv").open(encoding="utf-8")))
+        assert len(rows) == 1
+
+
+class TestCsvInjection:
+    """Job titles are third-party text and land in a file people open in Excel."""
+
+    def test_formula_prefixes_are_neutralized(self):
+        for raw in ("=HYPERLINK(\"http://evil\",\"click\")",
+                    "+1+1", "-2+3", "@SUM(A1:A9)"):
+            out = readme._csv_safe(raw)
+            assert out.startswith("'"), raw
+            assert out[1:] == raw  # the value itself is preserved, just inert
+
+    def test_ordinary_values_are_untouched(self):
+        for raw in ("Software Engineer, New Grad", "Stripe", "$45/hr",
+                    "2026-06-01T00:00:00Z", "New York, NY", ""):
+            assert readme._csv_safe(raw) == raw
+
+    def test_non_strings_pass_through(self):
+        assert readme._csv_safe(None) is None
+        assert readme._csv_safe(42) == 42
+
+
+class TestHeaderCounts:
+    """The README and the API must not report different totals as the same thing."""
+
+    CFG = {"cycles": ["Class of 2027"], "regions": ["US"]}
+
+    def test_capped_listing_reports_both_numbers(self):
+        lines = readme._header(self.CFG, total_open=107, companies=3900,
+                               new_week=11, shown=104)
+        line = next(x for x in lines if "open roles" in x)
+        assert "107 open roles" in line
+        assert "104 listed below" in line
+
+    def test_no_parenthetical_when_nothing_was_cut(self):
+        lines = readme._header(self.CFG, total_open=104, companies=3900,
+                               new_week=11, shown=104)
+        line = next(x for x in lines if "open roles" in x)
+        assert "104 open roles" in line
+        assert "listed below" not in line
+
+    def test_zero_inferred_roles_still_reports_all_stated_and_fetch_time(self):
+        lines = readme._header(
+            self.CFG, total_open=4, companies=3900, new_week=1,
+            stated=4, inferred=0, data_as_of="2026-08-06T14:08:27Z",
+        )
+        assert any("4 have a class year the employer stated · 0 are recent" in x
+                   for x in lines)
+        assert any("data as of Aug 06, 2026 at 14:08 UTC" in x for x in lines)
+
+
+class TestIdenticalOpenings:
+    """One row per job, one line per requisition kept reachable.
+
+    Copart really had eight live "Software Engineer I, Dallas"
+    requisitions. Eight identical rows is what a reader complained about; zero
+    of them disappearing is what the data promises.
+    """
+
+    def _store(self, n=3):
+        return {str(i): _rec(str(i)) for i in range(n)}
+
+    def test_the_table_shows_one_row(self, outputs):
+        readme.generate(self._store())
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert text.count("| Acme | Software Engineer, New Grad") == 1
+
+    def test_the_row_says_how_many_openings(self, outputs):
+        readme.generate(self._store())
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "(3 openings)" in text
+
+    def test_every_requisition_keeps_an_apply_link(self, outputs):
+        readme.generate(self._store())
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        for jid in ("0", "1", "2"):
+            assert f"https://x/{jid}" in text
+
+    def test_the_headline_count_still_counts_openings(self, outputs):
+        # "3 open roles" stays true — the grouping is a layout decision, not a
+        # claim that two of the jobs stopped existing.
+        readme.generate(self._store())
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "3 open roles" in text
+        assert "(1 listed below)" not in text
+
+    def test_the_csv_still_exports_every_requisition(self, outputs):
+        # The machine-readable export is where all three ids must survive.
+        readme.generate(self._store())
+        with open(paths.CSV_PATH, newline="", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+        assert sorted(r["id"] for r in rows) == ["0", "1", "2"]
+
+    def test_a_different_location_is_not_folded_away(self, outputs):
+        store = self._store(2)
+        store["1"]["location"] = "Seattle, WA"
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert text.count("| Acme | Software Engineer, New Grad") == 2
+        # No row claims a count (the legend explaining the marker is not a row).
+        rows = [ln for ln in text.splitlines() if ln.startswith("| Acme |")]
+        assert rows and not any("openings)" in ln for ln in rows)
+
+
+class TestTableFitsItsColumn:
+    """The apply link has to survive GitHub's narrow README column.
+
+    A table can never render narrower than the longest unbreakable word in each
+    column. Six of those ("Securityriskadvisors", "Telecommunications", ...)
+    added up to more than the column GitHub gives the README, so the browser
+    pushed the last cell past the right edge — and the last cell was Apply, so
+    the one link a reader needs was the one they could not reach.
+
+    Two things fix that together: zero-width spaces give the browser somewhere
+    to wrap, and Apply moved from the last column to the third (Category was
+    dropped to make room), so it can no longer be the cell that gets clipped.
+    Both are asserted here.
+    """
+
+    def test_a_long_word_gets_somewhere_to_wrap(self):
+        assert readme.ZWSP in readme._breakable("Securityriskadvisors")
+
+    def test_it_breaks_a_name_at_its_own_seams_first(self):
+        assert readme._breakable("WallStreetQuants").split(readme.ZWSP) == [
+            "Wall", "Street", "Quants",
+        ]
+
+    def test_ordinary_words_are_left_alone(self):
+        for text in ("Acme", "Auto-Owners Insurance", "Software Engineer, New Grad"):
+            assert readme._breakable(text) == text
+
+    def test_a_link_is_never_touched(self):
+        # A break inside a URL is invisible on the page and a dead Apply button.
+        link = "[Apply](https://boards.greenhouse.io/verylongcompanyname/jobs/1)"
+        assert readme._breakable(link) == link
+
+    def test_no_column_can_demand_more_than_twelve_characters(self, outputs):
+        readme.generate({
+            "0": {
+                "id": "0", "company": "Securityriskadvisors",
+                "title": "Telecommunications Infrastructure Engineer I",
+                "location": "Massachusetts, United States",
+                "skills": ["TypeScript", "JavaScript"], "category": "Software",
+                "season": "Class of 2027", "url": "https://x/0", "is_open": True,
+                "posted_at": "2026-08-01T00:00:00Z",
+                "first_seen_at": "2026-08-01T00:00:00Z",
+            },
+        })
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        row = next(ln for ln in text.splitlines() if ln.startswith("| Security"))
+        # The Apply cell is a markdown link, so its URL is legitimately one long
+        # unbreakable run; every other cell is prose and must stay soft.
+        cells = row.strip("|").split("|")
+        for i, cell in enumerate(cells):
+            if i == 2:
+                continue
+            for word in cell.split():
+                assert all(len(p) <= 12 for p in word.split(readme.ZWSP)), word
+
+
+def test_apply_is_the_third_column_and_category_is_gone(outputs):
+    """Apply right after the role, so it is on screen at any width."""
+    readme.generate({
+        "0": {
+            "id": "0", "company": "Acme", "title": "Software Engineer, New Grad",
+            "location": "Austin, TX", "skills": ["Python"], "category": "Software",
+            "season": "Class of 2027", "url": "https://x/apply-0", "is_open": True,
+            "posted_at": "2026-08-01T00:00:00Z",
+            "first_seen_at": "2026-08-01T00:00:00Z",
+        },
+    })
+    text = (outputs / "README.md").read_text(encoding="utf-8")
+    header = next(ln for ln in text.splitlines() if ln.startswith("| Company |"))
+    assert [c.strip() for c in header.strip("|").split("|")] == [
+        "Company", "Role", "Apply", "Location", "Skills", "Posted",
+    ]
+    row = next(ln for ln in text.splitlines() if ln.startswith("| Acme |"))
+    cells = [c.strip() for c in row.strip("|").split("|")]
+    assert cells[2] == "[Apply](https://x/apply-0)"
+    assert "Software Engineer, New Grad" in cells[1] and "](" not in cells[1]

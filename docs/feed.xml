@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml</id>
+  <title>Class of 2027 &amp; Class of 2026 New Grad Tech Jobs — new roles</title>
+  <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
+  <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
+  <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
+  <updated>2026-09-28T08:15:44Z</updated>
+  <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934</id>
+    <title>DXC Technology: Analyst I Software Engineering</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934"/>
+    <updated>2026-09-28T08:15:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - CT - ANY CITY · Python, Java, C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:iqvia:/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796</id>
+    <title>IQVIA: MedTech Field Service Software Tech Entry Level - Phoenix, AZ 🛂</title>
+    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"/>
+    <updated>2026-09-28T08:15:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · $27–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96</id>
+    <title>Color: Software Engineer, New Grad 2026</title>
+    <link href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed</id>
+    <title>Crusoe: Software Engineer I, Network</title>
+    <link href="https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA - US · Java, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:deeter-analytics:a93aae94-6025-4977-a5c0-657874c6a230</id>
+    <title>Deeter Analytics: Junior Quantitative Researcher</title>
+    <link href="https://jobs.ashbyhq.com/deeter-analytics/a93aae94-6025-4977-a5c0-657874c6a230"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · US - Remote · Python, SQL, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d</id>
+    <title>Ellipsis Labs: Software Engineer - 2027 New Grads</title>
+    <link href="https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York, New York · $150K – $200K • Offers Equity · Python, Java, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5</id>
+    <title>Greenboard: Software Engineer (2027 Grads)</title>
+    <link href="https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York City · $130K – $150K • Offers Equity · Python, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:maximor:67d0c7d0-fddb-4b8d-aed8-0647337a988e</id>
+    <title>Maximor AI: Software Engineer (New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · Python, Java, C++, Rust, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218</id>
+    <title>Meow: Software Engineer - December 2026 Graduates 🛂</title>
+    <link href="https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · New York City · Python, TypeScript, React, PostgreSQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:notion:e32799d2-8ef8-4803-8189-c72514afa816</id>
+    <title>Notion: Software Engineer, New Grad (Dec 2026)</title>
+    <link href="https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · San Francisco, California · Python, TypeScript, JavaScript, React, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:ontic:c4f5bf21-d5a9-488c-9638-631bd58de471</id>
+    <title>Ontic: Associate DevOps Engineer</title>
+    <link href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States · $100K – $115K • Offers Bonus · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02</id>
+    <title>Ontic: Associate Software Engineer - Full Stack</title>
+    <link href="https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States · $80K – $100K • Offers Bonus · Java, TypeScript, JavaScript, React, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:radiant-industries:1ec29cec-d18f-417d-adc6-31adda87c687</id>
+    <title>Radiant: 2027 New Graduate - Software Engineer</title>
+    <link href="https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · El Segundo, CA · $105K – $130K • Offers Equity · Python, C++, C#, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc</id>
+    <title>Replit: Software Engineer - New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Foster City, CA · $140K – $180K • Offers Equity • Offers Bonus • Performance Based Bonus · Python, Rust, TypeScript, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00</id>
+    <title>Sierra: Software Engineer, Agent (New Grad 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco, CA · $150K – $180K • Offers Equity · TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:siftstack:0d65481e-e762-4d8f-ae38-5040754a5134</id>
+    <title>SIFT: Software Engineer – New College Graduate 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Marina Del Rey, CA · $125K – $145K • Offers Equity • Offers Benefits · Rust, TypeScript, React, AWS, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:solace:77ca492c-4142-4931-beeb-e85d9d0ac443</id>
+    <title>Solace Health: Associate Data Scientist (College Grad 2027)</title>
+    <link href="https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Redwood City, CA · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd</id>
+    <title>Solace Health: Associate Platform Engineer (College Grad 2027)</title>
+    <link href="https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Redwood City, CA · PyTorch, AWS, GCP, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f</id>
+    <title>Solace Health: Associate Software Engineer (College Grad 2027)</title>
+    <link href="https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Redwood City, CA · Python, Java, TypeScript, JavaScript, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:valon:e08ad09a-4408-4210-8c1b-da6510f83324</id>
+    <title>Valon: Software Engineer New Grad</title>
+    <link href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · $135K – $160K • Offers Equity · Python, React, GCP, Kubernetes, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:webai:5aa2fb29-be71-4135-928c-e7690611b380</id>
+    <title>WebAI: Jr DevOps Engineer</title>
+    <link href="https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX · $90K – $130K · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:breezy:jnd-inc:87fd346a82c7</id>
+    <title>JND: [Entry Level] Software Tester (2608-2)</title>
+    <link href="https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plano, TX · $28 – $32 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:accenturefederalservices:4710190006</id>
+    <title>Accenture: Associate Software Engineer-Hire-to-Train Program (Pega) 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Washington, DC · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:aechelontechnology:5407414008</id>
+    <title>Aechelon Technology: Associate Platform Engineer</title>
+    <link href="https://job-boards.greenhouse.io/aechelontechnology/jobs/5407414008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · South San Francisco, California · $120k–$140k/yr · Python, Bash, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:alarmcom:8622530002</id>
+    <title>Alarm.com: Embedded Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Tysons, Virginia · C++, Linux, Git · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:4802146007</id>
+    <title>Anduril: 2026 Early Career Software Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5162263007</id>
+    <title>Anduril: 2027 Early Career Software Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5228868007</id>
+    <title>Anduril: 2027 Early Career Flight Software Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Costa Mesa, California, United States · Python, MATLAB, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5239596007</id>
+    <title>Anduril: Firmware Engineer, Space Emerging Talent</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Hardware · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5246141007</id>
+    <title>Anduril: 2027 Early Career Firmware Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:awetomaton:5416716008</id>
+    <title>Awetomaton: Junior Software Engineer (Full Stack)</title>
+    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5416716008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Beavercreek, OH · Python, TypeScript, JavaScript, React, Node.js · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:axon:7908209003</id>
+    <title>Axon: Software QA Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/axon/jobs/7908209003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Seattle, Washington, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426460008</id>
+    <title>Captivation: Software Engineer 1/2/3 (Hybrid) - JavaScript/React/Angular/Java/Linux 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426460008"/>
+    <updated>2026-09-28T08:06:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD - Hybrid · Java, JavaScript, React, Angular, Vue · sponsorship: citizens-only · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426537008</id>
+    <title>Captivation: Software Engineer 1 - Python/Kotlin/Java/Terraform/Elasticsearch/Opensearch/AWS 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426537008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Python, Java, Kotlin, AWS, Terraform · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426539008</id>
+    <title>Captivation: Software Engineer 1 - Python/PySpark/AWS 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426539008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Python, AWS, Spark · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426544008</id>
+    <title>Captivation: Software Engineer 1 - Java/Confluence/Jira/AWS/Maven/MapReduce 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426544008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Java, AWS, Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426713008</id>
+    <title>Captivation: Software Engineer 1/2 -  PostgreSQL/CI/CD/SpringBoot/Angular/MongoDB/Oracle/Docker/Kubernetes/JSON/XML/Jira 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426713008"/>
+    <updated>2026-09-28T08:06:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Angular, Kubernetes, Docker, PostgreSQL, Java · sponsorship: citizens-only · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5426714008</id>
+    <title>Captivation: Software Engineer 1/2 -  PostgreSQL/Java/Angular/Docker/Kubernetes/CI/CD 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426714008"/>
+    <updated>2026-09-28T08:06:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Java, Angular, Kubernetes, Docker, PostgreSQL · sponsorship: citizens-only · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:ctccampusboard:4708724005</id>
+    <title>Chicago Trading Company: Quant Trading Associate - 2027 Start</title>
+    <link href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886212003</id>
+    <title>Dark Wolf Solutions: Junior Data Engineer 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chantilly/Herndon, VA · Python, SQL, Bash, Pandas, AWS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886257003</id>
+    <title>Dark Wolf Solutions: Junior DevSecOps Engineer 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886257003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chantilly/Herndon, VA · Python, C++, Bash, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:doordashusa:8163709</id>
+    <title>DoorDash: Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA · Python, Java, SQL, Kotlin · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:dvtrading:4719126005</id>
+    <title>DV Trading: 2027 Graduate Software Engineer (DV Commodities)</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:eulerity:4709039006</id>
+    <title>Eulerity: Associate Backend Engineer</title>
+    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709039006"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York · Java, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:eulerity:4716146006</id>
+    <title>Eulerity: Associate Web Development Software Engineer (SDK)</title>
+    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4716146006"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York · Java, TypeScript, JavaScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:everlaw:4705236006</id>
+    <title>Everlaw: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Oakland, California, United States · $140k/yr · Python, Java, C++, JavaScript, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:flowtraders:8156203</id>
+    <title>Flow Traders: PhD Graduate Quantitative Researcher</title>
+    <link href="https://job-boards.greenhouse.io/flowtraders/jobs/8156203"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · New York · $175k/yr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freedomconsulting:5219731007</id>
+    <title>Freedom Technology Solutions Group: Junior DevOps System Administrator 758</title>
+    <link href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5219731007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · $120k–$160k/yr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freedomconsulting:5221705007</id>
+    <title>Freedom Technology Solutions Group: Junior Software Engineer 760</title>
+    <link href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · $130k–$150k/yr · TypeScript, JavaScript, Node.js, Express, Angular</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freeformfuturecorp:7826634003</id>
+    <title>Freeform: Software Engineer (New Grad December 2026)</title>
+    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Los Angeles, CA (On-site) · C++, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freeformfuturecorp:7895902003</id>
+    <title>Freeform: Software Engineer (New Grad Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Los Angeles, CA (On-site) · C++, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:garnerhealth:6174210004</id>
+    <title>Garner Health: Associate Software Engineer 🛂</title>
+    <link href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York City, New York · Python, TypeScript, JavaScript, React, Node.js · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:graphcore:8841995002</id>
+    <title>Graphcore: Graduate Firmware Engineer</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841995002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Hardware · Austin, Texas, United States · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:grvty:4394819009</id>
+    <title>GRVTY: Software Engineer 1</title>
+    <link href="https://job-boards.greenhouse.io/grvty/jobs/4394819009"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fort Meade, Maryland, United States · Python, Java, Scala, Spark</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:grvty:4401839009</id>
+    <title>GRVTY: Junior Software Engineer 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/grvty/jobs/4401839009"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Aurora, Colorado, United States; Sterling, Virginia, United States · Python, Bash, Flask, Kubernetes, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:idmeuniversityrecruiting:7980382003</id>
+    <title>ID.me: Summer 2027- Software Development Engineer - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Mountain View, CA · $130k–$150k/yr · Python, Java, JavaScript, Ruby, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:idmeuniversityrecruiting:7986505003</id>
+    <title>ID.me: Summer 2027 - Data Scientist (New Grad)</title>
+    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Mountain View, CA · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:katalyst:6176710004</id>
+    <title>Katalyst Space Technologies: Recent Graduate - Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/katalyst/jobs/6176710004"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Broomfield, Colorado, United States · $80k–$105k/yr · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:klaviyocampus:7989324003</id>
+    <title>Klaviyo: Software Engineer I 🛂</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:klaviyocampus:8003259003</id>
+    <title>Klaviyo: AI Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Boston, MA · Python, LLMs, Django · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:lilasciences:4031379009</id>
+    <title>Lila Sciences: AI Residency Program, Material Science (2026 Cohort)</title>
+    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4031379009"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · Cambridge, MA USA · Python, PyTorch, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:map:8816124002</id>
+    <title>VML: Associate Data Engineer</title>
+    <link href="https://job-boards.greenhouse.io/map/jobs/8816124002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States · Python, SQL, Scala, AWS, GCP · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:metron:5211456007</id>
+    <title>Metron: Associate Software Engineer 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/metron/jobs/5211456007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Reston, VA · Python, Java, C++, TypeScript, React · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:momentumcompany3:8614696002</id>
+    <title>Momentum: 2027 Launch Graduate Program: Associate Cybersecurity Analyst</title>
+    <link href="https://job-boards.greenhouse.io/momentumcompany3/jobs/8614696002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Dallas, Texas · Python, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:mthreerecruitingportal:4713126006</id>
+    <title>mthree: Junior Software Engineer 🛂</title>
+    <link href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA · Java, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:okta:8191506</id>
+    <title>Okta: Developer Support Associate (New Grad)</title>
+    <link href="https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Chicago, Illinois · JavaScript · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:oldmissioncapital:7796031003</id>
+    <title>Old Mission Capital: Quantitative Trader – 2027 Graduate Program (February Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7796031003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:oldmissioncapital:7796044003</id>
+    <title>Old Mission Capital: Quantitative Trader – 2027 Graduate Program (August Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7796044003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:oldmissioncapital:7796048003</id>
+    <title>Old Mission Capital: Software Engineer – 2027 Graduate Program (August Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Chicago, IL, United States · Python, C++, JavaScript, SQL, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:oldmissioncapital:7814534003</id>
+    <title>Old Mission Capital: Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7814534003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:parallel:5247800007</id>
+    <title>Parallel Systems: Full Stack Software Engineer I</title>
+    <link href="https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, CA · Python, Rust, TypeScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:precisionaq:6128944004</id>
+    <title>Precision AQ: Associate Research Scientist, Real World Evidence</title>
+    <link href="https://job-boards.greenhouse.io/precisionaq/jobs/6128944004"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, United States · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:purestorage:8211954</id>
+    <title>Pure Storage: Associate Security Engineer</title>
+    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8211954"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Santa Clara, California · Python, AWS, GCP, Azure, Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:purestorage:8211966</id>
+    <title>Pure Storage: Associate Security Engineer</title>
+    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8211966"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Lehi, Utah · Python, AWS, GCP, Azure, Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:relativity:8834005002</id>
+    <title>Relativity Space: Full Stack Software Engineer I</title>
+    <link href="https://boards.greenhouse.io/relativity/jobs/8834005002?gh_jid=8834005002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Long Beach, California, United States · React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:roblox:8072244</id>
+    <title>Roblox: [2027] Software Engineer, Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8072244?gh_jid=8072244"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:rocketlab:7992129003</id>
+    <title>Rocket Lab: Flight Software Engineer I 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Littleton, CO · C++, Rust, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:roku:8188714</id>
+    <title>Roku: Software Engineer, Early Careers focused on AI and UI 🛂</title>
+    <link href="https://www.weareroku.com/jobs/8188714?gh_jid=8188714"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · sponsorship: no-sponsorship · H-1B track record: ~283 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:scaleai:4730836005</id>
+    <title>Scale AI: Software Engineer - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730836005"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco, CA · Python, TypeScript, LLMs, React, MongoDB · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:scaleai:4736426005</id>
+    <title>Scale AI: Software Engineer, Public Sector - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4736426005"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco, CA · Python, TypeScript, LLMs, React, AWS · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:selffinancial:6181750004</id>
+    <title>Self Financial: Associate Software Engineer (UI) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/selffinancial/jobs/6181750004"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX · $90k–$130k/yr · TypeScript, JavaScript, React, HTML/CSS, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:singlestore:8205389</id>
+    <title>SingleStore: Software Engineer-Helios-New Grad 2027</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8205389"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States · TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:singlestore:8205427</id>
+    <title>SingleStore: Software Engineer-Engine-New Grad 2027</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8205427"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States · C++, SQL, LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:singlestore:8220863</id>
+    <title>SingleStore: MIT-Software Engineer-New Grad |Engine|</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220863"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · C++, SQL, LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:singlestore:8220882</id>
+    <title>SingleStore: MIT-Software Engineer-New Grad |Helios|</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220882"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8696058002</id>
+    <title>SpaceX: New Graduate Engineer, Software - '26/'27 (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Redmond, WA · Python, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8696080002</id>
+    <title>SpaceX: New Graduate Engineer, Software - '26/'27 (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Palo Alto, CA · Python, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8696097002</id>
+    <title>SpaceX: New Graduate Engineer, Software  - '26/'27  (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Bastrop, TX · Python, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8724316002</id>
+    <title>SpaceX: New Graduate Engineer, Software Security - '26/'27 (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Hawthorne, CA · Python, C++, Go</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8730567002</id>
+    <title>SpaceX: New Graduate Engineer, Software (Application Software)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Hawthorne, CA · Python, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8743362002</id>
+    <title>SpaceX: New Graduate Engineer, Software (Starship)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Hawthorne, CA · $150k/yr · C++, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8802897002</id>
+    <title>SpaceX: New Graduate Engineer, Security Software (Starshield)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Washington, DC · $20k/yr · Python, C++, Go</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:stripe:8212508</id>
+    <title>Stripe: Software Engineer, Early Career — Immediate Start</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8212508"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · San Francisco, Seattle, New York · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:tebra:4726985005</id>
+    <title>Tebra: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/tebra/jobs/4726985005"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States - Remote · Python, Java, LLMs, Django, Flask</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:teletrackingtechnologiesinc:5397299008</id>
+    <title>TeleTracking: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Pittsburgh, PA · Java, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:torcrobotics:8649372002</id>
+    <title>Torc Robotics: Software Engineer, I - Data Engineering</title>
+    <link href="https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI, Blacksburg, VA · Python, JavaScript, Bash, Pandas, React · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:torcrobotics:8728723002</id>
+    <title>Torc Robotics: ML Engineer, I - MLOps Framework</title>
+    <link href="https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - US · Python, PyTorch, Pandas, Terraform · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:toshibaglobalcommercesolutions:5247010007</id>
+    <title>Toshiba Global Commerce: Associate Software Engineer 🛂</title>
+    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Durham, NC · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trueanomalyinc:5218935007</id>
+    <title>True Anomaly: DevOps Engineer I (New Grad) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Denver, CO or Long Beach, CA. · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trueanomalyinc:5221555007</id>
+    <title>True Anomaly: Software Engineer I, Spacecraft Simulation (New Grad) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"/>
+    <updated>2026-09-28T08:05:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Denver, CO or Long Beach, CA · Python, C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+</feed>
