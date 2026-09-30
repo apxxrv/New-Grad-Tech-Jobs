@@ -409,9 +409,10 @@
     "Class of 2027": {
      "first_posted": "2026-09-24",
      "role_ids": [
+      "workday:mastercard:/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
       "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -774,5 +775,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T15:05:24Z"
+ "updated_at": "2026-09-30T20:09:32Z"
 }

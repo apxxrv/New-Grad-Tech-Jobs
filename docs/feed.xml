@@ -5,23 +5,103 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-09-30T15:05:24Z</updated>
+  <updated>2026-09-30T20:09:32Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:amazon:amazon:10530257</id>
-    <title>Amazon: Software Development Engineer, Early Career</title>
-    <link href="https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <id>urn:grad-engine:workable:ace-it-careers-1:8E52B2BF7A</id>
+    <title>Ace It Careers 1: Entry-Level Software QA Analyst</title>
+    <link href="https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"/>
+    <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Pittsburgh, Pennsylvania, United States; Salt Lake City, Utah, United States (Remote) · SQL</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:amazon:amazon:10529546</id>
-    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 🇺🇸</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+    <id>urn:grad-engine:ashby:bagsfm:012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4</id>
+    <title>Bagsfm: Junior Full Stack Engineer</title>
+    <link href="https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · TypeScript, React, Next.js, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:deltasands:78ed860f-7c69-4888-9a05-e8c9006be291</id>
+    <title>Deltasands: Junior Software Engineer</title>
+    <link href="https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:runlaminar:1112d528-3de4-4be2-b889-faa7f80381b6</id>
+    <title>Laminar: Junior Software Engineer, Edge Platform</title>
+    <link href="https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Somerville, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:miter:f4567649-a0eb-445d-bd00-a0673a26ec6d</id>
+    <title>Miter: Software Engineer (New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · $140K – $165K • Offers Equity · TypeScript, React, MongoDB</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:axon:8003133003</id>
+    <title>Axon: AI Research Scientist I</title>
+    <link href="https://job-boards.greenhouse.io/axon/jobs/8003133003"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, United States · Python, C++, PyTorch, TensorFlow, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:evolutioniq:6210230004</id>
+    <title>EvolutionIQ: Associate Data Engineer (Python / AI Insurance SaaS)</title>
+    <link href="https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, SQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529</id>
+    <title>General Motors: Software Engineer, AV Data Collection - Early Career</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, Linux, Git · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:giftogram:4392576009</id>
+    <title>Giftogram: Junior Full Stack Developer</title>
+    <link href="https://job-boards.greenhouse.io/giftogram/jobs/4392576009"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · 200 Jefferson Park, Whippany NJ 07981 · $65k–$80k/yr · JavaScript, SQL, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:imc:4796143101</id>
+    <title>IMC Trading: Software Engineer, Early Career</title>
+    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, United States · Java, C++ · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mastercard:/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985</id>
+    <title>Mastercard: Data Engineer I, Launch Program 2027 – Arlington, VA, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Arlington, Virginia · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:varsitybrands:/job/TN---Memphis/Software-Engineer-I--Net-_JR114518</id>
+    <title>Varsitybrands: Software Engineer I (.Net)</title>
+    <link href="https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · TN - Memphis · SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:amazon:amazon:10513110</id>
@@ -32,12 +112,20 @@
     <summary>Class of 2026 · Software · Redmond, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workable:saalex:758C0628C9</id>
-    <title>Saalex: Junior Systems Developer &amp; Data Analyst 🇺🇸</title>
-    <link href="https://apply.workable.com/saalex/j/758C0628C9/"/>
+    <id>urn:grad-engine:amazon:amazon:10529546</id>
+    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 🇺🇸</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:amazon:amazon:10530257</id>
+    <title>Amazon: Software Development Engineer, Early Career</title>
+    <link href="https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career"/>
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ridgecrest, California, United States (Remote) · TypeScript, JavaScript, React, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Cambridge, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:andurilindustries:5236290007</id>
@@ -48,44 +136,12 @@
     <summary>Class of 2026 · Software · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision, Kubernetes</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573</id>
-    <title>Bristol Myers Squibb: Data Engineer I - Transparency Data Operations</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, AWS, Git, Spark · H-1B track record: ~226 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1</id>
-    <title>Bristol Myers Squibb: Process Data Engineer I - Pharmaceutical Product Development</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:clearwayjobs:5238286007</id>
     <title>Clearway Energy: ESM Developer I 🛂</title>
     <link href="https://job-boards.greenhouse.io/clearwayjobs/jobs/5238286007"/>
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942</id>
-    <title>GlobalFoundries: AI/ML Analytics Engineer (2027 New College Graduate)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · USA - New York - Malta · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437</id>
-    <title>Northrop Grumman: 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · United States-Colorado-Aurora · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:nuro:8227399</id>
@@ -104,14 +160,6 @@
     <summary>Not stated · Data &amp; ML/AI · Remote - US · SQL, Linux · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:schonfeld:8236826</id>
     <title>Schonfeld: Entry Level Quantitative Researcher</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8236826"/>
@@ -126,6 +174,54 @@
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Hawthorne, CA · C++, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:saalex:758C0628C9</id>
+    <title>Saalex: Junior Systems Developer &amp; Data Analyst 🇺🇸</title>
+    <link href="https://apply.workable.com/saalex/j/758C0628C9/"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ridgecrest, California, United States (Remote) · TypeScript, JavaScript, React, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573</id>
+    <title>Bristol Myers Squibb: Data Engineer I - Transparency Data Operations</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, AWS, Git, Spark · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1</id>
+    <title>Bristol Myers Squibb: Process Data Engineer I - Pharmaceutical Product Development</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942</id>
+    <title>GlobalFoundries: AI/ML Analytics Engineer (2027 New College Graduate)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · USA - New York - Malta · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437</id>
+    <title>Northrop Grumman: 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · United States-Colorado-Aurora · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1</id>
@@ -315,9 +411,17 @@
     <id>urn:grad-engine:greenhouse:accenturefederalservices:4710190006</id>
     <title>Accenture: Associate Software Engineer-Hire-to-Train Program (Pega) 🇺🇸</title>
     <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"/>
+    <updated>2026-09-30T20:09:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Washington, DC · sponsorship: citizens-only · status: closed · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:accenturefederalservices:4711147006</id>
+    <title>Accenture: Associate Software Engineer-Hire-to-Train Program (Pega) 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006"/>
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Washington, DC · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Washington, DC · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:aechelontechnology:5407414008</id>
@@ -379,9 +483,9 @@
     <id>urn:grad-engine:greenhouse:awetomaton:5416716008</id>
     <title>Awetomaton: Junior Software Engineer (Full Stack)</title>
     <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5416716008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Beavercreek, OH · Python, TypeScript, JavaScript, React, Node.js · sponsorship: offers</summary>
+    <summary>Not stated · Software · Beavercreek, OH · Python, TypeScript, JavaScript, React, Node.js · sponsorship: offers · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:axon:7908209003</id>
@@ -659,9 +763,9 @@
     <id>urn:grad-engine:greenhouse:okta:8191506</id>
     <title>Okta: Developer Support Associate (New Grad)</title>
     <link href="https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-09-30T20:09:32Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Chicago, Illinois · JavaScript · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+    <summary>Class of 2026 · Software · Chicago, Illinois · JavaScript · status: closed · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:oldmissioncapital:7796031003</id>
@@ -702,109 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Los Angeles, CA · Python, Rust, TypeScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:precisionaq:6128944004</id>
-    <title>Precision AQ: Associate Research Scientist, Real World Evidence</title>
-    <link href="https://job-boards.greenhouse.io/precisionaq/jobs/6128944004"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote, United States · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:purestorage:8211954</id>
-    <title>Pure Storage: Associate Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8211954"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Santa Clara, California · Python, AWS, GCP, Azure, Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:purestorage:8211966</id>
-    <title>Pure Storage: Associate Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8211966"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Lehi, Utah · Python, AWS, GCP, Azure, Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:relativity:8834005002</id>
-    <title>Relativity Space: Full Stack Software Engineer I</title>
-    <link href="https://boards.greenhouse.io/relativity/jobs/8834005002?gh_jid=8834005002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Long Beach, California, United States · React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:roblox:8072244</id>
-    <title>Roblox: [2027] Software Engineer, Early Career</title>
-    <link href="https://careers.roblox.com/jobs/8072244?gh_jid=8072244"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:rocketlab:7992129003</id>
-    <title>Rocket Lab: Flight Software Engineer I 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Littleton, CO · C++, Rust, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:roku:8188714</id>
-    <title>Roku: Software Engineer, Early Careers focused on AI and UI 🛂</title>
-    <link href="https://www.weareroku.com/jobs/8188714?gh_jid=8188714"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, California · sponsorship: no-sponsorship · H-1B track record: ~283 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:scaleai:4730836005</id>
-    <title>Scale AI: Software Engineer - New Grad</title>
-    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730836005"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco, CA · Python, TypeScript, LLMs, React, MongoDB · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:scaleai:4736426005</id>
-    <title>Scale AI: Software Engineer, Public Sector - New Grad</title>
-    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4736426005"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco, CA · Python, TypeScript, LLMs, React, AWS · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:selffinancial:6181750004</id>
-    <title>Self Financial: Associate Software Engineer (UI) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/selffinancial/jobs/6181750004"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX · $90k–$130k/yr · TypeScript, JavaScript, React, HTML/CSS, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:singlestore:8205389</id>
-    <title>SingleStore: Software Engineer-Helios-New Grad 2027</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8205389"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States · TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:singlestore:8205427</id>
-    <title>SingleStore: Software Engineer-Engine-New Grad 2027</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8205427"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States · C++, SQL, LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:singlestore:8220863</id>
-    <title>SingleStore: MIT-Software Engineer-New Grad |Engine|</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220863"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · C++, SQL, LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
