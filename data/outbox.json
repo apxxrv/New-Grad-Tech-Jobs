@@ -1,6 +1,42 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10530257",
+      "amazon:amazon:10529546",
+      "amazon:amazon:10513110",
+      "workable:saalex:758C0628C9",
+      "greenhouse:andurilindustries:5236290007",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
+      "greenhouse:clearwayjobs:5238286007",
+      "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
+      "greenhouse:nuro:8227399",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "greenhouse:renaissancelearning-nam:5434355008",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
+      "greenhouse:schonfeld:8236826",
+      "greenhouse:spacex:8854394002",
+      "workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1"
+    ],
+    "telegram": [
+      "amazon:amazon:10530257",
+      "amazon:amazon:10529546",
+      "amazon:amazon:10513110",
+      "workable:saalex:758C0628C9",
+      "greenhouse:andurilindustries:5236290007",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
+      "greenhouse:clearwayjobs:5238286007",
+      "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
+      "greenhouse:nuro:8227399",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "greenhouse:renaissancelearning-nam:5434355008",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
+      "greenhouse:schonfeld:8236826",
+      "greenhouse:spacex:8854394002",
+      "workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1"
+    ]
   }
 }

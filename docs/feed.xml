@@ -5,8 +5,136 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-09-28T08:15:44Z</updated>
+  <updated>2026-09-30T15:05:24Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:amazon:amazon:10530257</id>
+    <title>Amazon: Software Development Engineer, Early Career</title>
+    <link href="https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cambridge, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:amazon:amazon:10529546</id>
+    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 🇺🇸</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:amazon:amazon:10513110</id>
+    <title>Amazon: Software Development Engineer, Amazon Leo, Early Career - 2026 🇺🇸</title>
+    <link href="https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Redmond, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:saalex:758C0628C9</id>
+    <title>Saalex: Junior Systems Developer &amp; Data Analyst 🇺🇸</title>
+    <link href="https://apply.workable.com/saalex/j/758C0628C9/"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ridgecrest, California, United States (Remote) · TypeScript, JavaScript, React, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5236290007</id>
+    <title>Anduril: Space Orbital Software Engineer, Emerging Talent</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236290007?gh_jid=5236290007"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573</id>
+    <title>Bristol Myers Squibb: Data Engineer I - Transparency Data Operations</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, AWS, Git, Spark · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1</id>
+    <title>Bristol Myers Squibb: Process Data Engineer I - Pharmaceutical Product Development</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:clearwayjobs:5238286007</id>
+    <title>Clearway Energy: ESM Developer I 🛂</title>
+    <link href="https://job-boards.greenhouse.io/clearwayjobs/jobs/5238286007"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942</id>
+    <title>GlobalFoundries: AI/ML Analytics Engineer (2027 New College Graduate)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · USA - New York - Malta · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437</id>
+    <title>Northrop Grumman: 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · United States-Colorado-Aurora · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:nuro:8227399</id>
+    <title>Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad</title>
+    <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:renaissancelearning-nam:5434355008</id>
+    <title>Renaissance: Data Analyst I 🛂</title>
+    <link href="https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5434355008"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - US · SQL, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:schonfeld:8236826</id>
+    <title>Schonfeld: Entry Level Quantitative Researcher</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8236826"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · New York, New York, United States · Python, C++, Rust, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8854394002</id>
+    <title>SpaceX: New Graduate Engineer, Software (Starfall)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Hawthorne, CA · C++, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1</id>
+    <title>Truist Bank: Data Scientist I</title>
+    <link href="https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1"/>
+    <updated>2026-09-30T15:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Charlotte NC - Telecommuter · Python, SQL, Hadoop · H-1B track record: ~377 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934</id>
     <title>DXC Technology: Analyst I Software Engineering</title>
@@ -678,133 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States · C++, SQL, LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:singlestore:8220882</id>
-    <title>SingleStore: MIT-Software Engineer-New Grad |Helios|</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220882"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8696058002</id>
-    <title>SpaceX: New Graduate Engineer, Software - '26/'27 (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Redmond, WA · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8696080002</id>
-    <title>SpaceX: New Graduate Engineer, Software - '26/'27 (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Palo Alto, CA · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8696097002</id>
-    <title>SpaceX: New Graduate Engineer, Software  - '26/'27  (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Bastrop, TX · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8724316002</id>
-    <title>SpaceX: New Graduate Engineer, Software Security - '26/'27 (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Hawthorne, CA · Python, C++, Go</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8730567002</id>
-    <title>SpaceX: New Graduate Engineer, Software (Application Software)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Hawthorne, CA · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8743362002</id>
-    <title>SpaceX: New Graduate Engineer, Software (Starship)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Hawthorne, CA · $150k/yr · C++, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8802897002</id>
-    <title>SpaceX: New Graduate Engineer, Security Software (Starshield)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Washington, DC · $20k/yr · Python, C++, Go</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:stripe:8212508</id>
-    <title>Stripe: Software Engineer, Early Career — Immediate Start</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8212508"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · San Francisco, Seattle, New York · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:tebra:4726985005</id>
-    <title>Tebra: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/tebra/jobs/4726985005"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States - Remote · Python, Java, LLMs, Django, Flask</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:teletrackingtechnologiesinc:5397299008</id>
-    <title>TeleTracking: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Pittsburgh, PA · Java, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:torcrobotics:8649372002</id>
-    <title>Torc Robotics: Software Engineer, I - Data Engineering</title>
-    <link href="https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI, Blacksburg, VA · Python, JavaScript, Bash, Pandas, React · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:torcrobotics:8728723002</id>
-    <title>Torc Robotics: ML Engineer, I - MLOps Framework</title>
-    <link href="https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - US · Python, PyTorch, Pandas, Terraform · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:toshibaglobalcommercesolutions:5247010007</id>
-    <title>Toshiba Global Commerce: Associate Software Engineer 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Durham, NC · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trueanomalyinc:5218935007</id>
-    <title>True Anomaly: DevOps Engineer I (New Grad) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Denver, CO or Long Beach, CA. · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trueanomalyinc:5221555007</id>
-    <title>True Anomaly: Software Engineer I, Spacecraft Simulation (New Grad) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Denver, CO or Long Beach, CA · Python, C++, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>
