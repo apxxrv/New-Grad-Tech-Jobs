@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 243 open roles (211 listed below) · 243 new this week
+### 241 open roles (209 listed below) · 241 new this week
 
-4,744 employers tracked · data as of Sep 30, 2026 at 23:52 UTC
+4,744 employers tracked · data as of Oct 01, 2026 at 05:48 UTC
 
-_111 have a class year the employer stated · 132 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_111 have a class year the employer stated · 130 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -187,12 +187,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lila Sciences | AI Residency Program, Material Science (2026 Cohort) | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4031379009) | Cambridge, MA USA | Python, PyTorch, LLMs | Oct 06, 2025 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (119 roles)
+## Recently posted — class year not stated  (118 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Eulerity | Associate Backend Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4718113006) | New York, New York | Java, LLMs, Git | Sep 30, 2026 |
 | Axon | AI Research Scientist I 🆕 | [Apply](https://job-boards.greenhouse.io/axon/jobs/8003133003) | Washington, United States | Python, C++, PyTorch, TensorFlow | Sep 30, 2026 |
 | IMC Trading ✓ | Software Engineer, Early Career 🆕 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | Chicago, United States | Java, C++ | Sep 30, 2026 |
 | General Motors ✓ | Software Engineer, AV Data Collection - Early Career 🆕 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) | Sunnyvale +2 more | Python, C++, SQL, Linux | Sep 30, 2026 |
@@ -260,7 +261,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Mimecast | Software Engineer I | [Apply](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1) | United States of America– Minnesota – M… | C++, Rust, Swift, Linux | Sep 14, 2026 |
 | Philips | Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083) | Nashville, Tennessee, United States | Python, PyTorch, TensorFlow, LLMs | Sep 14, 2026 |
 | Stanley Black & Decker ✓ | Engineer 1, Software Engineering - Motor Control | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-1--Software-Engineering---Motor-Control_REQ-1000052383) | Towson, MD, United States | No skills listed | Sep 14, 2026 |
-| Autostore | Entry Level Software Engineer | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691) | Atlanta, GA, USA | Python, Java, C#, TypeScript | Sep 13, 2026 |
 | Roku ✓ | Software Engineer, Early Careers focused on AI and UI 🛂 | [Apply](https://www.weareroku.com/jobs/8188714?gh_jid=8188714) | San Jose, California | No skills listed | Sep 11, 2026 |
 | GRVTY | Junior Software Engineer 🇺🇸 | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4401839009) | Aurora +5 more | Python, Bash, Flask, Kubernetes | Sep 10, 2026 |
 | Wyetech | Software Engineer 1 🇺🇸 _(2 openings)_ | [Apply](https://jobs.lever.co/wyetechllc/1fe7707e-a4c1-41ad-a189-893767e8d40e) [#2](https://jobs.lever.co/wyetechllc/b49f02db-cdd4-41f3-9036-50cf9c2ad86f) | Annapolis Junction, Maryland | Python, Java, AWS, Linux | Sep 10, 2026 |
@@ -286,7 +286,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Palantir ✓ | Forward Deployed Infrastruc​ture Engineer, New Grad - US Government | [Apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) | Honolulu, HI | Python, Java, JavaScript, Bash | Aug 31, 2026 |
 | City of Philadelphia ✓ | Junior Cloud Engineer | [Apply](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000146469759) | Philadelph​ia, PA, United States | Python, SQL, AWS | Aug 31, 2026 |
 | Ontic | Associate Software Engineer - Full Stack | [Apply](https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02) | Austin, Texas, United States | Java, TypeScript, JavaScript, React | Aug 27, 2026 |
-| Eulerity | Associate Backend Engineer 🆕 _(2 openings)_ | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4709039006) [#2](https://job-boards.greenhouse.io/eulerity/jobs/4718113006) | New York, New York | Java, LLMs, Git | Aug 27, 2026 |
 | Hatch IT | Junior Data Engineer (DEA) | [Apply](https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97) | Arlington, VA | Python, SQL, AWS, GCP | Aug 27, 2026 |
 | Deltasands | Junior Software Engineer 🆕 | [Apply](https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291) | Colorado Springs, CO | Java, C++, C# | Aug 26, 2026 |
 | JND | [Entry Level] Software Tester (2608-2) | [Apply](https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2) | Plano, TX | No skills listed | Aug 26, 2026 |
@@ -323,7 +322,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this year | Status |
 |---|---|---|---|
-| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~6d | ⏳ waiting |
+| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~5d | ⏳ waiting |
 | 🎯 NVIDIA | Jan 27 | ~Jan 27 | ⏳ waiting |
 | 🎯 Color | Jul 28 | ~Jul 28 | ⏳ waiting |
 | 🎯 Notion | Aug 14 | ~Aug 14 | ⏳ waiting |
@@ -372,7 +371,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,592 of 5,021 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 760.6s · 176 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,603 of 5,021 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 673.1s · 170 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

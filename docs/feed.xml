@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-09-30T23:52:39Z</updated>
+  <updated>2026-10-01T05:48:46Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:eulerity:4718113006</id>
+    <title>Eulerity: Associate Backend Engineer</title>
+    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4718113006"/>
+    <updated>2026-09-30T23:52:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York · Java, LLMs, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:AECOM2:744000152763988</id>
     <title>AECOM: Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA 🇺🇸</title>
@@ -595,9 +603,9 @@
     <id>urn:grad-engine:greenhouse:eulerity:4709039006</id>
     <title>Eulerity: Associate Backend Engineer</title>
     <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709039006"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-01T05:48:46Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · New York, New York · Java, LLMs, Git</summary>
+    <summary>Not stated · Software · New York, New York · Java, LLMs, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:eulerity:4716146006</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Chicago, IL, United States · Python, C++, JavaScript, SQL, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:oldmissioncapital:7814534003</id>
-    <title>Old Mission Capital: Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7814534003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, IL, United States · Python, C++</summary>
   </entry>
 </feed>

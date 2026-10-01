@@ -1,35 +1,11 @@
 {
- "generated_at": "2026-09-30T23:52:39Z",
- "data_as_of": "2026-09-30T23:52:39Z",
- "rendered_at": "2026-09-30T23:52:39Z",
+ "generated_at": "2026-10-01T05:48:46Z",
+ "data_as_of": "2026-10-01T05:48:46Z",
+ "rendered_at": "2026-10-01T05:48:46Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 243,
+ "count": 241,
  "jobs": [
-  {
-   "id": "smartrecruiters:AECOM2:744000152763988",
-   "company": "AECOM",
-   "title": "Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA",
-   "season": "Class of 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Arlington, VA, United States (Hybrid)",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000152763988",
-   "posted_at": "2026-09-30T20:39:04.079Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-30T23:52:39Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Tableau"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Entry Level",
-   "remote": false
-  },
   {
    "id": "greenhouse:eulerity:4718113006",
    "company": "Eulerity",
@@ -53,6 +29,30 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Junior / Associate",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:AECOM2:744000152763988",
+   "company": "AECOM",
+   "title": "Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA",
+   "season": "Class of 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Arlington, VA, United States (Hybrid)",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000152763988",
+   "posted_at": "2026-09-30T20:39:04.079Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-30T23:52:39Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Tableau"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Entry Level",
    "remote": false
   },
   {
@@ -2704,35 +2704,6 @@
    "remote": false
   },
   {
-   "id": "workday:autostore:/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
-   "company": "Autostore",
-   "title": "Entry Level Software Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Atlanta, GA, USA",
-   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
-   "posted_at": "2026-09-13T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "TypeScript",
-    "SQL",
-    "Git",
-    "PostgreSQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Entry Level",
-   "remote": false
-  },
-  {
    "id": "workday:hpe:/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
    "company": "Hewlett Packard Enterprise",
    "title": "AI and Machine Learning Engineering Graduate",
@@ -4549,31 +4520,6 @@
     "GCP"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:eulerity:4709039006",
-   "company": "Eulerity",
-   "title": "Associate Backend Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "New York, New York",
-   "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709039006",
-   "posted_at": "2026-08-27T16:17:43-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "LLMs",
-    "Git"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Junior / Associate",
    "remote": false
