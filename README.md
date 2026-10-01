@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 241 open roles (209 listed below) · 241 new this week
+### 238 open roles (206 listed below) · 238 new this week
 
-4,744 employers tracked · data as of Oct 01, 2026 at 05:48 UTC
+4,744 employers tracked · data as of Oct 01, 2026 at 12:00 UTC
 
-_111 have a class year the employer stated · 130 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_110 have a class year the employer stated · 128 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -159,12 +159,11 @@ If it helps you, a star means a lot and tells me to keep going.
 | Veeva Systems ✓ | Associate Software Engineer - 2027 Start Dates 🛂 | [Apply](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6) | California - Pleasanton | Python, Java, Rust, TypeScript | Aug 20, 2025 |
 | Veeva Systems ✓ | Associate Software Engineer - 2027 Start Dates 🛂 | [Apply](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9) | Ohio - Columbus | Python, Java, Rust, TypeScript | Aug 20, 2025 |
 
-## Class of 2026  (23 employer-stated)
+## Class of 2026  (22 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Northrop Grumman | 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437) | United States-Colorado-Aurora | Python | Sep 30, 2026 |
-| Anduril | Space Orbital Software Engineer, Emerging Talent 🆕 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236290007?gh_jid=5236290007) | Costa Mesa, California, United States | Python, C++, Rust, Computer Vision | Sep 28, 2026 |
 | Voloridge | Quantitative Developer - 2026/2027 Grads _(also open for Class of 2027)_ | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009) | Jupiter, FL | Python, C++ | Sep 24, 2026 |
 | General Motors ✓ | Software Engineer AV HIL Platform and Services (Early Career)) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577) | Sunnyvale +2 more | Python, C++, SQL, Linux | Sep 23, 2026 |
 | NVIDIA ✓ | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | US, CA, Santa Clara | PyTorch, LLMs | Sep 23, 2026 |
@@ -187,7 +186,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lila Sciences | AI Residency Program, Material Science (2026 Cohort) | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4031379009) | Cambridge, MA USA | Python, PyTorch, LLMs | Oct 06, 2025 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (118 roles)
+## Recently posted — class year not stated  (116 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
@@ -221,7 +220,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Parallel Systems | Full Stack Software Engineer I | [Apply](https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007) | Los Angeles, CA | Python, Rust, TypeScript, React | Sep 23, 2026 |
 | Amgen ✓ | Associate AI Engineer, OI&A | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988) | US - California - Thousand Oaks | Python, SQL, LLMs, AWS | Sep 23, 2026 |
 | Analog Devices ✓ | Associate Machine Learning Engineer | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1) | US, MA, Boston | Python | Sep 23, 2026 |
-| Health Research | Research Scientist I | [Apply](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I_JR-0002322) | Albany, NY | No skills listed | Sep 23, 2026 |
 | Relativity Space | Full Stack Software Engineer I | [Apply](https://boards.greenhouse.io/relativity/jobs/8834005002?gh_jid=8834005002) | Long Beach, California, United States | React | Sep 22, 2026 |
 | Datalab USA | Production Programmer - Entry Level SQL Developer 🛂 | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53) | Westminster, CO | SQL | Sep 22, 2026 |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | [Apply](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) | Fairfax, VA | No skills listed | Sep 22, 2026 |
@@ -242,7 +240,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Johnson Controls ✓ | Embedded Software Engineer I - Product Development 🇺🇸 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369) | New Freedom-Pennsylvania-United States… | Python, C++ | Sep 18, 2026 |
 | VML ✓ | Associate Data Engineer | [Apply](https://job-boards.greenhouse.io/map/jobs/8816124002) | Austin, Texas, United States | Python, SQL, Scala, AWS | Sep 17, 2026 |
 | Pure Storage ✓ | Associate Security Engineer | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8211954) | Santa Clara, California | Python, AWS, GCP, Azure | Sep 17, 2026 |
-| Pure Storage ✓ | Associate Security Engineer | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8211966) | Lehi, Utah | Python, AWS, GCP, Azure | Sep 17, 2026 |
 | LabCorp | AI Transforma​tion Assistant – Per Diem – Seeking college students or new grads! | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/AI-Transformation-Associate---Per-Diem---Seeking-college-students-or-new-grads-_2633522-1) | Phoenix AZ | Python, SQL, LLMs, Tableau | Sep 17, 2026 |
 | Micron Technology ✓ | New College Grad - AI Infrastruc​ture & HBM Architecture Engineer | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578) | Richardson, TX | Python, C++, LLMs | Sep 17, 2026 |
 | Crusoe | Software Engineer I, Network | [Apply](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | San Francisco, CA - US | Java, Linux, Git | Sep 16, 2026 |
@@ -344,12 +341,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _51 companies on the [full radar](https://apxxrv.github.io/New-Grad-Tech-Jobs/#radar). **51** dated from our own live observations 🎯 (this grows every year). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 3 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 4 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Class year | Closed | Why |
 |---|---|---|---|---|
+| Anduril | Space Orbital Software Engineer, Emerging Talent | Class of 2026 | 2026-10-01 | gone from feed |
 | Color | Software Engineer, New Grad 2026 | Class of 2026 | 2026-09-30 | out of scope |
 | Anduril | Firmware Engineer, Space Emerging Talent | Class of 2026 | 2026-09-30 | gone from feed |
 | Okta | Developer Support Associate (New Grad) | Class of 2026 | 2026-09-30 | gone from feed |
@@ -371,7 +369,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,603 of 5,021 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 673.1s · 170 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,607 of 5,021 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 786.8s · 174 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
