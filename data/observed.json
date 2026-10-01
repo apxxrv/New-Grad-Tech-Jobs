@@ -149,25 +149,27 @@
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
       "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
       "workday:costar:/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
       "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
       "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
      ],
-     "count": 6
+     "count": 7
     },
     "Class of 2026": {
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
       "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
       "workday:costar:/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
       "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
       "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -802,5 +804,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T18:35:45Z"
+ "updated_at": "2026-10-01T23:06:00Z"
 }

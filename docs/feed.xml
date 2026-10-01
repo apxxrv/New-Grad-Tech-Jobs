@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-01T18:35:45Z</updated>
+  <updated>2026-10-01T23:06:00Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942</id>
+    <title>CoStar Group: Associate Software Engineer - Sunnyvale, CA 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"/>
+    <updated>2026-10-01T23:06:00Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Sunnyvale (US) · $100k–$120k/yr · Python, Java, C#, TypeScript, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:claylabs:16778e12-31cb-4ca1-a321-7f629a7cf273</id>
     <title>Clay: Early Career Software Engineer</title>
@@ -14,6 +22,46 @@
     <updated>2026-10-01T18:35:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pinterest:7838591</id>
+    <title>Pinterest: University Grad Software Engineer 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838591"/>
+    <updated>2026-10-01T18:35:45Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pinterest:8140219</id>
+    <title>Pinterest: Master's University Grad Machine Learning Engineer 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140219"/>
+    <updated>2026-10-01T18:35:45Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pinterest:8140363</id>
+    <title>Pinterest: PhD University Grad Machine Learning Engineer (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140363"/>
+    <updated>2026-10-01T18:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pinterest:8140389</id>
+    <title>Pinterest: Master's University Grad Data Scientist (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140389"/>
+    <updated>2026-10-01T18:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pinterest:8157351</id>
+    <title>Pinterest: PhD University Grad Data Scientist 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8157351"/>
+    <updated>2026-10-01T18:35:45Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:fiscalnote:51a2e18f-1af1-416c-9544-5bede8e9537c</id>
@@ -38,46 +86,6 @@
     <updated>2026-10-01T18:35:45Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · US, OR, Hillsboro · CUDA · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140389</id>
-    <title>Pinterest: Master's University Grad Data Scientist (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140389"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140219</id>
-    <title>Pinterest: Master's University Grad Machine Learning Engineer 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140219"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8157351</id>
-    <title>Pinterest: PhD University Grad Data Scientist 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8157351"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140363</id>
-    <title>Pinterest: PhD University Grad Machine Learning Engineer (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140363"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:7838591</id>
-    <title>Pinterest: University Grad Software Engineer 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838591"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:priceline:/job/New-York/Junior-Software-Engineer_R5847</id>
@@ -251,9 +259,9 @@
     <id>urn:grad-engine:greenhouse:renaissancelearning-nam:5434355008</id>
     <title>Renaissance: Data Analyst I 🛂</title>
     <link href="https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5434355008"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-01T23:06:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - US · SQL, Linux · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Data &amp; ML/AI · Remote - US · SQL, Linux · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:schonfeld:8236826</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Broomfield, Colorado, United States · $80k–$105k/yr · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:klaviyocampus:7989324003</id>
-    <title>Klaviyo: Software Engineer I 🛂</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
