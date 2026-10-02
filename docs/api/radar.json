@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T02:21:45Z",
- "data_as_of": "2026-10-02T02:21:45Z",
- "rendered_at": "2026-10-02T02:21:45Z",
+ "generated_at": "2026-10-02T09:07:33Z",
+ "data_as_of": "2026-10-02T09:07:33Z",
+ "rendered_at": "2026-10-02T09:07:33Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -307,25 +307,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-27"
-   }
-  },
-  {
-   "company": "CapTech Consulting",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-08-31"
    }
   },
   {
@@ -991,6 +972,25 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-09-30"
+   }
+  },
+  {
+   "company": "CapTech Consulting",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-31"
    }
   }
  ],
