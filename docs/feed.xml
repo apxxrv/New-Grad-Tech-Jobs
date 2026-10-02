@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-01T23:06:00Z</updated>
+  <updated>2026-10-02T02:21:45Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993</id>
+    <title>Barry-Wehmiller: Entry Level Software Engineer - RDU-3</title>
+    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993"/>
+    <updated>2026-10-02T02:21:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Raleigh, NC</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942</id>
     <title>CoStar Group: Associate Software Engineer - Sunnyvale, CA 🛂</title>
@@ -217,8 +225,8 @@
   </entry>
   <entry>
     <id>urn:grad-engine:amazon:amazon:10529546</id>
-    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 🇺🇸</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"/>
+    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) 🇺🇸</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"/>
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
@@ -299,9 +307,9 @@
     <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1</id>
     <title>Bristol Myers Squibb: Process Data Engineer I - Pharmaceutical Product Development</title>
     <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-02T02:21:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · status: closed · H-1B track record: ~226 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942</id>
@@ -331,9 +339,9 @@
     <id>urn:grad-engine:workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1</id>
     <title>Truist Bank: Data Scientist I</title>
     <link href="https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-02T02:21:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Charlotte NC - Telecommuter · Python, SQL, Hadoop · H-1B track record: ~377 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Charlotte NC - Telecommuter · Python, SQL, Hadoop · status: closed · H-1B track record: ~377 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934</id>
@@ -531,9 +539,9 @@
     <id>urn:grad-engine:greenhouse:aechelontechnology:5407414008</id>
     <title>Aechelon Technology: Associate Platform Engineer</title>
     <link href="https://job-boards.greenhouse.io/aechelontechnology/jobs/5407414008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-02T02:21:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · South San Francisco, California · $120k–$140k/yr · Python, Bash, Git</summary>
+    <summary>Not stated · Software · South San Francisco, California · $120k–$140k/yr · Python, Bash, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:alarmcom:8622530002</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Mountain View, CA · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:katalyst:6176710004</id>
-    <title>Katalyst Space Technologies: Recent Graduate - Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/katalyst/jobs/6176710004"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Broomfield, Colorado, United States · $80k–$105k/yr · Python, C++, Linux</summary>
   </entry>
 </feed>
