@@ -335,6 +335,18 @@
     }
    }
   },
+  "harvey": {
+   "name": "Harvey",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hudson river trading": {
    "name": "Hudson River Trading",
    "cycles": {
@@ -804,5 +816,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T15:55:20Z"
+ "updated_at": "2026-10-02T20:52:39Z"
 }

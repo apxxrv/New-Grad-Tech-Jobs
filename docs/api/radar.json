@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T15:55:20Z",
- "data_as_of": "2026-10-02T15:55:20Z",
- "rendered_at": "2026-10-02T15:55:20Z",
+ "generated_at": "2026-10-02T20:52:39Z",
+ "data_as_of": "2026-10-02T20:52:39Z",
+ "rendered_at": "2026-10-02T20:52:40Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -785,6 +785,25 @@
    }
   },
   {
+   "company": "Harvey",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-02"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -994,5 +1013,5 @@
    }
   }
  ],
- "count": 52
+ "count": 53
 }

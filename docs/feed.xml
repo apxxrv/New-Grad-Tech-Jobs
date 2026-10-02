@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-02T15:55:20Z</updated>
+  <updated>2026-10-02T20:52:39Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc</id>
+    <title>Harvey: Software Engineer, New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"/>
+    <updated>2026-10-02T20:52:39Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York · $165K – $181.5K • Offers Equity • Offers Bonus · Python, Java, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050</id>
+    <title>CACI: Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050"/>
+    <updated>2026-10-02T20:52:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Houston, TX, US · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1</id>
+    <title>Calistacorp: Cybersecurity Analyst I</title>
+    <link href="https://calistacorp.wd1.myworkdayjobs.com/yulista/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1"/>
+    <updated>2026-10-02T20:52:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Huntsville, AL</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589</id>
     <title>Pima County: Data Engineer I - Information Technology 🛂</title>
@@ -107,9 +131,9 @@
     <id>urn:grad-engine:workday:priceline:/job/New-York/Junior-Software-Engineer_R5847</id>
     <title>Priceline: Junior Software Engineer</title>
     <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5847"/>
-    <updated>2026-10-01T18:35:45Z</updated>
+    <updated>2026-10-02T20:52:39Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Java, TypeScript, JavaScript, SQL, LLMs</summary>
+    <summary>Not stated · Software · New York · Java, TypeScript, JavaScript, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:eulerity:4718113006</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Hardware · Austin, Texas, United States · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:grvty:4394819009</id>
-    <title>GRVTY: Software Engineer 1</title>
-    <link href="https://job-boards.greenhouse.io/grvty/jobs/4394819009"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Meade, Maryland, United States · Python, Java, Scala, Spark</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:grvty:4401839009</id>
-    <title>GRVTY: Junior Software Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/grvty/jobs/4401839009"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Aurora, Colorado, United States; Sterling, Virginia, United States · Python, Bash, Flask, Kubernetes, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:idmeuniversityrecruiting:7980382003</id>
-    <title>ID.me: Summer 2027- Software Development Engineer - New Grad</title>
-    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Mountain View, CA · $130k–$150k/yr · Python, Java, JavaScript, Ruby, AWS</summary>
   </entry>
 </feed>

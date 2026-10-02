@@ -46,7 +46,11 @@
       "workday:priceline:/job/New-York/Junior-Software-Engineer_R5847",
       "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993",
-      "workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589"
+      "workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589",
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "workday:allegion:/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
+      "workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
+      "workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -94,7 +98,11 @@
       "workday:priceline:/job/New-York/Junior-Software-Engineer_R5847",
       "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993",
-      "workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589"
+      "workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589",
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "workday:allegion:/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
+      "workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
+      "workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1"
     ]
   }
 }
