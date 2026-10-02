@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-02T09:07:33Z</updated>
+  <updated>2026-10-02T15:55:20Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589</id>
+    <title>Pima County: Data Engineer I - Information Technology 🛂</title>
+    <link href="https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589"/>
+    <updated>2026-10-02T15:55:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · $65.457k–$78.54k/yr · SQL, Git, Snowflake · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993</id>
     <title>Barry-Wehmiller: Entry Level Software Engineer - RDU-3</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Mountain View, CA · $130k–$150k/yr · Python, Java, JavaScript, Ruby, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:idmeuniversityrecruiting:7986505003</id>
-    <title>ID.me: Summer 2027 - Data Scientist (New Grad)</title>
-    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Mountain View, CA · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
 </feed>
