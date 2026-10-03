@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 239 open roles (209 listed below) · 239 new this week
+### 238 open roles (208 listed below) · 238 new this week
 
-4,758 employers tracked · data as of Oct 03, 2026 at 00:35 UTC
+4,758 employers tracked · data as of Oct 03, 2026 at 05:52 UTC
 
-_112 have a class year the employer stated · 127 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_111 have a class year the employer stated · 127 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -88,7 +88,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Class of 2027  (69 employer-stated)
+## Class of 2027  (68 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
@@ -96,7 +96,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | CoStar Group | Associate Software Engineer - Sunnyvale, CA 🛂 🆕 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) | Sunnyvale (US) | Python, Java, C#, TypeScript | Oct 01, 2026 |
 | Pinterest ✓ 🆁 | University Grad Software Engineer 2027 (USA) 🆕 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) | San Francisco, CA, US; Remote, US | Python, Java, C++, TypeScript | Oct 01, 2026 |
 | Pinterest ✓ | Master's University Grad Machine Learning Engineer 2027 (USA) 🆕 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) | San Francisco +11 more | Python, Java, C++, PyTorch | Oct 01, 2026 |
-| Pinterest ✓ | PhD University Grad Data Scientist 2027 (USA) 🆕 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8157351) | San Francisco +11 more | Python, SQL | Oct 01, 2026 |
 | AECOM | Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763988) | Arlington, VA, United States (Hybrid) | Python, Tableau | Sep 30, 2026 |
 | Mastercard | Data Engineer I, Launch Program 2027 – Arlington, VA, US | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985) | Arlington, Virginia | Python, SQL | Sep 30, 2026 |
 | SpaceX | New Graduate Engineer, Software (Starfall) | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) | Hawthorne, CA | C++, Bash, Linux | Sep 28, 2026 |
@@ -344,12 +343,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _53 companies on the [full radar](https://apxxrv.github.io/New-Grad-Tech-Jobs/#radar). **53** dated from our own live observations 🎯 (this grows every year). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 8 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 9 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Class year | Closed | Why |
 |---|---|---|---|---|
+| Pinterest | PhD University Grad Data Scientist 2027 (USA) | Class of 2027 | 2026-10-03 | gone from feed |
 | CoStar Group | Associate Security Engineer - Arlington, VA | Class of 2027 | 2026-10-03 | gone from feed |
 | CoStar Group | Associate Software Engineer - Arlington, VA | Class of 2027 | 2026-10-03 | gone from feed |
 | CoStar Group | Associate Software Engineer - Richmond, VA | Class of 2027 | 2026-10-03 | gone from feed |
@@ -376,7 +376,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,583 of 5,036 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 722.2s · 174 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,592 of 5,036 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 772.4s · 168 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
