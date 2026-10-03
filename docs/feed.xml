@@ -5,16 +5,8 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-03T15:25:39Z</updated>
+  <updated>2026-10-03T19:00:30Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
-  <entry>
-    <id>urn:grad-engine:greenhouse:striveworks:8002598003</id>
-    <title>Striveworks: Junior Front-End Engineer</title>
-    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002598003"/>
-    <updated>2026-10-03T15:25:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, Go, TypeScript, JavaScript, React</summary>
-  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:striveworks:8002515003</id>
     <title>Striveworks: Junior Machine Learning Engineer</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-03T15:25:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States · $100k–$130k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:striveworks:8002598003</id>
+    <title>Striveworks: Junior Front-End Engineer</title>
+    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002598003"/>
+    <updated>2026-10-03T15:25:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, Go, TypeScript, JavaScript, React</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:striveworks:8002825003</id>
