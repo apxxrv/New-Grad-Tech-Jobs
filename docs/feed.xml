@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-02T20:52:39Z</updated>
+  <updated>2026-10-03T00:35:01Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:ServiceNow:744000153279380</id>
+    <title>ServiceNow: Software Engineer, Core Infrastructure - Moveworks (New Grad)</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000153279380"/>
+    <updated>2026-10-03T00:35:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mountain View, California, United States · Python, Java, C++, Kafka · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc</id>
     <title>Harvey: Software Engineer, New Grad (2027)</title>
@@ -155,9 +163,9 @@
     <id>urn:grad-engine:ashby:bagsfm:012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4</id>
     <title>Bagsfm: Junior Full Stack Engineer</title>
     <link href="https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4"/>
-    <updated>2026-09-30T20:09:32Z</updated>
+    <updated>2026-10-03T00:22:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York · TypeScript, React, Next.js, Node.js</summary>
+    <summary>Not stated · Software · New York · TypeScript, React, Next.js, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:miter:f4567649-a0eb-445d-bd00-a0673a26ec6d</id>
@@ -283,9 +291,9 @@
     <id>urn:grad-engine:greenhouse:clearwayjobs:5238286007</id>
     <title>Clearway Energy: ESM Developer I 🛂</title>
     <link href="https://job-boards.greenhouse.io/clearwayjobs/jobs/5238286007"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-03T00:35:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:nuro:8227399</id>
@@ -699,17 +707,17 @@
     <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886212003</id>
     <title>Dark Wolf Solutions: Junior Data Engineer 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-03T00:22:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chantilly/Herndon, VA · Python, SQL, Bash, Pandas, AWS · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Chantilly/Herndon, VA · Python, SQL, Bash, Pandas, AWS · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886257003</id>
     <title>Dark Wolf Solutions: Junior DevSecOps Engineer 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886257003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-03T00:22:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Chantilly/Herndon, VA · Python, C++, Bash, AWS, GCP · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Chantilly/Herndon, VA · Python, C++, Bash, AWS, GCP · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:doordashusa:8163709</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · New York City, New York · Python, TypeScript, JavaScript, React, Node.js · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:graphcore:8841995002</id>
-    <title>Graphcore: Graduate Firmware Engineer</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841995002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Hardware · Austin, Texas, United States · Python, C++, Linux</summary>
   </entry>
 </feed>
