@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-03T11:45:24Z</updated>
+  <updated>2026-10-03T15:25:39Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:striveworks:8002598003</id>
+    <title>Striveworks: Junior Front-End Engineer</title>
+    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002598003"/>
+    <updated>2026-10-03T15:25:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, Go, TypeScript, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:striveworks:8002515003</id>
+    <title>Striveworks: Junior Machine Learning Engineer</title>
+    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002515003"/>
+    <updated>2026-10-03T15:25:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States · $100k–$130k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:striveworks:8002825003</id>
+    <title>Striveworks: Junior Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002825003"/>
+    <updated>2026-10-03T15:25:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, SQL, PyTorch, TensorFlow, GraphQL</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:ServiceNow:744000153279380</id>
     <title>ServiceNow: Software Engineer, Core Infrastructure - Moveworks (New Grad)</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Annapolis Junction, MD · $130k–$150k/yr · TypeScript, JavaScript, Node.js, Express, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:freeformfuturecorp:7826634003</id>
-    <title>Freeform: Software Engineer (New Grad December 2026)</title>
-    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Los Angeles, CA (On-site) · C++, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:freeformfuturecorp:7895902003</id>
-    <title>Freeform: Software Engineer (New Grad Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Los Angeles, CA (On-site) · C++, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:garnerhealth:6174210004</id>
-    <title>Garner Health: Associate Software Engineer 🛂</title>
-    <link href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York City, New York · Python, TypeScript, JavaScript, React, Node.js · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

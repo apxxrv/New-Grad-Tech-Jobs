@@ -51,7 +51,10 @@
       "workday:allegion:/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
       "workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
       "workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1",
-      "smartrecruiters:ServiceNow:744000153279380"
+      "smartrecruiters:ServiceNow:744000153279380",
+      "greenhouse:striveworks:8002598003",
+      "greenhouse:striveworks:8002515003",
+      "greenhouse:striveworks:8002825003"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -104,7 +107,10 @@
       "workday:allegion:/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
       "workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
       "workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1",
-      "smartrecruiters:ServiceNow:744000153279380"
+      "smartrecruiters:ServiceNow:744000153279380",
+      "greenhouse:striveworks:8002598003",
+      "greenhouse:striveworks:8002515003",
+      "greenhouse:striveworks:8002825003"
     ]
   }
 }
