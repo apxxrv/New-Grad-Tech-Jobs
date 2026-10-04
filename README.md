@@ -8,7 +8,7 @@
 
 ### 238 open roles (208 listed below) · 238 new this week
 
-4,771 employers tracked · data as of Oct 03, 2026 at 22:18 UTC
+4,771 employers tracked · data as of Oct 04, 2026 at 00:44 UTC
 
 _109 have a class year the employer stated · 129 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -93,7 +93,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Harvey | Software Engineer, New Grad (2027) 🆕 | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York | Python, Java, TypeScript, JavaScript | Oct 02, 2026 |
-| CoStar Group | Associate Software Engineer - Sunnyvale, CA 🛂 🆕 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) | Sunnyvale (US) | Python, Java, C#, TypeScript | Oct 01, 2026 |
+| CoStar Group | Associate Software Engineer - Sunnyvale, CA 🛂 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) | Sunnyvale (US) | Python, Java, C#, TypeScript | Oct 01, 2026 |
 | Pinterest ✓ 🆁 | University Grad Software Engineer 2027 (USA) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) | San Francisco, CA, US; Remote, US | Python, Java, C++, TypeScript | Oct 01, 2026 |
 | Pinterest ✓ | Master's University Grad Machine Learning Engineer 2027 (USA) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) | San Francisco +11 more | Python, Java, C++, PyTorch | Oct 01, 2026 |
 | AECOM | Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763988) | Arlington, VA, United States (Hybrid) | Python, Tableau | Sep 30, 2026 |
@@ -320,7 +320,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this year | Status |
 |---|---|---|---|
-| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~3d | ⏳ waiting |
+| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~2d | ⏳ waiting |
 | 🎯 NVIDIA | Jan 27 | ~Jan 27 | ⏳ waiting |
 | 🎯 Color | Jul 28 | ~Jul 28 | ⏳ waiting |
 | 🎯 Notion | Aug 14 | ~Aug 14 | ⏳ waiting |
@@ -378,7 +378,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,603 of 5,050 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 763.1s · 171 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,563 of 5,050 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 759.4s · 164 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
