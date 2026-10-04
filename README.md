@@ -8,7 +8,7 @@
 
 ### 240 open roles (210 listed below) · 240 new this week
 
-4,788 employers tracked · data as of Oct 04, 2026 at 17:39 UTC
+4,788 employers tracked · data as of Oct 04, 2026 at 20:33 UTC
 
 _109 have a class year the employer stated · 131 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -192,8 +192,8 @@ These postings never name a class year — not in the title, not in the posting 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Opploans | Software Engineer I 🆕 | [Apply](https://job-boards.greenhouse.io/opploans/jobs/8011770003) | United States | Java, AWS, Kubernetes, Docker | Oct 02, 2026 |
-| Teladoc 🆁 | Junior Software Engineering Program - Associate Engineer 🛂 🆕 | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085) | USA - Any Location (Remote) | Git | Oct 02, 2026 |
 | Terraclear | Jr Software Development / Tech Support Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/terraclear/jobs/6216392004) | Hybrid - Issaquah, WA, USA | TypeScript, LLMs, React, Angular | Oct 02, 2026 |
+| Teladoc 🆁 | Junior Software Engineering Program - Associate Engineer 🛂 🆕 | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085) | USA - Any Location (Remote) | Git | Oct 02, 2026 |
 | ServiceNow ✓ | Software Engineer, Core Infrastruc​ture - Moveworks (New Grad) 🆕 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Mountain View, California, United States | Python, Java, C++, Kafka | Oct 02, 2026 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer 🇺🇸 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050) | Houston, TX, US | Python, Linux, Git | Oct 02, 2026 |
 | Calistacorp | Cybersecur​ity Analyst I 🆕 | [Apply](https://calistacorp.wd1.myworkdayjobs.com/yulista/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1) | Huntsville, AL | No skills listed | Oct 02, 2026 |
@@ -380,7 +380,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,739 of 5,067 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 802.1s · 187 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,743 of 5,067 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 613.6s · 185 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

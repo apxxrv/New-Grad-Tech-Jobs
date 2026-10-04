@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-04T17:39:56Z</updated>
+  <updated>2026-10-04T20:33:14Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:greenhouse:opploans:8011770003</id>
@@ -16,20 +16,20 @@
     <summary>Not stated · Software · United States · Java, AWS, Kubernetes, Docker, Terraform</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:teladoc:/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085</id>
-    <title>Teladoc: Junior Software Engineering Program - Associate Engineer 🛂</title>
-    <link href="https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085"/>
-    <updated>2026-10-04T17:39:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Any Location (Remote) · Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:terraclear:6216392004</id>
     <title>Terraclear: Jr Software Development / Tech Support Engineer</title>
     <link href="https://job-boards.greenhouse.io/terraclear/jobs/6216392004"/>
     <updated>2026-10-04T17:39:56Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Hybrid - Issaquah, WA, USA · TypeScript, LLMs, React, Angular, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:teladoc:/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085</id>
+    <title>Teladoc: Junior Software Engineering Program - Associate Engineer 🛂</title>
+    <link href="https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085"/>
+    <updated>2026-10-04T17:39:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Any Location (Remote) · Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:striveworks:8002515003</id>

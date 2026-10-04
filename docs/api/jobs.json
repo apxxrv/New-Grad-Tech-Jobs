@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-04T17:39:56Z",
- "data_as_of": "2026-10-04T17:39:56Z",
- "rendered_at": "2026-10-04T17:39:57Z",
+ "generated_at": "2026-10-04T20:33:14Z",
+ "data_as_of": "2026-10-04T20:33:14Z",
+ "rendered_at": "2026-10-04T20:33:14Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
  "count": 240,
@@ -36,29 +36,6 @@
    "remote": false
   },
   {
-   "id": "workday:teladoc:/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
-   "company": "Teladoc",
-   "title": "Junior Software Engineering Program - Associate Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "USA - Any Location (Remote)",
-   "url": "https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
-   "posted_at": "2026-10-02T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-04T17:39:56Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
-   "remote": true
-  },
-  {
    "id": "greenhouse:terraclear:6216392004",
    "company": "Terraclear",
    "title": "Jr Software Development / Tech Support Engineer",
@@ -87,6 +64,29 @@
    "h1b_approvals": null,
    "program": "Junior / Associate",
    "remote": false
+  },
+  {
+   "id": "workday:teladoc:/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
+   "company": "Teladoc",
+   "title": "Junior Software Engineering Program - Associate Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "USA - Any Location (Remote)",
+   "url": "https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
+   "posted_at": "2026-10-02T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-04T17:39:56Z",
+   "sponsorship": "no-sponsorship",
+   "salary": null,
+   "skills": [
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Junior / Associate",
+   "remote": true
   },
   {
    "id": "smartrecruiters:ServiceNow:744000153279380",
