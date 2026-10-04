@@ -8,7 +8,7 @@
 
 ### 238 open roles (208 listed below) · 238 new this week
 
-4,771 employers tracked · data as of Oct 04, 2026 at 00:44 UTC
+4,771 employers tracked · data as of Oct 04, 2026 at 06:24 UTC
 
 _109 have a class year the employer stated · 129 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -195,7 +195,7 @@ These postings never name a class year — not in the title, not in the posting 
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer 🇺🇸 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050) | Houston, TX, US | Python, Linux, Git | Oct 02, 2026 |
 | Calistacorp | Cybersecur​ity Analyst I 🆕 | [Apply](https://calistacorp.wd1.myworkdayjobs.com/yulista/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1) | Huntsville, AL | No skills listed | Oct 02, 2026 |
 | Pima County | Data Engineer I - Information Technology 🛂 🆕 | [Apply](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589) | Tucson, AZ | SQL, Git, Snowflake | Oct 02, 2026 |
-| Barry-Wehmiller | Entry Level Software Engineer - RDU-3 🆕 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993) | Raleigh, NC | No skills listed | Oct 01, 2026 |
+| Barry-Wehmiller | Entry Level Software Engineer - RDU-3 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993) | Raleigh, NC | No skills listed | Oct 01, 2026 |
 | Clay | Early Career Software Engineer | [Apply](https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273) | New York | Python, TypeScript, LLMs, React | Oct 01, 2026 |
 | Pinterest ✓ | PhD University Grad Machine Learning Engineer (USA) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140363) | San Francisco +8 more | Python, Java, C++, PyTorch | Oct 01, 2026 |
 | Pinterest ✓ | Master's University Grad Data Scientist (USA) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) | San Francisco +11 more | Python, SQL | Oct 01, 2026 |
@@ -378,7 +378,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,563 of 5,050 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 759.4s · 164 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,705 of 5,050 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 552.3s · 176 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
