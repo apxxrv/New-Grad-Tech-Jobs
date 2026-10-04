@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T20:33:14Z",
- "data_as_of": "2026-10-04T20:33:14Z",
- "rendered_at": "2026-10-04T20:33:14Z",
+ "generated_at": "2026-10-04T23:40:33Z",
+ "data_as_of": "2026-10-04T23:40:33Z",
+ "rendered_at": "2026-10-04T23:40:33Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 240,
+ "count": 239,
  "jobs": [
   {
    "id": "greenhouse:opploans:8011770003",
@@ -210,27 +210,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993",
-   "company": "Barry-Wehmiller",
-   "title": "Entry Level Software Engineer - RDU-3",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Raleigh, NC",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993",
-   "posted_at": "2026-10-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-02T02:21:45Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Entry Level",
    "remote": false
   },
   {
