@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-05T09:46:07Z</updated>
+  <updated>2026-10-05T19:02:08Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205</id>
+    <title>Geico: Machine Learning Engineer I (MLE I), Fraud Risk Modeling 🛂</title>
+    <link href="https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205"/>
+    <updated>2026-10-05T19:02:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · $185k/yr · Python, Java, SQL, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
+    <title>LSEG: Real-Time Software Engineer - Early Career</title>
+    <link href="https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"/>
+    <updated>2026-10-05T19:02:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522"/>
+    <updated>2026-10-05T19:02:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1</id>
+    <title>Sierra Space: Cybersecurity Analyst I</title>
+    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1"/>
+    <updated>2026-10-05T19:02:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Louisville, CO</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:opploans:8011770003</id>
     <title>Opploans: Software Engineer I</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA · Python, Java, SQL, Kotlin · H-1B track record: ~685 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:dvtrading:4719126005</id>
-    <title>DV Trading: 2027 Graduate Software Engineer (DV Commodities)</title>
-    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:eulerity:4709039006</id>
-    <title>Eulerity: Associate Backend Engineer</title>
-    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709039006"/>
-    <updated>2026-10-01T05:48:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York · Java, LLMs, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:eulerity:4716146006</id>
-    <title>Eulerity: Associate Web Development Software Engineer (SDK)</title>
-    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4716146006"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York · Java, TypeScript, JavaScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:everlaw:4705236006</id>
-    <title>Everlaw: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Oakland, California, United States · $140k/yr · Python, Java, C++, JavaScript, Linux</summary>
   </entry>
 </feed>
