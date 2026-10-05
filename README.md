@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 239 open roles (209 listed below) · 239 new this week
+### 234 open roles (204 listed below) · 234 new this week
 
-4,788 employers tracked · data as of Oct 04, 2026 at 23:40 UTC
+4,788 employers tracked · data as of Oct 05, 2026 at 02:29 UTC
 
-_109 have a class year the employer stated · 130 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_109 have a class year the employer stated · 125 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -185,7 +185,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Global​Foundries | Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) | USA - Texas - Austin | Python, Angular, AWS, Git | Jun 24, 2026 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (119 roles)
+## Recently posted — class year not stated  (114 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
@@ -194,7 +194,7 @@ These postings never name a class year — not in the title, not in the posting 
 | Opploans | Software Engineer I 🆕 | [Apply](https://job-boards.greenhouse.io/opploans/jobs/8011770003) | United States | Java, AWS, Kubernetes, Docker | Oct 02, 2026 |
 | Terraclear | Jr Software Development / Tech Support Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/terraclear/jobs/6216392004) | Hybrid - Issaquah, WA, USA | TypeScript, LLMs, React, Angular | Oct 02, 2026 |
 | Teladoc 🆁 | Junior Software Engineering Program - Associate Engineer 🛂 🆕 | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085) | USA - Any Location (Remote) | Git | Oct 02, 2026 |
-| ServiceNow ✓ | Software Engineer, Core Infrastruc​ture - Moveworks (New Grad) 🆕 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Mountain View, California, United States | Python, Java, C++, Kafka | Oct 02, 2026 |
+| ServiceNow ✓ | Software Engineer, Core Infrastruc​ture - Moveworks (New Grad) | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Mountain View, California, United States | Python, Java, C++, Kafka | Oct 02, 2026 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer 🇺🇸 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050) | Houston, TX, US | Python, Linux, Git | Oct 02, 2026 |
 | Calistacorp | Cybersecur​ity Analyst I | [Apply](https://calistacorp.wd1.myworkdayjobs.com/yulista/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1) | Huntsville, AL | No skills listed | Oct 02, 2026 |
 | Pima County | Data Engineer I - Information Technology 🛂 | [Apply](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589) | Tucson, AZ | SQL, Git, Snowflake | Oct 02, 2026 |
@@ -305,11 +305,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Freedom Technology Solutions Group | Junior DevOps System Administra​tor 758 | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5219731007) | Annapolis Junction, MD | AWS, Linux | Aug 24, 2026 |
 | SteerBridge | Junior Software Engineer 🇺🇸 | [Apply](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5) | Vienna, VA | TypeScript, JavaScript, React, Node.js | Aug 24, 2026 |
 | Sopra Steria | Embedded Software Verification Engineer (Entry Level) 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/SopraSteria1/744000145341359) | East Hartford +2 more | Python, C++ | Aug 24, 2026 |
-| Axon | Software QA Engineer I | [Apply](https://job-boards.greenhouse.io/axon/jobs/7908209003) | Seattle, Washington, United States | No skills listed | Aug 20, 2026 |
-| Datalab USA | Production Programmer - Entry Level SQL Developer 🛂 | [Apply](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea) | Germantown, MD | SQL | Aug 20, 2026 |
-| Mulligan Funding | Data Scientist I - Full Stack Management Trainee | [Apply](https://jobs.lever.co/mulliganfunding/1eee966d-c798-4b4f-937d-7e2f73b00287) | San Diego, CA | Git | Aug 20, 2026 |
-| Mulligan Funding | Data Scientist I - Management Trainee | [Apply](https://jobs.lever.co/mulliganfunding/53531dc7-9593-44ea-8b42-2995664968a3) | San Diego, CA | Python, SQL | Aug 20, 2026 |
-| National Software Management 🆁 | Entry Level Data Analyst / Business Analyst | [Apply](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269) | Jersey City, NJ, United States (Remote) | No skills listed | Aug 20, 2026 |
 
 <a id="drop-radar"></a>
 
@@ -321,7 +316,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this year | Status |
 |---|---|---|---|
-| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~2d | ⏳ waiting |
+| 🎯 Lila Sciences | Oct 06 | ~Oct 06 · in ~1d | ⏳ waiting |
 | 🎯 NVIDIA | Jan 27 | ~Jan 27 | ⏳ waiting |
 | 🎯 Color | Jul 28 | ~Jul 28 | ⏳ waiting |
 | 🎯 Notion | Aug 14 | ~Aug 14 | ⏳ waiting |
@@ -379,7 +374,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,746 of 5,067 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 521.4s · 186 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,713 of 5,067 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 617.9s · 185 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
