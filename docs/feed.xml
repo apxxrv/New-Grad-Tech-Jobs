@@ -5,15 +5,31 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-06T20:01:34Z</updated>
+  <updated>2026-10-06T23:57:21Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:iazuqy.fa.ocs.oraclecloud.com:9188</id>
-    <title>UCSF: Research Data Analyst I</title>
-    <link href="https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9188"/>
-    <updated>2026-10-06T20:01:34Z</updated>
+    <id>urn:grad-engine:lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583</id>
+    <title>Shield AI: Software Development Engineer - New Graduate</title>
+    <link href="https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"/>
+    <updated>2026-10-06T23:57:21Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Diego, California · 77,200–211,200 USD/yr · Python, C++, Computer Vision, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:affirm:8010617003</id>
+    <title>Affirm: Software Engineer, Early Career (SF)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8010617003"/>
+    <updated>2026-10-06T23:57:21Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, United States · Python</summary>
+    <summary>Not stated · Software · San Francisco, California, United States · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:perpay:5252881007</id>
+    <title>Perpay: Software Engineer, New Grad - Super Day!</title>
+    <link href="https://job-boards.greenhouse.io/perpay/jobs/5252881007"/>
+    <updated>2026-10-06T23:57:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Philadelphia, Pennsylvania, United States · Python, JavaScript, React, Angular, Vue</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3</id>
@@ -25,7 +41,7 @@
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:affirm:8008649003</id>
-    <title>Affirm: Software Engineer, Early Career</title>
+    <title>Affirm: Software Engineer, Early Career (NYC)</title>
     <link href="https://job-boards.greenhouse.io/affirm/jobs/8008649003"/>
     <updated>2026-10-06T20:01:34Z</updated>
     <category term="Not stated"/>
@@ -70,6 +86,14 @@
     <updated>2026-10-06T20:01:34Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Santa Clara, California · C++ · H-1B track record: ~208 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:iazuqy.fa.ocs.oraclecloud.com:9188</id>
+    <title>UCSF: Research Data Analyst I</title>
+    <link href="https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9188"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:sparksoftcorporation:5257361007</id>
@@ -531,9 +555,9 @@
     <id>urn:grad-engine:greenhouse:nuro:8227399</id>
     <title>Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad</title>
     <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
-    <updated>2026-09-30T23:52:39Z</updated>
+    <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · status: closed · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:renaissancelearning-nam:5434355008</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Austin, TX · $90K – $130K · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:breezy:jnd-inc:87fd346a82c7</id>
-    <title>JND: [Entry Level] Software Tester (2608-2)</title>
-    <link href="https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, TX · $28 – $32 / hour</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:accenturefederalservices:4710190006</id>
-    <title>Accenture: Associate Software Engineer-Hire-to-Train Program (Pega) 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Washington, DC · sponsorship: citizens-only · status: closed · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:accenturefederalservices:4711147006</id>
-    <title>Accenture: Associate Software Engineer-Hire-to-Train Program (Pega) 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Washington, DC · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
