@@ -5,8 +5,72 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-06T14:37:20Z</updated>
+  <updated>2026-10-06T20:01:34Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:oracle:iazuqy.fa.ocs.oraclecloud.com:9188</id>
+    <title>UCSF: Research Data Analyst I</title>
+    <link href="https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9188"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, United States · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3</id>
+    <title>Whoop: Software Engineer I (Frontend, AI Platform)</title>
+    <link href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA · TypeScript, JavaScript, React, Next.js, HTML/CSS · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:affirm:8008649003</id>
+    <title>Affirm: Software Engineer, Early Career</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8008649003"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:fanaticsfbg:4422986009</id>
+    <title>Fanatics: Data Scientist I</title>
+    <link href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4422986009"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Denver, CO, United States · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:fanaticsfbg:4426177009</id>
+    <title>Fanatics: Quantitative Analyst I 🛂</title>
+    <link href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Denver, CO, United States · Python, C++, C# · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:machindustries:4390274009</id>
+    <title>Mach Industries: December 2026 New Graduate Engineer, Software / GNC 🛂</title>
+    <link href="https://job-boards.greenhouse.io/machindustries/jobs/4390274009"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Huntington Beach, California, United States · Python, C++, Rust, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:machindustries:4401995009</id>
+    <title>Mach Industries: May 2027 New Graduate Engineer, Software 🛂</title>
+    <link href="https://job-boards.greenhouse.io/machindustries/jobs/4401995009"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Huntington Beach, California, United States · Python, C++, Rust, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:purestorage:8249851</id>
+    <title>Pure Storage: Software Engineer Grad 2027</title>
+    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8249851"/>
+    <updated>2026-10-06T20:01:34Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Santa Clara, California · C++ · H-1B track record: ~208 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:sparksoftcorporation:5257361007</id>
     <title>Sparksoft: Jr. Full Stack Developer</title>
@@ -57,7 +121,7 @@
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:nuro:8248317</id>
-    <title>Nuro: New Grad Software Engineer, Routing</title>
+    <title>Nuro: New Grad Software Engineer, Product Engineering</title>
     <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
@@ -389,7 +453,7 @@
     <link href="https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6"/>
     <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Somerville, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
+    <summary>Not stated · Software · Boston, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workable:ace-it-careers-1:8E52B2BF7A</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Washington, DC · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:aechelontechnology:5407414008</id>
-    <title>Aechelon Technology: Associate Platform Engineer</title>
-    <link href="https://job-boards.greenhouse.io/aechelontechnology/jobs/5407414008"/>
-    <updated>2026-10-02T02:21:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · South San Francisco, California · $120k–$140k/yr · Python, Bash, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:alarmcom:8622530002</id>
-    <title>Alarm.com: Embedded Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Tysons, Virginia · C++, Linux, Git · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:4802146007</id>
-    <title>Anduril: 2026 Early Career Software Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5162263007</id>
-    <title>Anduril: 2027 Early Career Software Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5228868007</id>
-    <title>Anduril: 2027 Early Career Flight Software Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Costa Mesa, California, United States · Python, MATLAB, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5239596007</id>
-    <title>Anduril: Firmware Engineer, Space Emerging Talent</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007"/>
-    <updated>2026-09-30T23:52:39Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Hardware · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5246141007</id>
-    <title>Anduril: 2027 Early Career Firmware Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:awetomaton:5416716008</id>
-    <title>Awetomaton: Junior Software Engineer (Full Stack)</title>
-    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5416716008"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Beavercreek, OH · Python, TypeScript, JavaScript, React, Node.js · sponsorship: offers · status: closed</summary>
   </entry>
 </feed>

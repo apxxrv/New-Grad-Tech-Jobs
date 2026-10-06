@@ -430,6 +430,25 @@
     }
    }
   },
+  "mach industries": {
+   "name": "Mach Industries",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "greenhouse:machindustries:4390274009"
+     ],
+     "count": 1
+    },
+    "Class of 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:machindustries:4401995009"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mastercard": {
    "name": "Mastercard",
    "cycles": {
@@ -575,6 +594,18 @@
       "greenhouse:pinterest:8157351"
      ],
      "count": 3
+    }
+   }
+  },
+  "pure storage": {
+   "name": "Pure Storage",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-06",
+     "role_ids": [
+      "greenhouse:purestorage:8249851"
+     ],
+     "count": 1
     }
    }
   },
@@ -817,5 +848,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T14:37:20Z"
+ "updated_at": "2026-10-06T20:01:34Z"
 }

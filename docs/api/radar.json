@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T14:37:20Z",
- "data_as_of": "2026-10-06T14:37:20Z",
- "rendered_at": "2026-10-06T14:37:20Z",
+ "generated_at": "2026-10-06T20:01:34Z",
+ "data_as_of": "2026-10-06T20:01:34Z",
+ "rendered_at": "2026-10-06T20:01:34Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -500,6 +500,25 @@
    }
   },
   {
+   "company": "Mach Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
    "company": "SEP",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -785,6 +804,25 @@
    }
   },
   {
+   "company": "Pure Storage",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-06"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -1013,5 +1051,5 @@
    }
   }
  ],
- "count": 53
+ "count": 55
 }
