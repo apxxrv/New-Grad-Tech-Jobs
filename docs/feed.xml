@@ -5,15 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-06T00:57:52Z</updated>
+  <updated>2026-10-06T07:41:17Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
-    <title>Resmed: Associate Android Developer</title>
-    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"/>
+    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210794232</id>
+    <title>JPMorganChase: Software Engineer I</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794232"/>
+    <updated>2026-10-06T07:41:17Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Plano, TX, United States · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439</id>
+    <title>Hewlett Packard Enterprise: Graduate Systems/Software Engineer I</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439"/>
+    <updated>2026-10-06T07:41:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bloomington, Minnesota, United States of America · HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:roku:8188704</id>
+    <title>Roku: Software Engineer, Early Careers AI/UI 🛂</title>
+    <link href="https://www.weareroku.com/jobs/8188704?gh_jid=8188704"/>
+    <updated>2026-10-06T07:41:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · sponsorship: no-sponsorship · H-1B track record: ~283 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:varsitybrands:/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1</id>
+    <title>Varsitybrands: Software Engineer 1 🛂</title>
+    <link href="https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1"/>
+    <updated>2026-10-06T07:41:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · TX - Farmers Branch · Java, SQL, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:nuro:8248317</id>
+    <title>Nuro: New Grad Software Engineer, Routing</title>
+    <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Mountain View, California (HQ) · Python, Java, C++, TypeScript, React · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103</id>
@@ -40,12 +72,12 @@
     <summary>Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:nuro:8248317</id>
-    <title>Nuro: New Grad Software Engineer, Routing</title>
-    <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
+    <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
+    <title>Resmed: Associate Android Developer</title>
+    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"/>
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California (HQ) · Python, Java, C++, TypeScript, React · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205</id>
@@ -59,9 +91,9 @@
     <id>urn:grad-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522</id>
     <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522"/>
-    <updated>2026-10-05T19:02:08Z</updated>
+    <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
@@ -235,17 +267,17 @@
     <id>urn:grad-engine:lever:fiscalnote:51a2e18f-1af1-416c-9544-5bede8e9537c</id>
     <title>FiscalNote: Associate Software Engineer 🛂</title>
     <link href="https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"/>
-    <updated>2026-10-01T18:35:45Z</updated>
+    <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Washington, DC · 65,000–75,000 USD/yr · Python, C#, JavaScript, SQL, Bash · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · Washington, DC · 65,000–75,000 USD/yr · Python, C#, JavaScript, SQL, Bash · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:americanredcross:/job/Statewide-CA/Data-Analyst-I-BI--Supply-Management---Work-from-home_RC91612-1</id>
     <title>American Red Cross: Data Analyst I BI, Supply Management * Work from home</title>
     <link href="https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-CA/Data-Analyst-I-BI--Supply-Management---Work-from-home_RC91612-1"/>
-    <updated>2026-10-01T18:35:45Z</updated>
+    <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Statewide, CA · $74k–$84k/yr · Python, SQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · Statewide, CA · $74k–$84k/yr · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083</id>
@@ -435,9 +467,9 @@
     <id>urn:grad-engine:greenhouse:schonfeld:8236826</id>
     <title>Schonfeld: Entry Level Quantitative Researcher</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8236826"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · New York, New York, United States · Python, C++, Rust, JavaScript</summary>
+    <summary>Not stated · Quant · New York, New York, United States · Python, C++, Rust, JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:spacex:8854394002</id>
@@ -483,9 +515,9 @@
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196</id>
     <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"/>
-    <updated>2026-09-30T15:05:24Z</updated>
+    <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-28T08:06:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Annapolis Junction, MD - Hybrid · Java, JavaScript, React, Angular, Vue · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426537008</id>
-    <title>Captivation: Software Engineer 1 - Python/Kotlin/Java/Terraform/Elasticsearch/Opensearch/AWS 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426537008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Python, Java, Kotlin, AWS, Terraform · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426539008</id>
-    <title>Captivation: Software Engineer 1 - Python/PySpark/AWS 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426539008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Python, AWS, Spark · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426544008</id>
-    <title>Captivation: Software Engineer 1 - Java/Confluence/Jira/AWS/Maven/MapReduce 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426544008"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Java, AWS, Python, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426713008</id>
-    <title>Captivation: Software Engineer 1/2 -  PostgreSQL/CI/CD/SpringBoot/Angular/MongoDB/Oracle/Docker/Kubernetes/JSON/XML/Jira 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426713008"/>
-    <updated>2026-09-28T08:06:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Angular, Kubernetes, Docker, PostgreSQL, Java · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
