@@ -5,8 +5,48 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-05T19:02:08Z</updated>
+  <updated>2026-10-06T00:57:52Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
+    <title>Resmed: Associate Android Developer</title>
+    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"/>
+    <updated>2026-10-06T00:57:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103</id>
+    <title>General Motors: Machine Learning Engineer, AI Inference Solutions (Early in Career)</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"/>
+    <updated>2026-10-06T00:57:52Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:iqvia:/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568</id>
+    <title>IQVIA: MedTech Field Service Software Tech Entry level - Batesville, IN 🛂</title>
+    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"/>
+    <updated>2026-10-06T00:57:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Batesville, Indiana, United States · $27–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-291661</id>
+    <title>Mastercard: Software Engineer I</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661"/>
+    <updated>2026-10-06T00:57:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:nuro:8248317</id>
+    <title>Nuro: New Grad Software Engineer, Routing</title>
+    <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
+    <updated>2026-10-06T00:57:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mountain View, California (HQ) · Python, Java, C++, TypeScript, React · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205</id>
     <title>Geico: Machine Learning Engineer I (MLE I), Fraud Risk Modeling 🛂</title>
@@ -16,20 +56,20 @@
     <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · $185k/yr · Python, Java, SQL, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
-    <title>LSEG: Real-Time Software Engineer - Early Career</title>
-    <link href="https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"/>
-    <updated>2026-10-05T19:02:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522</id>
     <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522"/>
     <updated>2026-10-05T19:02:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
+    <title>LSEG: Real-Time Software Engineer - Early Career</title>
+    <link href="https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"/>
+    <updated>2026-10-05T19:02:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1</id>
@@ -267,9 +307,9 @@
     <id>urn:grad-engine:greenhouse:evolutioniq:6210230004</id>
     <title>EvolutionIQ: Associate Data Engineer (Python / AI Insurance SaaS)</title>
     <link href="https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"/>
-    <updated>2026-09-30T20:09:32Z</updated>
+    <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, SQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, SQL · status: closed · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:giftogram:4392576009</id>
@@ -515,9 +555,9 @@
     <id>urn:grad-engine:ashby:greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5</id>
     <title>Greenboard: Software Engineer (2027 Grads)</title>
     <link href="https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-06T00:57:52Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York City · $130K – $150K • Offers Equity · Python, AWS</summary>
+    <summary>Class of 2027 · Software · New York City · $130K – $150K • Offers Equity · Python, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:maximor:67d0c7d0-fddb-4b8d-aed8-0647337a988e</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-28T08:06:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Annapolis Junction, MD · Angular, Kubernetes, Docker, PostgreSQL, Java · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426714008</id>
-    <title>Captivation: Software Engineer 1/2 -  PostgreSQL/Java/Angular/Docker/Kubernetes/CI/CD 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426714008"/>
-    <updated>2026-09-28T08:06:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Java, Angular, Kubernetes, Docker, PostgreSQL · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:ctccampusboard:4708724005</id>
-    <title>Chicago Trading Company: Quant Trading Associate - 2027 Start</title>
-    <link href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, IL · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886212003</id>
-    <title>Dark Wolf Solutions: Junior Data Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"/>
-    <updated>2026-10-03T00:22:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chantilly/Herndon, VA · Python, SQL, Bash, Pandas, AWS · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:darkwolfsolutions:7886257003</id>
-    <title>Dark Wolf Solutions: Junior DevSecOps Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886257003"/>
-    <updated>2026-10-03T00:22:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chantilly/Herndon, VA · Python, C++, Bash, AWS, GCP · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:doordashusa:8163709</id>
-    <title>DoorDash: Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA · Python, Java, SQL, Kotlin · H-1B track record: ~685 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

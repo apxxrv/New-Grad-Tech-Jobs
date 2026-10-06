@@ -61,7 +61,12 @@
       "workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205",
       "workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057",
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522",
-      "workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1"
+      "workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1",
+      "workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
+      "workday:iqvia:/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568",
+      "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+      "greenhouse:nuro:8248317"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -124,7 +129,12 @@
       "workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205",
       "workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057",
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522",
-      "workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1"
+      "workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1",
+      "workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
+      "workday:iqvia:/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568",
+      "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+      "greenhouse:nuro:8248317"
     ]
   }
 }
