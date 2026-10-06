@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-06T07:41:17Z</updated>
+  <updated>2026-10-06T14:37:20Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:sparksoftcorporation:5257361007</id>
+    <title>Sparksoft: Jr. Full Stack Developer</title>
+    <link href="https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257361007"/>
+    <updated>2026-10-06T14:37:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote/Hybrid if local to Maryland · Java, TypeScript, JavaScript, SQL, LLMs · H-1B track record: ~56 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:sparksoftcorporation:5257480007</id>
+    <title>Sparksoft: Junior DevOps Engineer</title>
+    <link href="https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257480007"/>
+    <updated>2026-10-06T14:37:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote/Hybrid if local to Maryland · Python, Bash, AWS, GCP, Azure · H-1B track record: ~56 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:roku:8188704</id>
+    <title>Roku: Software Engineer, Early Careers AI/UI 🛂</title>
+    <link href="https://www.weareroku.com/jobs/8188704?gh_jid=8188704"/>
+    <updated>2026-10-06T07:41:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · sponsorship: no-sponsorship · H-1B track record: ~283 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210794232</id>
     <title>JPMorganChase: Software Engineer I</title>
@@ -22,14 +46,6 @@
     <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Bloomington, Minnesota, United States of America · HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:roku:8188704</id>
-    <title>Roku: Software Engineer, Early Careers AI/UI 🛂</title>
-    <link href="https://www.weareroku.com/jobs/8188704?gh_jid=8188704"/>
-    <updated>2026-10-06T07:41:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, California · sponsorship: no-sponsorship · H-1B track record: ~283 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:varsitybrands:/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1</id>
@@ -403,9 +419,9 @@
     <id>urn:grad-engine:workday:varsitybrands:/job/TN---Memphis/Software-Engineer-I--Net-_JR114518</id>
     <title>Varsitybrands: Software Engineer I (.Net)</title>
     <link href="https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"/>
-    <updated>2026-09-30T20:09:32Z</updated>
+    <updated>2026-10-06T14:37:20Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · TN - Memphis · SQL, Git</summary>
+    <summary>Not stated · Software · TN - Memphis · SQL, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:amazon:amazon:10513110</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Beavercreek, OH · Python, TypeScript, JavaScript, React, Node.js · sponsorship: offers · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:axon:7908209003</id>
-    <title>Axon: Software QA Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/axon/jobs/7908209003"/>
-    <updated>2026-10-05T02:19:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, Washington, United States · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5426460008</id>
-    <title>Captivation: Software Engineer 1/2/3 (Hybrid) - JavaScript/React/Angular/Java/Linux 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5426460008"/>
-    <updated>2026-09-28T08:06:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD - Hybrid · Java, JavaScript, React, Angular, Vue · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
