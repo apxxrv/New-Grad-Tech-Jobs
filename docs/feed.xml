@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-07T05:55:02Z</updated>
+  <updated>2026-10-07T13:22:18Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458</id>
+    <title>NVIDIA: Systems Software Engineer,  AI and Cloud - New College Grad 2026</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"/>
+    <updated>2026-10-07T13:22:18Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · US, CA, Santa Clara · Python, C++, JavaScript, LLMs, Kubernetes · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:hpe:/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648</id>
     <title>Hewlett Packard Enterprise: Systems/Software Engineer I - Graduate</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Redwood City, CA · Python, Java, TypeScript, JavaScript, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:valon:e08ad09a-4408-4210-8c1b-da6510f83324</id>
-    <title>Valon: Software Engineer New Grad</title>
-    <link href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $135K – $160K • Offers Equity · Python, React, GCP, Kubernetes, Docker</summary>
   </entry>
 </feed>

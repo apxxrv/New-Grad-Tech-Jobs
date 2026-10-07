@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-10-07T05:55:02Z",
- "data_as_of": "2026-10-07T05:55:02Z",
- "rendered_at": "2026-10-07T05:55:02Z",
+ "generated_at": "2026-10-07T13:22:18Z",
+ "data_as_of": "2026-10-07T13:22:18Z",
+ "rendered_at": "2026-10-07T13:22:18Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 247,
+ "count": 248,
  "jobs": [
+  {
+   "id": "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+   "company": "NVIDIA",
+   "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
+   "season": "Class of 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+   "posted_at": "2026-10-06T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-07T13:22:18Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "JavaScript",
+    "LLMs",
+    "Kubernetes"
+   ],
+   "source": "workday",
+   "h1b_approvals": 1526,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "workday:hpe:/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648",
    "company": "Hewlett Packard Enterprise",
