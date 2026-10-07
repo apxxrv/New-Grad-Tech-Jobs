@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-07T19:42:39Z</updated>
+  <updated>2026-10-07T23:56:25Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58</id>
+    <title>Handshake: Software Engineer I, Build Review &amp; Test</title>
+    <link href="https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58"/>
+    <updated>2026-10-07T23:56:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · $136K – $170K · TypeScript, JavaScript, Node.js, Kubernetes, Docker</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:assystinc:4436912009</id>
     <title>ASSYST: Full Stack Developer (Entry Level) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Foster City, CA · $140K – $180K • Offers Equity • Offers Bonus • Performance Based Bonus · Python, Rust, TypeScript, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00</id>
-    <title>Sierra: Software Engineer, Agent (New Grad 2027)</title>
-    <link href="https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco, CA · $150K – $180K • Offers Equity · TypeScript, LLMs, React</summary>
   </entry>
 </feed>

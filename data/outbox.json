@@ -91,7 +91,8 @@
       "workday:caci:/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249",
       "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
-      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991"
+      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991",
+      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -184,7 +185,8 @@
       "workday:caci:/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249",
       "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
-      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991"
+      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991",
+      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58"
     ]
   }
 }

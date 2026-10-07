@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-10-07T19:42:39Z",
- "data_as_of": "2026-10-07T19:42:39Z",
- "rendered_at": "2026-10-07T19:42:39Z",
+ "generated_at": "2026-10-07T23:56:25Z",
+ "data_as_of": "2026-10-07T23:56:25Z",
+ "rendered_at": "2026-10-07T23:56:25Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 252,
+ "count": 253,
  "jobs": [
+  {
+   "id": "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58",
+   "company": "Handshake",
+   "title": "Software Engineer I, Build Review & Test",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58",
+   "posted_at": "2026-10-07T20:22:50.985+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-07T23:56:25Z",
+   "sponsorship": "unknown",
+   "salary": "$136K – $170K",
+   "skills": [
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Kubernetes",
+    "Docker",
+    "Git"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "greenhouse:assystinc:4436912009",
    "company": "ASSYST",
