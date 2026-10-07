@@ -5,15 +5,15 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-06T23:57:21Z</updated>
+  <updated>2026-10-07T05:55:02Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583</id>
-    <title>Shield AI: Software Development Engineer - New Graduate</title>
-    <link href="https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"/>
-    <updated>2026-10-06T23:57:21Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Diego, California · 77,200–211,200 USD/yr · Python, C++, Computer Vision, Linux, Git</summary>
+    <id>urn:grad-engine:workday:hpe:/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648</id>
+    <title>Hewlett Packard Enterprise: Systems/Software Engineer I - Graduate</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"/>
+    <updated>2026-10-07T05:55:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Houston, Texas, United States of America · HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:affirm:8010617003</id>
@@ -25,11 +25,19 @@
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:perpay:5252881007</id>
-    <title>Perpay: Software Engineer, New Grad - Super Day!</title>
+    <title>Perpay: Software Engineer, New Grad - Super Day</title>
     <link href="https://job-boards.greenhouse.io/perpay/jobs/5252881007"/>
     <updated>2026-10-06T23:57:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Philadelphia, Pennsylvania, United States · Python, JavaScript, React, Angular, Vue</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583</id>
+    <title>Shield AI: Software Development Engineer - New Graduate</title>
+    <link href="https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"/>
+    <updated>2026-10-06T23:57:21Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Diego, California · 77,200–211,200 USD/yr · Python, C++, Computer Vision, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · $135K – $160K • Offers Equity · Python, React, GCP, Kubernetes, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:webai:5aa2fb29-be71-4135-928c-e7690611b380</id>
-    <title>WebAI: Jr DevOps Engineer</title>
-    <link href="https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX · $90K – $130K · Python, Bash, AWS, GCP, Azure</summary>
   </entry>
 </feed>
