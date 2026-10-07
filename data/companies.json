@@ -4172,6 +4172,11 @@
     "site": "BonSaltLake"
   },
   {
+    "name": "Bonsai Robotics",
+    "slug": "bonsairoboticsmain",
+    "ats": "rippling"
+  },
+  {
     "name": "Bonterra",
     "slug": "bonterra",
     "ats": "workday",
@@ -6351,6 +6356,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Clēnera",
+    "slug": "clenera",
+    "ats": "greenhouse"
+  },
+  {
     "name": "CMC Markets",
     "slug": "cmcmarkets",
     "ats": "workday",
@@ -7228,6 +7238,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Careers"
+  },
+  {
+    "name": "Create Music Group",
+    "slug": "createmusicgroup",
+    "ats": "rippling"
   },
   {
     "name": "Creatify",
@@ -21137,6 +21152,11 @@
     "ats": "lever"
   },
   {
+    "name": "Provectus",
+    "slug": "provectus",
+    "ats": "lever"
+  },
+  {
     "name": "Proxima",
     "slug": "proxima",
     "ats": "ashby"
@@ -25424,6 +25444,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "TaxRise",
+    "slug": "taxrise",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Taxwell",
     "slug": "taxwell",
     "ats": "workday",
@@ -26070,6 +26095,11 @@
     "name": "The Scion Group",
     "slug": "thesciongroupllc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "The Semios Group",
+    "slug": "semios",
+    "ats": "workable"
   },
   {
     "name": "The Shipyard",
