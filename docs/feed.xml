@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-07T13:22:18Z</updated>
+  <updated>2026-10-07T19:42:39Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:assystinc:4436912009</id>
+    <title>ASSYST: Full Stack Developer (Entry Level) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/assystinc/jobs/4436912009"/>
+    <updated>2026-10-07T19:42:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sterling, VA · Python, Java, C#, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249</id>
+    <title>CACI: Entry Level C# Software Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"/>
+    <updated>2026-10-07T19:42:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Virginia Beach, VA, US · C#, Python, SQL, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551</id>
+    <title>NVIDIA: Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"/>
+    <updated>2026-10-07T19:42:39Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · US, CA, Santa Clara · Python, C++, PyTorch, CUDA · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991</id>
+    <title>Western Governors University: Associate Data Engineer</title>
+    <link href="https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991"/>
+    <updated>2026-10-07T19:42:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Salt Lake City, UT · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~32 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458</id>
     <title>NVIDIA: Systems Software Engineer,  AI and Cloud - New College Grad 2026</title>
@@ -189,7 +221,7 @@
     <link href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661"/>
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
+    <summary>2 openings · Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
@@ -675,9 +707,9 @@
     <id>urn:grad-engine:ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96</id>
     <title>Color: Software Engineer, New Grad 2026</title>
     <link href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"/>
-    <updated>2026-09-28T08:05:06Z</updated>
+    <updated>2026-10-07T19:42:39Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS</summary>
+    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · San Francisco, CA · $150K – $180K • Offers Equity · TypeScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:siftstack:0d65481e-e762-4d8f-ae38-5040754a5134</id>
-    <title>SIFT: Software Engineer – New College Graduate 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Marina Del Rey, CA · $125K – $145K • Offers Equity • Offers Benefits · Rust, TypeScript, React, AWS, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:solace:77ca492c-4142-4931-beeb-e85d9d0ac443</id>
-    <title>Solace Health: Associate Data Scientist (College Grad 2027)</title>
-    <link href="https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Redwood City, CA · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:solace:bbdb1020-2900-4d63-908a-20cea79a65cd</id>
-    <title>Solace Health: Associate Platform Engineer (College Grad 2027)</title>
-    <link href="https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Redwood City, CA · PyTorch, AWS, GCP, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f</id>
-    <title>Solace Health: Associate Software Engineer (College Grad 2027)</title>
-    <link href="https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Redwood City, CA · Python, Java, TypeScript, JavaScript, PyTorch</summary>
   </entry>
 </feed>
