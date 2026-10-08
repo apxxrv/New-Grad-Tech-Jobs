@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-07T23:56:25Z",
- "data_as_of": "2026-10-07T23:56:25Z",
- "rendered_at": "2026-10-07T23:56:25Z",
+ "generated_at": "2026-10-08T06:04:45Z",
+ "data_as_of": "2026-10-08T06:04:45Z",
+ "rendered_at": "2026-10-08T06:04:45Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 253,
+ "count": 251,
  "jobs": [
   {
    "id": "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58",
@@ -3879,31 +3879,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:giftogram:4392576009",
-   "company": "Giftogram",
-   "title": "Junior Full Stack Developer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "200 Jefferson Park, Whippany NJ 07981",
-   "url": "https://job-boards.greenhouse.io/giftogram/jobs/4392576009",
-   "posted_at": "2026-09-08T09:42:28-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-30T20:09:32Z",
-   "sponsorship": "unknown",
-   "salary": "$65k–$80k/yr",
-   "skills": [
-    "JavaScript",
-    "SQL",
-    "React"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
-   "remote": false
-  },
-  {
    "id": "greenhouse:idmeuniversityrecruiting:7986505003",
    "company": "ID.me",
    "title": "Summer 2027 - Data Scientist (New Grad)",
@@ -4890,34 +4865,6 @@
    ],
    "source": "ashby",
    "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:everlaw:4705236006",
-   "company": "Everlaw",
-   "title": "Software Engineer I",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Oakland, California, United States",
-   "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
-   "posted_at": "2026-08-31T15:12:06-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": "$140k/yr",
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 5,
    "program": "New Grad",
    "remote": false
   },
