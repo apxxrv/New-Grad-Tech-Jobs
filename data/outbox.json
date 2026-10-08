@@ -92,7 +92,11 @@
       "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
       "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991",
-      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58"
+      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58",
+      "ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e",
+      "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
+      "workday:centricsoftware:/job/Campbell-CA/Software-Engineer-1_JR396",
+      "greenhouse:twitch:8879673002"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -186,7 +190,11 @@
       "workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
       "workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991",
-      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58"
+      "ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58",
+      "ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e",
+      "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
+      "workday:centricsoftware:/job/Campbell-CA/Software-Engineer-1_JR396",
+      "greenhouse:twitch:8879673002"
     ]
   }
 }
