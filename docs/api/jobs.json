@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T00:05:17Z",
- "data_as_of": "2026-10-09T00:05:17Z",
- "rendered_at": "2026-10-09T00:05:17Z",
+ "generated_at": "2026-10-09T06:08:30Z",
+ "data_as_of": "2026-10-09T06:08:30Z",
+ "rendered_at": "2026-10-09T06:08:31Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 253,
+ "count": 252,
  "jobs": [
   {
    "id": "greenhouse:twitch:8879673002",
@@ -2705,29 +2705,6 @@
    "remote": false
   },
   {
-   "id": "workable:ace-it-careers-1:8E52B2BF7A",
-   "company": "Ace It Careers 1",
-   "title": "Entry-Level Software QA Analyst",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Pittsburgh, Pennsylvania, United States; Salt Lake City, Utah, United States (Remote)",
-   "url": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/",
-   "posted_at": "2026-09-19T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T20:09:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL"
-   ],
-   "source": "workable",
-   "h1b_approvals": null,
-   "program": "Entry Level",
-   "remote": true
-  },
-  {
    "id": "workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934",
    "company": "DXC Technology",
    "title": "Analyst I Software Engineering",
@@ -5351,7 +5328,7 @@
    "seasons": null,
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Denver, CO or Long Beach, CA",
+   "location": "Denver, CO; Long Beach, CA",
    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
    "posted_at": "2026-08-26T19:28:11-04:00",
    "posted_at_source": "exact",
