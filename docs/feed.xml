@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-08T19:35:00Z</updated>
+  <updated>2026-10-09T00:05:17Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e</id>
@@ -14,6 +14,14 @@
     <updated>2026-10-08T19:35:00Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States · $110K – $140K • Offers Equity · Java, C#, Rust, TypeScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:twitch:8879673002</id>
+    <title>Twitch: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/twitch/jobs/8879673002"/>
+    <updated>2026-10-08T19:35:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · React, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1</id>
@@ -30,14 +38,6 @@
     <updated>2026-10-08T19:35:00Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Campbell, CA · Python, Java, C++, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8879673002</id>
-    <title>Twitch: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8879673002"/>
-    <updated>2026-10-08T19:35:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA · React, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:handshake:b434ac30-8288-417a-96b0-29fa8dac7d58</id>
