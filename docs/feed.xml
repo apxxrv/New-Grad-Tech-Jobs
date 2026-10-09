@@ -5,8 +5,104 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-09T13:17:18Z</updated>
+  <updated>2026-10-09T18:59:14Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:72607</id>
+    <title>Ford Motor Company: Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV 🛂</title>
+    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:breezy:forge-nano:66630c61f7e4</id>
+    <title>Forge Nano: Software Engineer I</title>
+    <link href="https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Thornton, CO · $90,000 – $95,000 / year</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:breezy:jnd-inc:dab2f4d1a81a</id>
+    <title>JND: [Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field &amp; Product Quality Testing (261001-2)</title>
+    <link href="https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · DFW, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:66degrees:6220280004</id>
+    <title>66 Degrees: Associate Data Engineer, Gradient Specialist 🛂</title>
+    <link href="https://job-boards.greenhouse.io/66degrees/jobs/6220280004"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Chicago, IL · Python, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:66degrees:6220274004</id>
+    <title>66 Degrees: Associate Software Engineer, Gradient Specialist 🛂</title>
+    <link href="https://job-boards.greenhouse.io/66degrees/jobs/6220274004"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Chicago, IL · Python, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:altentechnologyusa:5262456007</id>
+    <title>ALTEN Technology: SAP ABAP &amp; BTP Full Stack Developer (Entry-Level)</title>
+    <link href="https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Foster City, California, United States · Python, JavaScript, Pandas, HTML/CSS, Flask</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514</id>
+    <title>Choice Hotels: Software Engineer 1 – Finance Technology 🛂</title>
+    <link href="https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Scottsdale AZ - Technology &amp; Digital Commerce Center · Python, Java, SQL, LLMs, AWS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freedomconsulting:5248064007</id>
+    <title>Freedom Technology Solutions Group: Junior Software Engineer 780</title>
+    <link href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · $110k–$155k/yr · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002345</id>
+    <title>Health Research: Research Scientist I</title>
+    <link href="https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I_JR-0002345"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Albany, NY · $69.764k/yr · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:troweprice:/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1</id>
+    <title>T. Rowe Price: Associate Software Engineer</title>
+    <link href="https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Owings Mills, MD · SQL, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840</id>
+    <title>Truist Bank: Data Scientist I</title>
+    <link href="https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta, GA · Python, SQL, Hadoop · H-1B track record: ~377 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:xcelenergy:/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2</id>
+    <title>Xcel Energy: Associate Data Scientist</title>
+    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Denver, CO, 80223 · $120.566k/yr · Python, SQL, Databricks</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:erqh.fa.us2.oraclecloud.com:32509</id>
     <title>Atlantic Health System: Cybersecurity Engineer I</title>
@@ -339,9 +435,9 @@
     <id>urn:grad-engine:workday:teladoc:/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085</id>
     <title>Teladoc: Junior Software Engineering Program - Associate Engineer 🛂</title>
     <link href="https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085"/>
-    <updated>2026-10-04T17:39:56Z</updated>
+    <updated>2026-10-09T18:59:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Any Location (Remote) · Git · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · USA - Any Location (Remote) · Git · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:striveworks:8002515003</id>
@@ -427,9 +523,9 @@
     <id>urn:grad-engine:ashby:claylabs:16778e12-31cb-4ca1-a321-7f629a7cf273</id>
     <title>Clay: Early Career Software Engineer</title>
     <link href="https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273"/>
-    <updated>2026-10-01T18:35:45Z</updated>
+    <updated>2026-10-09T18:59:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js</summary>
+    <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:pinterest:7838591</id>
@@ -710,101 +806,5 @@
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942</id>
-    <title>GlobalFoundries: AI/ML Analytics Engineer (2027 New College Graduate)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · USA - New York - Malta · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"/>
-    <updated>2026-10-06T07:41:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Linux, Git · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437</id>
-    <title>Northrop Grumman: 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · United States-Colorado-Aurora · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:truist:/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1</id>
-    <title>Truist Bank: Data Scientist I</title>
-    <link href="https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---Telecommuter/Data-Scientist-I_R0119496-1"/>
-    <updated>2026-10-02T02:21:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Charlotte NC - Telecommuter · Python, SQL, Hadoop · status: closed · H-1B track record: ~377 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934</id>
-    <title>DXC Technology: Analyst I Software Engineering</title>
-    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934"/>
-    <updated>2026-09-28T08:15:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - CT - ANY CITY · Python, Java, C#, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:iqvia:/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796</id>
-    <title>IQVIA: MedTech Field Service Software Tech Entry Level - Phoenix, AZ 🛂</title>
-    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"/>
-    <updated>2026-09-28T08:15:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Phoenix, AZ · $27–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:color-health:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96</id>
-    <title>Color: Software Engineer, New Grad 2026</title>
-    <link href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · South San Francisco, California · $125k–$140k/yr · Python, SQL, LLMs, React, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed</id>
-    <title>Crusoe: Software Engineer I, Network</title>
-    <link href="https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA - US · Java, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:deeter-analytics:a93aae94-6025-4977-a5c0-657874c6a230</id>
-    <title>Deeter Analytics: Junior Quantitative Researcher</title>
-    <link href="https://jobs.ashbyhq.com/deeter-analytics/a93aae94-6025-4977-a5c0-657874c6a230"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · US - Remote · Python, SQL, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d</id>
-    <title>Ellipsis Labs: Software Engineer - 2027 New Grads</title>
-    <link href="https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York, New York · $150K – $200K • Offers Equity · Python, Java, C++, Rust, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5</id>
-    <title>Greenboard: Software Engineer (2027 Grads)</title>
-    <link href="https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York City · $130K – $150K • Offers Equity · Python, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:maximor:67d0c7d0-fddb-4b8d-aed8-0647337a988e</id>
-    <title>Maximor AI: Software Engineer (New Grad)</title>
-    <link href="https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · Python, Java, C++, Rust, LLMs</summary>
   </entry>
 </feed>

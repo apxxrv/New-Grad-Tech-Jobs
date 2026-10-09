@@ -1,5 +1,18 @@
 {
  "companies": {
+  "66 degrees": {
+   "name": "66 Degrees",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "greenhouse:66degrees:6220274004",
+      "greenhouse:66degrees:6220280004"
+     ],
+     "count": 2
+    }
+   }
+  },
   "aecom": {
    "name": "AECOM",
    "cycles": {
@@ -869,5 +882,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T13:17:18Z"
+ "updated_at": "2026-10-09T18:59:14Z"
 }
