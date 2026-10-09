@@ -110,7 +110,9 @@
       "workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002345",
       "workday:troweprice:/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
       "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840",
-      "workday:xcelenergy:/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2"
+      "workday:xcelenergy:/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2",
+      "lever:shieldai:7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
+      "workday:mastercard:/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -222,7 +224,9 @@
       "workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002345",
       "workday:troweprice:/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
       "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840",
-      "workday:xcelenergy:/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2"
+      "workday:xcelenergy:/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2",
+      "lever:shieldai:7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
+      "workday:mastercard:/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863"
     ]
   }
 }

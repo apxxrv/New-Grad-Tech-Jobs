@@ -5,15 +5,23 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-09T18:59:14Z</updated>
+  <updated>2026-10-09T23:23:06Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:72607</id>
-    <title>Ford Motor Company: Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV 🛂</title>
-    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"/>
-    <updated>2026-10-09T18:59:14Z</updated>
+    <id>urn:grad-engine:lever:shieldai:7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69</id>
+    <title>Shield AI: Engineer I, Software Integration (R6214)</title>
+    <link href="https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69"/>
+    <updated>2026-10-09T23:23:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Washington, D.C. · 79,000–110,000 USD/yr · Python, C++, Docker, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mastercard:/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863</id>
+    <title>Mastercard: Associate Analyst, Security Infrastructure Engineering &amp; Architecture, Launch Program 2027 – St. Louis, MO, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863"/>
+    <updated>2026-10-09T23:23:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · O'Fallon, Missouri</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:forge-nano:66630c61f7e4</id>
@@ -32,20 +40,20 @@
     <summary>Not stated · Data &amp; ML/AI · DFW, TX</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:66degrees:6220280004</id>
-    <title>66 Degrees: Associate Data Engineer, Gradient Specialist 🛂</title>
-    <link href="https://job-boards.greenhouse.io/66degrees/jobs/6220280004"/>
-    <updated>2026-10-09T18:59:14Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Chicago, IL · Python, GCP · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:66degrees:6220274004</id>
     <title>66 Degrees: Associate Software Engineer, Gradient Specialist 🛂</title>
     <link href="https://job-boards.greenhouse.io/66degrees/jobs/6220274004"/>
     <updated>2026-10-09T18:59:14Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Chicago, IL · Python, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:66degrees:6220280004</id>
+    <title>66 Degrees: Associate Data Engineer, Gradient Specialist 🛂</title>
+    <link href="https://job-boards.greenhouse.io/66degrees/jobs/6220280004"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Chicago, IL · Python, GCP · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:altentechnologyusa:5262456007</id>
@@ -56,20 +64,28 @@
     <summary>Not stated · Software · Foster City, California, United States · Python, JavaScript, Pandas, HTML/CSS, Flask</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514</id>
-    <title>Choice Hotels: Software Engineer 1 – Finance Technology 🛂</title>
-    <link href="https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514"/>
-    <updated>2026-10-09T18:59:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Scottsdale AZ - Technology &amp; Digital Commerce Center · Python, Java, SQL, LLMs, AWS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:freedomconsulting:5248064007</id>
     <title>Freedom Technology Solutions Group: Junior Software Engineer 780</title>
     <link href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"/>
     <updated>2026-10-09T18:59:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Annapolis Junction, MD · $110k–$155k/yr · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:72607</id>
+    <title>Ford Motor Company: Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV 🛂</title>
+    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514</id>
+    <title>Choice Hotels: Software Engineer 1 – Finance Technology 🛂</title>
+    <link href="https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514"/>
+    <updated>2026-10-09T18:59:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Scottsdale AZ - Technology &amp; Digital Commerce Center · Python, Java, SQL, LLMs, AWS · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002345</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Ridgecrest, California, United States (Remote) · TypeScript, JavaScript, React, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573</id>
-    <title>Bristol Myers Squibb: Data Engineer I - Transparency Data Operations</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Data-Engineer-I---Transparency-Data-Operations_R1606573"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, AWS, Git, Spark · H-1B track record: ~226 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1</id>
-    <title>Bristol Myers Squibb: Process Data Engineer I - Pharmaceutical Product Development</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, LLMs, AWS, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

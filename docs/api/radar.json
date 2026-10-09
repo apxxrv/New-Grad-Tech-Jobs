@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T18:59:14Z",
- "data_as_of": "2026-10-09T18:59:14Z",
- "rendered_at": "2026-10-09T18:59:14Z",
+ "generated_at": "2026-10-09T23:23:06Z",
+ "data_as_of": "2026-10-09T23:23:06Z",
+ "rendered_at": "2026-10-09T23:23:07Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -728,25 +728,6 @@
    }
   },
   {
-   "company": "GlobalFoundries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -11,
-   "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-28"
-   }
-  },
-  {
    "company": "AECOM",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -852,7 +833,7 @@
    "expected": "2026-10-08",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004",
+   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220274004",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1086,6 +1067,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "GlobalFoundries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -11,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-28"
    }
   }
  ],
