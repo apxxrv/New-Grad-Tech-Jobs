@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-09T06:08:30Z</updated>
+  <updated>2026-10-09T13:17:18Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:oracle:erqh.fa.us2.oraclecloud.com:32509</id>
+    <title>Atlantic Health System: Cybersecurity Engineer I</title>
+    <link href="https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32509"/>
+    <updated>2026-10-09T13:17:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Morristown, NJ, United States · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232</id>
+    <title>Bristol Myers Squibb: Analytics Engineer I, Commercialization</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232"/>
+    <updated>2026-10-09T13:17:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, Git, Databricks, Tableau · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e</id>
     <title>SpruceID: Full-Stack Software Engineer (New Grad) – Remote</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-28T08:05:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York City · Python, Java, C++, Rust, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218</id>
-    <title>Meow: Software Engineer - December 2026 Graduates 🛂</title>
-    <link href="https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · New York City · Python, TypeScript, React, PostgreSQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:notion:e32799d2-8ef8-4803-8189-c72514afa816</id>
-    <title>Notion: Software Engineer, New Grad (Dec 2026)</title>
-    <link href="https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"/>
-    <updated>2026-09-28T08:05:06Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · San Francisco, California · Python, TypeScript, JavaScript, React, Node.js</summary>
   </entry>
 </feed>

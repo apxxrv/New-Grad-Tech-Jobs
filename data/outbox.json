@@ -96,7 +96,9 @@
       "ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e",
       "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
       "workday:centricsoftware:/job/Campbell-CA/Software-Engineer-1_JR396",
-      "greenhouse:twitch:8879673002"
+      "greenhouse:twitch:8879673002",
+      "oracle:erqh.fa.us2.oraclecloud.com:32509",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -194,7 +196,9 @@
       "ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e",
       "workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
       "workday:centricsoftware:/job/Campbell-CA/Software-Engineer-1_JR396",
-      "greenhouse:twitch:8879673002"
+      "greenhouse:twitch:8879673002",
+      "oracle:erqh.fa.us2.oraclecloud.com:32509",
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232"
     ]
   }
 }
