@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-10T02:50:56Z</updated>
+  <updated>2026-10-10T09:53:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311</id>
+    <title>Gartner: Associate Data Scientist - Spring 2027 Master's level graduates</title>
+    <link href="https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"/>
+    <updated>2026-10-10T09:53:29Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Stamford, CT · Python, SQL, LLMs · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:lever:shieldai:59e0cf9b-04d7-43c0-8a65-9d411fe56c68</id>
     <title>Shield AI: Engineer I, Software - Factory Team (R6235) 🇺🇸</title>
@@ -99,9 +107,9 @@
     <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:72607</id>
     <title>Ford Motor Company: Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV 🛂</title>
     <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"/>
-    <updated>2026-10-09T18:59:14Z</updated>
+    <updated>2026-10-10T09:53:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · status: closed · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-30T15:05:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:renaissancelearning-nam:5434355008</id>
-    <title>Renaissance: Data Analyst I 🛂</title>
-    <link href="https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5434355008"/>
-    <updated>2026-10-01T23:06:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - US · SQL, Linux · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>

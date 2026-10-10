@@ -272,6 +272,18 @@
     }
    }
   },
+  "gartner": {
+   "name": "Gartner",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-10",
+     "role_ids": [
+      "workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"
+     ],
+     "count": 1
+    }
+   }
+  },
   "general motors": {
    "name": "General Motors",
    "cycles": {
@@ -890,5 +902,5 @@
    }
   }
  },
- "updated_at": "2026-10-10T02:50:56Z"
+ "updated_at": "2026-10-10T09:53:29Z"
 }
