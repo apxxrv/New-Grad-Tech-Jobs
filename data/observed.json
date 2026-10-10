@@ -569,6 +569,13 @@
       "workday:nvidia:/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
      ],
      "count": 13
+    },
+    "Class of 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "workday:nvidia:/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+     ],
+     "count": 1
     }
    }
   },
@@ -883,5 +890,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T23:23:06Z"
+ "updated_at": "2026-10-10T02:50:56Z"
 }
