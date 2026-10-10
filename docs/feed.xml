@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-10T09:53:29Z</updated>
+  <updated>2026-10-10T16:01:21Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:CircleLogistics1:3743990016023696</id>
+    <title>Circle Logistics: Entry Level Data Engineer</title>
+    <link href="https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696"/>
+    <updated>2026-10-10T16:01:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fort Wayne, IN, United States · Python, SQL, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311</id>
     <title>Gartner: Associate Data Scientist - Spring 2027 Master's level graduates</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-03T00:35:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:nuro:8227399</id>
-    <title>Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad</title>
-    <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California (HQ) · Python, C++, SQL, GCP, Kubernetes · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

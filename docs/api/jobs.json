@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-10T09:53:29Z",
- "data_as_of": "2026-10-10T09:53:29Z",
- "rendered_at": "2026-10-10T09:53:29Z",
+ "generated_at": "2026-10-10T16:01:21Z",
+ "data_as_of": "2026-10-10T16:01:21Z",
+ "rendered_at": "2026-10-10T16:01:21Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 252,
+ "count": 253,
  "jobs": [
   {
    "id": "workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
@@ -87,6 +87,31 @@
    "source": "lever",
    "h1b_approvals": 2,
    "program": "New Grad",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:CircleLogistics1:3743990016023696",
+   "company": "Circle Logistics",
+   "title": "Entry Level Data Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Fort Wayne, IN, United States",
+   "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696",
+   "posted_at": "2026-10-09T16:37:24.072Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-10T16:01:21Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Git"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Entry Level",
    "remote": false
   },
   {
