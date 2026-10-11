@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T02:18:58Z",
- "data_as_of": "2026-10-11T02:18:58Z",
- "rendered_at": "2026-10-11T02:18:58Z",
+ "generated_at": "2026-10-11T08:53:36Z",
+ "data_as_of": "2026-10-11T08:53:36Z",
+ "rendered_at": "2026-10-11T08:53:36Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 249,
+ "count": 248,
  "jobs": [
   {
    "id": "workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
@@ -4037,31 +4037,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:hpe:/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1",
-   "company": "Hewlett Packard Enterprise",
-   "title": "Embedded Software Test Engineer Graduate",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Spring, Texas, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "HTML/CSS",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 499,
    "program": "New Grad",
    "remote": false
   },
