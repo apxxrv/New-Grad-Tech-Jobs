@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-11T19:54:15Z</updated>
+  <updated>2026-10-11T23:47:05Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337</id>
+    <title>NVIDIA: Software Engineer, DL Kernel Libraries - New College Grad 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"/>
+    <updated>2026-10-11T23:47:05Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · US, CA, Santa Clara · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:CircleLogistics1:3743990016023696</id>
     <title>Circle Logistics: Entry Level Data Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-01T12:00:48Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision, Kubernetes · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:clearwayjobs:5238286007</id>
-    <title>Clearway Energy: ESM Developer I 🛂</title>
-    <link href="https://job-boards.greenhouse.io/clearwayjobs/jobs/5238286007"/>
-    <updated>2026-10-03T00:35:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, California, United States · JavaScript, SQL, LLMs, HTML/CSS, Azure · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
