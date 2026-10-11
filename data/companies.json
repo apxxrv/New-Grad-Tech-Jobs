@@ -6419,6 +6419,13 @@
     "ats": "workable"
   },
   {
+    "name": "Cmu",
+    "slug": "cmu",
+    "ats": "workday",
+    "wd": "wd115",
+    "site": "sei"
+  },
+  {
     "name": "CNA Insurance",
     "slug": "cna",
     "ats": "workday",
@@ -23782,6 +23789,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "SignetCorporateCareers"
+  },
+  {
+    "name": "Significanceinc",
+    "slug": "significanceinc",
+    "ats": "lever"
   },
   {
     "name": "Signify",
