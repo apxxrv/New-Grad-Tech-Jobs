@@ -5,8 +5,56 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-12T10:50:52Z</updated>
+  <updated>2026-10-12T20:10:11Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:cox:/job/Carmel-IN/Data-Engineer-I_R202683561-1</id>
+    <title>Cox: Data Engineer I</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Carmel IN · Python, SQL, AWS, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753</id>
+    <title>General Motors: Entry-Level – AI/Machine Learning Researcher 🇺🇸</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States of America · Python, PyTorch, TensorFlow, LLMs · sponsorship: citizens-only · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769</id>
+    <title>General Motors: Entry-Level – AI and Machine Learning for Automation Researcher 🇺🇸</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, C++, PyTorch, TensorFlow, LLMs · sponsorship: citizens-only · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:campaignmonitor:/job/Remote-United-States/Associate-Software-Engineer_R2487</id>
+    <title>Marigold: Associate Software Engineer</title>
+    <link href="https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote, United States · $70k–$80k/yr · Python, React, Django, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100</id>
+    <title>RTX: Software Engineer I (Onsite)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Java, C++, C#, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2</id>
+    <title>The Boeing Company: Entry-Level Software Engineer–Test &amp; Verification 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Tinker AFB, OK · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337</id>
     <title>NVIDIA: Software Engineer, DL Kernel Libraries - New College Grad 2027</title>
@@ -123,9 +171,9 @@
     <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:72607</id>
     <title>Ford Motor Company: Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV 🛂</title>
     <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"/>
-    <updated>2026-10-10T09:53:29Z</updated>
+    <updated>2026-10-09T18:59:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · status: closed · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Palo Alto, CA, United States · Python, Java, C++, Rust, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~1.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-30T20:09:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, Linux, Git · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:mastercard:/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985</id>
-    <title>Mastercard: Data Engineer I, Launch Program 2027 – Arlington, VA, US</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Arlington, Virginia · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:varsitybrands:/job/TN---Memphis/Software-Engineer-I--Net-_JR114518</id>
-    <title>Varsitybrands: Software Engineer I (.Net)</title>
-    <link href="https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"/>
-    <updated>2026-10-06T14:37:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · TN - Memphis · SQL, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:amazon:amazon:10513110</id>
-    <title>Amazon: Software Development Engineer, Amazon Leo, Early Career - 2026 🇺🇸</title>
-    <link href="https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Redmond, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:amazon:amazon:10529546</id>
-    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) 🇺🇸</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:amazon:amazon:10530257</id>
-    <title>Amazon: Software Development Engineer, Early Career</title>
-    <link href="https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career"/>
-    <updated>2026-09-30T15:05:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5236290007</id>
-    <title>Anduril: Space Orbital Software Engineer, Emerging Talent</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236290007?gh_jid=5236290007"/>
-    <updated>2026-10-01T12:00:48Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Costa Mesa, California, United States · Python, C++, Rust, Computer Vision, Kubernetes · status: closed</summary>
   </entry>
 </feed>

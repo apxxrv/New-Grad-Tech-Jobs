@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-12T10:50:52Z",
- "data_as_of": "2026-10-12T10:50:52Z",
- "rendered_at": "2026-10-12T10:50:53Z",
+ "generated_at": "2026-10-12T20:10:11Z",
+ "data_as_of": "2026-10-12T20:10:11Z",
+ "rendered_at": "2026-10-12T20:10:11Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -880,6 +880,25 @@
    }
   },
   {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-12",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-12"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -953,25 +972,6 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-08-25"
-   }
-  },
-  {
-   "company": "General Motors",
-   "last_cycle_posted": "2026-09-09",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2027-09-09",
-   "days_until": 332,
-   "status": "waiting",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-projection",
-    "cycle": "Class of 2026",
-    "observed_on": "2026-09-09"
    }
   },
   {
