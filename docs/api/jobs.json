@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T23:47:05Z",
- "data_as_of": "2026-10-11T23:47:05Z",
- "rendered_at": "2026-10-11T23:47:05Z",
+ "generated_at": "2026-10-12T02:50:36Z",
+ "data_as_of": "2026-10-12T02:50:36Z",
+ "rendered_at": "2026-10-12T02:50:36Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 249,
+ "count": 247,
  "jobs": [
   {
    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -5445,36 +5445,6 @@
    "remote": false
   },
   {
-   "id": "ashby:ontic:d50b6bea-876f-43fc-afb9-716efe9eca02",
-   "company": "Ontic",
-   "title": "Associate Software Engineer - Full Stack",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Austin, Texas, United States",
-   "url": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02",
-   "posted_at": "2026-08-27T15:11:53.197+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": "$80K – $100K • Offers Bonus",
-   "skills": [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "HTML/CSS",
-    "Spring",
-    "AWS",
-    "GCP"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
-   "remote": false
-  },
-  {
    "id": "lever:glsllc:d81bfc16-2ba1-41ca-ab21-7d8cffac9e07",
    "company": "Global Lending Services",
    "title": "Data Scientist - December 2026 - May 2027 Grads",
@@ -5500,36 +5470,6 @@
    "source": "lever",
    "h1b_approvals": 8,
    "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "lever:hatchit:7f2e771d-2363-4e85-b62f-ca130c478a97",
-   "company": "Hatch IT",
-   "title": "Junior Data Engineer (DEA)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Arlington, VA",
-   "url": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97",
-   "posted_at": "2026-08-27T14:25:29Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git",
-    "Hadoop",
-    "Airflow"
-   ],
-   "source": "lever",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
    "remote": false
   },
   {
