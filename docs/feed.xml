@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-13T09:29:20Z</updated>
+  <updated>2026-10-13T17:19:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:lever:belvederetrading:337314ee-4de5-4b96-a419-1b9287a7df68</id>
+    <title>Belvedere Trading: Quantitative Researcher - Entry Level 2027</title>
+    <link href="https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, Illinois · 140,000 USD/yr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:harriscomputer:/job/Remote---Texas/Associate-Software-Engineer_R0047141</id>
+    <title>Harris Computer: Associate Software Engineer</title>
+    <link href="https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Associate-Software-Engineer_R0047141"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - Texas · Python, TypeScript, LLMs, React, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:justworks:8236815</id>
+    <title>Justworks: Associate Software Engineer, Frontend</title>
+    <link href="https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York · $109k–$136k/yr · Python, Go, TypeScript, JavaScript, Ruby · H-1B track record: ~19 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1</id>
+    <title>The Boeing Company: Entry-Level Software Engineer–Developer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Richardson, TX · Java, C++, Linux · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workable:tp-link-usa-corp:F943A617EC</id>
     <title>TP-Link Systems: 2026 Early Career Embedded Software Engineer 🛂</title>
@@ -251,9 +283,9 @@
     <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232</id>
     <title>Bristol Myers Squibb: Analytics Engineer I, Commercialization</title>
     <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232"/>
-    <updated>2026-10-09T13:17:18Z</updated>
+    <updated>2026-10-13T17:19:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, Git, Databricks, Tableau · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, Git, Databricks, Tableau · status: closed · H-1B track record: ~226 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-01T18:35:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Washington, United States · Python, C++, PyTorch, TensorFlow, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:evolutioniq:6210230004</id>
-    <title>EvolutionIQ: Associate Data Engineer (Python / AI Insurance SaaS)</title>
-    <link href="https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, SQL · status: closed · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:giftogram:4392576009</id>
-    <title>Giftogram: Junior Full Stack Developer</title>
-    <link href="https://job-boards.greenhouse.io/giftogram/jobs/4392576009"/>
-    <updated>2026-10-08T06:04:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · 200 Jefferson Park, Whippany NJ 07981 · $65k–$80k/yr · JavaScript, SQL, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:imc:4796143101</id>
-    <title>IMC Trading: Software Engineer, Early Career</title>
-    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, United States · Java, C++ · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:deltasands:78ed860f-7c69-4888-9a05-e8c9006be291</id>
-    <title>Deltasands: Junior Software Engineer</title>
-    <link href="https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"/>
-    <updated>2026-10-11T02:07:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · Java, C++, C# · status: closed</summary>
   </entry>
 </feed>

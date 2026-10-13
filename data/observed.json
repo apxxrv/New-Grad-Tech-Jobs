@@ -106,9 +106,10 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "lever:belvederetrading:2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+      "lever:belvederetrading:337314ee-4de5-4b96-a419-1b9287a7df68",
       "lever:belvederetrading:34369a5c-55c0-4e9f-9d2e-4f21b9418bee"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -924,5 +925,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T09:29:20Z"
+ "updated_at": "2026-10-13T17:19:23Z"
 }
