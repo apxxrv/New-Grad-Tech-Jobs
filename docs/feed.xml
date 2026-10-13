@@ -5,23 +5,39 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-13T17:19:23Z</updated>
+  <updated>2026-10-13T22:00:57Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:lever:belvederetrading:337314ee-4de5-4b96-a419-1b9287a7df68</id>
-    <title>Belvedere Trading: Quantitative Researcher - Entry Level 2027</title>
-    <link href="https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68"/>
-    <updated>2026-10-13T17:19:23Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, Illinois · 140,000 USD/yr · Python, C++</summary>
+    <id>urn:grad-engine:lever:galatea-associates:d5bceaf1-0137-4cc3-9353-72cc7a4f937b</id>
+    <title>Galatea Associates: Entry-Level Financial Software Consultant</title>
+    <link href="https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b"/>
+    <updated>2026-10-13T22:00:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · St. Petersburg, FL · Java, Spring, AWS, Kubernetes</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:harriscomputer:/job/Remote---Texas/Associate-Software-Engineer_R0047141</id>
-    <title>Harris Computer: Associate Software Engineer</title>
-    <link href="https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Associate-Software-Engineer_R0047141"/>
-    <updated>2026-10-13T17:19:23Z</updated>
+    <id>urn:grad-engine:greenhouse:rocketlab:8031475003</id>
+    <title>Rocket Lab: Data Scientist I 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8031475003"/>
+    <updated>2026-10-13T22:00:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - Texas · Python, TypeScript, LLMs, React, Git</summary>
+    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:taxrise:4434618009</id>
+    <title>TaxRise: Junior Software Developer</title>
+    <link href="https://job-boards.greenhouse.io/taxrise/jobs/4434618009"/>
+    <updated>2026-10-13T22:00:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Irvine, CA · $80k–$90k/yr · TypeScript, JavaScript, React, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:woolpert:4434848009</id>
+    <title>Woolpert: Jr. Data Engineer / Analyst 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/woolpert/jobs/4434848009"/>
+    <updated>2026-10-13T22:00:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - United States · Python, JavaScript, Azure, Git, Databricks · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:justworks:8236815</id>
@@ -32,12 +48,28 @@
     <summary>Not stated · Software · New York, New York · $109k–$136k/yr · Python, Go, TypeScript, JavaScript, Ruby · H-1B track record: ~19 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:lever:belvederetrading:337314ee-4de5-4b96-a419-1b9287a7df68</id>
+    <title>Belvedere Trading: Quantitative Researcher - Entry Level 2027</title>
+    <link href="https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, Illinois · 140,000 USD/yr · Python, C++</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1</id>
     <title>The Boeing Company: Entry-Level Software Engineer–Developer 🇺🇸</title>
     <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"/>
     <updated>2026-10-13T17:19:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · USA - Richardson, TX · Java, C++, Linux · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:harriscomputer:/job/Remote---Texas/Associate-Software-Engineer_R0047141</id>
+    <title>Harris Computer: Associate Software Engineer</title>
+    <link href="https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Associate-Software-Engineer_R0047141"/>
+    <updated>2026-10-13T17:19:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - Texas · Python, TypeScript, LLMs, React, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workable:tp-link-usa-corp:F943A617EC</id>
@@ -75,9 +107,9 @@
     <id>urn:grad-engine:workday:campaignmonitor:/job/Remote-United-States/Associate-Software-Engineer_R2487</id>
     <title>Marigold: Associate Software Engineer</title>
     <link href="https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"/>
-    <updated>2026-10-12T20:10:11Z</updated>
+    <updated>2026-10-13T22:00:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, United States · $70k–$80k/yr · Python, React, Django, AWS</summary>
+    <summary>Not stated · Software · Remote, United States · $70k–$80k/yr · Python, React, Django, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:cox:/job/Carmel-IN/Data-Engineer-I_R202683561-1</id>
@@ -461,7 +493,7 @@
     <link href="https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9188"/>
     <updated>2026-10-06T20:01:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, United States · Python</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · San Francisco, CA, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:sparksoftcorporation:5257361007</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-30T23:52:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York, New York · Java, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:AECOM2:744000152763988</id>
-    <title>AECOM: Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000152763988"/>
-    <updated>2026-09-30T23:52:39Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Arlington, VA, United States (Hybrid) · Python, Tableau · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:bagsfm:012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4</id>
-    <title>Bagsfm: Junior Full Stack Engineer</title>
-    <link href="https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4"/>
-    <updated>2026-10-03T00:22:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · TypeScript, React, Next.js, Node.js · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:miter:f4567649-a0eb-445d-bd00-a0673a26ec6d</id>
-    <title>Miter: Software Engineer (New Grad)</title>
-    <link href="https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · $140K – $165K • Offers Equity · TypeScript, React, MongoDB</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:axon:8003133003</id>
-    <title>Axon: AI Research Scientist I</title>
-    <link href="https://job-boards.greenhouse.io/axon/jobs/8003133003"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, United States · Python, C++, PyTorch, TensorFlow, LLMs · status: closed</summary>
   </entry>
 </feed>
