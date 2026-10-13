@@ -5,8 +5,48 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-12T20:10:11Z</updated>
+  <updated>2026-10-13T02:09:53Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workable:tp-link-usa-corp:F943A617EC</id>
+    <title>TP-Link Systems: 2026 Early Career Embedded Software Engineer 🛂</title>
+    <link href="https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/"/>
+    <updated>2026-10-13T02:09:52Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Irvine, California, United States · C++ · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990</id>
+    <title>NVIDIA: Developer Technology Engineer, Public Sector - New College Grad 2026</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990"/>
+    <updated>2026-10-13T02:09:52Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · US, CA, Santa Clara · Python, C++, CUDA · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wattswater:/job/North-Andover-MA/Research-Engineer-I_10017514-1</id>
+    <title>Watts Water: Research Engineer I</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/external/job/North-Andover-MA/Research-Engineer-I_10017514-1"/>
+    <updated>2026-10-13T02:09:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Andover, MA</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2</id>
+    <title>The Boeing Company: Entry-Level Software Engineer–Test &amp; Verification 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Tinker AFB, OK · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:campaignmonitor:/job/Remote-United-States/Associate-Software-Engineer_R2487</id>
+    <title>Marigold: Associate Software Engineer</title>
+    <link href="https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"/>
+    <updated>2026-10-12T20:10:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote, United States · $70k–$80k/yr · Python, React, Django, AWS</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:cox:/job/Carmel-IN/Data-Engineer-I_R202683561-1</id>
     <title>Cox: Data Engineer I</title>
@@ -32,28 +72,12 @@
     <summary>Class of 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, C++, PyTorch, TensorFlow, LLMs · sponsorship: citizens-only · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:campaignmonitor:/job/Remote-United-States/Associate-Software-Engineer_R2487</id>
-    <title>Marigold: Associate Software Engineer</title>
-    <link href="https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"/>
-    <updated>2026-10-12T20:10:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, United States · $70k–$80k/yr · Python, React, Django, AWS</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100</id>
     <title>RTX: Software Engineer I (Onsite)</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100"/>
     <updated>2026-10-12T20:10:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Java, C++, C#, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2</id>
-    <title>The Boeing Company: Entry-Level Software Engineer–Test &amp; Verification 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2"/>
-    <updated>2026-10-12T20:10:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Tinker AFB, OK · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337</id>
@@ -491,9 +515,9 @@
     <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
     <title>Resmed: Associate Android Developer</title>
     <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"/>
-    <updated>2026-10-06T00:57:52Z</updated>
+    <updated>2026-10-13T02:09:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205</id>
@@ -515,9 +539,9 @@
     <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
     <title>LSEG: Real-Time Software Engineer - Early Career</title>
     <link href="https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"/>
-    <updated>2026-10-05T19:02:08Z</updated>
+    <updated>2026-10-13T02:09:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS</summary>
+    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1</id>
@@ -595,9 +619,9 @@
     <id>urn:grad-engine:workday:caci:/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050</id>
     <title>CACI: Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer 🇺🇸</title>
     <link href="https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050"/>
-    <updated>2026-10-02T20:52:39Z</updated>
+    <updated>2026-10-13T02:09:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Houston, TX, US · Python, Linux, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Houston, TX, US · Python, Linux, Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:calistacorp:/job/Huntsville-AL/Cybersecurity-Analyst-I_JR109965-1</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-11T02:07:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Colorado Springs, CO · Java, C++, C# · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:runlaminar:1112d528-3de4-4be2-b889-faa7f80381b6</id>
-    <title>Laminar: Junior Software Engineer, Edge Platform</title>
-    <link href="https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Boston, MA · 91,000–121,000 USD/yr · Python, C++, Rust, Bash, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workable:ace-it-careers-1:8E52B2BF7A</id>
-    <title>Ace It Careers 1: Entry-Level Software QA Analyst</title>
-    <link href="https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"/>
-    <updated>2026-10-09T06:08:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Pittsburgh, Pennsylvania, United States; Salt Lake City, Utah, United States (Remote) · SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529</id>
-    <title>General Motors: Software Engineer, AV Data Collection - Early Career</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"/>
-    <updated>2026-09-30T20:09:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, Linux, Git · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -574,6 +574,7 @@
     "Class of 2026": {
      "first_posted": "2026-01-27",
      "role_ids": [
+      "workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
@@ -588,7 +589,7 @@
       "workday:nvidia:/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
       "workday:nvidia:/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
      ],
-     "count": 13
+     "count": 14
     },
     "Class of 2027": {
      "first_posted": "2026-10-09",
@@ -845,6 +846,18 @@
     }
    }
   },
+  "tp link systems": {
+   "name": "TP-Link Systems",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-05-12",
+     "role_ids": [
+      "workable:tp-link-usa-corp:F943A617EC"
+     ],
+     "count": 1
+    }
+   }
+  },
   "veeva systems": {
    "name": "Veeva Systems",
    "cycles": {
@@ -911,5 +924,5 @@
    }
   }
  },
- "updated_at": "2026-10-12T20:10:11Z"
+ "updated_at": "2026-10-13T02:09:53Z"
 }
