@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-13T02:09:53Z",
- "data_as_of": "2026-10-13T02:09:53Z",
- "rendered_at": "2026-10-13T02:09:53Z",
+ "generated_at": "2026-10-13T09:29:20Z",
+ "data_as_of": "2026-10-13T09:29:20Z",
+ "rendered_at": "2026-10-13T09:29:20Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 254,
+ "count": 250,
  "jobs": [
   {
    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -159,10 +159,7 @@
    "company": "General Motors",
    "title": "Entry-Level – AI and Machine Learning for Automation Researcher",
    "season": "Class of 2027",
-   "seasons": [
-    "Class of 2027",
-    "Class of 2026"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Data & ML/AI",
    "location": "Warren, Michigan, United States of America",
@@ -2016,36 +2013,6 @@
    "remote": false
   },
   {
-   "id": "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
-   "company": "Bristol Myers Squibb",
-   "title": "Process Data Engineer I - Pharmaceutical Product Development",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad - TS - IN",
-   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T15:05:24Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "Git",
-    "Spark",
-    "dbt",
-    "Databricks"
-   ],
-   "source": "workday",
-   "h1b_approvals": 226,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
    "company": "Northrop Grumman",
    "title": "2026 Associate Software Engineer or Software Engineer - Aurora CO",
@@ -2478,34 +2445,6 @@
    "source": "workday",
    "h1b_approvals": 79,
    "program": "Junior / Associate",
-   "remote": false
-  },
-  {
-   "id": "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-   "company": "Mastercard",
-   "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
-   "season": "Class of 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "O'Fallon, Missouri",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
    "remote": false
   },
   {
@@ -4120,36 +4059,6 @@
    "remote": false
   },
   {
-   "id": "workday:hpe:/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
-   "company": "Hewlett Packard Enterprise",
-   "title": "AI and Machine Learning Engineering Graduate",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Durham, North Carolina, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
-   "posted_at": "2026-09-13T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "HTML/CSS",
-    "Tableau"
-   ],
-   "source": "workday",
-   "h1b_approvals": 499,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "greenhouse:klaviyocampus:7989324003",
    "company": "Klaviyo",
    "title": "Software Engineer I",
@@ -4177,27 +4086,6 @@
    "source": "greenhouse",
    "h1b_approvals": 28,
    "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:roku:8188714",
-   "company": "Roku",
-   "title": "Software Engineer, Early Careers focused on AI and UI",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "San Jose, California",
-   "url": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
-   "posted_at": "2026-09-11T11:14:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "greenhouse",
-   "h1b_approvals": 283,
-   "program": "Early Career",
    "remote": false
   },
   {
