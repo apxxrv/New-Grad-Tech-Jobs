@@ -483,6 +483,18 @@
     }
    }
   },
+  "macy s": {
+   "name": "Macy's",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "oracle:ebwh.fa.us2.oraclecloud.com:91780"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mastercard": {
    "name": "Mastercard",
    "cycles": {
@@ -927,5 +939,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T20:47:23Z"
+ "updated_at": "2026-10-14T23:36:43Z"
 }
