@@ -137,7 +137,10 @@
       "workday:leidos:/job/Huntsville-AL/Junior-Software-Developer_R-00194110",
       "greenhouse:rocketlab:8031475003",
       "greenhouse:taxrise:4434618009",
-      "greenhouse:woolpert:4434848009"
+      "greenhouse:woolpert:4434848009",
+      "breezy:vagaro:2f1a61cf0f5f",
+      "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+      "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -276,7 +279,10 @@
       "workday:leidos:/job/Huntsville-AL/Junior-Software-Developer_R-00194110",
       "greenhouse:rocketlab:8031475003",
       "greenhouse:taxrise:4434618009",
-      "greenhouse:woolpert:4434848009"
+      "greenhouse:woolpert:4434848009",
+      "breezy:vagaro:2f1a61cf0f5f",
+      "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+      "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1"
     ]
   }
 }
