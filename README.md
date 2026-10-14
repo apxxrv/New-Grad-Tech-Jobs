@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 257 open roles (227 listed below) · 50 new this week
+### 256 open roles (226 listed below) · 49 new this week
 
-4,840 employers tracked · data as of Oct 14, 2026 at 01:18 UTC
+4,840 employers tracked · data as of Oct 14, 2026 at 06:17 UTC
 
-_124 have a class year the employer stated · 133 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_123 have a class year the employer stated · 133 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -88,7 +88,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Class of 2027  (74 employer-stated)
+## Class of 2027  (73 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
@@ -160,7 +160,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Old Mission Capital | Quantitative Trader – 2027 Graduate Program (August Start) | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) | Chicago, IL or New York, NY | Python, C++ | Jul 13, 2026 |
 | Hudson River Trading ✓ | Algorithm Developer (Quant Research & Trading) – 2027 Grads | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) | London +5 more | Python, C++, MATLAB, Pandas | Jul 13, 2026 |
 | Hudson River Trading ✓ | Software Engineer (C++ or Python) – 2027 Grads | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Austin +11 more | Python, C++, Linux | Jul 13, 2026 |
-| Momentum | 2027 Launch Graduate Program: Associate Cybersecur​ity Analyst | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8614696002) | Dallas, Texas | Python, Bash | Jul 08, 2026 |
 | Anduril | 2027 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) | Atlanta +26 more | Python, Java, C++, Rust | Jun 11, 2026 |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | New York, New York | Python, Java, C++, Rust | Mar 26, 2026 |
 | Veeva Systems ✓ | Associate Software Engineer - 2027 Start Dates 🛂 | [Apply](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd) | Massachuse​tts - Boston | Python, Java, Rust, TypeScript | Aug 20, 2025 |
@@ -351,11 +350,12 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Veeva Systems | Aug 20 | dropped Aug 20 | ✅ [open now](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd) |
 | 🎯 Ellipsis Labs | Mar 26 | dropped Mar 26 | ✅ [open now](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) |
 | 🎯 Anduril | Jun 11 | dropped Jun 11 | ✅ [open now](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| 🎯 Momentum | Jul 08 | dropped Jul 08 | ✅ [open now](https://job-boards.greenhouse.io/momentumcompany3/jobs/8614696002) |
 | 🎯 Hudson River Trading | Jul 13 | dropped Jul 13 | ✅ [open now](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) |
 | 🎯 Old Mission Capital | Jul 13 | dropped Jul 13 | ✅ [open now](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) |
 | 🎯 Chicago Trading Company | Jul 15 | dropped Jul 15 | ✅ [open now](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) |
 | 🎯 Belvedere Trading | Aug 04 | dropped Aug 04 | ✅ [open now](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) |
+| 🎯 Roblox | Aug 05 | dropped Aug 05 | ✅ [open now](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
+| 🎯 Momentum | Jul 08 | dropped Jul 08 · closed | 🗓️ dropped |
 | 🎯 CapTech Consulting | Aug 31 | dropped Aug 31 · closed | 🗓️ dropped |
 | 🎯 Greenboard | Sep 09 | dropped Sep 09 · closed | 🗓️ dropped |
 | 🎯 GlobalFoundries | Sep 28 | dropped Sep 28 · closed | 🗓️ dropped |
@@ -363,12 +363,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _59 companies on the [full radar](https://apxxrv.github.io/New-Grad-Tech-Jobs/#radar). **59** dated from our own live observations 🎯 (this grows every year). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 15 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 16 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Class year | Closed | Why |
 |---|---|---|---|---|
+| Momentum | 2027 Launch Graduate Program: Associate Cybersecurity Analyst | Class of 2027 | 2026-10-14 | gone from feed |
 | Mastercard | Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US | Class of 2027 | 2026-10-13 | gone from feed |
 | Mastercard | Data Engineer I, Launch Program 2027 – Arlington, VA, US | Class of 2027 | 2026-10-13 | gone from feed |
 | GlobalFoundries | AI/ML Analytics Engineer (2027 New College Graduate) | Class of 2027 | 2026-10-09 | gone from feed |
@@ -402,7 +403,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,688 of 5,133 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 741.1s · 176 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,705 of 5,133 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 759.1s · 180 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

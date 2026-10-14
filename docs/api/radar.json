@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T01:18:15Z",
- "data_as_of": "2026-10-14T01:18:15Z",
- "rendered_at": "2026-10-14T01:18:16Z",
+ "generated_at": "2026-10-14T06:17:09Z",
+ "data_as_of": "2026-10-14T06:17:09Z",
+ "rendered_at": "2026-10-14T06:17:09Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -60,25 +60,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-06-11"
-   }
-  },
-  {
-   "company": "Momentum",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-08",
-   "days_until": -98,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/momentumcompany3/jobs/8614696002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-07-08"
    }
   },
   {
@@ -1067,6 +1048,25 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-09-30"
+   }
+  },
+  {
+   "company": "Momentum",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-08",
+   "days_until": -98,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-08"
    }
   },
   {
