@@ -5,8 +5,64 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-14T11:55:17Z</updated>
+  <updated>2026-10-14T17:14:01Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:signetjewelers:/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1</id>
+    <title>Signet Jewelers: Software Engineer I (Remote)</title>
+    <link href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Support Center - Akron, OH · Python, Java, TypeScript, JavaScript, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:veeva:7d78e2b9-7916-4d30-b1e4-3ecfb41206e2</id>
+    <title>Veeva Systems: Associate DevOps Engineer</title>
+    <link href="https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Massachusetts - Boston · Bash, AWS, Kubernetes, Terraform, Git · H-1B track record: ~86 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998</id>
+    <title>Applied Materials: New College Grad Software Engineer I (Bachelors - Santa Clara, CA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:avav:/job/Moorpark-CA/Associate-Software-Engineer_9016</id>
+    <title>Avav: Associate Software Engineer 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Moorpark, CA · Java, C++, C#, React, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:avav:/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322</id>
+    <title>Avav: Junior Software Engineer 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · 420 National Business Parkway, Jessup, MD · Python, Java, C++, C#, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:clear:8241829</id>
+    <title>CLEAR: Software Development Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/clear/jobs/8241829"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas · Python, Java, TypeScript, React, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1</id>
+    <title>The Boeing Company: Entry Level Software Engineer–Developer (Development) 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Tinker AFB, OK · C++, C#, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:breezy:vagaro:2f1a61cf0f5f</id>
     <title>Vagaro: Jr. AI Engineer</title>
@@ -357,7 +413,7 @@
     <link href="https://job-boards.greenhouse.io/twitch/jobs/8879673002"/>
     <updated>2026-10-08T19:35:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA · React, AWS</summary>
+    <summary>2 openings · Not stated · Software · San Francisco, CA · React, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:bmo:/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1</id>
@@ -750,61 +806,5 @@
     <updated>2026-10-09T18:59:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:7838591</id>
-    <title>Pinterest: University Grad Software Engineer 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838591"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140219</id>
-    <title>Pinterest: Master's University Grad Machine Learning Engineer 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140219"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140363</id>
-    <title>Pinterest: PhD University Grad Machine Learning Engineer (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140363"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8140389</id>
-    <title>Pinterest: Master's University Grad Data Scientist (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140389"/>
-    <updated>2026-10-01T18:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pinterest:8157351</id>
-    <title>Pinterest: PhD University Grad Data Scientist 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8157351"/>
-    <updated>2026-10-03T05:52:47Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, SQL · status: closed · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:fiscalnote:51a2e18f-1af1-416c-9544-5bede8e9537c</id>
-    <title>FiscalNote: Associate Software Engineer 🛂</title>
-    <link href="https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"/>
-    <updated>2026-10-06T07:41:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Washington, DC · 65,000–75,000 USD/yr · Python, C#, JavaScript, SQL, Bash · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:americanredcross:/job/Statewide-CA/Data-Analyst-I-BI--Supply-Management---Work-from-home_RC91612-1</id>
-    <title>American Red Cross: Data Analyst I BI, Supply Management * Work from home</title>
-    <link href="https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-CA/Data-Analyst-I-BI--Supply-Management---Work-from-home_RC91612-1"/>
-    <updated>2026-10-06T07:41:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Statewide, CA · $74k–$84k/yr · Python, SQL · status: closed</summary>
   </entry>
 </feed>
