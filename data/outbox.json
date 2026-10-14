@@ -148,7 +148,12 @@
       "workday:avav:/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
       "greenhouse:clear:8241829",
       "workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
-      "greenhouse:twitch:8887222002"
+      "greenhouse:twitch:8887222002",
+      "workday:analogdevices:/job/US-MA-Wilmington/Android-Mobile-Developer_R262556",
+      "greenhouse:freedomconsulting:5265949007",
+      "workday:micron:/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
+      "workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
+      "workday:boeing:/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -298,7 +303,12 @@
       "workday:avav:/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
       "greenhouse:clear:8241829",
       "workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
-      "greenhouse:twitch:8887222002"
+      "greenhouse:twitch:8887222002",
+      "workday:analogdevices:/job/US-MA-Wilmington/Android-Mobile-Developer_R262556",
+      "greenhouse:freedomconsulting:5265949007",
+      "workday:micron:/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
+      "workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
+      "workday:boeing:/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1"
     ]
   }
 }

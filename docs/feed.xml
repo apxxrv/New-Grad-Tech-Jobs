@@ -5,15 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-14T17:14:01Z</updated>
+  <updated>2026-10-14T20:47:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:signetjewelers:/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1</id>
-    <title>Signet Jewelers: Software Engineer I (Remote)</title>
-    <link href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"/>
+    <id>urn:grad-engine:workday:analogdevices:/job/US-MA-Wilmington/Android-Mobile-Developer_R262556</id>
+    <title>Analog Devices: Associate Software Engineer</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556"/>
+    <updated>2026-10-14T20:47:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, MA, Wilmington · Python, Java, C++, C#, JavaScript · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:freedomconsulting:5265949007</id>
+    <title>Freedom Technology Solutions Group: Junior Software Developer 795</title>
+    <link href="https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007"/>
+    <updated>2026-10-14T20:47:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · $130k–$150k/yr · Python, Java, TypeScript, JavaScript, Vue</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:micron:/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306</id>
+    <title>Micron Technology: New College Grad - Embedded Firmware Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306"/>
+    <updated>2026-10-14T20:47:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Boise, ID - SIG Building · Python, C++, Bash, Linux · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1</id>
+    <title>The Boeing Company: Entry-Level Flight Simulation Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1"/>
+    <updated>2026-10-14T20:47:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Berkeley, MO · Python, Java, C++, C# · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:clear:8241829</id>
+    <title>CLEAR: Software Development Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/clear/jobs/8241829"/>
     <updated>2026-10-14T17:14:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Support Center - Akron, OH · Python, Java, TypeScript, JavaScript, Node.js</summary>
+    <summary>Not stated · Software · Austin, Texas · Python, Java, TypeScript, React, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:veeva:7d78e2b9-7916-4d30-b1e4-3ecfb41206e2</id>
@@ -32,14 +64,6 @@
     <summary>Not stated · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:avav:/job/Moorpark-CA/Associate-Software-Engineer_9016</id>
-    <title>Avav: Associate Software Engineer 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"/>
-    <updated>2026-10-14T17:14:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Moorpark, CA · Java, C++, C#, React, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:avav:/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322</id>
     <title>Avav: Junior Software Engineer 🇺🇸</title>
     <link href="https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322"/>
@@ -48,12 +72,12 @@
     <summary>Not stated · Software · 420 National Business Parkway, Jessup, MD · Python, Java, C++, C#, Docker · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:clear:8241829</id>
-    <title>CLEAR: Software Development Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/clear/jobs/8241829"/>
+    <id>urn:grad-engine:workday:avav:/job/Moorpark-CA/Associate-Software-Engineer_9016</id>
+    <title>Avav: Associate Software Engineer 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"/>
     <updated>2026-10-14T17:14:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, Texas · Python, Java, TypeScript, React, AWS</summary>
+    <summary>Not stated · Software · Moorpark, CA · Java, C++, C#, React, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1</id>
@@ -61,7 +85,15 @@
     <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1"/>
     <updated>2026-10-14T17:14:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Tinker AFB, OK · C++, C#, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Software · USA - Tinker AFB, OK · C++, C#, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:signetjewelers:/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1</id>
+    <title>Signet Jewelers: Software Engineer I (Remote)</title>
+    <link href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"/>
+    <updated>2026-10-14T17:14:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Support Center - Akron, OH · Python, Java, TypeScript, JavaScript, Node.js</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:vagaro:2f1a61cf0f5f</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-02T20:52:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Huntsville, AL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pimacounty:/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589</id>
-    <title>Pima County: Data Engineer I - Information Technology 🛂</title>
-    <link href="https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Engineer-I---Information-Technology_JR104589"/>
-    <updated>2026-10-02T15:55:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · $65.457k–$78.54k/yr · SQL, Git, Snowflake · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:barrywehmiller:/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993</id>
-    <title>Barry-Wehmiller: Entry Level Software Engineer - RDU-3</title>
-    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993"/>
-    <updated>2026-10-04T23:40:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Raleigh, NC · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942</id>
-    <title>CoStar Group: Associate Software Engineer - Sunnyvale, CA 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"/>
-    <updated>2026-10-01T23:06:00Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale (US) · $100k–$120k/yr · Python, Java, C#, TypeScript, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:claylabs:16778e12-31cb-4ca1-a321-7f629a7cf273</id>
-    <title>Clay: Early Career Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273"/>
-    <updated>2026-10-09T18:59:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js · status: closed</summary>
   </entry>
 </feed>
