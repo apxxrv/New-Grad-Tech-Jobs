@@ -8,7 +8,7 @@
 
 ### 264 open roles (231 listed below) · 55 new this week
 
-4,863 employers tracked · data as of Oct 15, 2026 at 07:31 UTC
+4,863 employers tracked · data as of Oct 15, 2026 at 13:03 UTC
 
 _123 have a class year the employer stated · 141 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -365,7 +365,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _60 companies on the [full radar](https://apxxrv.github.io/New-Grad-Tech-Jobs/#radar). **60** dated from our own live observations 🎯 (this grows every year). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 15 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 14 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -385,7 +385,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | CoStar Group | Associate Software Engineer - Richmond, VA | Class of 2027 | 2026-10-03 | gone from feed |
 | CapTech Consulting | Software Engineering Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Class of 2027 | 2026-10-02 | gone from feed |
 | Lila Sciences | AI Residency Program, Material Science (2026 Cohort) | Class of 2026 | 2026-10-01 | gone from feed |
-| Anduril | Space Orbital Software Engineer, Emerging Talent | Class of 2026 | 2026-10-01 | gone from feed |
 
 </details>
 
@@ -404,7 +403,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,718 of 5,163 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 786.8s · 183 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,732 of 5,163 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 868.6s · 196 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
