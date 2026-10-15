@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-15T21:26:13Z</updated>
+  <updated>2026-10-15T22:57:26Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:affirm:8017340003</id>
+    <title>Affirm: Software Engineer I, Fullstack (Search)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8017340003"/>
+    <updated>2026-10-15T22:57:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote US · Python, TypeScript, JavaScript, Kotlin · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e</id>
     <title>1Password: Junior Security Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-05T19:02:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Louisville, CO</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:opploans:8011770003</id>
-    <title>Opploans: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/opploans/jobs/8011770003"/>
-    <updated>2026-10-04T17:39:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · Java, AWS, Kubernetes, Docker, Terraform</summary>
   </entry>
 </feed>

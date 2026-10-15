@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-15T21:26:13Z",
- "data_as_of": "2026-10-15T21:26:13Z",
- "rendered_at": "2026-10-15T21:26:14Z",
+ "generated_at": "2026-10-15T22:57:26Z",
+ "data_as_of": "2026-10-15T22:57:26Z",
+ "rendered_at": "2026-10-15T22:58:07Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -861,6 +861,24 @@
    }
   },
   {
+   "company": "IMC Trading",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+   "note": "",
+   "provenance": {
+    "type": "live-role",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -1165,5 +1183,5 @@
    }
   }
  ],
- "count": 61
+ "count": 62
 }
