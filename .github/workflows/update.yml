@@ -11,7 +11,7 @@ on:
 
 permissions:
   contents: write             # needed so the bot can commit the refreshed data
-  actions: read               # verify Pages deployed before sending alerts
+  actions: write              # dispatch Pages deployment before waiting for it
 
 concurrency:
   group: new-grad-engine-writer
@@ -105,6 +105,16 @@ jobs:
             echo "rendered_at=$(python -c 'import json; print(json.load(open("data/stats.json"))["rendered_at"])')"
             echo "pages_url=https://${OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
           } >> "$GITHUB_OUTPUT"
+
+      # Bot pushes do not trigger push workflows or branch-based Pages builds.
+      # Dispatch deployment here: a workflow_run trigger would wait until this
+      # entire run ends, while the next step waits for the deployed build.
+      - name: Deploy published dashboard
+        if: steps.publish.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run pages.yml --repo "$GH_REPO" --ref main
 
       # A git push is not yet a public dashboard. During the Aug 6 incident,
       # update #369 pushed successfully while its Pages deploy timed out, so an
