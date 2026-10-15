@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-15T17:56:19Z",
- "data_as_of": "2026-10-15T17:56:19Z",
- "rendered_at": "2026-10-15T17:56:19Z",
+ "generated_at": "2026-10-15T21:26:13Z",
+ "data_as_of": "2026-10-15T21:26:13Z",
+ "rendered_at": "2026-10-15T21:26:14Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -614,44 +614,6 @@
    }
   },
   {
-   "company": "Graphcore",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-23",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841995002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-23"
-   }
-  },
-  {
-   "company": "Mastercard",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-24"
-   }
-  },
-  {
    "company": "Voloridge",
    "last_cycle_posted": "",
    "posted_on": "2026-09-24",
@@ -877,6 +839,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---Foster-City_REF085423W",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-15"
    }
   },
   {
@@ -1127,6 +1108,44 @@
    }
   },
   {
+   "company": "Graphcore",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": -22,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-23"
+   }
+  },
+  {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
    "company": "GlobalFoundries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -1146,5 +1165,5 @@
    }
   }
  ],
- "count": 60
+ "count": 61
 }

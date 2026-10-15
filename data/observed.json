@@ -887,6 +887,25 @@
     }
    }
   },
+  "visa": {
+   "name": "Visa",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---Foster-City_REF085423W"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---Foster-City_REF085423W"
+     ],
+     "count": 1
+    }
+   }
+  },
   "voloridge": {
    "name": "Voloridge",
    "cycles": {
@@ -939,5 +958,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T17:56:19Z"
+ "updated_at": "2026-10-15T21:26:13Z"
 }
