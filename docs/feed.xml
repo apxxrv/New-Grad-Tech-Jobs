@@ -5,15 +5,15 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-14T23:36:43Z</updated>
+  <updated>2026-10-15T01:58:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:ebwh.fa.us2.oraclecloud.com:91780</id>
-    <title>Macy's: Macy's 2027 Tech Early Careers - Software Engineer</title>
-    <link href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"/>
-    <updated>2026-10-14T23:36:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Johns Creek, GA, United States · Python, Java, JavaScript, SQL, Swift</summary>
+    <id>urn:grad-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989</id>
+    <title>Hewlett Packard Enterprise: Graduate Cloud Developer</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989"/>
+    <updated>2026-10-15T01:58:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States of America · Python, Java, Scala, HTML/CSS, Kubernetes · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:axon:7908744003</id>
@@ -22,6 +22,14 @@
     <updated>2026-10-14T23:36:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Scottsdale, Arizona, United States · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:ebwh.fa.us2.oraclecloud.com:91780</id>
+    <title>Macy's: Macy's 2027 Tech Early Careers - Software Engineer</title>
+    <link href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"/>
+    <updated>2026-10-14T23:36:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Johns Creek, GA, United States · Python, Java, JavaScript, SQL, Swift</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:freedomconsulting:5265949007</id>
@@ -139,9 +147,9 @@
     <id>urn:grad-engine:greenhouse:rocketlab:8031475003</id>
     <title>Rocket Lab: Data Scientist I 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8031475003"/>
-    <updated>2026-10-13T22:00:57Z</updated>
+    <updated>2026-10-15T01:58:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · Python, C++, MATLAB · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:taxrise:4434618009</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-03T00:35:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mountain View, California, United States · Python, Java, C++, Kafka · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc</id>
-    <title>Harvey: Software Engineer, New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"/>
-    <updated>2026-10-02T20:52:39Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York · $165K – $181.5K • Offers Equity • Offers Bonus · Python, Java, TypeScript, JavaScript, LLMs</summary>
   </entry>
 </feed>
