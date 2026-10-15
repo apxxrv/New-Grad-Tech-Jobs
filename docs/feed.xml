@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-15T13:03:25Z</updated>
+  <updated>2026-10-15T17:56:19Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:qualtrics:8264811</id>
+    <title>Qualtrics: Software Engineer I</title>
+    <link href="https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811"/>
+    <updated>2026-10-15T17:56:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Provo, Utah, United States · Java, JavaScript, SQL, Scala, Node.js · H-1B track record: ~122 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:sirenopt:4452002009</id>
+    <title>SirenOpt: Software Engineer (Early Career) – C++ &amp; Systems</title>
+    <link href="https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"/>
+    <updated>2026-10-15T17:56:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Leandro, California, United States · C++, Python, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989</id>
     <title>Hewlett Packard Enterprise: Graduate Cloud Developer</title>
@@ -451,9 +467,9 @@
     <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232</id>
     <title>Bristol Myers Squibb: Analytics Engineer I, Commercialization</title>
     <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607232"/>
-    <updated>2026-10-13T17:19:23Z</updated>
+    <updated>2026-10-09T13:17:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, Git, Databricks, Tableau · status: closed · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, Git, Databricks, Tableau · H-1B track record: ~226 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-03T15:25:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, Go, TypeScript, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:striveworks:8002825003</id>
-    <title>Striveworks: Junior Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/striveworks/jobs/8002825003"/>
-    <updated>2026-10-03T15:25:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, Texas, United States · $100k–$130k/yr · Python, SQL, PyTorch, TensorFlow, GraphQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:ServiceNow:744000153279380</id>
-    <title>ServiceNow: Software Engineer, Core Infrastructure - Moveworks (New Grad)</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000153279380"/>
-    <updated>2026-10-03T00:35:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California, United States · Python, Java, C++, Kafka · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

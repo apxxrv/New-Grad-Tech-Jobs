@@ -157,7 +157,9 @@
       "oracle:ebwh.fa.us2.oraclecloud.com:91780",
       "greenhouse:axon:7908744003",
       "workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935",
-      "workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989"
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989",
+      "greenhouse:qualtrics:8264811",
+      "greenhouse:sirenopt:4452002009"
     ],
     "telegram": [
       "amazon:amazon:10530257",
@@ -316,7 +318,9 @@
       "oracle:ebwh.fa.us2.oraclecloud.com:91780",
       "greenhouse:axon:7908744003",
       "workday:dxctechnology:/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935",
-      "workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989"
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989",
+      "greenhouse:qualtrics:8264811",
+      "greenhouse:sirenopt:4452002009"
     ]
   }
 }
