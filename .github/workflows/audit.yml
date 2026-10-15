@@ -21,7 +21,7 @@ concurrency:
 jobs:
   audit:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
@@ -41,6 +41,14 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      # Discovery can grow the registry after the last update. Rendering alone
+      # keeps that update's fetch metrics, so the registry-drift gate would
+      # reject the audit. Fetch against this checkout before auditing it.
+      - name: Refresh jobs and fetch statistics
+        env:
+          WORKDAY_PROXY: ${{ secrets.WORKDAY_PROXY }}
+        run: python run.py update
 
       - name: Re-audit inferred class years against posting text
         run: python tools/audit_seasons.py --apply
@@ -62,11 +70,14 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/jobs.json data/new_grad_jobs.csv data/stats.json \
+                  data/health.json data/history.jsonl data/outbox.json \
                   data/observed.json \
                   docs/index.html docs/feed.xml docs/unsubscribe.html \
                   docs/confirm.html docs/new_grad_jobs.csv \
                   docs/radar.ics docs/trends-light.svg docs/trends-dark.svg \
                   docs/api/jobs.json docs/api/stats.json docs/api/radar.json
+          # The refresh queues new-role alerts. Persist them with the jobs;
+          # the regular update workflow delivers them after verifying Pages.
           if git diff --staged --quiet; then
             echo "Backlog already in line."
             exit 0
