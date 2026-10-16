@@ -86,7 +86,7 @@ def test_distinct_roles_are_not_folded_together():
         "b": _opening("b", title="Database Engineer I"),
     })
     assert html.count("<tr data-id=") == 2
-    assert "openings<" not in html
+    assert '<details class="opening-links">' not in html
 
 
 def test_a_star_on_an_absorbed_requisition_moves_to_the_surviving_row():
@@ -98,3 +98,72 @@ def test_a_star_on_an_absorbed_requisition_moves_to_the_surviving_row():
     assert "if (saved[ids[i]]) { saved[tr.dataset.id] = saved[ids[i]]; break; }" in html
     # And every one of those ids still counts as present.
     assert "ids.forEach(function (id) { currentIds[id] = true; });" in html
+
+
+def test_every_grouped_application_is_reachable_even_with_more_than_seven_openings():
+    from html.parser import HTMLParser
+
+    class Links(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.links = []
+
+        def handle_starttag(self, tag, attrs):
+            if tag == "a":
+                self.links.append(dict(attrs))
+
+    html = _render({str(i): _opening(str(i)) for i in range(12)})
+    parser = Links()
+    parser.feed(html)
+    for i in range(12):
+        matches = [a for a in parser.links if a.get("href") == f"https://x/{i}"]
+        assert matches
+        assert all(a.get("target") == "_blank" and "noopener" in a.get("rel", "")
+                   for a in matches)
+    assert 'class="rt" href="https://x/0"' in html
+    assert 'class="apply" href="https://x/0"' in html
+
+
+def test_dashboard_keeps_complete_location_salary_and_export_fields():
+    import json
+    from html.parser import HTMLParser
+
+    class Rows(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.records = []
+
+        def handle_starttag(self, tag, attrs):
+            attrs = dict(attrs)
+            if tag == "tr" and "data-export" in attrs:
+                self.records.append(attrs)
+
+    location = "San Francisco, California; New York, New York; Austin, Texas"
+    salary = "$100,000–$150,000 per year plus equity and annual bonus"
+    url = 'https://example.com/apply?job=12&source=board'
+    html = _render({"a": _opening("a", company='A & B', location=location,
+                                  salary=salary, url=url)})
+    parser = Rows()
+    parser.feed(html)
+    record = json.loads(parser.records[0]["data-export"])
+    assert record == ['A & B', 'Software Engineer I', 'Class of 2027', 'Software',
+                      location, salary, '2026-08-05', url]
+    assert json.loads(parser.records[0]["data-urls"]) == [url]
+    assert location in html and salary in html
+
+
+def test_dashboard_rejects_executable_job_urls_and_escapes_feed_text():
+    html = _render({"a": _opening("a", title='<script>alert(1)</script>',
+                                  url='javascript:alert(1)')})
+    assert 'href="javascript:' not in html
+    assert '<script>alert(1)</script>' not in html
+    assert 'Link unavailable' in html
+
+
+def test_newest_first_orders_grouped_rows_by_the_date_shown():
+    html = _render({
+        'a': _opening('a', posted_at='2026-08-01T00:00:00Z'),
+        'b': _opening('b', posted_at='2026-08-06T00:00:00Z'),
+        'c': _opening('c', title='Another role', posted_at='2026-08-04T00:00:00Z'),
+    })
+    assert html.index('<tr data-id="c"') < html.index('<tr data-id="a"')
