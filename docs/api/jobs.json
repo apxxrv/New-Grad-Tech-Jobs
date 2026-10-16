@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-10-16T01:07:08Z",
- "data_as_of": "2026-10-16T01:07:08Z",
- "rendered_at": "2026-10-16T01:07:08Z",
+ "generated_at": "2026-10-16T04:31:55Z",
+ "data_as_of": "2026-10-16T04:31:55Z",
+ "rendered_at": "2026-10-16T04:31:55Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 262,
+ "count": 263,
  "jobs": [
+  {
+   "id": "greenhouse:spacex:8893406002",
+   "company": "SpaceX",
+   "title": "New Graduate Engineer, Infrastructure",
+   "season": "Class of 2027",
+   "seasons": [
+    "Class of 2027",
+    "Class of 2026"
+   ],
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Starbase, TX",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
+   "posted_at": "2026-10-15T21:17:49-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-16T04:31:55Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "MATLAB"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "greenhouse:honeycomb:5452584008",
    "company": "Honeycomb",

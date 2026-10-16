@@ -842,9 +842,10 @@
       "greenhouse:spacex:8730567002",
       "greenhouse:spacex:8743362002",
       "greenhouse:spacex:8802897002",
-      "greenhouse:spacex:8854394002"
+      "greenhouse:spacex:8854394002",
+      "greenhouse:spacex:8893406002"
      ],
-     "count": 8
+     "count": 9
     },
     "Class of 2026": {
      "first_posted": "2026-08-14",
@@ -855,9 +856,10 @@
       "greenhouse:spacex:8724316002",
       "greenhouse:spacex:8730567002",
       "greenhouse:spacex:8802897002",
-      "greenhouse:spacex:8854394002"
+      "greenhouse:spacex:8854394002",
+      "greenhouse:spacex:8893406002"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -970,5 +972,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T01:07:08Z"
+ "updated_at": "2026-10-16T04:31:55Z"
 }

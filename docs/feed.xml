@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-16T01:07:08Z</updated>
+  <updated>2026-10-16T04:31:55Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8893406002</id>
+    <title>SpaceX: New Graduate Engineer, Infrastructure</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002"/>
+    <updated>2026-10-16T04:31:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Starbase, TX · Python, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:honeycomb:5452584008</id>
     <title>Honeycomb: Software Engineer I - LLM Observability 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:lseg:/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057</id>
-    <title>LSEG: Real-Time Software Engineer - Early Career</title>
-    <link href="https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"/>
-    <updated>2026-10-13T02:09:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS · status: closed</summary>
   </entry>
 </feed>
