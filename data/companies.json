@@ -1749,6 +1749,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Angel City",
+    "slug": "wfclainc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Angle Health",
     "slug": "anglehealth",
     "ats": "ashby"
@@ -6780,6 +6785,11 @@
   {
     "name": "CommonLit",
     "slug": "commonlit",
+    "ats": "lever"
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "slug": "cfsenergy",
     "ats": "lever"
   },
   {
@@ -16271,6 +16281,11 @@
     "ats": "lever"
   },
   {
+    "name": "Luminai",
+    "slug": "luminai",
+    "ats": "ashby"
+  },
+  {
     "name": "Luminance",
     "slug": "luminance-1",
     "ats": "workable"
@@ -19719,6 +19734,11 @@
     "ats": "ashby"
   },
   {
+    "name": "OpenSea",
+    "slug": "opensea",
+    "ats": "breezy"
+  },
+  {
     "name": "OpenSesame",
     "slug": "opensesame",
     "ats": "greenhouse"
@@ -22342,6 +22362,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Republic"
+  },
+  {
+    "name": "Research Innovations",
+    "slug": "researchinnovations",
+    "ats": "lever"
   },
   {
     "name": "Resend",
@@ -29244,6 +29269,11 @@
     "name": "Whoop",
     "slug": "whoop",
     "ats": "ashby"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "slug": "wikimedia",
+    "ats": "greenhouse"
   },
   {
     "name": "Wilbur-Ellis",
