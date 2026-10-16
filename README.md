@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 263 open roles (230 listed below) · 56 new this week
+### 264 open roles (231 listed below) · 56 new this week
 
-4,874 employers tracked · data as of Oct 16, 2026 at 09:27 UTC
+4,879 employers tracked · data as of Oct 16, 2026 at 14:21 UTC
 
-_124 have a class year the employer stated · 139 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_124 have a class year the employer stated · 140 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe) or [RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 5,175 job-board endpoints (4,874 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 5,181 job-board endpoints (4,879 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -194,12 +194,14 @@ If it helps you, a star means a lot and tells me to keep going.
 | TP-Link Systems | 2026 Early Career Embedded Software Engineer 🛂 | [Apply](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/) | Irvine, California, United States | C++ | May 12, 2026 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (129 roles)
+## Recently posted — class year not stated  (130 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| GE Vernova | Firmware Engineer - Early Career 🆕 _(2 openings)_ | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2) [#2](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-2) | Roanoke US VA 3 | C++, C#, .NET | Oct 16, 2026 |
+| RTX | Battlespace Cybersecur​ity Researcher I 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE… | No skills listed | Oct 16, 2026 |
 | Honeycomb 🆁 | Software Engineer I - LLM Observabil​ity 🛂 🆕 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5452584008) | Remote - United States | LLMs, Python, TypeScript, React | Oct 15, 2026 |
 | Affirm ✓ 🆁 | Software Engineer I, Fullstack (Search) 🆕 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US | Python, TypeScript, JavaScript, Kotlin | Oct 15, 2026 |
 | 1Password 🆁 | Junior Security Engineer 🆕 | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
@@ -241,7 +243,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Handshake | Software Engineer I, Build Review & Test | [Apply](https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58) | San Francisco, CA | TypeScript, JavaScript, Node.js, Kubernetes | Oct 07, 2026 |
 | ASSYST | Full Stack Developer (Entry Level) 🇺🇸 | [Apply](https://job-boards.greenhouse.io/assystinc/jobs/4436912009) | Sterling, VA | Python, Java, C#, JavaScript | Oct 07, 2026 |
 | CACI | Entry Level C# Software Engineer 🇺🇸 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) | Virginia Beach, VA, US | C#, Python, SQL, Linux | Oct 07, 2026 |
-| Western Governors University ✓ | Associate Data Engineer | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991) | Salt Lake City, UT | Python, Java, TypeScript, JavaScript | Oct 07, 2026 |
 | Avav | Junior Software Engineer 🇺🇸 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322) | 420 National Business Parkway +2 more | Python, Java, C++, C# | Oct 06, 2026 |
 | Avav | Associate Software Engineer 🇺🇸 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016) | Moorpark, CA | Java, C++, C#, React | Oct 06, 2026 |
 | Hewlett Packard Enterprise ✓ | Systems/Software Engineer I - Graduate | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648) | Houston, Texas, United States of America | HTML/CSS | Oct 06, 2026 |
@@ -279,7 +280,7 @@ These postings never name a class year — not in the title, not in the posting 
 | Micron Technology ✓ | New College Grad - IT Software Support Engineer | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038) | Boise, ID - ID1 | Python, C#, SQL, Bash | Sep 25, 2026 |
 | Laminar | Junior Software Engineer, Edge Platform | [Apply](https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6) | Boston, MA | Python, C++, Rust, Bash | Sep 24, 2026 |
 | Applied Materials ✓ | Data Scientist New College Grad- Bachelor's/Master's (Austin, TX) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684) | Austin,TX | Python, SQL, Pandas, LLMs | Sep 24, 2026 |
-| Leidos ✓ | Junior Software Developer 🇺🇸 _(2 openings)_ | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00193099) [#2](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110) | Huntsville, AL | Python, Java, C++, C# | Sep 24, 2026 |
+| Leidos ✓ | Junior Software Developer 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00193099) | Huntsville, AL | Python, Java, C++, C# | Sep 24, 2026 |
 | RELX | Software Engineer 1 | [Apply](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1) | Alpharetta, GA | Java, SQL, Spring | Sep 24, 2026 |
 | Striveworks | Junior Software Engineer | [Apply](https://job-boards.greenhouse.io/striveworks/jobs/8002825003) | Austin, Texas, United States | Python, SQL, PyTorch, TensorFlow | Sep 23, 2026 |
 | Nuro ✓ | Software Engineer, Performance Tooling and Infrastruc​ture New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8227399) | Mountain View, California (HQ) | Python, C++, SQL, GCP | Sep 23, 2026 |
@@ -403,7 +404,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,697 of 5,175 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 802.9s · 184 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,815 of 5,181 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 657.5s · 207 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

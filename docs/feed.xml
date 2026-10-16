@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-16T09:27:27Z</updated>
+  <updated>2026-10-16T14:21:31Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2</id>
+    <title>GE Vernova: Firmware Engineer - Early Career</title>
+    <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2"/>
+    <updated>2026-10-16T14:21:31Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Hardware · Roanoke US VA 3 · C++, C#, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980</id>
+    <title>RTX: Battlespace Cybersecurity Researcher I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980"/>
+    <updated>2026-10-16T14:21:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:spacex:8893406002</id>
     <title>SpaceX: New Graduate Engineer, Infrastructure</title>
@@ -246,6 +262,14 @@
     <updated>2026-10-13T22:00:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · St. Petersburg, FL · Java, Spring, AWS, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:leidos:/job/Huntsville-AL/Junior-Software-Developer_R-00194110</id>
+    <title>Leidos: Junior Software Developer 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110"/>
+    <updated>2026-10-16T14:21:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Huntsville, AL · Python, Java, C++, C#, Bash · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:justworks:8236815</id>
@@ -595,9 +619,9 @@
     <id>urn:grad-engine:workday:wgu:/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991</id>
     <title>Western Governors University: Associate Data Engineer</title>
     <link href="https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025991"/>
-    <updated>2026-10-07T19:42:39Z</updated>
+    <updated>2026-10-16T14:21:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Salt Lake City, UT · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~32 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Salt Lake City, UT · Python, Java, TypeScript, JavaScript, SQL · status: closed · H-1B track record: ~32 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1</id>
-    <title>Resmed: Associate Android Developer</title>
-    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"/>
-    <updated>2026-10-13T02:09:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, CA, United States · $90k–$136k/yr · Java, Kotlin, Git · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:geico:/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205</id>
-    <title>Geico: Machine Learning Engineer I (MLE I), Fraud Risk Modeling 🛂</title>
-    <link href="https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Machine-Learning-Engineer-I--MLE-I---Fraud-Risk-Modeling_R0066205"/>
-    <updated>2026-10-05T19:02:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · $185k/yr · Python, Java, SQL, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineer-I--Onsite-_01878522"/>
-    <updated>2026-10-06T07:41:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Java, Linux · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>

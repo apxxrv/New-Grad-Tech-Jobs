@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-2",
+      "workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980"
+    ],
+    "telegram": [
+      "workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-2",
+      "workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980"
+    ]
   }
 }
