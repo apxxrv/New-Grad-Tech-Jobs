@@ -408,6 +408,18 @@
     }
    }
   },
+  "imc trading": {
+   "name": "IMC Trading",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "greenhouse:imc:4796143101"
+     ],
+     "count": 1
+    }
+   }
+  },
   "klaviyo": {
    "name": "Klaviyo",
    "cycles": {
@@ -958,5 +970,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T22:57:26Z"
+ "updated_at": "2026-10-16T01:07:08Z"
 }

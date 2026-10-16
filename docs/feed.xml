@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-15T22:57:26Z</updated>
+  <updated>2026-10-16T01:07:08Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:honeycomb:5452584008</id>
+    <title>Honeycomb: Software Engineer I - LLM Observability 🛂</title>
+    <link href="https://job-boards.greenhouse.io/honeycomb/jobs/5452584008"/>
+    <updated>2026-10-16T01:07:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - United States · LLMs, Python, TypeScript, React · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:affirm:8017340003</id>
     <title>Affirm: Software Engineer I, Fullstack (Search)</title>
@@ -59,9 +67,9 @@
     <id>urn:grad-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989</id>
     <title>Hewlett Packard Enterprise: Graduate Cloud Developer</title>
     <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989"/>
-    <updated>2026-10-15T01:58:23Z</updated>
+    <updated>2026-10-16T01:07:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, California, United States of America · Python, Java, Scala, HTML/CSS, Kubernetes · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Jose, California, United States of America · Python, Java, Scala, HTML/CSS, Kubernetes · status: closed · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:axon:7908744003</id>
@@ -91,9 +99,9 @@
     <id>urn:grad-engine:workday:analogdevices:/job/US-MA-Wilmington/Android-Mobile-Developer_R262556</id>
     <title>Analog Devices: Associate Software Engineer</title>
     <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556"/>
-    <updated>2026-10-14T20:47:23Z</updated>
+    <updated>2026-10-16T01:07:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US, MA, Wilmington · Python, Java, C++, C#, JavaScript · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · US, MA, Wilmington · Python, Java, C++, C#, JavaScript · status: closed · H-1B track record: ~181 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-13T02:09:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · USA-St. Louis-795 Office Pkwy · Python, Java, C++, C#, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1</id>
-    <title>Sierra Space: Cybersecurity Analyst I</title>
-    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Cybersecurity-Analyst-I_R26266-1"/>
-    <updated>2026-10-05T19:02:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Louisville, CO</summary>
   </entry>
 </feed>
