@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:axon:7703668003",
+      "workday:caci:/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671",
+      "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:ivytech:/job/Indianapolis-IN/Information-Security-Associate-Engineer_JR0000109918"
+    ],
+    "telegram": [
+      "greenhouse:axon:7703668003",
+      "workday:caci:/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671",
+      "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:ivytech:/job/Indianapolis-IN/Information-Security-Associate-Engineer_JR0000109918"
+    ]
   }
 }

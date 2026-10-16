@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-16T18:30:29Z</updated>
+  <updated>2026-10-16T21:49:49Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:axon:7703668003</id>
+    <title>Axon: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/axon/jobs/7703668003"/>
+    <updated>2026-10-16T21:49:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Seattle, Washington, United States · Java, C#, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671</id>
+    <title>CACI: Junior Data Analyst</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671"/>
+    <updated>2026-10-16T21:49:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Florham Park, NJ, US · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ivytech:/job/Indianapolis-IN/Information-Security-Associate-Engineer_JR0000109918</id>
+    <title>Ivy Tech Community College: Information Security Associate Engineer</title>
+    <link href="https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Information-Security-Associate-Engineer_JR0000109918"/>
+    <updated>2026-10-16T21:49:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Indianapolis, IN · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:mastercard:/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852</id>
     <title>Mastercard: AI Engineer I, Launch Program 2027 – St. Louis, MO, US</title>
@@ -83,9 +107,9 @@
     <id>urn:grad-engine:greenhouse:qualtrics:8264811</id>
     <title>Qualtrics: Software Engineer I</title>
     <link href="https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811"/>
-    <updated>2026-10-15T17:56:19Z</updated>
+    <updated>2026-10-16T21:49:49Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Provo, Utah, United States · Java, JavaScript, SQL, Scala, Node.js · H-1B track record: ~122 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Provo, Utah, United States · Java, JavaScript, SQL, Scala, Node.js · status: closed · H-1B track record: ~122 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:sirenopt:4452002009</id>
@@ -211,9 +235,9 @@
     <id>urn:grad-engine:workday:signetjewelers:/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1</id>
     <title>Signet Jewelers: Software Engineer I (Remote)</title>
     <link href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"/>
-    <updated>2026-10-14T17:14:01Z</updated>
+    <updated>2026-10-16T21:49:49Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Support Center - Akron, OH · Python, Java, TypeScript, JavaScript, Node.js</summary>
+    <summary>Not stated · Software · Support Center - Akron, OH · Python, Java, TypeScript, JavaScript, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:vagaro:2f1a61cf0f5f</id>
@@ -315,9 +339,9 @@
     <id>urn:grad-engine:workable:tp-link-usa-corp:F943A617EC</id>
     <title>TP-Link Systems: 2026 Early Career Embedded Software Engineer 🛂</title>
     <link href="https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/"/>
-    <updated>2026-10-13T02:09:52Z</updated>
+    <updated>2026-10-16T21:49:49Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Irvine, California, United States · C++ · sponsorship: no-sponsorship</summary>
+    <summary>Class of 2026 · Software · Irvine, California, United States · C++ · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-06T07:41:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · TX - Farmers Branch · Java, SQL, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:nuro:8248317</id>
-    <title>Nuro: New Grad Software Engineer, Product Engineering</title>
-    <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, California (HQ) · Python, Java, C++, TypeScript, React · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103</id>
-    <title>General Motors: Machine Learning Engineer, AI Inference Solutions (Early in Career)</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:iqvia:/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568</id>
-    <title>IQVIA: MedTech Field Service Software Tech Entry level - Batesville, IN 🛂</title>
-    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Batesville, Indiana, United States · $27–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
