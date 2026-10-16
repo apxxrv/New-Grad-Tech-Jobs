@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-16T14:21:31Z</updated>
+  <updated>2026-10-16T18:30:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:mastercard:/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852</id>
+    <title>Mastercard: AI Engineer I, Launch Program 2027 – St. Louis, MO, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852"/>
+    <updated>2026-10-16T18:30:29Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · O'Fallon, Missouri · LLMs</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:gevernova:/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-2</id>
     <title>GE Vernova: Firmware Engineer - Early Career</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-06T00:57:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Batesville, Indiana, United States · $27–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:mastercard:/job/OFallon-Missouri/Software-Engineer-I_R-291661</id>
-    <title>Mastercard: Software Engineer I</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661"/>
-    <updated>2026-10-06T00:57:52Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · O'Fallon, Missouri · Java, Go, SQL, Kotlin, LLMs</summary>
   </entry>
 </feed>
