@@ -48,7 +48,18 @@ _PAGE_SIZE = 20   # hard server-side cap per request
 _MAX_JOBS = 200   # per search term; big tenants list hundreds of "graduate" hits
 # Workday's searchText is literal enough that "new grad" misses "Entry Level
 # Engineer" and "Early Career Program", so we union the common phrasings.
-_SEARCH_TERMS = ("new grad", "early career", "entry level", "graduate")
+# Level-I and junior titles ("Software Engineer 1" at RTX, "Associate Software
+# Engineer" at Lowe's) match none of those four. Measured 2026-10-16 on the
+# 72 tenants holding 107 such missed roles: "software engineer i" returns 40
+# of them and "junior" 10 more. On 20 random tenants the two terms cost about
+# 39% more Workday requests (176 -> 244) and capped one extra board in one of
+# two samples. "associate" would add 12 more roles but capped 4 of 20 random
+# boards at 200 results, and a capped board can no longer close roles, so it
+# is left out. Multi-word terms are not phrase searches: Workday matches them
+# loosely, which is why "software engineer i" also finds "Associate Software
+# Engineer".
+_SEARCH_TERMS = ("new grad", "early career", "entry level", "graduate",
+                 "software engineer i", "junior")
 
 
 def _resolve_posted(text: str | None) -> str | None:

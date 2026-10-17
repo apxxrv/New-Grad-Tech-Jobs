@@ -529,6 +529,18 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             if season is None:
                 dropped_no_year += 1
                 continue
+            if filters.is_location_placeholder(job.location):
+                # Workday's list page says "2 Locations" every run; the real
+                # places came from the detail page once (enrich) and are on
+                # record. Reuse them so the verdict and the shown location
+                # don't flip back to the placeholder.
+                prior_location = (
+                    existing.get(stored_owner(job) or job.id) or {}
+                ).get("location") or ""
+                if prior_location not in ("", "—") and not (
+                    filters.is_location_placeholder(prior_location)
+                ):
+                    job.location = prior_location
             in_region = filters.region_ok(job.location, wants_us, wants_canada)
             if restrict and not in_region and not include_intl:
                 continue
@@ -559,6 +571,63 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             kept.append(job)
     return (kept, succeeded, complete, seen_ids, errors, errors_by_ats,
             dropped_no_year, dropped_offcycle)
+
+
+def _settle_enriched(kept: list, existing: dict, cfg: dict,
+                     offcycle: int) -> tuple[list, int]:
+    """Re-check kept roles against what enrichment just read.
+
+    Enrichment may have replaced an inferred cycle with the one the posting
+    text states, or replaced Workday's "N Locations" with the real places.
+    Anything now off-cycle or out of region leaves the list, and the verdict
+    is written into the store so the role never re-enters (or pays another
+    detail fetch) on later runs. Returns (still kept, off-cycle count).
+    """
+    cycles = config.cycles(cfg)
+    ts = store.now_iso()
+    region_scoped = (
+        config.restrict_region(cfg) and not config.include_international(cfg)
+    )
+    wants_us, wants_canada = config.want_us(cfg), config.want_canada(cfg)
+    still = []
+    for job in kept:
+        # A Workday "N Locations" role passed the region check as unknown;
+        # enrichment may now have read its real places. A role whose
+        # places are all out of region leaves here and its verdict is
+        # stored (below) so it is not detail-fetched again next run.
+        out_of_region = region_scoped and not filters.region_ok(
+            job.location, wants_us, wants_canada,
+        )
+        # NOT_STATED survives alongside the tracked cycles: it isn't a
+        # cycle claim, it's the absence of one, and those roles have their
+        # own section. Only a real OFF-cycle label ("Summer 2026") drops.
+        if not out_of_region and (
+            job.season in cycles or job.season == filters.NOT_STATED
+        ):
+            still.append(job)
+            continue
+        if not out_of_region:
+            offcycle += 1
+        record = existing.get(job.id)
+        if record is None:
+            record = {
+                k: v for k, v in asdict(job).items()
+                if k not in models.TRANSIENT_FIELDS
+            }
+            record.update(first_seen_at=ts, last_seen_at=ts,
+                          is_open=False, closed_at=ts,
+                          closed_reason="out-of-scope")
+            existing[job.id] = record
+        elif out_of_region:
+            record["location"] = job.location
+            record["closed_reason"] = "out-of-scope"
+        else:
+            record["season"] = job.season
+            record["seasons"] = [job.season] if job.season else []
+            record["season_inferred"] = False
+            record["closed_reason"] = "out-of-scope"
+        record["enriched_at"] = ts  # settled: never fetch this posting again
+    return still, offcycle
 
 
 def _migrate_date_sources(existing: dict) -> None:
@@ -726,39 +795,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
         other = [j for j in kept if j.source not in ("workday", "oracle")]
         ids_a, n_a = await enrich.enrich_jobs(other, existing, net)
         ids_b, n_b = await enrich.enrich_jobs(wd_jobs, existing, workday_net)
-        # Enrichment may have replaced an inferred cycle with the one the
-        # posting text states; anything now off-cycle leaves the list — and the
-        # verdict is written into the store so the role never re-enters (or
-        # pays another detail fetch) on later runs.
-        cycles = config.cycles(cfg)
-        ts = store.now_iso()
-        offcycle = offcycle_sticky
-        still = []
-        for job in kept:
-            # NOT_STATED survives alongside the tracked cycles: it isn't a
-            # cycle claim, it's the absence of one, and those roles have their
-            # own section. Only a real OFF-cycle label ("Summer 2026") drops.
-            if job.season in cycles or job.season == filters.NOT_STATED:
-                still.append(job)
-                continue
-            offcycle += 1
-            record = existing.get(job.id)
-            if record is None:
-                record = {
-                    k: v for k, v in asdict(job).items()
-                    if k not in models.TRANSIENT_FIELDS
-                }
-                record.update(first_seen_at=ts, last_seen_at=ts,
-                              is_open=False, closed_at=ts,
-                              closed_reason="out-of-scope")
-                existing[job.id] = record
-            else:
-                record["season"] = job.season
-                record["seasons"] = [job.season] if job.season else []
-                record["season_inferred"] = False
-                record["closed_reason"] = "out-of-scope"
-            record["enriched_at"] = ts  # settled: never fetch this posting again
-        kept = still
+        kept, offcycle = _settle_enriched(kept, existing, cfg, offcycle_sticky)
         return (succeeded, complete, seen_ids, errors, errors_by_ats,
                 ids_a | ids_b, n_a + n_b, no_year, offcycle)
 

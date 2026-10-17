@@ -43,9 +43,13 @@ _DOMAIN_WORD = (
 )
 # "Software Engineer II", "Data Scientist 2", "Engineer - III", "SWE L4".
 # A level above I is a mid-level role even when the posting says "early career".
+# A number that counts days/months is a schedule, not a level: "Junior Software
+# Engineer- 4 Days Onsite" and "Specialist (12 month duration)" were rejected
+# as level 4 and level 12.
 _LEVEL_RE = re.compile(
     r"\b" + _ROLE_WORD + r"\s*(?:[-–—,(:/]\s*)?(?:ii|iii|iv|v|vi|[2-9]|1\d|"
     r"l[2-9]|level\s+(?:ii|iii|iv|v|[2-9]))\b(?![\d.])"
+    r"(?![\s-]*(?:days?|weeks?|months?|hours?|hrs?|years?|yrs?)\b)"
     r"|\b(?:ii|iii|iv)\b|\bl[3-9]\b|\blevel\s+(?:[2-9]|ii|iii|iv|v)\b"
     r"|\b(?:1|i)\s*/\s*(?:2|ii)\b",
     re.IGNORECASE,
@@ -66,6 +70,12 @@ _NEW_GRAD_RE = re.compile(
     r"campus\s+(?:hire|hiring|recruit(?:ing|ment)?|program(?:me)?)|"
     r"class\s+of\s+['’]?\d{2,4}|"
     r"rotation(?:al)?\s+(?:program(?:me)?|" + _ROLE_WORD + r"|analyst|associate)|"
+    # Banks and big employers name campus hires as programs: JPMorgan's
+    # "Software Engineer Program", BNY's "Analyst Program", M&T's
+    # "Technology Development Program". "Program Manager" still fails on
+    # "manager", and "Software Program Management" matches none of these.
+    # (A class year + "Program" is checked separately, see _YEAR_PROGRAM_RE.)
+    r"(?:" + _ROLE_WORD + r"|associate|development|leadership)\s+program(?:me)?\b|"
     r"(?:associate|junior|jr\.?)\s+(?:" + _DOMAIN_WORD + r"\s+)?" + _ROLE_WORD + r"|"
     + _ROLE_WORD + r"\s*(?:[-–—,(:/]\s*)?(?:i|1|one)\b(?![\d.])|"
     r"20\d\d\s+(?:start|starts?|graduates?|grads?|cohort)|"
@@ -74,6 +84,16 @@ _NEW_GRAD_RE = re.compile(
     r")",
     re.IGNORECASE,
 )
+# "2027 Software Engineer Program", "Infrastructure Engineer [2027 EDGE
+# Program]": a class year plus "Program" is a campus hire, but only next to a
+# role word. Without one it is a student event: Five Rings' "LINK 2027:
+# Software Development Intensive Program" is a workshop for sophomores.
+_YEAR_PROGRAM_RE = re.compile(
+    r"(?<![\w#-])20\d\d(?![\w-])[^|]{0,80}?\bprogram(?:me)?\b"
+    r"|\bprogram(?:me)?\b[^|]{0,80}?(?<![\w#-])20\d\d(?![\w-])",
+    re.IGNORECASE,
+)
+_ROLE_WORD_RE = re.compile(r"\b" + _ROLE_WORD + r"\b", re.IGNORECASE)
 # Explicit "school-leaver" wording outranks Junior/Associate/Entry Level when
 # a title says several of them ("Associate Software Engineer (New Grad)").
 _EXPLICIT_GRAD_RE = re.compile(
@@ -152,7 +172,10 @@ _NON_TECH_EXCLUDE_RE = re.compile(
     r"talent acquisition|talent management|talent partner|talent sourcing|"
     r"talent operations|talent development|"
     r"communications|supply chain|business development|product design|product designer|"
-    r"product manager|product management|ux design|graphic design|industrial design"
+    r"product manager|product management|ux design|graphic design|industrial design|"
+    # A "Product Developer" formulates physical products (PPG's aerospace
+    # sealants), not software.
+    r"product developer"
     r")\b",
     re.IGNORECASE,
 )
@@ -179,15 +202,19 @@ def is_new_grad(title: str) -> bool:
 
     Positive evidence is the employer's own wording: "New Grad", "University
     Graduate", "Early Career", "Entry Level", "Class of 2027", a rotational
-    program, "Associate"/"Junior" + a role word, or a level-I title ("Software
-    Engineer I"). Internship, co-op, apprenticeship and fellowship titles are
-    rejected outright, as is anything with a seniority word or a level above I.
+    program, "Associate"/"Junior" + a role word, a level-I title ("Software
+    Engineer I"), or a campus program ("2027 Software Engineer Program",
+    "Technology Development Program"). Internship, co-op, apprenticeship and
+    fellowship titles are rejected outright, as is anything with a seniority
+    word or a level above I.
     """
     if not title:
         return False
     if _INTERN_RE.search(title) or _SENIOR_RE.search(title) or _LEVEL_RE.search(title):
         return False
-    return bool(_NEW_GRAD_RE.search(title))
+    if _NEW_GRAD_RE.search(title):
+        return True
+    return bool(_YEAR_PROGRAM_RE.search(title) and _ROLE_WORD_RE.search(title))
 
 
 def is_tech(title: str) -> bool:
@@ -592,6 +619,76 @@ _GEORGIA_COUNTRY_CITIES = {
 }
 
 
+# Workday's list API shows "2 Locations" / "5 Locations" instead of the places
+# when a role is open in several. That says nothing about the country, so it
+# must not count as foreign: Adobe, NVIDIA and Blue Origin new grad roles were
+# dropped for it. The detail page lists the real places (see enrich).
+_LOCATION_PLACEHOLDER_RE = re.compile(r"^\s*\d+\s+locations?\s*$", re.IGNORECASE)
+
+# Employers often give a bare city ("Miami", "SAN JOSE", "Seattle (hybrid)").
+# These are well-known US cities whose name is not also a city that shows up in
+# foreign or Canadian postings. Deliberately left out because the name is
+# shared: London, Paris, Cambridge, Oxford, Birmingham, Manchester, Dublin,
+# Durham, Richmond, Vancouver, Victoria, Kingston, Windsor, Waterloo, Hamilton,
+# Athens, Alexandria, Melbourne, Toledo, Aurora, Georgetown. Those still need
+# a state or country to count as US. "San Jose" is kept: a Costa Rica posting
+# names the country, which is checked first and wins.
+_US_CITIES = frozenset({
+    "new york", "new york city", "nyc", "manhattan", "brooklyn",
+    "san francisco", "sf", "sf bay", "bay", "silicon valley",
+    "los angeles", "san diego", "san jose", "sunnyvale", "mountain view",
+    "palo alto", "menlo park", "santa clara", "cupertino", "redwood city",
+    "san mateo", "foster city", "south san francisco", "oakland", "berkeley",
+    "emeryville", "fremont", "milpitas", "pleasanton", "irvine", "santa monica",
+    "culver city", "el segundo", "pasadena", "burbank", "long beach",
+    "sacramento", "carlsbad", "seattle", "bellevue", "redmond", "kirkland",
+    "tacoma", "spokane", "portland", "beaverton", "hillsboro", "boise",
+    "salt lake city", "lehi", "provo", "denver", "boulder", "colorado springs",
+    "phoenix", "scottsdale", "tempe", "chandler", "tucson", "las vegas",
+    "albuquerque", "austin", "dallas", "houston", "san antonio", "fort worth",
+    "plano", "irving", "frisco", "el paso", "oklahoma city", "tulsa",
+    "kansas city", "omaha", "minneapolis", "st paul", "saint paul", "chicago",
+    "evanston", "milwaukee", "madison", "detroit", "ann arbor", "grand rapids",
+    "indianapolis", "columbus", "cleveland", "cincinnati", "pittsburgh",
+    "philadelphia", "baltimore", "boston", "somerville", "providence",
+    "hartford", "stamford", "new haven", "jersey city", "hoboken", "newark",
+    "princeton", "arlington", "reston", "herndon", "mclean",
+    "tysons", "chantilly", "fairfax", "annapolis junction", "columbia",
+    "bethesda", "rockville", "gaithersburg", "raleigh", "cary",
+    "charlotte", "research triangle park", "rtp", "atlanta", "alpharetta",
+    "nashville", "memphis", "knoxville", "louisville", "lexington",
+    "st louis", "saint louis", "huntsville", "orlando",
+    "tampa", "miami", "jacksonville", "fort lauderdale", "boca raton",
+    "new orleans", "baton rouge", "honolulu", "anchorage", "des moines",
+    "charleston", "greenville", "rochester", "buffalo", "syracuse",
+    "palm bay", "dayton", "akron", "norfolk",
+    "virginia beach", "san luis obispo", "santa barbara", "goleta",
+})
+_CITY_NOISE_RE = re.compile(
+    r"\([^)]*\)"
+    r"|\b(?:remote|hybrid|on[\s-]?site|in[\s-]?office|general\s+offices?|offices?|"
+    r"headquarters|hq|campus|metro(?:politan)?|area|greater)\b",
+    re.IGNORECASE,
+)
+# "US-WA-Bellevue", "US-AZ-TUCSON-805 ~ ...": country-state-city codes.
+_US_PREFIX_RE = re.compile(
+    r"^\s*(?:US|USA)\s*[-–:]\s*(?:" + "|".join(c for c in _US_CODES if len(c) == 2)
+    + r")\b"
+)
+
+
+def is_location_placeholder(location: str) -> bool:
+    """True for Workday's "N Locations" stand-in for a multi-place role."""
+    return bool(_LOCATION_PLACEHOLDER_RE.match(location or ""))
+
+
+def _is_bare_us_city(option: str) -> bool:
+    """"Miami", "SAN JOSE", "Seattle (hybrid)", "Greater Seattle Area"."""
+    core = _CITY_NOISE_RE.sub(" ", option.lower()).replace(".", "")
+    core = " ".join(re.sub(r"[^a-z' ]+", " ", core).split())
+    return core in _US_CITIES
+
+
 def _location_parts(location: str) -> list[str]:
     return [part.strip() for part in _LOCATION_PART_RE.split(location) if part.strip()]
 
@@ -637,7 +734,7 @@ def is_united_states(location: str) -> bool:
         return any(is_united_states(option) for option in options)
     low = location.lower()
     stripped = _AMERICA_NOT_US_RE.sub(" ", low)
-    if _US_COUNTRY_RE.search(stripped):
+    if _US_COUNTRY_RE.search(stripped) or _US_PREFIX_RE.match(location):
         return True
     parts = _location_parts(location)
     us_signal = _structured_signal(parts, _US_STATES, _US_CODES)
@@ -685,7 +782,7 @@ def is_united_states(location: str) -> bool:
         return False
     if _US_CODE_RE.search(location):
         return True
-    return False
+    return _is_bare_us_city(location)
 
 
 def is_canada(location: str) -> bool:
@@ -715,7 +812,12 @@ def region_ok(location: str, want_us: bool, want_canada: bool) -> bool:
     """True if the location matches one of the wanted regions.
 
     Conservative: a bare "Remote" with no country mentioned matches nothing.
+    The one exception is Workday's "N Locations" placeholder, which names no
+    place at all: it is unknown, not foreign, so it is not rejected here. The
+    pipeline swaps in the real places from the detail page when it can.
     """
+    if (want_us or want_canada) and is_location_placeholder(location):
+        return True
     if want_us and is_united_states(location):
         return True
     if want_canada and is_canada(location):

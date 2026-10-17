@@ -213,11 +213,11 @@ def test_workday_relative_dates():
     assert jobs[0].url.endswith("/Careers/job/1")
     # Both searches ran to exhaustion, so this is the company's whole list.
     assert result.complete
-    # All four search terms return the same postings here; identity is the job
+    # Every search term returns the same postings here; identity is the job
     # id, so the overlap collapses instead of double-listing every role.
     assert len(jobs) == 2
     # 2 postings < page size -> one request per term, no useless pagination.
-    assert len(net.urls) == 4
+    assert len(net.urls) == len(workday._SEARCH_TERMS)
     assert net.urls[0] == "https://acme.wd5.myworkdayjobs.com/wday/cxs/acme/Careers/jobs"
 
 
@@ -564,7 +564,7 @@ def test_workday_keeps_first_positive_total_when_later_full_page_says_zero():
     assert len(result.jobs) == 45
     assert ("new grad", 40) in net.calls
     terms = list(dict.fromkeys(term for term, _ in net.calls))
-    assert terms == ["new grad", "early career", "entry level", "graduate"]
+    assert terms == list(workday._SEARCH_TERMS)
 
 
 def test_workday_reports_an_intentional_result_cap_separately():
@@ -594,7 +594,7 @@ def test_workday_stops_when_a_tenant_repeats_the_same_page():
     assert len(result.jobs) == 20
     assert result.complete is False
     assert result.incomplete_reason == INCOMPLETE_STALLED
-    assert len(net.urls) == 8  # two calls per search term (four terms), not ten
+    assert len(net.urls) == 2 * len(workday._SEARCH_TERMS)  # two calls per term, not ten
 
 
 class OraclePagingNet:
