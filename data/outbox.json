@@ -1,54 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:egug.fa.us2.oraclecloud.com:26013319",
-      "oracle:egug.fa.us2.oraclecloud.com:26013354",
-      "oracle:egug.fa.us2.oraclecloud.com:26013352",
-      "oracle:egug.fa.us2.oraclecloud.com:26013356",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010922",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010937",
-      "oracle:eeho.fa.us2.oraclecloud.com:346357",
-      "oracle:eihu.fa.us8.oraclecloud.com:2616914",
-      "oracle:edbz.fa.us2.oraclecloud.com:25015894",
-      "greenhouse:abnormalsecurity:8015179003",
-      "workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196",
-      "workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409",
-      "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
-      "workday:chewy:/job/Bellevue-WA/Software-Engineer-I_R30985-1",
-      "workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020",
-      "workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788",
-      "workday:clearwateranalytics:/job/Office---Boise/Software-Development-Engineer-I_R12059",
-      "workday:directv:/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319",
-      "workday:dxctechnology:/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714",
-      "workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
-      "workday:healthresearch:/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1",
-      "greenhouse:lyft:8896679002",
-      "workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"
-    ],
-    "telegram": [
-      "oracle:egug.fa.us2.oraclecloud.com:26013319",
-      "oracle:egug.fa.us2.oraclecloud.com:26013354",
-      "oracle:egug.fa.us2.oraclecloud.com:26013352",
-      "oracle:egug.fa.us2.oraclecloud.com:26013356",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010922",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010937",
-      "oracle:eeho.fa.us2.oraclecloud.com:346357",
-      "oracle:eihu.fa.us8.oraclecloud.com:2616914",
-      "oracle:edbz.fa.us2.oraclecloud.com:25015894",
-      "greenhouse:abnormalsecurity:8015179003",
-      "workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196",
-      "workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409",
-      "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
-      "workday:chewy:/job/Bellevue-WA/Software-Engineer-I_R30985-1",
-      "workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020",
-      "workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788",
-      "workday:clearwateranalytics:/job/Office---Boise/Software-Development-Engineer-I_R12059",
-      "workday:directv:/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319",
-      "workday:dxctechnology:/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714",
-      "workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
-      "workday:healthresearch:/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1",
-      "greenhouse:lyft:8896679002",
-      "workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
