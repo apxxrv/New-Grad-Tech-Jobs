@@ -4813,6 +4813,12 @@
     "ats": "greenhouse"
   },
   {
+    "name": "ByteDance",
+    "slug": "bytedance",
+    "ats": "bytedance",
+    "brand": "bytedance"
+  },
+  {
     "name": "C Spire",
     "slug": "cspire-telapex",
     "ats": "workday",
@@ -26777,6 +26783,12 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "crc_careers"
+  },
+  {
+    "name": "TikTok",
+    "slug": "tiktok",
+    "ats": "bytedance",
+    "brand": "tiktok"
   },
   {
     "name": "Tilde Research",

@@ -1,0 +1,153 @@
+{
+ "code": 0,
+ "data": {
+  "job_post_list": [
+   {
+    "id": "7668206857737455877",
+    "code": "A258115A",
+    "title": "Multimodal Generative AI Research Scientist (Intelligent Creation) – Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+    "description": "We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock ",
+    "requirement": "Minimum Qualifications:\n- Individuals who are completing or have recently completed a PhD degree in Software Development",
+    "recruit_type": {
+     "id": "201",
+     "name": null,
+     "en_name": "Regular",
+     "i18n_name": "Regular"
+    },
+    "job_category": {
+     "id": "6704215862603155720",
+     "name": null,
+     "en_name": "R&D",
+     "i18n_name": "R&D",
+     "parent": null
+    },
+    "city_info": {
+     "code": "CT_157",
+     "location_type": 3,
+     "name": null,
+     "en_name": "Seattle",
+     "i18n_name": "Seattle",
+     "parent": {
+      "code": "ST_54",
+      "location_type": 2,
+      "name": null,
+      "en_name": "Washington",
+      "i18n_name": "Washington",
+      "parent": {
+       "code": "CN_6",
+       "location_type": 1,
+       "name": null,
+       "en_name": "United States of America",
+       "i18n_name": "United States of America",
+       "parent": null
+      }
+     }
+    },
+    "tag_list": null,
+    "job_subject": {
+     "id": "7626270100032063797",
+     "name": null,
+     "en_name": "Global Frontier Tech Recruitment Program - 2027 Grad",
+     "i18n_name": "Global Frontier Tech Recruitment Program - 2027 Grad"
+    },
+    "vacancies": null,
+    "department_info": null,
+    "job_post_info": {
+     "min_salary": null,
+     "max_salary": null,
+     "currency": null,
+     "required_degree": null,
+     "experience": null,
+     "sequence": null,
+     "min_level": null,
+     "max_level": null,
+     "highlight_list": null,
+     "job_post_object_value_list": null,
+     "expiry_time": null
+    },
+    "process_type": null,
+    "channel_online_status": null
+   },
+   {
+    "id": "7516696922863864072",
+    "code": "A161597",
+    "title": "Research Scientist Graduate (TikTok Recommendation-Large Recommender Models) - 2026 Start (PhD)",
+    "description": "You'll be joining the TikTok Recommendation team focusing on advancing large-scale recommender systems that power TikTok’s personalized content discovery and us",
+    "requirement": "Minimum Qualifications  \n1. Individuals who are completing or have recently completed a PhD degree in Computer Science, ",
+    "recruit_type": {
+     "id": "201",
+     "name": null,
+     "en_name": "Regular",
+     "i18n_name": "Regular"
+    },
+    "job_category": {
+     "id": "6704215956018694411",
+     "name": null,
+     "en_name": "Algorithm",
+     "i18n_name": "Algorithm",
+     "parent": {
+      "id": "6704215862603155720",
+      "name": null,
+      "en_name": "R&D",
+      "i18n_name": "R&D",
+      "parent": null
+     }
+    },
+    "city_info": {
+     "code": "CT_1103355",
+     "location_type": 3,
+     "name": null,
+     "en_name": "San Jose",
+     "i18n_name": "San Jose",
+     "parent": {
+      "code": "ST_31",
+      "location_type": 2,
+      "name": null,
+      "en_name": "California",
+      "i18n_name": "California",
+      "parent": {
+       "code": "CN_6",
+       "location_type": 1,
+       "name": null,
+       "en_name": "United States of America",
+       "i18n_name": "United States of America",
+       "parent": null
+      }
+     }
+    },
+    "tag_list": null,
+    "job_subject": {
+     "id": "7459988146945116434",
+     "name": null,
+     "en_name": "PhD Graduates - 2026 Start",
+     "i18n_name": "PhD Graduates - 2026 Start"
+    },
+    "vacancies": null,
+    "department_info": null,
+    "job_post_info": {
+     "min_salary": null,
+     "max_salary": null,
+     "currency": null,
+     "required_degree": null,
+     "experience": null,
+     "sequence": null,
+     "min_level": null,
+     "max_level": null,
+     "highlight_list": null,
+     "job_post_object_value_list": null,
+     "expiry_time": null
+    },
+    "process_type": null,
+    "channel_online_status": null
+   }
+  ],
+  "count": 2,
+  "BaseResp": {
+   "StatusMessage": "Success",
+   "StatusCode": 0,
+   "Extra": null
+  }
+ },
+ "message": "ok",
+ "error": null
+}
