@@ -845,6 +845,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "AgZen",
+    "slug": "agzen",
+    "ats": "ashby"
+  },
+  {
     "name": "AHEAD",
     "slug": "thinkahead",
     "ats": "lever"
@@ -858,6 +863,11 @@
     "name": "AI Intern to the CEO",
     "slug": "cyvl",
     "ats": "ashby"
+  },
+  {
+    "name": "Aidashinc",
+    "slug": "aidashinc",
+    "ats": "greenhouse"
   },
   {
     "name": "AIG",
@@ -993,6 +1003,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Albert Bartlett",
+    "slug": "albert-bartlett",
+    "ats": "workable"
   },
   {
     "name": "Alberta Blue Cross",
@@ -1162,6 +1177,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "alliant"
+  },
+  {
+    "name": "Alliaxis",
+    "slug": "aliaxis",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "aliaxis"
   },
   {
     "name": "Allica Bank",
@@ -2601,6 +2623,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "aamc"
+  },
+  {
+    "name": "Assort Health",
+    "slug": "assorthealth",
+    "ats": "ashby"
   },
   {
     "name": "Assurant",
@@ -7796,6 +7823,11 @@
     "site": "customersbankcareers"
   },
   {
+    "name": "CVector",
+    "slug": "cvector",
+    "ats": "workable"
+  },
+  {
     "name": "CVS Health",
     "slug": "cvshealth",
     "ats": "workday",
@@ -10108,6 +10140,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Externaljobboards",
+    "slug": "externaljobboards",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Extra Space Storage",
     "slug": "extraspace",
     "ats": "workday",
@@ -11327,6 +11364,11 @@
   {
     "name": "Future Publishing",
     "slug": "futureplc",
+    "ats": "workable"
+  },
+  {
+    "name": "G-20 Group",
+    "slug": "g-20-advisors-ag",
     "ats": "workable"
   },
   {
@@ -15166,6 +15208,11 @@
     "site": "External_Career_Site"
   },
   {
+    "name": "Keycafe",
+    "slug": "keycafe",
+    "ats": "workable"
+  },
+  {
     "name": "Keyrock",
     "slug": "keyrock",
     "ats": "ashby"
@@ -16092,6 +16139,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Linea Energy",
+    "slug": "linea-energy",
+    "ats": "rippling"
+  },
+  {
     "name": "Lineage Logistics",
     "slug": "onelineage",
     "ats": "workday",
@@ -16432,6 +16484,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "univerahealthcarecareers"
+  },
+  {
+    "name": "Lthc",
+    "slug": "lthc",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "cdphpcareers"
   },
   {
     "name": "Lucid",
@@ -20589,6 +20648,11 @@
     "name": "Patreon",
     "slug": "patreon",
     "ats": "ashby"
+  },
+  {
+    "name": "Pattern",
+    "slug": "pattern",
+    "ats": "lever"
   },
   {
     "name": "Pattern Data",
@@ -29481,6 +29545,11 @@
     "name": "Webflow",
     "slug": "webflow",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "ats": "ashby"
   },
   {
     "name": "WebFX",
