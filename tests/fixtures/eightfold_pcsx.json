@@ -1,0 +1,39 @@
+{
+  "_note": "Trimmed from live /api/pcsx/search responses (Qualcomm, Microsoft), Oct 2026. Real records; facets and unused fields removed; the first record lists Markham first to exercise US-first ordering.",
+  "page": {
+    "status": 200,
+    "error": {"message": "", "body": ""},
+    "data": {
+      "count": 3,
+      "positions": [
+        {"id": 446717848714, "displayJobId": "3089073", "name": "SoC Power Validation Engineer",
+         "locations": ["Markham, Ontario, Canada", "San Diego, California, United States of America",
+                       "Austin, Texas, United States of America", "Folsom, California, United States of America",
+                       "Hillsboro, Oregon, United States of America", "Santa Clara, California, United States of America"],
+         "standardizedLocations": ["Markham, ON, CA", "San Diego, CA, US", "Austin, TX, US", "Folsom, CA, US",
+                                   "Hillsboro, OR, US", "Santa Clara, CA, US"],
+         "postedTs": 1792108800, "creationTs": 1775174400, "atsJobId": "3089073",
+         "department": "ASICS Engineering", "positionUrl": "/careers/job/446717848714"},
+        {"id": 1970393557042160, "displayJobId": "200062425", "name": "Microwave Design and Layout Engineer",
+         "locations": ["United States, Washington, Redmond"], "standardizedLocations": ["Redmond, WA, US"],
+         "postedTs": 1792191245, "creationTs": 1792171634, "atsJobId": "200062425",
+         "department": "Quantum Engineering", "positionUrl": "/careers/job/1970393557042160"},
+        {"id": 446721050790, "displayJobId": "3096319", "name": "TLM/Performance Modelling Engineer",
+         "locations": ["Bangalore, India"], "standardizedLocations": ["Bengaluru, KA, IN"],
+         "postedTs": 1792108800, "creationTs": 1788912000, "atsJobId": "3096319",
+         "positionUrl": "/careers/job/446721050790"}
+      ],
+      "appliedFilters": {"includeRemote": ["0"], "includeRelocation": ["0"], "seniority": ["Entry"]}
+    }
+  },
+  "not_authorized_v2": {"message": "Not authorized for PCSX"},
+  "pcsx_not_enabled": {"message": "PCSX is not enabled for this user."},
+  "rate_limited_body": "Please try again later",
+  "position_details": {
+    "status": 200,
+    "error": {"message": "", "body": ""},
+    "data": {"id": 446721490545, "name": "GPU Low Power Engineer",
+             "jobDescription": "<h2><b>Company:</b></h2>Qualcomm Technologies, Inc.<p>Minimum Qualifications: Bachelor's degree in Engineering.</p>",
+             "publicUrl": "https://careers.qualcomm.com/careers/job/446721490545"}
+  }
+}
