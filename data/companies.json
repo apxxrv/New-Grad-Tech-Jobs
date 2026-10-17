@@ -14783,6 +14783,16 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "John Deere",
+    "slug": "johndeere",
+    "ats": "eightfold",
+    "host": "careers.deere.com",
+    "domain": "johndeere.com",
+    "filters": {
+      "seniority": "1"
+    }
+  },
+  {
     "name": "John Gore Organization",
     "slug": "johngore",
     "ats": "workday",
@@ -17740,6 +17750,16 @@
     "site": "External"
   },
   {
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "ats": "eightfold",
+    "host": "apply.careers.microsoft.com",
+    "domain": "microsoft.com",
+    "filters": {
+      "seniority": "Entry"
+    }
+  },
+  {
     "name": "Middesk",
     "slug": "middesk",
     "ats": "ashby"
@@ -18813,6 +18833,7 @@
     "name": "Netflix",
     "slug": "netflix",
     "ats": "eightfold",
+    "api": "v2",
     "host": "explore.jobs.netflix.net",
     "domain": "netflix.com"
   },
@@ -21931,6 +21952,16 @@
     "name": "Quadrillion",
     "slug": "quadrillion-labs",
     "ats": "ashby"
+  },
+  {
+    "name": "Qualcomm",
+    "slug": "qualcomm",
+    "ats": "eightfold",
+    "host": "careers.qualcomm.com",
+    "domain": "qualcomm.com",
+    "filters": {
+      "seniority": "Entry"
+    }
   },
   {
     "name": "Qualifacts",
@@ -25371,6 +25402,16 @@
     "name": "Starbridge",
     "slug": "starbridge",
     "ats": "ashby"
+  },
+  {
+    "name": "Starbucks",
+    "slug": "starbucks",
+    "ats": "eightfold",
+    "host": "apply.starbucks.com",
+    "domain": "starbucks.com",
+    "filters": {
+      "job_category": "technology"
+    }
   },
   {
     "name": "Starburst",
