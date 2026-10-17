@@ -1,13 +1,40 @@
 {
  "companies": {
+  "3redpartners": {
+   "name": "3RedPartners",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-17",
+     "role_ids": [
+      "greenhouse:3redpartners:8624128002",
+      "greenhouse:3redpartners:8631086002"
+     ],
+     "count": 2
+    }
+   }
+  },
   "66 degrees": {
    "name": "66 Degrees",
    "cycles": {
     "Class of 2027": {
      "first_posted": "2026-10-08",
      "role_ids": [
+      "greenhouse:66degrees:6220259004",
       "greenhouse:66degrees:6220274004",
       "greenhouse:66degrees:6220280004"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "adobe": {
+   "name": "Adobe",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
      ],
      "count": 2
     }
@@ -22,6 +49,19 @@
       "smartrecruiters:AECOM2:744000152763988"
      ],
      "count": 1
+    }
+   }
+  },
+  "aerospace": {
+   "name": "The Aerospace Corporation",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-RPO-Software-Developer-Analyst_R016457",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Vehicle-Systems-Software-Engineer_R016604"
+     ],
+     "count": 2
     }
    }
   },
@@ -87,6 +127,23 @@
     }
    }
   },
+  "applied intuition": {
+   "name": "Applied Intuition",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c",
+      "ashby:applied:250080bd-10a8-4e5f-82b8-506029292d19",
+      "ashby:applied:45fc41cd-8280-4010-ba1f-def6114b3e39",
+      "ashby:applied:6971d533-1536-448b-96b8-544ad5383f44",
+      "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "ashby:applied:a837cbd6-9fe4-4d74-a2dc-84f602c40694"
+     ],
+     "count": 6
+    }
+   }
+  },
   "applied materials": {
    "name": "Applied Materials",
    "cycles": {
@@ -94,6 +151,55 @@
      "first_posted": "2026-09-20",
      "role_ids": [
       "workday:amat:/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "assured guaranty": {
+   "name": "Assured Guaranty",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:assuredguaranty:8827458002",
+      "greenhouse:assuredguaranty:8827460002"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "astranis": {
+   "name": "Astranis",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "greenhouse:astranis:4704716006"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "autodesk": {
+   "name": "Autodesk",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:autodesk:/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "avathon": {
+   "name": "Avathon",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "greenhouse:avathon:4736834005"
      ],
      "count": 1
     }
@@ -113,6 +219,216 @@
     }
    }
   },
+  "blackedge capital": {
+   "name": "BlackEdge Capital",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:blackedgecapital:4732320005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "blue origin": {
+   "name": "Blue Origin",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:blueorigin:/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
+      "workday:blueorigin:/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "workday:blueorigin:/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055",
+      "workday:blueorigin:/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "bluestaq": {
+   "name": "Bluestaq",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "greenhouse:bluestaq:4420189009"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "bny": {
+   "name": "BNY",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:eofe.fa.us2.oraclecloud.com:82245",
+      "oracle:eofe.fa.us2.oraclecloud.com:82246",
+      "oracle:eofe.fa.us2.oraclecloud.com:82247",
+      "oracle:eofe.fa.us2.oraclecloud.com:82248"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "bytedance": {
+   "name": "ByteDance",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2025-05-27",
+     "role_ids": [
+      "bytedance:bytedance:7509248845324273938",
+      "bytedance:bytedance:7509262736619571474",
+      "bytedance:bytedance:7509262740803930376",
+      "bytedance:bytedance:7509266973013690631",
+      "bytedance:bytedance:7509266973236152583",
+      "bytedance:bytedance:7534943709490989319",
+      "bytedance:bytedance:7538946858355476743",
+      "bytedance:bytedance:7540109673547581703",
+      "bytedance:bytedance:7564547210038380853",
+      "bytedance:bytedance:7582010220022106421",
+      "bytedance:bytedance:7585034854077778181",
+      "bytedance:bytedance:7626145948402010421",
+      "bytedance:bytedance:7626928937260665093",
+      "bytedance:bytedance:7671026650366183685",
+      "bytedance:bytedance:7671030761623177477",
+      "bytedance:bytedance:7671032227920431413",
+      "bytedance:bytedance:7671033602288912645"
+     ],
+     "count": 17
+    },
+    "Class of 2027": {
+     "first_posted": "2026-03-31",
+     "role_ids": [
+      "bytedance:bytedance:7623525222555961605",
+      "bytedance:bytedance:7623536303630469381",
+      "bytedance:bytedance:7623540885834107189",
+      "bytedance:bytedance:7623543228228536581",
+      "bytedance:bytedance:7623543401908848949",
+      "bytedance:bytedance:7623545710681016581",
+      "bytedance:bytedance:7623545981743286533",
+      "bytedance:bytedance:7623548379708197125",
+      "bytedance:bytedance:7623550778255165701",
+      "bytedance:bytedance:7623552015124154629",
+      "bytedance:bytedance:7629123702995290421",
+      "bytedance:bytedance:7629124511380654341",
+      "bytedance:bytedance:7629125488116451637",
+      "bytedance:bytedance:7629126608919382277",
+      "bytedance:bytedance:7629126645119650101",
+      "bytedance:bytedance:7629136672475040053",
+      "bytedance:bytedance:7629137778379557173",
+      "bytedance:bytedance:7629483617265289525",
+      "bytedance:bytedance:7629488401364060469",
+      "bytedance:bytedance:7629789975396124981",
+      "bytedance:bytedance:7629845140207061253",
+      "bytedance:bytedance:7629847495073597749",
+      "bytedance:bytedance:7629847900210399493",
+      "bytedance:bytedance:7629850132083542325",
+      "bytedance:bytedance:7631317232770500869",
+      "bytedance:bytedance:7633537809438689541",
+      "bytedance:bytedance:7633538176269306117",
+      "bytedance:bytedance:7664894974764828981",
+      "bytedance:bytedance:7665104241446652213",
+      "bytedance:bytedance:7665108869591140613",
+      "bytedance:bytedance:7665836153219959093",
+      "bytedance:bytedance:7665849950984194309",
+      "bytedance:bytedance:7667291055662811445",
+      "bytedance:bytedance:7667303429264115973",
+      "bytedance:bytedance:7667304540048787765",
+      "bytedance:bytedance:7667334059728341253",
+      "bytedance:bytedance:7667334521286035765",
+      "bytedance:bytedance:7667645514462480645",
+      "bytedance:bytedance:7667685712993650997",
+      "bytedance:bytedance:7667726338627356933",
+      "bytedance:bytedance:7667727006294214965",
+      "bytedance:bytedance:7667730992538585349",
+      "bytedance:bytedance:7667894766036322565",
+      "bytedance:bytedance:7667901772678302005",
+      "bytedance:bytedance:7667926830305528117",
+      "bytedance:bytedance:7667976924430633269",
+      "bytedance:bytedance:7668208806895831349",
+      "bytedance:bytedance:7668365143156721973",
+      "bytedance:bytedance:7668365756950137141",
+      "bytedance:bytedance:7668433722454935861",
+      "bytedance:bytedance:7668461589331642677",
+      "bytedance:bytedance:7668473918173284661",
+      "bytedance:bytedance:7668484998475663621",
+      "bytedance:bytedance:7668614787018393909",
+      "bytedance:bytedance:7668636404159858997",
+      "bytedance:bytedance:7668799019359357237",
+      "bytedance:bytedance:7668799020705679669",
+      "bytedance:bytedance:7668855566150732037",
+      "bytedance:bytedance:7668862426676775173",
+      "bytedance:bytedance:7669791940490168629",
+      "bytedance:bytedance:7669854602477684997",
+      "bytedance:bytedance:7669859743775000885",
+      "bytedance:bytedance:7669899962768165173",
+      "bytedance:bytedance:7670004502598060341",
+      "bytedance:bytedance:7670354624860703029",
+      "bytedance:bytedance:7670355132899526965",
+      "bytedance:bytedance:7670355647603984693",
+      "bytedance:bytedance:7670355689064646917",
+      "bytedance:bytedance:7670550401380878645",
+      "bytedance:bytedance:7670773781477394741",
+      "bytedance:bytedance:7670850283815160069",
+      "bytedance:bytedance:7670932427485186309",
+      "bytedance:bytedance:7671102043532462389",
+      "bytedance:bytedance:7671107540954777861",
+      "bytedance:bytedance:7671108456554432773",
+      "bytedance:bytedance:7671141679848933685",
+      "bytedance:bytedance:7671145911004842245",
+      "bytedance:bytedance:7671148355447343365",
+      "bytedance:bytedance:7671158113903937797",
+      "bytedance:bytedance:7671160649137588485",
+      "bytedance:bytedance:7672383576726276405",
+      "bytedance:bytedance:7672389696568510773",
+      "bytedance:bytedance:7672389697767377205",
+      "bytedance:bytedance:7672391016194066693",
+      "bytedance:bytedance:7672392998189959429",
+      "bytedance:bytedance:7672395094280063285",
+      "bytedance:bytedance:7672398686110910773",
+      "bytedance:bytedance:7673264681083898165",
+      "bytedance:bytedance:7673268418623293749",
+      "bytedance:bytedance:7673306902554102069",
+      "bytedance:bytedance:7673626147481291061",
+      "bytedance:bytedance:7673626856724023557",
+      "bytedance:bytedance:7673630747427719429",
+      "bytedance:bytedance:7673632479987992837",
+      "bytedance:bytedance:7673941558289205509",
+      "bytedance:bytedance:7673946040656267573",
+      "bytedance:bytedance:7675096204766054709",
+      "bytedance:bytedance:7675472998912051461",
+      "bytedance:bytedance:7675473897004861749",
+      "bytedance:bytedance:7675477254315428149",
+      "bytedance:bytedance:7675477660855781637",
+      "bytedance:bytedance:7686732729746950405",
+      "bytedance:bytedance:7686733097398290693",
+      "bytedance:bytedance:7689561253011097909"
+     ],
+     "count": 104
+    }
+   }
+  },
+  "cadence design systems": {
+   "name": "Cadence Design Systems",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:cadence:/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "captech consulting": {
    "name": "CapTech Consulting",
    "cycles": {
@@ -127,6 +443,37 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "smartrecruiters:CapTechConsulting:744000146449269"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "chalk": {
+   "name": "Chalk",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "ashby:chalk:927c74a5-1b40-490d-b3be-a29baec4db6f"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "ashby:chalk:927c74a5-1b40-490d-b3be-a29baec4db6f"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "charles river associates cra": {
+   "name": "Charles River Associates (CRA)",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-14",
+     "role_ids": [
+      "greenhouse:charlesriverassociates:8053945"
      ],
      "count": 1
     }
@@ -156,6 +503,18 @@
     }
    }
   },
+  "constant contact": {
+   "name": "Constant Contact",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "greenhouse:constantcontact:8212432"
+     ],
+     "count": 1
+    }
+   }
+  },
   "costar group": {
    "name": "CoStar Group",
    "cycles": {
@@ -163,6 +522,7 @@
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
       "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
       "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
@@ -170,12 +530,13 @@
       "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
       "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
      ],
-     "count": 7
+     "count": 8
     },
     "Class of 2026": {
      "first_posted": "2026-09-14",
      "role_ids": [
       "workday:costar:/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "workday:costar:/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
       "workday:costar:/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
       "workday:costar:/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
       "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
@@ -183,7 +544,56 @@
       "workday:costar:/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
       "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725"
      ],
-     "count": 7
+     "count": 8
+    }
+   }
+  },
+  "cursor": {
+   "name": "Cursor",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "cwill": {
+   "name": "CWILL",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "workable:cwill-us:3DE00A2E99",
+      "workable:cwill-us:D6136D8314"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "cylake": {
+   "name": "Cylake",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-06-22",
+     "role_ids": [
+      "ashby:cylake-inc:1d1ac42e-299c-42af-bd7c-b8c5fb07f735"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "domino data lab": {
+   "name": "Domino Data Lab",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:dominodatalab:7992556"
+     ],
+     "count": 1
     }
    }
   },
@@ -199,15 +609,29 @@
     }
    }
   },
+  "dtcc": {
+   "name": "DTCC",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "oracle:ebxr.fa.us2.oraclecloud.com:214457",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214463"
+     ],
+     "count": 2
+    }
+   }
+  },
   "dv trading": {
    "name": "DV Trading",
    "cycles": {
     "Class of 2027": {
      "first_posted": "2026-08-10",
      "role_ids": [
+      "greenhouse:dvtrading:4719106005",
       "greenhouse:dvtrading:4719126005"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -230,6 +654,43 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "expedia group": {
+   "name": "Expedia Group",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-02-02",
+     "role_ids": [
+      "workday:expedia:/job/USA---California---San-Jose/Machine-Learning-Science-Graduate---PhD---2026---San-Jose--Seattle_R-98587-1",
+      "workday:expedia:/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "fidelity national information services": {
+   "name": "Fidelity National Information Services",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:fis:/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "five rings": {
+   "name": "Five Rings",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-14",
+     "role_ids": [
+      "greenhouse:fiveringsllc:5255334008"
      ],
      "count": 1
     }
@@ -260,16 +721,18 @@
     "Class of 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "greenhouse:garnerhealth:6174210004"
+      "greenhouse:garnerhealth:6174210004",
+      "greenhouse:garnerhealth:6174213004"
      ],
-     "count": 1
+     "count": 2
     },
     "Class of 2026": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "greenhouse:garnerhealth:6174210004"
+      "greenhouse:garnerhealth:6174210004",
+      "greenhouse:garnerhealth:6174213004"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -279,7 +742,15 @@
     "Class of 2027": {
      "first_posted": "2026-10-10",
      "role_ids": [
-      "workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"
+      "workday:gartner:/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
+      "workday:gartner:/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-10-10",
+     "role_ids": [
+      "workday:gartner:/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849"
      ],
      "count": 1
     }
@@ -340,9 +811,10 @@
     "Class of 2027": {
      "first_posted": "2026-09-28",
      "role_ids": [
-      "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942"
+      "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
+      "workday:globalfoundries:/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -376,7 +848,20 @@
     "Class of 2027": {
      "first_posted": "2026-10-02",
      "role_ids": [
-      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "ashby:harvey:b0996df6-6b6e-42be-a4f9-0084536068f5"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "hewlett packard hp": {
+   "name": "Hewlett Packard (HP)",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699"
      ],
      "count": 1
     }
@@ -392,6 +877,18 @@
       "greenhouse:wehrtyou:8052122"
      ],
      "count": 2
+    }
+   }
+  },
+  "iberdrola group": {
+   "name": "Iberdrola Group",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:iberdrola:/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Local-Graduate-Rotational-Program--Engineering--Operations---Infrastructure_R-33036"
+     ],
+     "count": 1
     }
    }
   },
@@ -417,6 +914,33 @@
       "greenhouse:imc:4796143101"
      ],
      "count": 1
+    }
+   }
+  },
+  "john deere": {
+   "name": "John Deere",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "eightfold:johndeere:137483583981",
+      "eightfold:johndeere:137483700527"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "jpmorganchase": {
+   "name": "JPMorganChase",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "oracle:jpmc.fa.oraclecloud.com:210773954",
+      "oracle:jpmc.fa.oraclecloud.com:210774102",
+      "oracle:jpmc.fa.oraclecloud.com:210774111"
+     ],
+     "count": 3
     }
    }
   },
@@ -476,6 +1000,46 @@
     }
    }
   },
+  "lpl financial holdings": {
+   "name": "LPL Financial Holdings",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-18",
+     "role_ids": [
+      "workday:lplfinancial:/job/Fort-MillCharlotte/New-Grad---2027---Cybersecurity_R-052501-1",
+      "workday:lplfinancial:/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+      "workday:lplfinancial:/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1",
+      "workday:lplfinancial:/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "lseg": {
+   "name": "LSEG",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:lseg:/job/Boston-Massachusetts/Quant-Analyst_R0123224"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "m t bank": {
+   "name": "M&T Bank",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
+     ],
+     "count": 2
+    }
+   }
+  },
   "mach industries": {
    "name": "Mach Industries",
    "cycles": {
@@ -507,6 +1071,31 @@
     }
    }
   },
+  "makai labs": {
+   "name": "Makai Labs",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "ashby:makai-labs:3d4373e8-e09a-4034-a8e0-d511cef44fc7"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "marshall wace": {
+   "name": "Marshall Wace",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "greenhouse:mw-tech-grad:8636830002",
+      "greenhouse:mw-tech-grad:8646947002"
+     ],
+     "count": 2
+    }
+   }
+  },
   "mastercard": {
    "name": "Mastercard",
    "cycles": {
@@ -516,9 +1105,22 @@
       "workday:mastercard:/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
       "workday:mastercard:/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
       "workday:mastercard:/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863",
-      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
+      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+      "workday:mastercard:/job/Pune-India/Software-Engineer--Launch-Program-2027---India_R-287778"
      ],
-     "count": 4
+     "count": 5
+    }
+   }
+  },
+  "mbda": {
+   "name": "MBDA",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "workday:mbda:/job/Bristol/Product-Cyber-Security---Graduate-Programme-2027_R37720"
+     ],
+     "count": 1
     }
    }
   },
@@ -558,15 +1160,47 @@
     }
    }
   },
+  "netic": {
+   "name": "Netic",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-16",
+     "role_ids": [
+      "ashby:netic:bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "ashby:netic:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
+     ],
+     "count": 2
+    },
+    "Class of 2026": {
+     "first_posted": "2026-07-16",
+     "role_ids": [
+      "ashby:netic:bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "ashby:netic:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
+     ],
+     "count": 2
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
     "Class of 2026": {
-     "first_posted": "2026-09-30",
+     "first_posted": "2026-09-28",
      "role_ids": [
-      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2026-Associate-Cyber-Systems-Engineer---Boulder-CO--AHT-_R10253306"
      ],
-     "count": 1
+     "count": 2
+    },
+    "Class of 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
+      "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+     ],
+     "count": 4
     }
    }
   },
@@ -598,34 +1232,52 @@
    "name": "NVIDIA",
    "cycles": {
     "Class of 2026": {
-     "first_posted": "2026-01-27",
+     "first_posted": "2026-01-09",
      "role_ids": [
       "workday:nvidia:/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
       "workday:nvidia:/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+      "workday:nvidia:/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
       "workday:nvidia:/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
      ],
-     "count": 15
+     "count": 18
     },
     "Class of 2027": {
-     "first_posted": "2026-10-09",
+     "first_posted": "2026-08-21",
      "role_ids": [
+      "workday:nvidia:/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107",
+      "workday:nvidia:/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111",
       "workday:nvidia:/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
       "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
      ],
-     "count": 3
+     "count": 6
+    }
+   }
+  },
+  "ohio state university": {
+   "name": "Ohio State University",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:osu:/job/Columbus-Campus/Assistant-Professor--AI-and-Politics---Dept-of-Political-Science_R159307-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -656,6 +1308,55 @@
     }
    }
   },
+  "oneimaging": {
+   "name": "OneImaging",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:oneimaging:4403125009",
+      "greenhouse:oneimaging:4404708009",
+      "greenhouse:oneimaging:4423640009",
+      "greenhouse:oneimaging:4423646009"
+     ],
+     "count": 4
+    },
+    "Class of 2026": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:oneimaging:4403125009",
+      "greenhouse:oneimaging:4404708009",
+      "greenhouse:oneimaging:4423640009",
+      "greenhouse:oneimaging:4423646009"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "openai": {
+   "name": "OpenAI",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pentair": {
+   "name": "Pentair",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:pentair:/job/Golden-Valley-MN/XMLNAME-2027-Engineering-Leadership-Development-Program---Computer-Science---Computer-Engineering_R23949"
+     ],
+     "count": 1
+    }
+   }
+  },
   "pinterest": {
    "name": "Pinterest",
    "cycles": {
@@ -665,6 +1366,20 @@
       "greenhouse:pinterest:7838591",
       "greenhouse:pinterest:8140219",
       "greenhouse:pinterest:8157351"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "procter gamble p g": {
+   "name": "Procter & Gamble (P&G)",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:pg:/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913",
+      "workday:pg:/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919",
+      "workday:pg:/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918"
      ],
      "count": 3
     }
@@ -739,6 +1454,25 @@
     }
    }
   },
+  "rtx": {
+   "name": "RTX",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076"
+     ],
+     "count": 1
+    },
+    "Class of 2027": {
+     "first_posted": "2026-07-20",
+     "role_ids": [
+      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
+     ],
+     "count": 1
+    }
+   }
+  },
   "scale ai": {
    "name": "Scale AI",
    "cycles": {
@@ -757,6 +1491,18 @@
       "greenhouse:scaleai:4736426005"
      ],
      "count": 2
+    }
+   }
+  },
+  "seatgeek": {
+   "name": "SeatGeek",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "greenhouse:seatgeek:8227548"
+     ],
+     "count": 1
     }
    }
   },
@@ -876,6 +1622,241 @@
     }
    }
   },
+  "sun life": {
+   "name": "Sun Life",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "workday:sunlife:/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1",
+      "workday:sunlife:/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "tiktok": {
+   "name": "TikTok",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-04-13",
+     "role_ids": [
+      "bytedance:tiktok:7628321017978767621",
+      "bytedance:tiktok:7628363726332102965",
+      "bytedance:tiktok:7629184028664563973",
+      "bytedance:tiktok:7629188203299735813",
+      "bytedance:tiktok:7629209727155996981",
+      "bytedance:tiktok:7629234781608724741",
+      "bytedance:tiktok:7629235064786127109",
+      "bytedance:tiktok:7629243930022267189",
+      "bytedance:tiktok:7631001257579104565",
+      "bytedance:tiktok:7631061681279797509",
+      "bytedance:tiktok:7633597487467776309",
+      "bytedance:tiktok:7633601975876880645",
+      "bytedance:tiktok:7633605978976520453",
+      "bytedance:tiktok:7663028952600807733",
+      "bytedance:tiktok:7663032057264244997",
+      "bytedance:tiktok:7663036950303050037",
+      "bytedance:tiktok:7663036952090347829",
+      "bytedance:tiktok:7663042453461600517",
+      "bytedance:tiktok:7663388039600883973",
+      "bytedance:tiktok:7663389363824773381",
+      "bytedance:tiktok:7663389745178757429",
+      "bytedance:tiktok:7663389956951918853",
+      "bytedance:tiktok:7664533229944178949",
+      "bytedance:tiktok:7664534268139571509",
+      "bytedance:tiktok:7664978367107713333",
+      "bytedance:tiktok:7665793152026740997",
+      "bytedance:tiktok:7665797203155896581",
+      "bytedance:tiktok:7665973724622342453",
+      "bytedance:tiktok:7665977123255896325",
+      "bytedance:tiktok:7665985896410368261",
+      "bytedance:tiktok:7665986019233958197",
+      "bytedance:tiktok:7665989163791403269",
+      "bytedance:tiktok:7665989305914984709",
+      "bytedance:tiktok:7665991852209932597",
+      "bytedance:tiktok:7665994926854555909",
+      "bytedance:tiktok:7665994926887291189",
+      "bytedance:tiktok:7667344111675246901",
+      "bytedance:tiktok:7667344113001384197",
+      "bytedance:tiktok:7667346535273007413",
+      "bytedance:tiktok:7667346543553710389",
+      "bytedance:tiktok:7667349591747758341",
+      "bytedance:tiktok:7667766028122048773",
+      "bytedance:tiktok:7667767820142643461",
+      "bytedance:tiktok:7667769079948347701",
+      "bytedance:tiktok:7667770207780194613",
+      "bytedance:tiktok:7667837906192877829",
+      "bytedance:tiktok:7668206301950642437",
+      "bytedance:tiktok:7668206857737455877",
+      "bytedance:tiktok:7668207217544677685",
+      "bytedance:tiktok:7668376903708281141",
+      "bytedance:tiktok:7668384123840514309",
+      "bytedance:tiktok:7668389759463393589",
+      "bytedance:tiktok:7668390999147776309",
+      "bytedance:tiktok:7668550561096665397",
+      "bytedance:tiktok:7668554579301124357",
+      "bytedance:tiktok:7668557209047894325",
+      "bytedance:tiktok:7668561079544154373",
+      "bytedance:tiktok:7668566347702569269",
+      "bytedance:tiktok:7668569995571726597",
+      "bytedance:tiktok:7668582086900680965",
+      "bytedance:tiktok:7668582542044072245",
+      "bytedance:tiktok:7668592348941273349",
+      "bytedance:tiktok:7668592494649690421",
+      "bytedance:tiktok:7668629846058223877",
+      "bytedance:tiktok:7668660365135808821",
+      "bytedance:tiktok:7668662545059023157",
+      "bytedance:tiktok:7668663594419374341",
+      "bytedance:tiktok:7668669015051405573",
+      "bytedance:tiktok:7668675484492597557",
+      "bytedance:tiktok:7668681119759616309",
+      "bytedance:tiktok:7668693662561634613",
+      "bytedance:tiktok:7668698260232702261",
+      "bytedance:tiktok:7668700671828707589",
+      "bytedance:tiktok:7668701361741007109",
+      "bytedance:tiktok:7668701834807101749",
+      "bytedance:tiktok:7668717356843977013",
+      "bytedance:tiktok:7668724383120804149",
+      "bytedance:tiktok:7668809845088504117",
+      "bytedance:tiktok:7668824169648097541",
+      "bytedance:tiktok:7668827379083823413",
+      "bytedance:tiktok:7668827381435517237",
+      "bytedance:tiktok:7668828193675036981",
+      "bytedance:tiktok:7668831188103481605",
+      "bytedance:tiktok:7668838052657678597",
+      "bytedance:tiktok:7668843238309824773",
+      "bytedance:tiktok:7668854153882011957",
+      "bytedance:tiktok:7668855346857019701",
+      "bytedance:tiktok:7668879883938203957",
+      "bytedance:tiktok:7669691057987520773",
+      "bytedance:tiktok:7669691374918011141",
+      "bytedance:tiktok:7669698543896054069",
+      "bytedance:tiktok:7669700358734170373",
+      "bytedance:tiktok:7669702699627661573",
+      "bytedance:tiktok:7669709290431236357",
+      "bytedance:tiktok:7669711968024430853",
+      "bytedance:tiktok:7669824148794575109",
+      "bytedance:tiktok:7669824354636613941",
+      "bytedance:tiktok:7669908897587824949",
+      "bytedance:tiktok:7669909088788138245",
+      "bytedance:tiktok:7669910326745434421",
+      "bytedance:tiktok:7669913085331409205",
+      "bytedance:tiktok:7669957922422507781",
+      "bytedance:tiktok:7670276769459456309",
+      "bytedance:tiktok:7670282906426476853",
+      "bytedance:tiktok:7670283981954746677",
+      "bytedance:tiktok:7670285495593273605",
+      "bytedance:tiktok:7670285949553707317",
+      "bytedance:tiktok:7670288355678177589",
+      "bytedance:tiktok:7670292836050422021",
+      "bytedance:tiktok:7670335888371927349",
+      "bytedance:tiktok:7670367152357673221",
+      "bytedance:tiktok:7670387719826786565",
+      "bytedance:tiktok:7670391173613160757",
+      "bytedance:tiktok:7670558992960358661",
+      "bytedance:tiktok:7670681152383813893",
+      "bytedance:tiktok:7670685495206857013",
+      "bytedance:tiktok:7670685496821713205",
+      "bytedance:tiktok:7670686314588801333",
+      "bytedance:tiktok:7670876337129425205",
+      "bytedance:tiktok:7672517471946000645",
+      "bytedance:tiktok:7672518398222387461",
+      "bytedance:tiktok:7672530785573980421",
+      "bytedance:tiktok:7672532275557583157",
+      "bytedance:tiktok:7672532801686571317",
+      "bytedance:tiktok:7672654026594093317",
+      "bytedance:tiktok:7672656091025066293",
+      "bytedance:tiktok:7672877778696407301",
+      "bytedance:tiktok:7672879948538284341",
+      "bytedance:tiktok:7672880386574338309",
+      "bytedance:tiktok:7672882500030138629",
+      "bytedance:tiktok:7672883737036654853",
+      "bytedance:tiktok:7672911151560296709",
+      "bytedance:tiktok:7672915427278457141",
+      "bytedance:tiktok:7672928557537954053",
+      "bytedance:tiktok:7672928557539002629",
+      "bytedance:tiktok:7672976491146004741",
+      "bytedance:tiktok:7673232905797880069",
+      "bytedance:tiktok:7673284715407886597",
+      "bytedance:tiktok:7673409179353139461",
+      "bytedance:tiktok:7673667938889009461",
+      "bytedance:tiktok:7673669198965278981",
+      "bytedance:tiktok:7673672141010815237",
+      "bytedance:tiktok:7673674249270839557",
+      "bytedance:tiktok:7673674252889246005",
+      "bytedance:tiktok:7674023327725373701",
+      "bytedance:tiktok:7674025781001062709",
+      "bytedance:tiktok:7675484418022181173",
+      "bytedance:tiktok:7675829388634392837",
+      "bytedance:tiktok:7676253726624024837",
+      "bytedance:tiktok:7676647728043280645",
+      "bytedance:tiktok:7676650760662157621",
+      "bytedance:tiktok:7678120538997098805",
+      "bytedance:tiktok:7678145401619237173",
+      "bytedance:tiktok:7679156878833682693",
+      "bytedance:tiktok:7681779180341709109",
+      "bytedance:tiktok:7685552742819842357",
+      "bytedance:tiktok:7685552743586826549",
+      "bytedance:tiktok:7685769994391832837",
+      "bytedance:tiktok:7686999927260105013",
+      "bytedance:tiktok:7694054165508557109",
+      "bytedance:tiktok:7694346612567214389",
+      "bytedance:tiktok:7694351754099804469",
+      "bytedance:tiktok:7694352871949682997",
+      "bytedance:tiktok:7694353236283935029",
+      "bytedance:tiktok:7695927144126253317",
+      "bytedance:tiktok:7695929967028750645",
+      "bytedance:tiktok:7696779797359233333",
+      "bytedance:tiktok:7696782198126545157"
+     ],
+     "count": 168
+    },
+    "Class of 2026": {
+     "first_posted": "2025-06-11",
+     "role_ids": [
+      "bytedance:tiktok:7514842976109365512",
+      "bytedance:tiktok:7516696922863864072",
+      "bytedance:tiktok:7516697794956478738",
+      "bytedance:tiktok:7516697804673190151",
+      "bytedance:tiktok:7517105710544161032",
+      "bytedance:tiktok:7517107684337748242",
+      "bytedance:tiktok:7517108164819454216",
+      "bytedance:tiktok:7517442299329300754",
+      "bytedance:tiktok:7523144222812408071",
+      "bytedance:tiktok:7527441329384147208",
+      "bytedance:tiktok:7550790814831511815",
+      "bytedance:tiktok:7550798923146250504",
+      "bytedance:tiktok:7631070662808160565"
+     ],
+     "count": 13
+    }
+   }
+  },
+  "together ai": {
+   "name": "Together AI",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-16",
+     "role_ids": [
+      "greenhouse:togetherai:5238471007"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "tower research capital": {
+   "name": "Tower Research Capital",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-05",
+     "role_ids": [
+      "greenhouse:towerresearchcapital:8024142"
+     ],
+     "count": 1
+    }
+   }
+  },
   "tp link systems": {
    "name": "TP-Link Systems",
    "cycles": {
@@ -883,6 +1864,18 @@
      "first_posted": "2026-05-12",
      "role_ids": [
       "workable:tp-link-usa-corp:F943A617EC"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "university of nevada reno": {
+   "name": "University of Nevada, Reno",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "workday:nshe:/job/University-of-Nevada-Reno---Main-Campus/Research-Scientist--Transportation-Engineering_R0153803"
      ],
      "count": 1
     }
@@ -902,6 +1895,18 @@
     }
    }
   },
+  "vermeer": {
+   "name": "Vermeer",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180"
+     ],
+     "count": 1
+    }
+   }
+  },
   "visa": {
    "name": "Visa",
    "cycles": {
@@ -916,6 +1921,18 @@
      "first_posted": "2026-10-15",
      "role_ids": [
       "workday:visa:/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---Foster-City_REF085423W"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "voleon group": {
+   "name": "The Voleon Group",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "ashby:voleon:d732fd5a-ac98-4985-9e60-d1d59f02a66c"
      ],
      "count": 1
     }
@@ -973,5 +1990,5 @@
    }
   }
  },
- "updated_at": "2026-10-17T00:02:54Z"
+ "updated_at": "2026-10-17T02:09:44Z"
 }

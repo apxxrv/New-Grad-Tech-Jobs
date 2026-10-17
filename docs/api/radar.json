@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-17T00:02:54Z",
- "data_as_of": "2026-10-17T00:02:54Z",
- "rendered_at": "2026-10-17T00:02:54Z",
+ "generated_at": "2026-10-17T02:09:44Z",
+ "data_as_of": "2026-10-17T02:09:44Z",
+ "rendered_at": "2026-10-17T02:09:44Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -44,6 +44,44 @@
    }
   },
   {
+   "company": "ByteDance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-03-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-03-31",
+   "days_until": -200,
+   "status": "open",
+   "url": "https://joinbytedance.com/search/7623550778255165701",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-03-31"
+   }
+  },
+  {
+   "company": "TikTok",
+   "last_cycle_posted": "",
+   "posted_on": "2026-04-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-04-13",
+   "days_until": -187,
+   "status": "open",
+   "url": "https://lifeattiktok.com/search/7668206857737455877",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-04-13"
+   }
+  },
+  {
    "company": "Anduril",
    "last_cycle_posted": "",
    "posted_on": "2026-06-11",
@@ -63,6 +101,44 @@
    }
   },
   {
+   "company": "Cylake",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-22",
+   "days_until": -117,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-06-22"
+   }
+  },
+  {
+   "company": "Tower Research Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-05",
+   "days_until": -104,
+   "status": "open",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8024142",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-05"
+   }
+  },
+  {
    "company": "Hudson River Trading",
    "last_cycle_posted": "",
    "posted_on": "2026-07-13",
@@ -73,7 +149,7 @@
    "expected": "2026-07-13",
    "days_until": -96,
    "status": "open",
-   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -101,6 +177,44 @@
    }
   },
   {
+   "company": "Charles River Associates (CRA)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-14",
+   "days_until": -95,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8053945",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-14"
+   }
+  },
+  {
+   "company": "Five Rings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-14",
+   "days_until": -95,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-14"
+   }
+  },
+  {
    "company": "Chicago Trading Company",
    "last_cycle_posted": "",
    "posted_on": "2026-07-15",
@@ -117,6 +231,82 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-07-15"
+   }
+  },
+  {
+   "company": "Netic",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-16",
+   "days_until": -93,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-16"
+   }
+  },
+  {
+   "company": "3RedPartners",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-17",
+   "days_until": -92,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-17"
+   }
+  },
+  {
+   "company": "RTX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-20",
+   "days_until": -89,
+   "status": "open",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-20"
+   }
+  },
+  {
+   "company": "JPMorganChase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -75,
+   "status": "open",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-03"
    }
   },
   {
@@ -196,6 +386,25 @@
    }
   },
   {
+   "company": "Applied Intuition",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -64,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-14"
+   }
+  },
+  {
    "company": "SpaceX",
    "last_cycle_posted": "",
    "posted_on": "2026-08-14",
@@ -215,6 +424,25 @@
    }
   },
   {
+   "company": "LPL Financial Holdings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -60,
+   "status": "open",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-18"
+   }
+  },
+  {
    "company": "Freeform",
    "last_cycle_posted": "",
    "posted_on": "2026-08-19",
@@ -231,6 +459,44 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-19"
+   }
+  },
+  {
+   "company": "NVIDIA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -57,
+   "status": "open",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-21"
+   }
+  },
+  {
+   "company": "DTCC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -53,
+   "status": "open",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214457",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-25"
    }
   },
   {
@@ -269,6 +535,44 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "The Voleon Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -53,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Marshall Wace",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -52,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-26"
    }
   },
   {
@@ -443,6 +747,25 @@
    }
   },
   {
+   "company": "Makai Labs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -43,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "Scale AI",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -459,6 +782,101 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-04"
+   }
+  },
+  {
+   "company": "Vermeer",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -43,
+   "status": "open",
+   "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
+   "company": "Cursor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Pentair",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2027-Engineering-Leadership-Development-Program---Computer-Science---Computer-Engineering_R23949",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Domino Data Lab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -38,
+   "status": "open",
+   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Blue Origin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -37,
+   "status": "open",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-10"
    }
   },
   {
@@ -500,6 +918,25 @@
    }
   },
   {
+   "company": "OneImaging",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -36,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
    "company": "Klaviyo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-12",
@@ -519,6 +956,25 @@
    }
   },
   {
+   "company": "BlackEdge Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -33,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "CoStar Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -530,6 +986,44 @@
    "days_until": -33,
    "status": "open",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "OpenAI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -33,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "The Aerospace Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -33,
+   "status": "open",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-RPO-Software-Developer-Analyst_R016457",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -576,6 +1070,25 @@
    }
   },
   {
+   "company": "BNY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -31,
+   "status": "open",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "Radiant",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -595,6 +1108,44 @@
    }
   },
   {
+   "company": "Hewlett Packard (HP)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
+   "company": "Ohio State University",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Professor--AI-and-Politics---Dept-of-Political-Science_R159307-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "Applied Materials",
    "last_cycle_posted": "",
    "posted_on": "2026-09-20",
@@ -611,6 +1162,101 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-20"
+   }
+  },
+  {
+   "company": "Assured Guaranty",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002?gh_jid=8827458002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
+   "company": "Astranis",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704716006",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
+   "company": "Avathon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4736834005",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
+   "company": "SeatGeek",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": -24,
+   "status": "open",
+   "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-23"
+   }
+  },
+  {
+   "company": "Adobe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -23,
+   "status": "open",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-24"
    }
   },
   {
@@ -671,6 +1317,101 @@
    }
   },
   {
+   "company": "Bluestaq",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-25"
+   }
+  },
+  {
+   "company": "GlobalFoundries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -19,
+   "status": "open",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "Fidelity National Information Services",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-29"
+   }
+  },
+  {
+   "company": "Iberdrola Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Local-Graduate-Rotational-Program--Engineering--Operations---Infrastructure_R-33036",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-29"
+   }
+  },
+  {
+   "company": "John Deere",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://careers.deere.com/careers/job/137483700527",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-29"
+   }
+  },
+  {
    "company": "AECOM",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -709,6 +1450,44 @@
    }
   },
   {
+   "company": "Procter & Gamble (P&G)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -17,
+   "status": "open",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-30"
+   }
+  },
+  {
+   "company": "M&T Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
    "company": "Pinterest",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -744,6 +1523,44 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-02"
+   }
+  },
+  {
+   "company": "Autodesk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -12,
+   "status": "open",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-05"
+   }
+  },
+  {
+   "company": "Constant Contact",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -12,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8212432",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-05"
    }
   },
   {
@@ -804,22 +1621,22 @@
    }
   },
   {
-   "company": "NVIDIA",
+   "company": "Chalk",
    "last_cycle_posted": "",
-   "posted_on": "2026-10-09",
+   "posted_on": "2026-10-08",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-10-09",
-   "days_until": -8,
+   "expected": "2026-10-08",
+   "days_until": -9,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+   "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Class of 2027",
-    "observed_on": "2026-10-09"
+    "observed_on": "2026-10-08"
    }
   },
   {
@@ -880,6 +1697,63 @@
    }
   },
   {
+   "company": "Northrop Grumman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "LSEG",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/Boston-Massachusetts/Quant-Analyst_R0123224",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-15"
+   }
+  },
+  {
+   "company": "Together AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-16"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -896,6 +1770,25 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2025-10-06"
+   }
+  },
+  {
+   "company": "Expedia Group",
+   "last_cycle_posted": "2026-02-02",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-02-02",
+   "days_until": 108,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-02-02"
    }
   },
   {
@@ -975,6 +1868,25 @@
    }
   },
   {
+   "company": "Cadence Design Systems",
+   "last_cycle_posted": "2026-09-03",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-09-03",
+   "days_until": 321,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "Okta",
    "last_cycle_posted": "2026-09-14",
    "posted_on": "",
@@ -1032,22 +1944,41 @@
    }
   },
   {
-   "company": "Northrop Grumman",
-   "last_cycle_posted": "2026-09-30",
+   "company": "University of Nevada, Reno",
+   "last_cycle_posted": "2026-10-09",
    "posted_on": "",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2027-09-30",
-   "days_until": 348,
+   "expected": "2027-10-09",
+   "days_until": 357,
    "status": "waiting",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-projection",
     "cycle": "Class of 2026",
-    "observed_on": "2026-09-30"
+    "observed_on": "2026-10-09"
+   }
+  },
+  {
+   "company": "CWILL",
+   "last_cycle_posted": "2026-10-13",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-10-13",
+   "days_until": 361,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-10-13"
    }
   },
   {
@@ -1127,6 +2058,25 @@
    }
   },
   {
+   "company": "MBDA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
    "company": "Graphcore",
    "last_cycle_posted": "",
    "posted_on": "2026-09-23",
@@ -1146,22 +2096,22 @@
    }
   },
   {
-   "company": "GlobalFoundries",
+   "company": "Sun Life",
    "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
+   "posted_on": "2026-10-13",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -19,
+   "expected": "2026-10-13",
+   "days_until": -4,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Class of 2027",
-    "observed_on": "2026-09-28"
+    "observed_on": "2026-10-13"
    }
   },
   {
@@ -1184,5 +2134,5 @@
    }
   }
  ],
- "count": 62
+ "count": 112
 }
