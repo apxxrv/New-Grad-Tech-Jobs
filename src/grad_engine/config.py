@@ -15,6 +15,7 @@ from __future__ import annotations
 import json
 import os
 import re
+from urllib.parse import quote
 
 from . import paths
 
@@ -104,7 +105,8 @@ def validate_config(raw: object) -> dict:
     if default_cycle not in cfg["cycles"]:
         raise ConfigError("default_cycle must be one of cycles")
 
-    for field in ("allowlist_only", "include_international", "infer_undated"):
+    for field in ("allowlist_only", "include_international", "infer_undated",
+                  "description_entry_check"):
         if field in cfg and not isinstance(cfg[field], bool):
             raise ConfigError(f"{field} must be true or false")
 
@@ -222,3 +224,9 @@ def signup_endpoint(cfg: dict) -> tuple[str, str] | None:
     url = (cfg.get("supabase_url") or "").rstrip("/")
     key = cfg.get("supabase_publishable_key") or ""
     return (url, key) if url and key else None
+
+
+def rss_email_url() -> str:
+    """Third-party RSS-to-email fallback; never needs our sender credentials."""
+    feed = f"https://raw.githubusercontent.com/{repo_slug()}/main/docs/feed.xml"
+    return f"https://feedrabbit.com/subscriptions/new?url={quote(feed, safe='')}"

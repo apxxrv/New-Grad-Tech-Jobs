@@ -5,6 +5,28 @@ from grad_engine import filters, sponsorship
 CYCLES = ["Class of 2027", "Class of 2026"]
 
 
+def test_infrastructure_is_not_automatically_a_computing_role():
+    for title in (
+        "Webber - Field Engineer - Infrastructure Management",
+        "Graduate Civil Infrastructure Engineer",
+        "Infrastructure Engineer I - Construction",
+        "Highway Infrastructure Engineer, New Grad",
+    ):
+        assert not filters.is_tech(title), title
+        assert not filters.title_allows_description_check(title), title
+    for title in (
+        "Infrastructure Engineer I",
+        "Software Engineer, Infrastructure",
+        "Telecommunications Infrastructure Engineer I",
+        "Software Engineer - Construction Technology",
+        "Phd Researcher, Machine Learning for Construction",
+        "Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start",
+        "Controls Engineer, Supercomputer Infrastructure - Memphis",
+        "Endpoint Infrastructure and AVD Engineer - Associate",
+    ):
+        assert filters.is_tech(title), title
+
+
 class TestNewGrad:
     def test_matches_new_grad_wording(self):
         for title in (

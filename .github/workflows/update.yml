@@ -76,7 +76,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/jobs.json data/new_grad_jobs.csv data/stats.json \
-                  data/health.json data/history.jsonl data/mail_state.json \
+                  data/health.json data/entry_checks.json data/history.jsonl data/mail_state.json \
                   data/observed.json data/known_windows.json data/outbox.json \
                   docs/index.html docs/feed.xml docs/unsubscribe.html \
                   docs/confirm.html \
@@ -242,4 +242,9 @@ jobs:
       # checked — the 26-hour threshold means a transient delay never fires it.
       - name: Check the digest is actually going out
         if: always()
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python run.py mailcheck

@@ -145,6 +145,21 @@ class TestHeaderCounts:
 
     CFG = {"cycles": ["Class of 2027"], "regions": ["US"]}
 
+    def test_an_unconfigured_fork_does_not_advertise_native_email(self):
+        text = "\n".join(readme._header(self.CFG, 10, 100, 1))
+        assert "/#subscribe" not in text
+        assert "native email digests are not configured" in text
+        assert "Feedrabbit RSS-to-email" in text
+        assert "GitHub Actions can delay or skip scheduled runs" in text
+
+    def test_native_signup_links_are_kept_when_configured(self):
+        cfg = dict(self.CFG, supabase_url="https://test.supabase.co",
+                   supabase_publishable_key="public-test-key")
+        text = "\n".join(readme._header(cfg, 10, 100, 1))
+        assert "/#subscribe" in text
+        assert "one email a day" in text
+        assert "native email digests are not configured" not in text
+
     def test_capped_listing_reports_both_numbers(self):
         lines = readme._header(self.CFG, total_open=107, companies=3900,
                                new_week=11, shown=104)

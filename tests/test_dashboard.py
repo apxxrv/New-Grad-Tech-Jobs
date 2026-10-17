@@ -3,6 +3,15 @@
 from grad_engine import config, dashboard, paths
 
 
+def test_signup_has_an_honest_rss_fallback_without_native_configuration():
+    html = dashboard._signup_section({})
+    assert 'id="subscribe"' in html
+    assert "Native email digests are not configured" in html
+    assert config.rss_email_url() in html
+    assert 'type="email"' not in html
+    assert "/rest/v1/rpc/" not in html
+
+
 def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch):
     # The signup form only renders when Supabase public keys are configured.
     # They live in data/config.json in production; the test supplies its own so

@@ -289,7 +289,15 @@ def _signup_section(cfg: dict) -> str:
     """Privacy-preserving double-opt-in request through a narrow RPC."""
     endpoint = config.signup_endpoint(cfg)
     if not endpoint:
-        return ""
+        return f"""
+  <div class="signup" id="subscribe">
+    <h2>Email alerts via RSS</h2>
+    <p class="muted">Native email digests are not configured for this repo.
+      You can use <a href="{escape(config.rss_email_url())}" target="_blank"
+      rel="noopener">Feedrabbit RSS-to-email</a> or subscribe to the
+      <a href="feed.xml">RSS feed</a>. Feedrabbit is a separate service;
+      delivery follows its own plan and schedule.</p>
+  </div>"""
     url, key = endpoint
     return f"""
   <div class="signup" id="subscribe">
@@ -374,9 +382,9 @@ def generate(store_data: dict, stats: dict) -> None:
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>New Grad Tech Jobs - Live Dashboard</title>
-<meta name="description" content="{escape(' & '.join(config.cycles(cfg)))} new grad tech jobs, refreshed every 30 minutes. Auto-detected visa sponsorship flags, proven H-1B sponsor badges, email alerts.">
+<meta name="description" content="{escape(' & '.join(config.cycles(cfg)))} new grad tech jobs, scheduled for refresh every 30 minutes. Auto-detected visa sponsorship flags, proven H-1B sponsor badges, RSS alerts.">
 <meta property="og:title" content="New Grad Tech Jobs - Live Dashboard">
-<meta property="og:description" content="{len(open_jobs)} open new grad tech jobs, refreshed every 30 minutes. Visa-sponsorship flags + proven H-1B sponsor badges for international students.">
+<meta property="og:description" content="{len(open_jobs)} open new grad tech jobs. Refresh scheduled every 30 minutes; GitHub may delay runs. Visa-sponsorship flags + proven H-1B sponsor badges for international students.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/atom+xml" title="New grad roles" href="feed.xml">

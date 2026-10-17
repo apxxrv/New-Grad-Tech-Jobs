@@ -25,6 +25,7 @@ import httpx
 from . import (
     config,
     enrich,
+    entry_checks,
     filters,
     health,
     models,
@@ -403,7 +404,8 @@ def _dedup(jobs: list, existing: dict | None = None) -> list:
     return unique
 
 
-def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[str], int, Counter]:
+def _keep_matching(results, cfg, blocklist, existing=None,
+                   description_checks=None) -> tuple[list, set[str], int, Counter]:
     """Apply every scope filter; return (kept jobs, succeeded keys, complete
     keys, errors, errors by ats, dropped-no-year count, dropped-off-cycle count).
 
@@ -570,6 +572,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             if by_description:
                 verdict = _description_verdict(
                     job, existing.get(stored_owner(job) or job.id), cycles,
+                    description_checks,
                 )
                 if verdict is None:
                     continue  # the posting text does not say entry level
@@ -591,7 +594,8 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             dropped_no_year, dropped_offcycle)
 
 
-def _description_verdict(job, prior: dict | None, cycles) -> str | None:
+def _description_verdict(job, prior: dict | None, cycles,
+                         description_checks: dict | None = None) -> str | None:
     """"description" if the posting text makes this role entry level, None if
     it does not, "pending" when the text needs a detail fetch first.
 
@@ -600,18 +604,25 @@ def _description_verdict(job, prior: dict | None, cycles) -> str | None:
     the text in their list payload (Lever, Ashby, Amazon, Recruitee) are
     decided here for free; the rest wait for enrichment, see _settle_enriched.
     """
+    if job.description is not None:
+        # Fresh inline text outranks both a stored positive and a cached
+        # negative verdict; employers can edit their requirements.
+        text = sponsorship.strip_html(job.description)
+        if text.strip():
+            return "description" if filters.description_entry_reason(text, cycles) else None
     if (prior or {}).get("entry_signal") == "description":
         return "description"
     if job.description is not None:
-        text = sponsorship.strip_html(job.description)
-        return "description" if filters.description_entry_reason(text, cycles) else None
+        return None  # empty inline text is not a negative verdict to cache
+    if entry_checks.rejected(job, description_checks or {}, cycles):
+        return None
     if job.source in enrich.DETAIL_SOURCES:
         return "pending"
     return None
 
 
 def _settle_enriched(kept: list, existing: dict, cfg: dict,
-                     offcycle: int) -> tuple[list, int]:
+                      offcycle: int, description_checks: dict | None = None) -> tuple[list, int]:
     """Re-check kept roles against what enrichment just read.
 
     Enrichment may have replaced an inferred cycle with the one the posting
@@ -631,10 +642,15 @@ def _settle_enriched(kept: list, existing: dict, cfg: dict,
         if job.entry_signal == "pending":
             # The detail fetch is in. Only text that states entry level keeps
             # the role; a failed fetch or a silent posting drops it for this
-            # run (it is checked again next run, nothing is stored).
+            # run. Only a real, nonempty rejection may be cached; a failed or
+            # empty response must be retried next run.
             text = sponsorship.strip_html(job.description) if job.description else ""
             if not filters.description_entry_reason(text, cycles):
+                if text.strip() and description_checks is not None:
+                    entry_checks.remember(job, description_checks, cycles)
                 continue
+            if description_checks is not None:
+                description_checks.pop(job.id, None)
             job.entry_signal = "description"
         # A Workday "N Locations" role passed the region check as unknown;
         # enrichment may now have read its real places. A role whose
@@ -813,6 +829,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
     blocklist = quality.load_blocklist()
     companies = _load_companies()
     existing = store.load(paths.JOBS_PATH)
+    description_checks = entry_checks.load()
     # A role already gone from a feed can never receive its new site-aware key
     # from a connector row. Migrate it before lifecycle closure instead.
     registry.migrate_store_board_keys(existing, companies)
@@ -833,14 +850,18 @@ def run_update() -> tuple[dict, dict, list[str]]:
         """Filter first (cheap, sync), then enrich only the keepers."""
         nonlocal kept
         (kept, succeeded, complete, seen_ids, errors, errors_by_ats, no_year,
-         offcycle_sticky) = _keep_matching(results, cfg, blocklist, existing)
+         offcycle_sticky) = _keep_matching(
+             results, cfg, blocklist, existing, description_checks,
+         )
         kept = _dedup(kept, existing)
         # Workday/Oracle enrichment goes through the same proxied client as fetch.
         wd_jobs = [j for j in kept if j.source in ("workday", "oracle")]
         other = [j for j in kept if j.source not in ("workday", "oracle")]
         ids_a, n_a = await enrich.enrich_jobs(other, existing, net)
         ids_b, n_b = await enrich.enrich_jobs(wd_jobs, existing, workday_net)
-        kept, offcycle = _settle_enriched(kept, existing, cfg, offcycle_sticky)
+        kept, offcycle = _settle_enriched(
+            kept, existing, cfg, offcycle_sticky, description_checks,
+        )
         return (succeeded, complete, seen_ids, errors, errors_by_ats,
                 ids_a | ids_b, n_a + n_b, no_year, offcycle)
 
@@ -852,6 +873,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
     for company, result, error in results:
         health.record(health_data, company, _fetch_health_error(result, error))
     health.save(health_data)
+    entry_checks.save(description_checks)
 
     rows = []
     for job in kept:
