@@ -98,9 +98,13 @@
       "oracle:egug.fa.us2.oraclecloud.com:26013256",
       "oracle:egug.fa.us2.oraclecloud.com:26013258",
       "oracle:egug.fa.us2.oraclecloud.com:26013259",
-      "oracle:egug.fa.us2.oraclecloud.com:26013286"
+      "oracle:egug.fa.us2.oraclecloud.com:26013286",
+      "oracle:egug.fa.us2.oraclecloud.com:26013319",
+      "oracle:egug.fa.us2.oraclecloud.com:26013352",
+      "oracle:egug.fa.us2.oraclecloud.com:26013354",
+      "oracle:egug.fa.us2.oraclecloud.com:26013356"
      ],
-     "count": 15
+     "count": 19
     }
    }
   },
@@ -276,6 +280,19 @@
       "oracle:eofe.fa.us2.oraclecloud.com:82248"
      ],
      "count": 4
+    }
+   }
+  },
+  "booz allen": {
+   "name": "Booz Allen",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409",
+      "workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
+     ],
+     "count": 2
     }
    }
   },
@@ -479,6 +496,25 @@
     }
    }
   },
+  "chevron": {
+   "name": "Chevron Corporation",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-16",
+     "role_ids": [
+      "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-07-16",
+     "role_ids": [
+      "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "chicago trading": {
    "name": "Chicago Trading Company",
    "cycles": {
@@ -632,6 +668,18 @@
       "greenhouse:dvtrading:4719126005"
      ],
      "count": 2
+    }
+   }
+  },
+  "dxc technology": {
+   "name": "DXC Technology",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:dxctechnology:/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714"
+     ],
+     "count": 1
     }
    }
   },
@@ -1345,6 +1393,18 @@
     }
    }
   },
+  "oracle": {
+   "name": "Oracle",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "oracle:eeho.fa.us2.oraclecloud.com:346357"
+     ],
+     "count": 1
+    }
+   }
+  },
   "pentair": {
    "name": "Pentair",
    "cycles": {
@@ -1990,5 +2050,5 @@
    }
   }
  },
- "updated_at": "2026-10-17T02:09:44Z"
+ "updated_at": "2026-10-17T04:32:11Z"
 }

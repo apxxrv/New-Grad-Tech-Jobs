@@ -5,31 +5,199 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-17T02:09:44Z</updated>
+  <updated>2026-10-17T04:32:11Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workable:accellor:54AC0426BD</id>
-    <title>Accellor: Gen AI Engineers</title>
-    <link href="https://apply.workable.com/accellor/j/54AC0426BD/"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, California, United States; San Jose, California, United States (Hybrid) · LLMs, Python, Java, C#, TypeScript</summary>
+    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013319</id>
+    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013319"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Atlanta, GA, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workable:ace-it-careers-1:2EC201994A</id>
-    <title>Ace It Careers 1: Associate Software Test Analyst</title>
-    <link href="https://apply.workable.com/ace-it-careers-1/j/2EC201994A/"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Nashville, Tennessee, United States; Richmond, Virginia, United States; Kansas City, Missouri, United States; Detroit, Michigan, United States; Newark, New Jersey, United States; United States (Remote) · SQL</summary>
+    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013354</id>
+    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · New York, NY, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:aderant:/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484</id>
-    <title>Aderant: Associate Software Engineer</title>
-    <link href="https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484"/>
-    <updated>2026-10-17T02:09:43Z</updated>
+    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013352</id>
+    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013352"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Phoenix, AZ, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013356</id>
+    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013356"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Sunrise, FL, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010922</id>
+    <title>Emerson Electric: Software Engineer - AI Enablement &amp; Engineering Productivity 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922"/>
+    <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · C#, TypeScript, JavaScript, SQL, React</summary>
+    <summary>Not stated · Data &amp; ML/AI · Austin, TX, United States · Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010937</id>
+    <title>Emerson Electric: Software Engineer 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · C++, Azure · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:eeho.fa.us2.oraclecloud.com:346357</id>
+    <title>Oracle: February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN 🛂</title>
+    <link href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Nashville, TN, United States · $74.1k–$148.3k/yr · Kubernetes · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:eihu.fa.us8.oraclecloud.com:2616914</id>
+    <title>SAIC: Cyber Engineer Associate 🇺🇸</title>
+    <link href="https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2616914"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Chantilly, VA, United States · AWS, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:edbz.fa.us2.oraclecloud.com:25015894</id>
+    <title>Texas Instruments: Career Accelerator Program - Data Engineer</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015894"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Richardson, TX, United States · Python, Java, SQL, Scala, Spark · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:abnormalsecurity:8015179003</id>
+    <title>Abnormal Security: Software Engineer 1 - Cloud Infrastructure</title>
+    <link href="https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - USA · Python, Go, Bash, AWS, Azure · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196</id>
+    <title>Booz Allen: AI Software Developer, Junior 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Diego, CA · $141k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409</id>
+    <title>Booz Allen: University - Applied AI Specialist 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Specialist_R0249409"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · McLean, VA · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1</id>
+    <title>Chevron Corporation: 2026-2027 Information Technology - Software Engineer - Full-Time 🛂</title>
+    <link href="https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Houston, Texas, United States of America; Bakersfield, California, United States of America; Denver, Colorado, United States of America; Midland, Texas, United States of America; Covington, Louisiana, United States of America; Greeley, Colorado, United States of America · Python, Java, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:chewy:/job/Bellevue-WA/Software-Engineer-I_R30985-1</id>
+    <title>Chewy: Software Engineer I</title>
+    <link href="https://chewy.wd5.myworkdayjobs.com/External/job/Bellevue-WA/Software-Engineer-I_R30985-1"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bellevue, WA, United States of America; Boston, MA; Plantation, FL · Python, Java, TypeScript, SQL, React · H-1B track record: ~362 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020</id>
+    <title>Cisco: UI Desktop macOS and IOS Engineer Hybird</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US · C++, C#, TypeScript, JavaScript, Swift</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788</id>
+    <title>Cisco: Site Reliability Engineer I (Full Time) — United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US; Knoxville, Tennessee, US · Python, Bash, GCP, Azure, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:clearwateranalytics:/job/Office---Boise/Software-Development-Engineer-I_R12059</id>
+    <title>CWAN: Software Development Engineer I</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Engineer-I_R12059"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Office - Boise · Python, Java, TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:directv:/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319</id>
+    <title>DIRECTV: Agentic AI Orchestration Analyst</title>
+    <link href="https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · El Segundo, CA, United States of America; United States - Virtual · H-1B track record: ~86 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:dxctechnology:/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714</id>
+    <title>DXC Technology: 2027 Graduate - AI &amp; Innovation Full Stack Engineer</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · AUS - VIC - MELBOURNE, Australia; AUS - SA - ADELAIDE; AUS - ACT - BRINDABELLA BUSINESS PARK; AUS - WA - PERTH; AUS - NSW - MACQUARIE PARK; AUS - QLD - BRISBANE</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1</id>
+    <title>Exelixis: AI and Agentic Engineer I</title>
+    <link href="https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Alameda, CA · $129k–$182k/yr · Python, TypeScript, JavaScript, LLMs, AWS · H-1B track record: ~36 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1</id>
+    <title>Health Research: Assistant Research Scientist</title>
+    <link href="https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Albany, NY · $56.025k/yr · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:lyft:8896679002</id>
+    <title>Lyft: Software Engineer</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · $138k–$192k/yr · Python, TypeScript, SQL, React, Next.js · H-1B track record: ~348 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901</id>
+    <title>Sompo International Holdings: Assistant Pricing Developer</title>
+    <link href="https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Alpharetta, Georgia · Python, JavaScript, SQL, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/LinkouTWN/Global-Software-Support-Engineer_R2629320</id>
+    <title>Applied Materials: Global Software Support Engineer</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/LinkouTWN/Global-Software-Support-Engineer_R2629320"/>
+    <updated>2026-10-17T04:32:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Linkou,TWN, Taiwan; Hsinchu,TWN · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba</id>
@@ -38,14 +206,6 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Jose · $115K – $150K • Offers Equity • Offers Bonus · Python, Java, TypeScript, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:alloy:985c832a-40f7-434d-9a24-d3aec381a48e</id>
-    <title>Alloy.ai: Data Engineer</title>
-    <link href="https://jobs.lever.co/alloy/985c832a-40f7-434d-9a24-d3aec381a48e"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, DC · 85,000–110,000 USD/yr · Python, Java, GraphQL, AWS, GCP</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:amplitude:9c43576b-d16f-4192-a366-7c9eb689c4be</id>
@@ -72,20 +232,12 @@
     <summary>Not stated · Software · Los Angeles · $125K – $137.5K · Python, C++, Rust, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e</id>
-    <title>Applied Intuition: Cybersecurity Software Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"/>
+    <id>urn:grad-engine:ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c</id>
+    <title>Applied Intuition: Embedded Test Engineer - New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Sunnyvale · $130K – $158K • Offers Equity · Python, C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:a837cbd6-9fe4-4d74-a2dc-84f602c40694</id>
-    <title>Applied Intuition: Software Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $123K – $158K • Offers Equity · React, GraphQL, Kubernetes, Docker · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Software · Sunnyvale · $90K – $115K • Offers Equity · Python, Java, C++, JavaScript, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:applied:250080bd-10a8-4e5f-82b8-506029292d19</id>
@@ -112,20 +264,28 @@
     <summary>Class of 2027 · Software · Sunnyvale · $123K – $168K • Offers Equity · C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c</id>
-    <title>Applied Intuition: Embedded Test Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $90K – $115K • Offers Equity · Python, Java, C++, JavaScript, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41</id>
     <title>Applied Intuition: Robot Infrastructure Engineer - Collection Tooling</title>
     <link href="https://jobs.ashbyhq.com/applied/932de549-2882-4c0d-aeca-b4a8ef5f1f41"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Sunnyvale · $150K – $300K • Offers Equity · Python, ROS · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e</id>
+    <title>Applied Intuition: Cybersecurity Software Engineer - New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Sunnyvale · $130K – $158K • Offers Equity · Python, C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:applied:a837cbd6-9fe4-4d74-a2dc-84f602c40694</id>
+    <title>Applied Intuition: Software Engineer - New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Sunnyvale · $123K – $158K • Offers Equity · React, GraphQL, Kubernetes, Docker · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:arizent:5f246f2b-8cd1-41ec-916c-9ed37a6b07a5</id>
@@ -136,14 +296,6 @@
     <summary>Not stated · Data &amp; ML/AI · NYC | Midtown Manhattan · $100K – $125K · Python, SQL, LLMs, GCP</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:lever:artera:e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1</id>
-    <title>ArteraAI: Machine Learning Engineer (Model Dev)</title>
-    <link href="https://jobs.lever.co/artera/e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote-US · 140,000–180,000 USD/yr · Python, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:ashby:aurelian:a2bc965f-d639-41f7-946a-67c05c22e04e</id>
     <title>Aurelian: Software Engineer (New Grad)</title>
     <link href="https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"/>
@@ -152,36 +304,260 @@
     <summary>Not stated · Software · Seattle · $100K – $130K • Offers Equity</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:eofe.fa.us2.oraclecloud.com:82246</id>
-    <title>BNY: 2027 BNY Analyst Program - Engineering (Data Science) - Pittsburgh, PA</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246"/>
+    <id>urn:grad-engine:ashby:cerebras:8cb78937-ac30-4ab2-98d0-680228ea5e6f</id>
+    <title>Cerebras: Software Engineer, Kernel Reliability</title>
+    <link href="https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f"/>
     <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Pittsburgh, PA, United States</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States and Canada · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:eofe.fa.us2.oraclecloud.com:82245</id>
-    <title>BNY: 2027 BNY Analyst Program - Engineering (Data Science) - New York, NY</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245"/>
+    <id>urn:grad-engine:ashby:chalk:927c74a5-1b40-490d-b3be-a29baec4db6f</id>
+    <title>Chalk: Software Engineer - New Grad</title>
+    <link href="https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States</summary>
+    <summary>Class of 2027 · Software · SF · $170K – $180K • Offers Equity · Python, C++, Rust, Databricks</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:eofe.fa.us2.oraclecloud.com:82248</id>
-    <title>BNY: 2027 BNY Analyst Program - Engineering (Developer) - Pittsburgh, PA</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248"/>
+    <id>urn:grad-engine:ashby:clera:d5f4cea8-7503-4095-a71b-90abe4d083ea</id>
+    <title>Clera: Associate Fullstack Engineer 🛂</title>
+    <link href="https://jobs.ashbyhq.com/clera/d5f4cea8-7503-4095-a71b-90abe4d083ea"/>
     <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Pittsburgh, PA, United States</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco · $100k–$150k/yr · TypeScript, LLMs, Next.js · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:eofe.fa.us2.oraclecloud.com:82247</id>
-    <title>BNY: 2027 BNY Analyst Program - Engineering (Developer) - New York, NY</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247"/>
+    <id>urn:grad-engine:ashby:clera:ed8a3210-b6d2-4756-930e-83af93efa3ec</id>
+    <title>Clera: AI/ML Engineer 🛂</title>
+    <link href="https://jobs.ashbyhq.com/clera/ed8a3210-b6d2-4756-930e-83af93efa3ec"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco · $120k–$200k/yr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:collinear-ai:06258760-3ac3-4cee-9ffc-f4ef021731aa</id>
+    <title>Collinear AI: MTS - Research (Cybersecurity)</title>
+    <link href="https://jobs.ashbyhq.com/collinear-ai/06258760-3ac3-4cee-9ffc-f4ef021731aa"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Sunnyvale, California · Python, Java, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b</id>
+    <title>Cursor: Software Engineer, New Grad 2027</title>
+    <link href="https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York, NY, United States</summary>
+    <summary>Class of 2027 · Software · San Francisco · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:cylake-inc:1d1ac42e-299c-42af-bd7c-b8c5fb07f735</id>
+    <title>Cylake: Software Engineer (2027 University Grad)</title>
+    <link href="https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Sunnyvale · $130k–$160k/yr</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:deepgram:bf8ea79f-f380-467e-8349-ea1ea8281316</id>
+    <title>Deepgram: People AI &amp; Automation Engineer</title>
+    <link href="https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA - Remote</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:harvey:b0996df6-6b6e-42be-a4f9-0084536068f5</id>
+    <title>Harvey: Software Engineer, New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco · $165K – $181.5K • Offers Equity • Offers Bonus · Python, Java, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:jerry.ai:f621d767-f3aa-4cdb-9b73-816467624c95</id>
+    <title>Jerry: Associate Data Scientist</title>
+    <link href="https://jobs.ashbyhq.com/jerry.ai/f621d767-f3aa-4cdb-9b73-816467624c95"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:mach9:622a014b-ff77-45bd-9caa-61a6506884ed</id>
+    <title>Mach9: ML Engineer, Product</title>
+    <link href="https://jobs.ashbyhq.com/mach9/622a014b-ff77-45bd-9caa-61a6506884ed"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco · $180K – $300K • Offers Equity · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:makai-labs:3d4373e8-e09a-4034-a8e0-d511cef44fc7</id>
+    <title>Makai Labs: Forward Deployed AI Analyst 🛂</title>
+    <link href="https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · New York · $110K – $120K · Python, JavaScript, SQL, LLMs, Azure · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:maxinsights:79cf8fc0-56fc-48ab-8732-f4d6eb53b0e8</id>
+    <title>Maxinsights: Embodied AI / VLA Research Engineer</title>
+    <link href="https://jobs.ashbyhq.com/maxinsights/79cf8fc0-56fc-48ab-8732-f4d6eb53b0e8"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Santa Clara · Python, PyTorch, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:netic:bab5d1e5-e31b-42f0-9cef-334b1f17fed3</id>
+    <title>Netic: Full-Stack Software Engineer (Product) - New Grad - 2026-2027</title>
+    <link href="https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco · $138K – $160K · Python, TypeScript, LLMs, React, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:netic:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f</id>
+    <title>Netic: Software Engineer (Agent Platform) - New Grad - 2026-2027</title>
+    <link href="https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco · $138K – $160K · Python, TypeScript, LLMs, React, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511</id>
+    <title>OpenAI: Software Engineer, Applied Emerging Talent (2027)</title>
+    <link href="https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco · $180K • Offers Equity · Python, JavaScript, React, PostgreSQL · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:pangramlabs:0512183c-2373-499c-8459-91d0fd2d72f3</id>
+    <title>Pangramlabs: Software Engineer - Customer Solutions</title>
+    <link href="https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brooklyn · $120K – $150K • Offers Equity • Offers Bonus · Python, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:periodic-labs:20b122c9-b8ec-4fb0-aaf4-9b45902affe0</id>
+    <title>Periodic Labs: Research Scientist, Scaling RL</title>
+    <link href="https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Menlo Park, CA; Montreal, Canada · LLMs · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
+    <title>Qumulo: Software Development Engineer (New Grad / Entry Level) 🛂</title>
+    <link href="https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:silnahealth.com:8ed75986-4032-425b-b82a-fa6010a18656</id>
+    <title>Silna Health: AI Deployment Analyst</title>
+    <link href="https://jobs.ashbyhq.com/silnahealth.com/8ed75986-4032-425b-b82a-fa6010a18656"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · NYC · $120K – $160K · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:snowflake:1bad12df-f443-426f-9d09-e96fc780d698</id>
+    <title>Snowflake: AI Research Scientist, New Grad – Agents &amp; Reinforcement Learning</title>
+    <link href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-WA-Bellevue · $176K – $230K · Python, PyTorch, LLMs, Snowflake · H-1B track record: ~322 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:switchboard:1699538e-eca3-4626-89a6-0eaa88130dcd</id>
+    <title>Switchboard Hiring: Associate Data Engineer 🛂</title>
+    <link href="https://jobs.ashbyhq.com/switchboard/1699538e-eca3-4626-89a6-0eaa88130dcd"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Centennial, CO · $100K – $120K • Offers Bonus · Python, SQL, dbt, Snowflake, Tableau · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:valinor:c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e</id>
+    <title>Valinor: Full-Stack Software Engineer, C2 &amp; Tactical Integration</title>
+    <link href="https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cookeville, TN · AWS, Azure, Kubernetes, Docker, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:voleon:d732fd5a-ac98-4985-9e60-d1d59f02a66c</id>
+    <title>The Voleon Group: Software Engineer - University Hire 2027</title>
+    <link href="https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Berkeley, CA · $175K – $210K • Offers Bonus · Python, Java, C++, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:zefr:b481bf4b-9149-40bf-bf0a-ea29580c5d66</id>
+    <title>Zefr: Data Engineer</title>
+    <link href="https://jobs.ashbyhq.com/zefr/b481bf4b-9149-40bf-bf0a-ea29580c5d66"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Marina del Rey, CA · Python, SQL, AWS, GCP, Airflow</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:breezy:kenect:aa47c9879f1d</id>
+    <title>Kenect: Junior Data Engineer</title>
+    <link href="https://kenect.breezy.hr/p/aa47c9879f1d-junior-data-engineer"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Pleasant Grove, UT</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7509248845324273938</id>
+    <title>ByteDance: AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7509248845324273938"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7509262736619571474</id>
+    <title>ByteDance: Software Development Engineer Graduate (SDN Traffic Intelligence &amp; Control) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7509262736619571474"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, C++, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7509262740803930376</id>
+    <title>ByteDance: AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7509262740803930376"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7509266973013690631</id>
+    <title>ByteDance: RDMA Network Software Development Engineer Graduate (High Speed Network) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7509266973013690631"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Seattle, Washington, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7509266973236152583</id>
+    <title>ByteDance: Software Development Engineer Graduate (SDN Traffic Intelligence &amp; Control) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7509266973236152583"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · San Jose, California, USA · Python, C++, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7534943709490989319</id>
+    <title>ByteDance: AI Vision Research Engineer Graduate- Pico 2026 Start (PHD)</title>
+    <link href="https://joinbytedance.com/search/7534943709490989319"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, MATLAB · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7538946858355476743</id>
@@ -192,12 +568,100 @@
     <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671032227920431413</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - Speech - Interaction &amp; Learning) - 2026 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671032227920431413"/>
+    <id>urn:grad-engine:bytedance:bytedance:7540109673547581703</id>
+    <title>ByteDance: Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7540109673547581703"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, TensorFlow, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, LLMs, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7564547210038380853</id>
+    <title>ByteDance: Research Scientist Graduate (3D/4D Reconstruction/Generation/Relighting) - 2026 Start (PHD)</title>
+    <link href="https://joinbytedance.com/search/7564547210038380853"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7582010220022106421</id>
+    <title>ByteDance: Research Scientist Graduate (Security-Flow) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7582010220022106421"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7585034854077778181</id>
+    <title>ByteDance: Research Scientist Graduate (3D/4D Generation) - 2026 Start (PHD)</title>
+    <link href="https://joinbytedance.com/search/7585034854077778181"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623525222555961605</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7623525222555961605"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623536303630469381</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - LLM) - 2027 Start</title>
+    <link href="https://joinbytedance.com/search/7623536303630469381"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623540885834107189</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - Vision) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7623540885834107189"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623543228228536581</id>
+    <title>ByteDance: Research Scientist Graduate  (Seed Model - Vision) - 2027 Start</title>
+    <link href="https://joinbytedance.com/search/7623543228228536581"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623543401908848949</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - Multimodal Interaction &amp; World Model) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7623543401908848949"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623545710681016581</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - Multimodal Interaction &amp; World Model) - 2027 Start</title>
+    <link href="https://joinbytedance.com/search/7623545710681016581"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623545981743286533</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - Speech) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7623545981743286533"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7623548379708197125</id>
+    <title>ByteDance: Research Scientist Graduate (Seed Model - Speech) - 2027 Start</title>
+    <link href="https://joinbytedance.com/search/7623548379708197125"/>
+    <updated>2026-10-17T02:09:43Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7623550778255165701</id>
@@ -216,124 +680,12 @@
     <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672389696568510773</id>
-    <title>ByteDance: Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7672389696568510773"/>
+    <id>urn:grad-engine:bytedance:bytedance:7626145948402010421</id>
+    <title>ByteDance: Research Scientist Graduate (AI Agent Memory Infrastructure) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7626145948402010421"/>
     <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Seattle, Washington, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673268418623293749</id>
-    <title>ByteDance: Research Scientist Graduates - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7673268418623293749"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7623536303630469381</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - LLM) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7623536303630469381"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7675472998912051461</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7675472998912051461"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, SQL, LLMs, Hadoop · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7669791940490168629</id>
-    <title>ByteDance: Machine Learning Backend Engineer Graduate (AML MLDev) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7669791940490168629"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · C++, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667727006294214965</id>
-    <title>ByteDance: Machine Learning System Scheduling Engineer Graduate (Applied Machine Learning) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667727006294214965"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7689561253011097909</id>
-    <title>ByteDance: Software Engineer Graduate (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7689561253011097909"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Rust, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7686732729746950405</id>
-    <title>ByteDance: Software Engineer Graduate (AI Compute) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7686732729746950405"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, C++, Rust, PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670355647603984693</id>
-    <title>ByteDance: Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670355647603984693"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, Java, SQL, Scala, Kafka · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670355132899526965</id>
-    <title>ByteDance: Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670355132899526965"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Seattle, Washington, USA · Python, Java, C++, SQL, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668208806895831349</id>
-    <title>ByteDance: Research Scientist Graduate (Data-Intelligent Creation-Vision and Graphics-Global GenAI) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7668208806895831349"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7675473897004861749</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7675473897004861749"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, SQL, LLMs, Hadoop · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671160649137588485</id>
-    <title>ByteDance: Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671160649137588485"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672398686110910773</id>
-    <title>ByteDance: Research Engineer, Data Lake Infrastructure &amp; Data Analytics Graduate (AML-Ark-US) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7672398686110910773"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · SQL, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668365756950137141</id>
-    <title>ByteDance: Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7668365756950137141"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, C++, Rust, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7626928937260665093</id>
@@ -344,68 +696,12 @@
     <summary>Class of 2026 · Data &amp; ML/AI · San Diego, California, USA · Python, C++, PyTorch · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668433722454935861</id>
-    <title>ByteDance: AI Vision Research Engineer Graduate (Pico) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7668433722454935861"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629123702995290421</id>
+    <title>ByteDance: Research Scientist - Technologies of Data Management, LLM and AI Agents - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629123702995290421"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, MATLAB, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7675477254315428149</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7675477254315428149"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, SQL, LLMs, Hadoop · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673632479987992837</id>
-    <title>ByteDance: Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7673632479987992837"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, SQL, Scala, Kafka · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667304540048787765</id>
-    <title>ByteDance: Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7667304540048787765"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670354624860703029</id>
-    <title>ByteDance: Video/Image AI/ML Software Engineer Graduate (Multimedia) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7670354624860703029"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Diego, California, USA · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667645514462480645</id>
-    <title>ByteDance: Research Scientist - ByteBrain - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7667645514462480645"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673264681083898165</id>
-    <title>ByteDance: Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7673264681083898165"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7623525222555961605</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7623525222555961605"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs, Python, C++, SQL · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7629124511380654341</id>
@@ -416,28 +712,12 @@
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++, SQL · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667334059728341253</id>
-    <title>ByteDance: Software Engineer Graduate (AI Infra Compute) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667334059728341253"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629125488116451637</id>
+    <title>ByteDance: Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629125488116451637"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668855566150732037</id>
-    <title>ByteDance: AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7668855566150732037"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7686733097398290693</id>
-    <title>ByteDance: Software Engineer Graduate (AI Compute) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7686733097398290693"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Rust, PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7629126608919382277</id>
@@ -448,20 +728,12 @@
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671148355447343365</id>
-    <title>ByteDance: Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7671148355447343365"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629126645119650101</id>
+    <title>ByteDance: Research Scientist - AI Agent Memory Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629126645119650101"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670850283815160069</id>
-    <title>ByteDance: Research Scientist Graduate (ML Recommendation Systems) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670850283815160069"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7629136672475040053</id>
@@ -472,196 +744,20 @@
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672383576726276405</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7672383576726276405"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629137778379557173</id>
+    <title>ByteDance: Research Scientist Graduate (Multimedia Standards) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629137778379557173"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Diego, California, USA · Python, C++, PyTorch · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670004502598060341</id>
-    <title>ByteDance: Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670004502598060341"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629483617265289525</id>
+    <title>ByteDance: Research Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629483617265289525"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, PyTorch, TensorFlow, Kubernetes · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7623548379708197125</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - Speech) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7623548379708197125"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673946040656267573</id>
-    <title>ByteDance: Research Scientist Graduate (DPU &amp; AI Infra) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7673946040656267573"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · C++, Rust, CUDA, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671033602288912645</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - LLM) - 2026 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671033602288912645"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670355689064646917</id>
-    <title>ByteDance: Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670355689064646917"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · San Jose, California, USA · Python, Java, C++, SQL, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7623543228228536581</id>
-    <title>ByteDance: Research Scientist Graduate  (Seed Model - Vision) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7623543228228536581"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667334521286035765</id>
-    <title>ByteDance: Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7667334521286035765"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672395094280063285</id>
-    <title>ByteDance: Data Lake Infrastructure &amp; Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7672395094280063285"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · SQL, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671158113903937797</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671158113903937797"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7675477660855781637</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7675477660855781637"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, SQL, LLMs, Hadoop · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671026650366183685</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - Multimodal Interaction &amp; World Model) - 2026 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671026650366183685"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · PyTorch · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673941558289205509</id>
-    <title>ByteDance: Research Scientist Graduate (DPU &amp; AI Infra) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7673941558289205509"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · C++, Rust, CUDA, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7669854602477684997</id>
-    <title>ByteDance: Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7669854602477684997"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · Python, SQL · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668365143156721973</id>
-    <title>ByteDance: Research Scientist Graduate (Distributed NoSQL Database Systems) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7668365143156721973"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, Java, C++, Rust, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7673306902554102069</id>
-    <title>ByteDance: Software Engineer Graduate (AML-Engine-Forge Platform) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7673306902554102069"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · LLMs, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7665104241446652213</id>
-    <title>ByteDance: Research Scientist Graduate (Multi-modal Agentic Databases) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7665104241446652213"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, C++, SQL, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671030761623177477</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - Vision - Generative AI) - 2026 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7671030761623177477"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, PyTorch, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7623545710681016581</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model - Multimodal Interaction &amp; World Model) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7623545710681016581"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672392998189959429</id>
-    <title>ByteDance: Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7672392998189959429"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, PyTorch, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672389697767377205</id>
-    <title>ByteDance: Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7672389697767377205"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Seattle, Washington, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667291055662811445</id>
-    <title>ByteDance: Research Scientist Graduate (ByteBrain) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7667291055662811445"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667976924430633269</id>
-    <title>ByteDance: Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667976924430633269"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, C++, Rust, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7665836153219959093</id>
-    <title>ByteDance: Research Scientist Graduate- Computational Imaging- PICO- 2027 Start (PHD)</title>
-    <link href="https://joinbytedance.com/search/7665836153219959093"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, MATLAB, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, PyTorch, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7629488401364060469</id>
@@ -672,139 +768,43 @@
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, PyTorch, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668614787018393909</id>
-    <title>ByteDance: AI Agent Security Software Engineer Graduate (Security Engineering) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7668614787018393909"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629789975396124981</id>
+    <title>ByteDance: Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629789975396124981"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, C++, Rust, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668636404159858997</id>
-    <title>ByteDance: Product Security Engineer Graduate (Security BP) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7668636404159858997"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · San Jose, California, USA · Python, Java, C++, Rust, JavaScript · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7633537809438689541</id>
-    <title>ByteDance: Research Scientist - AI Compute &amp; DPU - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7633537809438689541"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Kubernetes · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670932427485186309</id>
-    <title>ByteDance: Agent Evaluation &amp; Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7670932427485186309"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667685712993650997</id>
-    <title>ByteDance: Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667685712993650997"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Rust, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671141679848933685</id>
-    <title>ByteDance: Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7671141679848933685"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Kubernetes, Linux · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629126645119650101</id>
-    <title>ByteDance: Research Scientist - AI Agent Memory Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629126645119650101"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7671102043532462389</id>
-    <title>ByteDance: Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7671102043532462389"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, LLMs, Computer Vision · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7670550401380878645</id>
-    <title>ByteDance: AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7670550401380878645"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, C++, LLMs, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7669899962768165173</id>
-    <title>ByteDance: Software Engineer Graduate (Data-Speech-Product RD-Engineering-US) - 2027 Start 🛂</title>
-    <link href="https://joinbytedance.com/search/7669899962768165173"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, CUDA · sponsorship: no-sponsorship · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7668799019359357237</id>
-    <title>ByteDance: Software Engineer Graduate (AI Infrastructure — Compute Efficiency &amp; Scheduling) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7668799019359357237"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, C++, Rust, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667726338627356933</id>
-    <title>ByteDance: Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667726338627356933"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Computer Vision, CUDA, Kubernetes · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667303429264115973</id>
-    <title>ByteDance: Software Engineer Graduate (AI Infra Compute) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667303429264115973"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629845140207061253</id>
+    <title>ByteDance: Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629845140207061253"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7672391016194066693</id>
-    <title>ByteDance: Agent Evaluation &amp; Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7672391016194066693"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629847495073597749</id>
+    <title>ByteDance: Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629847495073597749"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667926830305528117</id>
-    <title>ByteDance: 3D Graphics Innovation Engineer Graduate (PICO Foundation-Developer Technology) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667926830305528117"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629847900210399493</id>
+    <title>ByteDance: Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629847900210399493"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667901772678302005</id>
-    <title>ByteDance: Dev AI Software Engineer Graduate (Dev Infra US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667901772678302005"/>
+    <id>urn:grad-engine:bytedance:bytedance:7629850132083542325</id>
+    <title>ByteDance: Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7629850132083542325"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7667894766036322565</id>
-    <title>ByteDance: Backend and Infra Software Engineer Graduate (Dev Infra US) - 2027 Start</title>
-    <link href="https://joinbytedance.com/search/7667894766036322565"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Jose, California, USA · Python, Java, C++ · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

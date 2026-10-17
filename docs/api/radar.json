@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-17T02:09:44Z",
- "data_as_of": "2026-10-17T02:09:44Z",
- "rendered_at": "2026-10-17T02:09:44Z",
+ "generated_at": "2026-10-17T04:32:11Z",
+ "data_as_of": "2026-10-17T04:32:11Z",
+ "rendered_at": "2026-10-17T04:32:11Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -54,7 +54,7 @@
    "expected": "2026-03-31",
    "days_until": -200,
    "status": "open",
-   "url": "https://joinbytedance.com/search/7623550778255165701",
+   "url": "https://joinbytedance.com/search/7623525222555961605",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -73,7 +73,7 @@
    "expected": "2026-04-13",
    "days_until": -187,
    "status": "open",
-   "url": "https://lifeattiktok.com/search/7668206857737455877",
+   "url": "https://lifeattiktok.com/search/7628321017978767621",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -234,6 +234,25 @@
    }
   },
   {
+   "company": "Chevron Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-16",
+   "days_until": -93,
+   "status": "open",
+   "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-16"
+   }
+  },
+  {
    "company": "Netic",
    "last_cycle_posted": "",
    "posted_on": "2026-07-16",
@@ -263,7 +282,7 @@
    "expected": "2026-07-17",
    "days_until": -92,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
+   "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8624128002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -358,7 +377,7 @@
    "expected": "2026-08-10",
    "days_until": -68,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719106005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -396,7 +415,7 @@
    "expected": "2026-08-14",
    "days_until": -64,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+   "url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -434,7 +453,7 @@
    "expected": "2026-08-18",
    "days_until": -60,
    "status": "open",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Cybersecurity_R-052501-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -567,7 +586,7 @@
    "expected": "2026-08-26",
    "days_until": -52,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+   "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -871,7 +890,7 @@
    "expected": "2026-09-10",
    "days_until": -37,
    "status": "open",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -928,7 +947,7 @@
    "expected": "2026-09-11",
    "days_until": -36,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009",
+   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1080,7 +1099,7 @@
    "expected": "2026-09-16",
    "days_until": -31,
    "status": "open",
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1251,7 +1270,26 @@
    "expected": "2026-09-24",
    "days_until": -23,
    "status": "open",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Booz Allen",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -23,
+   "status": "open",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1403,7 +1441,7 @@
    "expected": "2026-09-29",
    "days_until": -18,
    "status": "open",
-   "url": "https://careers.deere.com/careers/job/137483700527",
+   "url": "https://careers.deere.com/careers/job/137483583981",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1442,6 +1480,25 @@
    "days_until": -17,
    "status": "open",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-30"
+   }
+  },
+  {
+   "company": "Oracle",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -17,
+   "status": "open",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1612,7 +1669,7 @@
    "expected": "2026-10-08",
    "days_until": -9,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220274004",
+   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220259004",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1678,6 +1735,25 @@
    }
   },
   {
+   "company": "DXC Technology",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
    "company": "Macy's",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -1707,7 +1783,7 @@
    "expected": "2026-10-14",
    "days_until": -3,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2134,5 +2210,5 @@
    }
   }
  ],
- "count": 112
+ "count": 116
 }
