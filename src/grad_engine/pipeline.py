@@ -41,6 +41,7 @@ from .connectors import (
     amazon,
     ashby,
     breezy,
+    bytedance,
     eightfold,
     greenhouse,
     lever,
@@ -66,6 +67,7 @@ CONNECTORS = {
     "breezy": breezy.fetch,
     "recruitee": recruitee.fetch,
     "eightfold": eightfold.fetch,
+    "bytedance": bytedance.fetch,
 }
 
 GLOBAL_CONCURRENCY = 32
