@@ -181,6 +181,13 @@ def max_per_company(cfg: dict):
     return cfg.get("max_per_company", 0)
 
 
+def description_entry_check(cfg: dict) -> bool:
+    """Whether a tech title with no new grad wording may be listed when its
+    posting text states it is entry level (filters.description_entry_reason).
+    On by default; ``"description_entry_check": false`` turns it off."""
+    return bool(cfg.get("description_entry_check", True))
+
+
 def infer_undated(cfg: dict) -> bool:
     """Whether recent roles with no stated class year enter ``Not stated``.
 

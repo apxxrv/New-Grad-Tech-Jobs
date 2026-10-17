@@ -142,7 +142,7 @@ def save(path: str, data: dict) -> None:
 _REFRESH_FIELDS = (
     "title", "location", "url",
     "season", "season_inferred", "seasons", "category", "company", "source",
-    "company_slug",
+    "company_slug", "entry_signal",
 )
 
 
