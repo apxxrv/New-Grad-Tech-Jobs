@@ -5,8 +5,48 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-17T04:32:11Z</updated>
+  <updated>2026-10-17T13:16:19Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131-2</id>
+    <title>The Boeing Company: Associate Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131-2"/>
+    <updated>2026-10-17T13:16:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Berkeley, MO · C#, TypeScript, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:abnormalsecurity:8015179003</id>
+    <title>Abnormal Security: Software Engineer 1 - Cloud Infrastructure</title>
+    <link href="https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - USA · Python, Go, Bash, AWS, Azure · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:lyft:8896679002</id>
+    <title>Lyft: Software Engineer</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · $138k–$192k/yr · Python, TypeScript, SQL, React, Next.js · H-1B track record: ~348 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:edbz.fa.us2.oraclecloud.com:25015894</id>
+    <title>Texas Instruments: Career Accelerator Program - Data Engineer</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015894"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Richardson, TX, United States · Python, Java, SQL, Scala, Spark · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:eeho.fa.us2.oraclecloud.com:346357</id>
+    <title>Oracle: February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN 🛂</title>
+    <link href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Nashville, TN, United States · $74.1k–$148.3k/yr · Kubernetes · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013319</id>
     <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
@@ -14,14 +54,6 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Security · Atlanta, GA, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013354</id>
-    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · New York, NY, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013352</id>
@@ -32,12 +64,28 @@
     <summary>Class of 2027 · Security · Phoenix, AZ, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013354</id>
+    <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · New York, NY, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:oracle:egug.fa.us2.oraclecloud.com:26013356</id>
     <title>American Express: Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013356"/>
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Security · Sunrise, FL, United States · Python, Bash · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:eihu.fa.us8.oraclecloud.com:2616914</id>
+    <title>SAIC: Cyber Engineer Associate 🇺🇸</title>
+    <link href="https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2616914"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Chantilly, VA, United States · AWS, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010922</id>
@@ -56,36 +104,12 @@
     <summary>Not stated · Software · Austin, TX, United States · C++, Azure · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:eeho.fa.us2.oraclecloud.com:346357</id>
-    <title>Oracle: February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN 🛂</title>
-    <link href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357"/>
+    <id>urn:grad-engine:workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409</id>
+    <title>Booz Allen: University - Applied AI Specialist 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Specialist_R0249409"/>
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Nashville, TN, United States · $74.1k–$148.3k/yr · Kubernetes · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:eihu.fa.us8.oraclecloud.com:2616914</id>
-    <title>SAIC: Cyber Engineer Associate 🇺🇸</title>
-    <link href="https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2616914"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Chantilly, VA, United States · AWS, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:edbz.fa.us2.oraclecloud.com:25015894</id>
-    <title>Texas Instruments: Career Accelerator Program - Data Engineer</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015894"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Richardson, TX, United States · Python, Java, SQL, Scala, Spark · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:abnormalsecurity:8015179003</id>
-    <title>Abnormal Security: Software Engineer 1 - Cloud Infrastructure</title>
-    <link href="https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - USA · Python, Go, Bash, AWS, Azure · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · McLean, VA · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196</id>
@@ -94,14 +118,6 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Diego, CA · $141k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409</id>
-    <title>Booz Allen: University - Applied AI Specialist 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Specialist_R0249409"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · McLean, VA · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1</id>
@@ -120,20 +136,20 @@
     <summary>Not stated · Software · Bellevue, WA, United States of America; Boston, MA; Plantation, FL · Python, Java, TypeScript, SQL, React · H-1B track record: ~362 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020</id>
-    <title>Cisco: UI Desktop macOS and IOS Engineer Hybird</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US · C++, C#, TypeScript, JavaScript, Swift</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788</id>
     <title>Cisco: Site Reliability Engineer I (Full Time) — United States</title>
     <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788"/>
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US; Knoxville, Tennessee, US · Python, Bash, GCP, Azure, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020</id>
+    <title>Cisco: UI Desktop macOS and IOS Engineer Hybird</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US · C++, C#, TypeScript, JavaScript, Swift</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:clearwateranalytics:/job/Office---Boise/Software-Development-Engineer-I_R12059</id>
@@ -160,6 +176,14 @@
     <summary>Class of 2027 · Data &amp; ML/AI · AUS - VIC - MELBOURNE, Australia; AUS - SA - ADELAIDE; AUS - ACT - BRINDABELLA BUSINESS PARK; AUS - WA - PERTH; AUS - NSW - MACQUARIE PARK; AUS - QLD - BRISBANE</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901</id>
+    <title>Sompo International Holdings: Assistant Pricing Developer</title>
+    <link href="https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"/>
+    <updated>2026-10-17T04:32:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Alpharetta, Georgia · Python, JavaScript, SQL, Pandas</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1</id>
     <title>Exelixis: AI and Agentic Engineer I</title>
     <link href="https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1"/>
@@ -174,22 +198,6 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Albany, NY · $56.025k/yr · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:lyft:8896679002</id>
-    <title>Lyft: Software Engineer</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA · $138k–$192k/yr · Python, TypeScript, SQL, React, Next.js · H-1B track record: ~348 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901</id>
-    <title>Sompo International Holdings: Assistant Pricing Developer</title>
-    <link href="https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Alpharetta, Georgia · Python, JavaScript, SQL, Pandas</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:amat:/job/LinkouTWN/Global-Software-Support-Engineer_R2629320</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629850132083542325</id>
-    <title>ByteDance: Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629850132083542325"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
