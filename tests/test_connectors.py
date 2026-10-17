@@ -352,7 +352,7 @@ class TestSnapshotCompleteness:
         # `start >= 0` was trivially true and a truncated page looked complete.
         position = {"id": 1, "name": "SWE Intern", "locations": ["NY"],
                     "t_create": 1782086400}
-        company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold",
+        company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold", "api": "v2",
                    "host": "explore.jobs.netflix.net", "domain": "netflix.com"}
         full = {"positions": [position] * 100}  # a full page, no count field
         assert _fetch(eightfold.fetch(company, FakeNet(full))).complete is False
@@ -395,7 +395,7 @@ def test_eightfold():
         "job_description": "<p>Experience with Python and PyTorch. "
                            "Unable to sponsor visas for this role.</p>",
     }]}
-    company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold",
+    company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold", "api": "v2",
                "host": "explore.jobs.netflix.net", "domain": "netflix.com"}
     jobs = _run(eightfold.fetch(company, FakeNet(payload)))
     assert len(jobs) == 1
@@ -410,7 +410,7 @@ def test_eightfold():
 
 
 def test_eightfold_no_positions():
-    company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold",
+    company = {"name": "Netflix", "slug": "netflix", "ats": "eightfold", "api": "v2",
                "host": "explore.jobs.netflix.net", "domain": "netflix.com"}
     jobs = _run(eightfold.fetch(company, FakeNet({"count": 0, "positions": []})))
     assert jobs == []

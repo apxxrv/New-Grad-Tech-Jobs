@@ -1,0 +1,94 @@
+{
+ "code": 0,
+ "data": {
+  "city_list": [
+   {
+    "code": "CT_1103355",
+    "location_type": 3,
+    "name": null,
+    "en_name": "San Jose",
+    "i18n_name": "San Jose",
+    "parent": {
+     "code": "ST_31",
+     "location_type": 2,
+     "name": null,
+     "en_name": "California",
+     "i18n_name": "California",
+     "parent": {
+      "code": "CN_6",
+      "location_type": 1,
+      "name": null,
+      "en_name": "United States of America",
+      "i18n_name": "United States of America",
+      "parent": null
+     }
+    }
+   },
+   {
+    "code": "CT_157",
+    "location_type": 3,
+    "name": null,
+    "en_name": "Seattle",
+    "i18n_name": "Seattle",
+    "parent": {
+     "code": "ST_54",
+     "location_type": 2,
+     "name": null,
+     "en_name": "Washington",
+     "i18n_name": "Washington",
+     "parent": {
+      "code": "CN_6",
+      "location_type": 1,
+      "name": null,
+      "en_name": "United States of America",
+      "i18n_name": "United States of America",
+      "parent": null
+     }
+    }
+   },
+   {
+    "code": "CT_226",
+    "location_type": 3,
+    "name": null,
+    "en_name": "Munich",
+    "i18n_name": "Munich",
+    "parent": {
+     "code": "ST_100744",
+     "location_type": 2,
+     "name": null,
+     "en_name": "Bavaria",
+     "i18n_name": "Bavaria",
+     "parent": {
+      "code": "CN_4",
+      "location_type": 1,
+      "name": null,
+      "en_name": "Germany",
+      "i18n_name": "Germany",
+      "parent": null
+     }
+    }
+   }
+  ],
+  "recruitment_type_list": [
+   {
+    "id": "1",
+    "name": null,
+    "en_name": "Experienced",
+    "i18n_name": "Experienced"
+   },
+   {
+    "id": "2",
+    "name": null,
+    "en_name": "Campus",
+    "i18n_name": "Campus"
+   }
+  ],
+  "BaseResp": {
+   "StatusMessage": "Success",
+   "StatusCode": 0,
+   "Extra": null
+  }
+ },
+ "message": "ok",
+ "error": null
+}

@@ -3,8 +3,8 @@
 Cost model: this runs ONLY on roles that already passed every filter (a handful
 per run, not thousands). Lever/Ashby/Amazon/Recruitee ship descriptions in their
 list payloads, so those classify for free; Greenhouse/SmartRecruiters/Workday/
-Oracle need one detail request per NEW role, after which the verdict is stored
-and never re-fetched. Workday details also carry the exact posting date, which
+Oracle/Eightfold PCSX need one detail request per NEW role, after which the
+verdict is stored and never re-fetched. Workday details also carry the exact posting date, which
 backfills rows the list API only described as "N days ago".
 """
 
@@ -33,6 +33,7 @@ _WD_SITE_RE = re.compile(
     r"https://(wd\d+\.myworkdaysite\.com)/recruiting/([\w-]+)/([\w%-]+)(/job/.+)", re.I
 )
 _ORACLE_RE = re.compile(r"https://([\w.-]+\.oraclecloud\.com)/.+/sites/([\w]+)/job/(\d+)", re.I)
+_EIGHTFOLD_RE = re.compile(r"https://([\w.-]+)/careers/job/(\d+)", re.I)
 
 
 async def _greenhouse(job: Job, net: Net) -> str | None:
@@ -136,12 +137,27 @@ async def _workable(job: Job, net: Net) -> str | None:
     return " ".join(str(data.get(k) or "") for k in ("description", "requirements", "benefits"))
 
 
+async def _eightfold(job: Job, net: Net) -> str | None:
+    # Only PCSX search rows arrive without text; v2 rows carry it inline.
+    m = _EIGHTFOLD_RE.match(job.url)
+    if not m:
+        return None
+    host, position_id = m.groups()
+    data = await net.get_json(
+        f"https://{host}/api/pcsx/position_details",
+        params={"position_id": position_id, "hl": "en"},
+        headers=_BROWSER_HEADERS, retries=5,
+    )
+    return (data.get("data") or {}).get("jobDescription")
+
+
 _FETCHERS = {
     "greenhouse": _greenhouse,
     "smartrecruiters": _smartrecruiters,
     "workday": _workday,
     "oracle": _oracle,
     "workable": _workable,
+    "eightfold": _eightfold,
 }
 
 
