@@ -104,6 +104,7 @@ off, and a partial snapshot is never allowed to close anything. Roughly 90 of
 | `src/grad_engine/sponsorship.py` | Phrase-anchored visa/citizenship classifier + display flags. |
 | `src/grad_engine/h1b.py` | Joins companies against the USCIS H-1B employer index (✓ badge). |
 | `src/grad_engine/enrich.py` | Fetches posting text for new matched roles; backfills exact dates. |
+| `src/grad_engine/entry_checks.py` | Caches rejected description-based candidates for 24 hours, separately from job history. |
 | `src/grad_engine/trends.py` | Weekly posting-volume chart + median posting-lifetime metric. |
 | `src/grad_engine/radar.py` | Drop Radar: last year's first-post dates projected onto this year. |
 | `src/grad_engine/mailer.py` | Daily email digests to our own subscriber list (Brevo, opt-in). |
@@ -132,6 +133,7 @@ off, and a partial snapshot is never allowed to close anything. Roughly 90 of
 | `db/schema.sql` | Supabase tables, RLS policies, and the unsubscribe RPC. |
 | `data/jobs.json` | The persistent job state (source of truth for the README). |
 | `data/health.json` | Circuit-breaker state (auditable in git like everything else). |
+| `data/entry_checks.json` | Short-lived negative entry-level verdicts; never contains descriptions or subscriber data. |
 | `data/history.jsonl` | One line of run metrics per run (feeds the dashboard chart). |
 | `data/h1b.json` | Compact USCIS employer→approvals index (built by `tools/build_h1b.py`). |
 | `tools/build_h1b.py` | Offline builder: USCIS Data Hub CSVs → `data/h1b.json` (run yearly). |
@@ -201,6 +203,13 @@ this automatically.
   dead slugs from public datasets cost nothing and recoveries need no human.
 - **Enrichment is O(new roles), not O(all jobs)** — posting text is fetched once
   per matched role, the verdict is stored, and it is never re-fetched.
+  The new-grad-only description fallback also inspects plain technical titles.
+  Rejected, nonempty detail pages are cached for 24 hours to avoid fetching
+  the same non-entry-level candidates every run. Title/cohort changes or a bump
+  to `filters.DESCRIPTION_ENTRY_VERSION` invalidate the verdict immediately;
+  failed and empty responses are never cached. Fresh inline text always wins.
+  The cache is separate from `jobs.json` so rejected candidates cannot distort
+  posting-volume, first-seen, or lifetime statistics.
 - **Stable ids** (`<source>:<slug>:<external_id>`) make dedup automatic.
 - **Frozen posted dates** — a role's published date is recorded once; blanks may
   be backfilled later (better data), but a real date never shifts.

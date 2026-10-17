@@ -41,31 +41,31 @@
  "roles_matched": 858,
  "dropped_no_year_in_title": 13010,
  "dropped_offcycle_by_text": 8,
- "roles_cycle_inferred": 405,
+ "roles_cycle_inferred": 402,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 56,
   "breezy": 3,
   "bytedance": 302,
   "eightfold": 12,
-  "greenhouse": 174,
+  "greenhouse": 173,
   "lever": 33,
   "oracle": 43,
   "smartrecruiters": 16,
   "workable": 7,
-  "workday": 283
+  "workday": 281
  },
  "roles_by_cycle": {
   "Class of 2026": 83,
-  "Not stated": 405,
+  "Not stated": 402,
   "Class of 2027": 454
  },
  "roles_by_region": {
-  "US": 932
+  "US": 929
  },
  "sponsorship_counts": {
   "citizens-only": 98,
-  "unknown": 736,
+  "unknown": 733,
   "no-sponsorship": 94,
   "offers": 4
  },
@@ -74,7 +74,7 @@
  "enrichment_detail_fetches": 1867,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 932,
+ "open_total": 929,
  "detection_latency": {
   "median_minutes": 1180.4,
   "p95_minutes": 6229.9,
@@ -86,5 +86,6 @@
   "median_days": 11.5,
   "sample_size": 98
  },
- "rendered_at": "2026-10-17T21:43:01Z"
+ "rendered_at": "2026-10-17T22:01:11Z",
+ "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
 }

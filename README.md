@@ -4,15 +4,15 @@
 
 **A self-updating engine that tracks new grad tech roles for the Class of 2027 and Class of 2026 so you don't have to.**
 
-[![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
+[![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Schedule](https://img.shields.io/badge/schedule-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 932 open roles (554 listed below) · 716 new this week
+### 929 open roles (552 listed below) · 713 new this week
 
 4,955 employers tracked · data as of Oct 17, 2026 at 21:43 UTC
 
-_527 have a class year the employer stated · 405 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_527 have a class year the employer stated · 402 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
-**[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ Email alerts](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe)**
+**[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml)**
 
 </div>
 
@@ -21,13 +21,13 @@ _527 have a class year the employer stated · 405 are recent postings whose clas
 
 Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list — newest roles on top, refreshed automatically throughout the day.
 
-**🔔 New roles in your inbox:** [subscribe by email](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe) - one email a day, only when new grad roles actually appeared, unsubscribe from any email in two clicks. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml).)
+**🔔 New roles in your inbox:** native email digests are not configured for this repo. Use [Feedrabbit RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml) or subscribe to the [RSS feed](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml). Feedrabbit is a separate service; delivery follows its own plan and schedule.
 
 ---
 
 ## What this is
 
-This is an engine, not a hand-kept list. It polls company career feeds every 30 minutes, finds the new grad roles, removes duplicates, and rebuilds this page on its own.
+This is an engine, not a hand-kept list. It is scheduled to poll company career feeds every 30 minutes, find new grad roles, remove duplicates, and rebuild this page. GitHub Actions can delay or skip scheduled runs; the data-as-of timestamp above shows the last completed refresh.
 
 Every link comes straight from the source — so it's real and current, not a stale list someone forgot to update. Speed matters.
 
@@ -39,8 +39,8 @@ Every link comes straight from the source — so it's real and current, not a st
 | 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from every job description, plus ✓ for employers with a real H-1B track record (USCIS data, FY2022-23 — a history, not a promise). The big lists crowdsource this by hand; here it's code. Most postings say nothing either way, and those show as unknown rather than guessed. |
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/), and included in the CSV and API. |
-| 🔔 **Alerts your way** | [Email digests](https://apxxrv.github.io/New-Grad-Tech-Jobs/#subscribe) or [RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 5,267 job-board endpoints (4,955 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| 🔔 **Alerts your way** | [RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml) or [RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/) with search, filters, and a saved-roles list that never leaves your browser. |
+| ⚙️ **An engine, not a spreadsheet** | 5,267 job-board endpoints (4,955 distinct employers; some run more than one board) scheduled for polling every 30 minutes. Full source and tests in this repo. |
 
 ## Scope
 
@@ -62,7 +62,7 @@ Use it to spot roles early and apply before they fill up. Being first genuinely 
 
 I'm building this in the open and adding to it as it grows.
 
-**Recently shipped:** email alerts · the Drop Radar · auto-detected sponsorship flags · the live dashboard
+**Available:** rss-to-email · the Drop Radar · auto-detected sponsorship flags · the live dashboard
 
 **Next up:** personalized alerts (pick your categories) · per-company hiring pages · a ghost-posting detector
 
@@ -296,7 +296,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | TikTok ✓ | Machine Learning Engineer Graduate - Global E-commerce Recommenda​tion/Search - 2026 Start (PhD) 🆕 | [Apply](https://lifeattiktok.com/search/7550798923146250504) | San Jose, California, USA | Linux | Sep 16, 2025 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (348 roles)
+## Recently posted — class year not stated  (346 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
@@ -312,8 +312,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Booz Allen | ServiceNow Developer, Junior 🇺🇸 🆕 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/ServiceNow-Developer--Junior_R0251800) | McLean, VA | Python, Java, C#, JavaScript | Oct 16, 2026 |
 | Choice Hotels | Software Engineer 1 🛂 🆕 | [Apply](https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450) | Scottsdale AZ - Technology & Digital Co… | Python, Java, SQL, AWS | Oct 16, 2026 |
 | CoStar Group | Software Engineer I- CoStar Suite- Arlington, VA 🛂 🆕 | [Apply](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122) | US-VA Arlington | C#, TypeScript, SQL, React | Oct 16, 2026 |
-| Ferrovial | Webber - Field Engineer - Infrastruc​ture Management 🆕 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Fort-Lauderdale-FL/Webber---Field-Engineer---Infrastructure-Management_JR19907) | Fort Lauderdale, FL | No skills listed | Oct 16, 2026 |
-| Ferrovial | Webber - Field Engineer - Infrastruc​ture Management 🆕 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/West-Palm-Beach-FL/Webber---Field-Engineer---Infrastructure-Management_JR19902) | West Palm Beach, FL | No skills listed | Oct 16, 2026 |
 | RTX | Software Engineer I, Onsite 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | Python, C++, Rust, Linux | Oct 16, 2026 |
 | KLA ✓ | Research Scientist: Computatio​nal Physics 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist--Computational-Physics_2642067) | Ann Arbor, MI | No skills listed | Oct 16, 2026 |
 | Morningstar ✓ | Associate Software Engineer 🆕 | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1) | Chicago +2 more | Python, LLMs, AWS, Azure | Oct 16, 2026 |

@@ -42,6 +42,32 @@ All the classification (new grad / tech / class year / category) lives in one
 file: [`src/grad_engine/filters.py`](src/grad_engine/filters.py). PRs that
 improve precision/recall against real titles are very welcome.
 
+When changing `description_entry_reason`, bump `DESCRIPTION_ENTRY_VERSION`
+so negative verdicts in `data/entry_checks.json` are checked again. The cache
+also expires after 24 hours; failed or empty detail requests remain retryable.
+
+## Enabling native email on your own fork
+
+Email credentials and subscriber lists do not come with the source code.
+Without configuration, the dashboard and README offer RSS/Feedrabbit instead,
+and `python run.py mailcheck` reports **disabled**, not healthy delivery.
+
+To operate your own double-opt-in digest:
+
+1. Set up your own Supabase project and review/apply [`db/schema.sql`](db/schema.sql).
+   Keep its subscriber data private; do not reuse another repo's subscriber list.
+2. Add `supabase_url` and `supabase_publishable_key` to `data/config.json`.
+   Only the public client key belongs here, **never the service-role key**.
+3. Configure GitHub Actions secrets `SUPABASE_URL`, `SUPABASE_SERVICE_KEY`,
+   `BREVO_API_KEY`, and `MAIL_FROM` (a sender verified with Brevo).
+4. Confirm a subscription you own, refresh/deploy the list, then verify the
+   notifier's delivery result and `data/mail_state.json`. Run `mailcheck` with
+   the same credentials; a signup without a configured sender fails the check.
+
+Keep the publish gate and live-Pages check before delivery. Do not run the
+notifier against unpublished test fixtures. Feedrabbit is a separate service
+and follows its own plan and delivery schedule.
+
 ## Improving the sponsorship flags
 
 The 🇺🇸 / 🛂 flags come from

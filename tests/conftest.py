@@ -11,7 +11,7 @@ from grad_engine import paths  # noqa: E402
 # sandboxed for the whole suite.
 _WRITABLE = (
     "README_PATH", "CSV_PATH", "STATS_PATH", "HISTORY_PATH", "JOBS_PATH",
-    "HEALTH_PATH", "MAIL_STATE_PATH", "OUTBOX_PATH", "OBSERVED_PATH",
+    "HEALTH_PATH", "ENTRY_CHECKS_PATH", "MAIL_STATE_PATH", "OUTBOX_PATH", "OBSERVED_PATH",
     "DOCS_DIR", "API_DIR", "DASHBOARD_PATH", "FEED_PATH", "RADAR_ICS_PATH",
 )
 

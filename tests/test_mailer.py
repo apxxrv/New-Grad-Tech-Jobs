@@ -494,6 +494,52 @@ def test_should_send_still_refuses_an_empty_digest(monkeypatch):
 
 # --- delivery health ------------------------------------------------------------
 
+class TestDeliveryConfiguration:
+    KEYS = ("BREVO_API_KEY", "SUPABASE_URL", "SUPABASE_SERVICE_KEY", "MAIL_FROM")
+
+    def _clear(self, monkeypatch):
+        for key in self.KEYS:
+            monkeypatch.delenv(key, raising=False)
+
+    def test_unconfigured_fork_is_disabled_not_healthy(self, monkeypatch):
+        self._clear(monkeypatch)
+        status, reason = mailer.delivery_health({}, 686, cfg={})
+        assert status == "disabled"
+        assert "not configured" in reason
+
+    def test_public_signup_without_delivery_credentials_fails(self, monkeypatch):
+        self._clear(monkeypatch)
+        cfg = {"supabase_url": "https://test.supabase.co",
+               "supabase_publishable_key": "public"}
+        status, reason = mailer.delivery_health({}, 10, cfg=cfg)
+        assert status == "FAILING"
+        assert "BREVO_API_KEY" in reason
+
+    def test_removing_all_secrets_from_an_active_mailer_is_not_an_opt_out(self, monkeypatch):
+        self._clear(monkeypatch)
+        assert mailer.delivery_health({"last_digest_at": "2026-10-17T00:00:00Z"},
+                                      10, cfg={})[0] == "FAILING"
+
+    def test_partial_configuration_fails_without_exposing_secret_values(self, monkeypatch):
+        self._clear(monkeypatch)
+        monkeypatch.setenv("BREVO_API_KEY", "secret-must-not-appear")
+        status, reason = mailer.delivery_health({}, 0, cfg={})
+        assert status == "FAILING" and "SUPABASE_URL" in reason
+        assert "secret-must-not-appear" not in reason
+
+    def test_configured_delivery_still_uses_the_stall_monitor(self, monkeypatch):
+        for key in self.KEYS:
+            monkeypatch.setenv(key, "alerts@example.com" if key == "MAIL_FROM" else "test")
+        now = datetime(2026, 10, 17, 12, tzinfo=UTC)
+        status, _ = mailer.delivery_health(
+            {"last_digest_at": "2026-10-17T00:00:00Z"}, 10, cfg={}, now=now,
+        )
+        assert status == "ok"
+        status, _ = mailer.delivery_health(
+            {"last_digest_at": "2026-10-15T00:00:00Z"}, 10, cfg={}, now=now,
+        )
+        assert status == "FAILING"
+
 def test_health_flags_the_supabase_pause_that_went_unnoticed():
     """The exact 2026-08-24 shape: roles waiting, ledger frozen, runs green."""
     now = datetime(2026, 9, 15, 7, tzinfo=UTC)

@@ -687,6 +687,30 @@ def _clear_failure(state: dict) -> None:
     state.pop("last_error", None)
 
 
+def delivery_health(state: dict, pending_count: int = 0,
+                    cfg: dict | None = None, now: datetime | None = None) -> tuple[str, str]:
+    """Distinguish an optional disabled mailer from working or broken delivery.
+
+    An empty fork ledger is not proof that a digest is healthy. An advertised
+    signup, partial credentials, or previous delivery state makes missing
+    credentials a failure rather than a deliberate opt-out.
+    """
+    values = {
+        "BREVO_API_KEY": os.environ.get("BREVO_API_KEY"),
+        "SUPABASE_URL": os.environ.get("SUPABASE_URL"),
+        "SUPABASE_SERVICE_KEY": os.environ.get("SUPABASE_SERVICE_KEY"),
+        "MAIL_FROM": _sender(),
+    }
+    missing = [name for name, value in values.items() if not value]
+    if missing:
+        advertised = config.signup_endpoint(cfg if cfg is not None else config.load_config())
+        if any(values.values()) or advertised or state:
+            return "FAILING", f"email backend incomplete: missing {', '.join(missing)}"
+        return "disabled", "native email backend not configured; RSS remains available"
+    ok, reason = health(state, pending_count, now=now)
+    return ("ok" if ok else "FAILING"), reason
+
+
 def health(state: dict, pending_count: int = 0,
            now: datetime | None = None) -> tuple[bool, str]:
     """Is the digest actually reaching people? Returns (ok, human reason).

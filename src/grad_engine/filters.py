@@ -195,6 +195,13 @@ _SOFTWARE_FIRST_RE = re.compile(
     r"database engineer|platform engineer|security engineer)\b",
     re.IGNORECASE,
 )
+# Infrastructure is shared vocabulary for computing and civil construction.
+# Physical-role evidence disqualifies an infrastructure-only title, not genuine
+# software/data/ML work applied to construction (or ambiguous computing titles).
+_PHYSICAL_INFRA_RE = re.compile(
+    r"\b(?:civil|construction|highways?|waterworks|field\s+engineer(?:ing)?)\b",
+    re.IGNORECASE,
+)
 
 
 def is_new_grad(title: str) -> bool:
@@ -227,6 +234,11 @@ def is_tech(title: str) -> bool:
         return False
     included = bool(_INCLUDE_RE.search(title) or _CONTEXTUAL_TECH_RE.search(title))
     if not included:
+        return False
+    if _PHYSICAL_INFRA_RE.search(title) and not (
+        any(m.group(0).lower() != "infrastructure" for m in _INCLUDE_RE.finditer(title))
+        or _CONTEXTUAL_TECH_RE.search(title)
+    ):
         return False
     if _HARDWARE_EXCLUDE_RE.search(title) and not _SOFTWARE_FIRST_RE.search(title):
         return False
@@ -657,6 +669,10 @@ def is_entry_level(title: str, entry_signal: str | None = None) -> bool:
     if is_new_grad(title):
         return True
     return entry_signal == "description" and title_allows_description_check(title)
+
+
+# Bump when these rules change so cached negative posting verdicts are re-read.
+DESCRIPTION_ENTRY_VERSION = 1
 
 
 def description_entry_reason(text: str, cycles=("Class of 2027", "Class of 2026"),

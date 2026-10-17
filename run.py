@@ -149,16 +149,19 @@ def cmd_notify() -> None:
         print(f"  {label:20} {len(done)} handled, {len(still)} still queued")
 
     sent = mailer.send_digest(store_data)
-    print(f"  email digest         {f'sent to {sent} subscribers' if sent else 'not due'}")
 
     # "not due" and "the database has been unreachable for three weeks" printed
     # identically until now, which is how a 24-day outage went unnoticed. Say
     # which one it is, every run.
     state = mailer.load_state()
     waiting = len(mailer.pending_roles(store_data, state))
-    ok, reason = mailer.health(state, waiting)
-    print(f"  email health         {'ok' if ok else 'FAILING'} - {reason}")
-    if not ok:
+    status, reason = mailer.delivery_health(state, waiting)
+    delivery = f"sent to {sent} subscribers" if sent else (
+        "disabled" if status == "disabled" else "not sent" if status == "FAILING" else "not due"
+    )
+    print(f"  email digest         {delivery}")
+    print(f"  email health         {status} - {reason}")
+    if status == "FAILING":
         # Picked up as an annotation on the Actions run; `run.py mailcheck`
         # turns the same verdict into a red run, which is what actually
         # reaches a human by email.
@@ -181,8 +184,11 @@ def cmd_mailcheck() -> None:
     store_data = store.load(paths.JOBS_PATH)
     state = mailer.load_state()
     waiting = len(mailer.pending_roles(store_data, state))
-    ok, reason = mailer.health(state, waiting)
-    if ok:
+    status, reason = mailer.delivery_health(state, waiting)
+    if status == "disabled":
+        print(f"Email digest disabled - {reason}")
+        return
+    if status == "ok":
         print(f"Email digest healthy - {reason}")
         return
     print(f"::error title=Email digest is not going out::{reason}")

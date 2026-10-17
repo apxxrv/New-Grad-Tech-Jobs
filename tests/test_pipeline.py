@@ -556,8 +556,8 @@ class TestDescriptionEntryLevel:
                   url="https://x", posted_at=posted, description=description)
         return [({"ats": source, "slug": "acme", "name": "Acme"}, Fetch([job]), None)]
 
-    def _keep(self, results, existing=None, cfg=None):
-        kept, *_ = pipeline._keep_matching(results, cfg or self.CFG, {}, existing or {})
+    def _keep(self, results, existing=None, cfg=None, checks=None):
+        kept, *_ = pipeline._keep_matching(results, cfg or self.CFG, {}, existing or {}, checks)
         return kept
 
     def test_inline_entry_level_text_lists_a_plain_title(self):
@@ -608,6 +608,56 @@ class TestDescriptionEntryLevel:
                                           "season_inferred": True}}
         kept = self._keep(self._results(source="greenhouse"), existing)
         assert [j.entry_signal for j in kept] == ["description"]
+
+    def test_rejected_detail_is_not_fetched_again_next_run(self):
+        import asyncio
+
+        from grad_engine import enrich, entry_checks
+
+        class FakeNet:
+            calls = 0
+
+            async def get_json(self, *_args, **_kwargs):
+                self.calls += 1
+                return {"content": "Requires 5+ years of professional experience."}
+
+        checks = {}
+        net = FakeNet()
+        kept = self._keep(self._results(source="greenhouse"), checks=checks)
+        asyncio.run(enrich.enrich_jobs(kept, {}, net))
+        still, _ = pipeline._settle_enriched(kept, {}, self.CFG, 0, checks)
+        assert still == [] and net.calls == 1
+        entry_checks.save(checks)
+        kept = self._keep(self._results(source="greenhouse"), checks=entry_checks.load())
+        asyncio.run(enrich.enrich_jobs(kept, {}, net))
+        assert kept == [] and net.calls == 1
+
+    def test_empty_and_failed_detail_fetches_are_never_cached(self):
+        for description in (None, "", "<p> </p>"):
+            checks = {}
+            kept = self._keep(self._results(source="greenhouse"), checks=checks)
+            kept[0].description = description
+            assert pipeline._settle_enriched(kept, {}, self.CFG, 0, checks)[0] == []
+            assert checks == {}
+            assert self._keep(self._results(source="greenhouse"), checks=checks)
+
+    def test_fresh_inline_text_outranks_a_cached_negative(self):
+        from grad_engine import entry_checks
+
+        checks = {}
+        entry_checks.remember(self._results(source="greenhouse")[0][1].jobs[0], checks,
+                              self.CFG["cycles"])
+        kept = self._keep(self._results(source="greenhouse",
+                          description="New college graduates are welcome."), checks=checks)
+        assert [j.entry_signal for j in kept] == ["description"]
+
+    def test_fresh_inline_text_can_revoke_a_stored_positive(self):
+        existing = {"ashby:acme:1": {"entry_signal": "description"}}
+        assert self._keep(self._results(description="5+ years of experience."), existing) == []
+
+    def test_empty_inline_text_cannot_revoke_a_stored_positive(self):
+        existing = {"ashby:acme:1": {"entry_signal": "description"}}
+        assert self._keep(self._results(description="<p> </p>"), existing)
 
     def test_store_sweep_respects_the_description_verdict(self):
         from grad_engine.pipeline import _close_out_of_scope

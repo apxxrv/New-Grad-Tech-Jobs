@@ -27,6 +27,7 @@ def test_malformed_existing_config_is_fatal(tmp_path, monkeypatch):
         ({"cycles": ["2027 Summer"]}, "cycles must use labels"),
         ({"default_cycle": "Spring 2030"}, "default_cycle"),
         ({"include_international": "yes"}, "true or false"),
+        ({"description_entry_check": "false"}, "true or false"),
         ({"max_age_days": True}, "must be an integer"),
     ],
 )
@@ -37,4 +38,3 @@ def test_scope_configuration_rejects_unsafe_shapes(raw, message):
 
 def test_empty_regions_fail_closed_even_for_unvalidated_callers():
     assert config.restrict_region({"regions": []}) is True
-

@@ -280,7 +280,7 @@ def _raw_feed_url() -> str:
 
 def _email_subscribe_url() -> str:
     """One-click feed-to-email signup, prefilled with our feed."""
-    return f"https://feedrabbit.com/subscriptions/new?url={quote(_raw_feed_url(), safe='')}"
+    return config.rss_email_url()
 
 
 def _header(cfg: dict, total_open: int, companies: int, new_week: int,
@@ -306,6 +306,20 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
     cycles = config.cycles(cfg)
     cycles_phrase = " and ".join(cycles)
     pages = config.pages_base()
+    native_email = config.signup_endpoint(cfg) is not None
+    alerts_url = f"{pages}/#subscribe" if native_email else _email_subscribe_url()
+    alerts_label = "Email alerts" if native_email else "RSS-to-email"
+    alerts_copy = (
+        f"**🔔 New roles in your inbox:** [subscribe by email]({alerts_url}) "
+        "- one email a day, only when new grad roles actually appeared, "
+        "unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
+        f"[Feedrabbit works too]({_email_subscribe_url()}).)"
+        if native_email else
+        "**🔔 New roles in your inbox:** native email digests are not configured "
+        f"for this repo. Use [Feedrabbit RSS-to-email]({alerts_url}) or subscribe "
+        f"to the [RSS feed]({pages}/feed.xml). Feedrabbit is a separate service; "
+        "delivery follows its own plan and schedule."
+    )
 
     repo = config.repo_slug()
     stats_url = quote(f"{pages}/api/stats.json", safe="")
@@ -325,7 +339,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         f"(https://github.com/{repo}/actions/workflows/ci.yml)&nbsp;"
         f"[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles"
         f"&query=open_total&url={stats_url}&color=2f81f7&style=flat-square)]({pages}/)&nbsp;"
-        "![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950"
+        "![Schedule](https://img.shields.io/badge/schedule-every%2030%20min-3fb950"
         "?style=flat-square)&nbsp;"
         f"[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)]"
         f"({pages}/feed.xml)",
@@ -342,7 +356,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         f"**[🖥️ Live dashboard]({pages}/)** · "
         f"**[📡 RSS]({pages}/feed.xml)** · "
         f"**[⚙️ JSON API]({pages}/api/jobs.json)** · "
-        f"**[✉️ Email alerts]({pages}/#subscribe)**",
+        f"**[✉️ {alerts_label}]({alerts_url})**",
         "",
         "</div>",
         "",
@@ -356,19 +370,16 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # Native signup posts into our own Supabase list (RLS: insert-only).
         # The Feedrabbit link is the zero-account fallback via the raw feed URL,
         # which works even when GitHub Pages is off.
-        f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
-        "- one email a day, only when new grad roles actually appeared, "
-        f"unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
-        "[Feedrabbit works too]"
-        f"({_email_subscribe_url()}).)",
+        alerts_copy,
         "",
         "---",
         "",
         "## What this is",
         "",
-        "This is an engine, not a hand-kept list. It polls company career feeds "
-        "every 30 minutes, finds the new grad roles, removes duplicates, and "
-        "rebuilds this page on its own.",
+        "This is an engine, not a hand-kept list. It is scheduled to poll company "
+        "career feeds every 30 minutes, find new grad roles, remove duplicates, "
+        "and rebuild this page. GitHub Actions can delay or skip scheduled runs; "
+        "the data-as-of timestamp above shows the last completed refresh.",
         "",
         "Every link comes straight from the source — so it's real and current, "
         "not a stale list someone forgot to update. Speed matters.",
@@ -398,13 +409,13 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "for the stack it wants (Python, C++, PyTorch, …) and the pay it "
         f"states — searchable on the [dashboard]({pages}/), and included in the "
         "CSV and API. |",
-        f"| 🔔 **Alerts your way** | [Email digests]({pages}/#subscribe) or "
+        f"| 🔔 **Alerts your way** | [{alerts_label}]({alerts_url}) or "
         f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
         f"integration, at it. Plus a [live dashboard]({pages}/) with search, "
         "filters, and a saved-roles list that never leaves your browser. |",
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
         f"endpoints ({(employers or companies):,} distinct employers; some run "
-        "more than one board) polled every 30 minutes across 12 ATS platforms. "
+        "more than one board) scheduled for polling every 30 minutes. "
         "Full source and tests in this repo. |",
         "",
         "## Scope",
@@ -439,7 +450,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "I'm building this in the open and adding to it as it grows.",
         "",
-        "**Recently shipped:** email alerts · the Drop Radar · auto-detected "
+        f"**Available:** {alerts_label.lower()} · the Drop Radar · auto-detected "
         "sponsorship flags · the live dashboard",
         "",
         "**Next up:** personalized alerts (pick your categories) · per-company "
