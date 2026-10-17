@@ -8,7 +8,7 @@
 
 ### 932 open roles (554 listed below) · 716 new this week
 
-4,955 employers tracked · data as of Oct 17, 2026 at 19:08 UTC
+4,955 employers tracked · data as of Oct 17, 2026 at 21:43 UTC
 
 _527 have a class year the employer stated · 405 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -348,8 +348,8 @@ These postings never name a class year — not in the title, not in the posting 
 | TNS | Application Security Analyst I 🆕 | [Apply](https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Virtual---Virginia/Application-Security-Analyst-I_R3131) | USA - Virtual - Virginia +21 more | Azure, Git | Oct 15, 2026 |
 | Honeycomb 🆁 | Software Engineer I - LLM Observabil​ity 🛂 🆕 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5452584008) | Remote - United States | LLMs, Python, TypeScript, React | Oct 15, 2026 |
 | Affirm ✓ 🆁 | Software Engineer I, Fullstack (Search) 🆕 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US | Python, TypeScript, JavaScript, Kotlin | Oct 15, 2026 |
-| 1Password 🆁 | Junior Security Engineer 🆕 | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
-| 1Password 🆁 | Junior Developer 🆕 | [Apply](https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
+| 1Password 🆁 | Junior Security Engineer | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
+| 1Password 🆁 | Junior Developer | [Apply](https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
 | Cisco | Site Reliability Engineer I (Full Time) — United States 🆕 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788) | RTP +9 more | Python, Bash, GCP, Azure | Oct 14, 2026 |
 | CWAN | Software Development Engineer I 🆕 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Engineer-I_R12059) | Office - Boise | Python, Java, TypeScript, LLMs | Oct 14, 2026 |
 | Clera | Associate Fullstack Engineer 🛂 🆕 | [Apply](https://jobs.ashbyhq.com/clera/d5f4cea8-7503-4095-a71b-90abe4d083ea) | San Francisco | TypeScript, LLMs, Next.js | Oct 14, 2026 |
@@ -731,7 +731,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,752 of 5,267 registered boards returned successfully across 13 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1340.2s · 211 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,722 of 5,267 registered boards returned successfully across 13 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1172.8s · 194 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
