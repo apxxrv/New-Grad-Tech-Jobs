@@ -78,7 +78,35 @@ async def _workday(job: Job, net: Net) -> str | None:
     ):
         job.posted_at = f"{start}T00:00:00Z"
         job.posted_at_source = "date_only"
+    if filters.is_location_placeholder(job.location):
+        resolved = workday_detail_location(info)
+        if resolved:
+            job.location = resolved
     return info.get("jobDescription")
+
+
+def workday_detail_location(info: dict) -> str | None:
+    """The real places behind a list-page "N Locations", from the detail page.
+
+    `location` is the primary place and `country` is its country, so the
+    primary gets the country appended ("Greater Seattle Area, United States of
+    America"); `additionalLocations` are kept as written. Options are joined
+    with "; " like the other multi-location connectors.
+    """
+    places: list[str] = []
+    primary = str(info.get("location") or "").strip()
+    country = str((info.get("country") or {}).get("descriptor") or "").strip()
+    if primary:
+        if country and country.lower() not in primary.lower():
+            primary = f"{primary}, {country}"
+        places.append(primary)
+    extra = info.get("additionalLocations")
+    if isinstance(extra, list):
+        for item in extra:
+            text = str(item or "").strip()
+            if text and text not in places:
+                places.append(text)
+    return "; ".join(places) or None
 
 
 async def _oracle(job: Job, net: Net) -> str | None:

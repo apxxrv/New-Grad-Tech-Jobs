@@ -202,3 +202,43 @@ class TestEnrich:
         job.season, job.season_inferred = "Summer 2027", False  # year was in the title
         _run(enrich.enrich_jobs([job], {}, net))
         assert job.season == "Summer 2027"
+
+
+class TestWorkdayPlaceholderLocation:
+    URL = ("https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/"
+           "Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326")
+
+    def _job(self, location):
+        return Job(id="workday:blueorigin:/job/x", source="workday", company="Blue Origin",
+                   company_slug="blueorigin",
+                   title="Software Development Engineer I - Early Career (2027 Starts)",
+                   location=location, url=self.URL)
+
+    def _payload(self):
+        # Shape of the real detail response for Blue Origin R71326.
+        return {"jobPostingInfo": {
+            "location": "Greater Seattle Area",
+            "additionalLocations": ["Space Coast, FL", "Huntsville, AL", "Denver, CO"],
+            "country": {"descriptor": "United States of America"},
+            "startDate": "2026-09-10",
+            "jobDescription": "<p>Build flight software.</p>",
+        }}
+
+    def test_detail_page_replaces_n_locations_with_the_real_places(self):
+        job = self._job("5 Locations")
+        _run(enrich.enrich_jobs([job], {}, FakeNet(self._payload())))
+        assert job.location == (
+            "Greater Seattle Area, United States of America; Space Coast, FL; "
+            "Huntsville, AL; Denver, CO"
+        )
+
+    def test_a_real_location_is_left_alone(self):
+        job = self._job("Kent, WA")
+        _run(enrich.enrich_jobs([job], {}, FakeNet(self._payload())))
+        assert job.location == "Kent, WA"
+
+    def test_detail_without_places_keeps_the_placeholder(self):
+        job = self._job("2 Locations")
+        payload = {"jobPostingInfo": {"jobDescription": "<p>x</p>"}}
+        _run(enrich.enrich_jobs([job], {}, FakeNet(payload)))
+        assert job.location == "2 Locations"

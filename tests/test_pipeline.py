@@ -480,3 +480,61 @@ class TestRetireGuessedCycles:
                                   "seasons": ["Summer 2027", "Fall 2026"]}})
         assert n == 1
         assert "seasons" not in out["a"]
+
+
+class TestWorkdayPlaceholderLocation:
+    """Workday lists multi-place roles as "N Locations" (Adobe, NVIDIA, Blue
+    Origin new grad roles were dropped as non-US for it)."""
+
+    CFG = {"cycles": ["Class of 2027", "Class of 2026"], "regions": ["US"],
+           "role_scope": "tech"}
+    JID = "workday:adobe:/job/San-Jose/x_R172083"
+
+    def _results(self, location="6 Locations"):
+        from grad_engine.models import Job
+        job = Job(id=self.JID, source="workday", company="Adobe", company_slug="adobe",
+                  title="2027 University Graduate - Software Engineer",
+                  location=location, url="https://adobe.wd5.myworkdayjobs.com/x")
+        return [({"ats": "workday", "slug": "adobe", "name": "Adobe", "wd": "wd5",
+                  "site": "external_experienced"}, Fetch([job]), None)]
+
+    def test_placeholder_is_not_rejected_as_foreign(self):
+        kept, *_ = pipeline._keep_matching(self._results(), self.CFG, {}, {})
+        assert [j.location for j in kept] == ["6 Locations"]
+
+    def test_resolved_places_on_record_replace_the_placeholder(self):
+        existing = {self.JID: {"location": "San Jose, United States of America; Seattle, WA"}}
+        kept, *_ = pipeline._keep_matching(self._results(), self.CFG, {}, existing)
+        assert [j.location for j in kept] == [
+            "San Jose, United States of America; Seattle, WA"]
+
+    def test_resolved_foreign_record_keeps_the_role_out(self):
+        existing = {self.JID: {"location": "Bangalore, India; Noida, India"}}
+        kept, *_ = pipeline._keep_matching(self._results(), self.CFG, {}, existing)
+        assert kept == []
+
+    def test_foreign_places_found_by_enrichment_leave_and_are_remembered(self):
+        kept, *_ = pipeline._keep_matching(self._results(), self.CFG, {}, {})
+        kept[0].location = "Bangalore, India; Noida, India"   # what enrich read
+        existing: dict = {}
+        still, offcycle = pipeline._settle_enriched(kept, existing, self.CFG, 0)
+        assert still == [] and offcycle == 0
+        record = existing[self.JID]
+        assert record["is_open"] is False
+        assert record["closed_reason"] == "out-of-scope"
+        assert record["location"] == "Bangalore, India; Noida, India"
+        assert record["enriched_at"]  # never detail-fetched again
+
+    def test_us_places_found_by_enrichment_stay(self):
+        kept, *_ = pipeline._keep_matching(self._results(), self.CFG, {}, {})
+        kept[0].location = "San Jose, United States of America; Seattle, WA"
+        still, _ = pipeline._settle_enriched(kept, {}, self.CFG, 0)
+        assert len(still) == 1
+
+    def test_store_sweep_does_not_close_a_placeholder_record(self):
+        from grad_engine.pipeline import _close_out_of_scope
+        existing = {"a": {"is_open": True, "location": "2 Locations",
+                          "title": "Software Engineer I - Flight Software",
+                          "company": "Sierra Space"}}
+        assert _close_out_of_scope(existing, {"regions": ["US"], "role_scope": "tech"}) == 0
+        assert existing["a"]["is_open"] is True

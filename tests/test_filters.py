@@ -732,3 +732,92 @@ class TestRealRunFalsePositives:
         assert not filters.is_new_grad("Software Engineer 1/2/3 (Hybrid)")
         assert not filters.is_new_grad("Software Engineer I/II")
         assert filters.is_new_grad("Software Engineer 1")
+
+
+class TestCoverageGapFixes:
+    """Real US new grad roles the filters dropped (coverage audit, 2026-10-16).
+
+    Titles and locations are copied from what our connectors returned.
+    """
+
+    def test_workday_n_locations_placeholder_is_unknown_not_foreign(self):
+        for loc in ("2 Locations", "5 Locations", "7 Locations", "1 Location"):
+            assert filters.is_location_placeholder(loc), loc
+            assert filters.region_ok(loc, want_us=True, want_canada=False), loc
+            # Still not claimed as US for labels and stats.
+            assert not filters.is_united_states(loc), loc
+        assert not filters.is_location_placeholder("Remote - Multiple Locations")
+        assert not filters.region_ok("2 Locations", want_us=False, want_canada=False)
+
+    def test_bare_us_city_names_are_us(self):
+        for loc in ("Miami", "San Francisco", "SAN JOSE", "Seattle", "Sunnyvale",
+                    "Orlando", "Chicago", "SF", "Seattle (hybrid)",
+                    "CINCINNATI GENERAL OFFICES", "Greater Seattle Area",
+                    "Amsterdam; Chicago", "US-WA-Bellevue",
+                    "US-AZ-TUCSON-805 ~ E Hermans Rd"):
+            assert filters.is_united_states(loc), loc
+
+    def test_bare_foreign_or_shared_city_names_stay_non_us(self):
+        for loc in ("London", "Paris", "Cambridge", "Amsterdam", "Hong Kong",
+                    "Vancouver", "Dublin", "Birmingham", "Burnet Campus",
+                    "Airport Headquarters", "Remote", "Remote - Multiple Locations",
+                    "San Jose, Costa Rica", "Bangalore", "Toronto"):
+            assert not filters.is_united_states(loc), loc
+        assert not filters.is_canada("Seattle")
+
+    def test_bank_campus_program_titles_are_new_grad(self):
+        for title in (
+            "2027 Software Engineer Program - Full-Time - United States - July Start",
+            "Software Engineer Program - Full-Time - United States",
+            "2027 BNY Analyst Program - Engineering (Developer) - New York, NY",
+            "Application Developer Analyst [2027 EDGE Program]",
+            "2027 Technology Development Program - Software Engineering",
+            "Software Engineering Development Program - Hybrid from Waltham, MA",
+            "Stanley Leadership Program Engineering, Embedded Software",
+        ):
+            assert filters.is_new_grad(title), title
+            assert filters.is_tech(title), title
+        assert filters.detect_season(
+            "2027 Software Engineer Program - Full-Time - United States - July Start",
+            CYCLES) == "Class of 2027"
+
+    def test_program_wording_that_is_a_job_function_is_not_new_grad(self):
+        for title in (
+            "Classified Software Program Management",
+            "Research Software Engineer- Program Analyst",
+            "AI Engineer - Supercomputing - Special Programs - Top Secret Clearance",
+            "Software Program Manager 2027",
+            "Senior Software Engineer - Development Program",
+            "2027 Software Engineering Internship Program",
+            # A sophomore workshop, not a hire: no role word next to the year.
+            "LINK 2027: Software Development Intensive Program",
+        ):
+            assert not filters.is_new_grad(title), title
+
+    def test_product_developer_is_not_software(self):
+        # PPG's "Aerospace Product Developer" formulates sealants.
+        assert not filters.is_tech("2027 Burbank PhD Program - Aerospace Product Developer")
+        assert filters.is_tech("Software Developer Program")
+
+    def test_level_one_titles_are_entry_level(self):
+        for title in (
+            "Software Engineer I - Flight Software", "Software Engineer 1",
+            "Software Development Engineer 1 - Mobile", "SDE I",
+            "Associate Software Engineer - Launchpad", "Data Engineer I (AWS, Python, SQL)",
+            "Embedded Software Engineer 1",
+        ):
+            assert filters.is_new_grad(title), title
+
+    def test_level_two_and_up_stay_rejected(self):
+        for title in (
+            "Software Engineer 2 - Factory", "Graduate Software Engineer 2",
+            "Software Engineer - Level 3", "Systems Engineer I, II, III",
+            "Software Engineer III", "SDE II", "Software Engineer 2 New Grad - Developer Portal",
+        ):
+            assert not filters.is_new_grad(title), title
+
+    def test_schedule_numbers_are_not_levels(self):
+        assert filters.is_new_grad(
+            "Junior Software Engineer- 4 Days Onsite- Englewood, CO- FreeWheel")
+        assert not filters._LEVEL_RE.search("Software Operations Specialist (12 month duration)")
+        assert filters._LEVEL_RE.search("Software Engineer 4")
