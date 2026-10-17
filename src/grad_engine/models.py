@@ -125,6 +125,10 @@ class Job:
     # requisition.  Keeping them prevents a board-alias change from looking
     # like a brand-new role (and therefore sending a duplicate alert).
     aliases: list[str] | None = None
+    # Why a role with no new grad wording in its title is listed anyway:
+    # "description" = its posting text states it is entry level (see
+    # filters.description_entry_reason). None = the title said so itself.
+    entry_signal: str | None = None
 
 
 @dataclass

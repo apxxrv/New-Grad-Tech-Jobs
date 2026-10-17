@@ -821,3 +821,100 @@ class TestCoverageGapFixes:
             "Junior Software Engineer- 4 Days Onsite- Englewood, CO- FreeWheel")
         assert not filters._LEVEL_RE.search("Software Operations Specialist (12 month duration)")
         assert filters._LEVEL_RE.search("Software Engineer 4")
+
+
+class TestDescriptionEntryLevel:
+    """Strict description check. Text fragments are copied from real postings
+    in the 2026-10-16 coverage audit."""
+
+    NOW = datetime(2026, 10, 16, tzinfo=UTC)
+
+    def reason(self, text):
+        return filters.description_entry_reason(text, CYCLES, now=self.NOW)
+
+    def test_audience_statements_accept(self):
+        for text in (
+            "New college graduates are welcome.",                       # Cerebras
+            "As an entry-level AI Engineer, you will help design AI apps.",  # GE Vernova
+            "We're looking for an early-career engineer to partner with our Head of People.",
+            "This is an: Entry-level professional individual contributor. "
+            "Typically, no prior experience.",                          # CACI
+            "We are looking for ambitious, hard-working recent graduates.",
+        ):
+            assert self.reason(text) == "audience", text
+
+    def test_small_experience_asks_accept(self):
+        for text in (
+            "0-2 years of relevant experience related to this field",   # Caterpillar
+            "Generally, requires 1+ years’ experience in software development",  # NISC
+            "Zero to two years of professional software development experience.",
+            "up to 2 years of industry experience",
+            "Bachelor’s degree with 0-2 years of relevant experience",
+            "1-2 years building software",
+        ):
+            assert self.reason(text) == "experience", text
+
+    def test_graduation_window_with_a_tracked_class_accepts(self):
+        assert self.reason(
+            "Bachelor’s degree in computer science (Graduating class of 2027)"
+        ) == "graduation"
+        assert self.reason(
+            "Current graduate student with an expected graduation date of Winter 2026 "
+            "or Spring 2027."
+        ) == "graduation"
+        assert self.reason("Graduating class of 2025 preferred.") is None
+        # A start date says when the job begins, not who it is for.
+        assert self.reason("The start date is in summer 2027.") is None
+
+    def test_negated_or_ranged_audience_words_do_not_accept(self):
+        for text in (
+            "This is not an entry-level role.",
+            "You will mentor new grads on the team.",
+            "We hire from entry level to senior engineers.",
+            "We will consider candidates ranging from recent graduates to those with "
+            "more experience.",
+            "The entry-level salary for this role is listed below.",
+        ):
+            assert self.reason(text) is None, text
+
+    def test_two_plus_years_or_senior_duties_reject(self):
+        for text in (
+            "New grads welcome. 3+ years in an AI engineering role.",       # Blackstone
+            "Bachelor’s degree, OR 3+ years of relevant work experience.",  # Visa
+            "2+ years in shipping production grade software. 1+ years of Python experience.",
+            "Entry level. You will mentor junior engineers.",
+            "New grads welcome; extensive experience doing this work in production.",
+            "Entry level role. You will lead a team of developers.",
+            "five years of experience with Java",
+        ):
+            assert self.reason(text) is None, text
+
+    def test_ranges_past_two_years_and_degree_lengths_are_not_entry(self):
+        assert self.reason("1-3 years of experience building software systems") is None
+        assert self.reason("A 4-year degree and relevant experience") is None
+        assert self.reason("Our 401k vests after 3 years of service.") is None
+
+    def test_no_direct_reports_is_not_a_senior_duty(self):
+        assert self.reason(
+            "This position has no Direct Reports. 0-2 years of experience."
+        ) == "experience"
+
+    def test_title_guard(self):
+        for title in ("Software Engineer", "Data Scientist", "Backend Engineer",
+                      "Software Engineer, Data Access", "Mid-Atlantic Software Engineer"):
+            assert filters.title_allows_description_check(title), title
+        for title in (
+            "Senior Software Engineer", "Staff Data Scientist", "Software Engineer II",
+            "Engineering Manager, Software", "Software Engineer Intern",
+            "Data Scientist - Mid", "Engr, Software 2", "Intermediate Software Developer",
+            "Vocational Specialist - M-F Days - Job Developer",
+            "Software Engineer, New Grad",   # passes on its title alone
+            "Technical Recruiter",
+        ):
+            assert not filters.title_allows_description_check(title), title
+
+    def test_is_entry_level(self):
+        assert filters.is_entry_level("Software Engineer, New Grad")
+        assert not filters.is_entry_level("Software Engineer")
+        assert filters.is_entry_level("Software Engineer", "description")
+        assert not filters.is_entry_level("Senior Software Engineer", "description")

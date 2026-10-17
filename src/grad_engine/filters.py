@@ -174,8 +174,8 @@ _NON_TECH_EXCLUDE_RE = re.compile(
     r"communications|supply chain|business development|product design|product designer|"
     r"product manager|product management|ux design|graphic design|industrial design|"
     # A "Product Developer" formulates physical products (PPG's aerospace
-    # sealants), not software.
-    r"product developer"
+    # sealants), not software. A "Job Developer" places clients in jobs.
+    r"product developer|job developer|vocational"
     r")\b",
     re.IGNORECASE,
 )
@@ -450,7 +450,8 @@ def _years_in(fragment: str) -> list[int]:
 
 
 def seasons_from_text(
-    text: str, near: int = 160, now: datetime | None = None
+    text: str, near: int = 160, now: datetime | None = None,
+    include_start: bool = True,
 ) -> list[str]:
     """Every class year established by the strongest posting-text evidence tier.
 
@@ -459,6 +460,8 @@ def seasons_from_text(
     both are returned; the caller keeps the full set. Years outside the
     plausible window for a live new grad posting (last year through two years
     out) are ignored, as are years describing the company's history.
+    `include_start=False` stops after the graduation tier: a start date says
+    when a job begins, not who it is for.
     """
     if not text:
         return []
@@ -497,7 +500,7 @@ def seasons_from_text(
         years = plausible(_years_in(window))
         if years and not (_TEXT_PAST_RE.fullmatch(m.group(0)) and max(years) < now.year):
             found.extend(years)
-    if found:
+    if found or not include_start:
         return labels(found)
 
     # Tier 3: a start sentence.
@@ -517,6 +520,181 @@ def season_from_text(
     """The sole class year a posting's text establishes, otherwise ``None``."""
     labels = seasons_from_text(text, near=near, now=now)
     return labels[0] if len(labels) == 1 else None
+
+
+# --- entry level stated in the posting TEXT ----------------------------------
+# Most new grad roles are titled plainly ("Software Engineer") and say who they
+# are for only in the description. This check is deliberately STRICT: it
+# accepts a description only when it plainly targets new grads, asks for at
+# most 0-2 years, or names a 2026/2027 graduation window, and it rejects any
+# description that also asks for 2+ years or senior/lead duties. It never
+# overrides a title that is senior, staff, II+, manager or intern
+# (`title_allows_description_check`).
+_DESC_AUDIENCE_RE = re.compile(
+    r"\b(?:new|recent)\s+(?:college\s+|university\s+)?grad(?:uate)?s?\b"
+    r"|\bnew[\s-]?grad\b"
+    r"|\b(?:university|college)\s+grad(?:uate)?s?\b"
+    r"|\bentry[\s-]level\b"
+    r"|\bearly[\s-]in[\s-]career\b|\bearly[\s-]career\b",
+    re.IGNORECASE,
+)
+# Words just BEFORE the phrase that turn it around: "not an entry-level role",
+# "mentor new grads", "lead a team of early-career engineers".
+_DESC_AUDIENCE_BEFORE_VETO_RE = re.compile(
+    r"\b(?:not|no|isn't|non|beyond|past|above|mentor\w*|coach\w*|train\w*|"
+    r"supervis\w*|manag\w*|lead\w*|guid\w*)\b",
+    re.IGNORECASE,
+)
+# Words NEAR the phrase that make it a range or a pay band, not the audience:
+# "from entry level to senior", "all levels", "the entry-level salary".
+_DESC_AUDIENCE_NEAR_VETO_RE = re.compile(
+    r"\b(?:senior|mid[\s-]?level|experienced|staff|principal|all\s+levels|"
+    r"any\s+level|every\s+level|levels|ranging|salary|pay|compensation|wage)\b"
+    r"|\bmore\s+experience\b",
+    re.IGNORECASE,
+)
+_NUM_WORDS = {
+    "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+    "seven": 7, "eight": 8, "nine": 9, "ten": 10, "twelve": 12, "fifteen": 15,
+}
+_NUM = r"(\d{1,2}|" + "|".join(_NUM_WORDS) + r")"
+# "3-year degree" is an adjective, not an experience ask, so the number must
+# be followed by a space or "+" before "year".
+_YEARS = r"(?:\s*\+\s*|\s+(?:or\s+more\s+|plus\s+)?)(?:years?|yrs?)\b"
+# What makes a "N years" phrase an experience ask: the word "experience"
+# within six words ("1+ years of professional experience", "2 years' relevant
+# experience"), or a job-history word right after it ("3+ years in an AI
+# engineering role", "1-2 years building software").
+_EXPERIENCE_AFTER = (
+    r"(?:['’]s?)?\s+(?:of\s+)?(?:(?:[\w/&,+.#’'-]+\s+){0,6}?experience\b"
+    r"|(?:in|as|working|building|developing|designing|programming|writing|"
+    r"professional|industry|relevant|related|hands[\s-]on|post[\s-]?grad\w*)\b)"
+)
+_EXP_RANGE_RE = re.compile(
+    r"\b" + _NUM + r"\s*(?:-|–|—|to)\s*" + _NUM + _YEARS + _EXPERIENCE_AFTER,
+    re.IGNORECASE,
+)
+_EXP_UPTO_RE = re.compile(
+    r"\b(?:up\s+to|less\s+than|under|no\s+more\s+than|fewer\s+than)\s+" + _NUM
+    + _YEARS + _EXPERIENCE_AFTER,
+    re.IGNORECASE,
+)
+_EXP_MIN_RE = re.compile(
+    r"\b(?:(?:a\s+)?minimum\s+(?:of\s+)?|at\s+least\s+|min\.?\s+)?" + _NUM + r"(\s*\+)?"
+    + _YEARS + _EXPERIENCE_AFTER,
+    re.IGNORECASE,
+)
+_EXP_NONE_RE = re.compile(
+    r"\bno\s+(?:prior\s+|previous\s+|professional\s+|work\s+|industry\s+)?"
+    r"(?:work\s+)?experience\s+(?:is\s+)?(?:required|necessary|needed)\b",
+    re.IGNORECASE,
+)
+# Senior duties stated as part of the job: these veto any positive signal.
+_DESC_SENIOR_DUTY_RE = re.compile(
+    r"\b(?:senior|staff|principal|lead)[\s-]level\b"
+    r"|\bmentor(?:ing|s)?\s+(?:junior|other|less[\s-]experienced|new)\b"
+    r"|\b(?:lead|leading|manage|managing|supervise|supervising)\s+(?:a\s+|the\s+)?"
+    r"(?:team|teams|engineers|developers|group|staff)\b"
+    r"|\bpeople\s+management\b|(?<!\bno\s)\bdirect\s+reports\b"
+    r"|\btech(?:nical)?\s+lead(?:ership)?\s+(?:experience|role|responsibilit\w*)\b"
+    r"|\bextensive\s+(?:professional\s+|industry\s+|hands[\s-]on\s+)?experience\b"
+    r"|\bseasoned\b",
+    re.IGNORECASE,
+)
+
+
+def _num(value: str) -> int:
+    value = value.lower()
+    return _NUM_WORDS[value] if value in _NUM_WORDS else int(value)
+
+
+def _experience_asks(text: str) -> list[tuple[int, int | None]]:
+    """Every "(min, max) years of experience" the text states."""
+    asks: list[tuple[int, int | None]] = []
+    spans: list[tuple[int, int]] = []
+    for m in _EXP_RANGE_RE.finditer(text):
+        asks.append((_num(m.group(1)), _num(m.group(2))))
+        spans.append(m.span())
+    for m in _EXP_UPTO_RE.finditer(text):
+        asks.append((0, _num(m.group(1))))
+        spans.append(m.span())
+    for m in _EXP_MIN_RE.finditer(text):
+        if any(a <= m.start() < b for a, b in spans):
+            continue  # the upper half of a range already counted
+        asks.append((_num(m.group(1)), None))
+    if _EXP_NONE_RE.search(text):
+        asks.append((0, 0))
+    return asks
+
+
+# Titles the posting text may never promote, beyond the seniority, intern and
+# level words is_new_grad already refuses: Booz Allen's "Data Scientist - Mid"
+# (only a separated "Mid", so "Mid-Atlantic Software Engineer" is fine),
+# "Intermediate", and a bare trailing level like KLA's "Engr, Software 2".
+_MID_TITLE_RE = re.compile(
+    r"[-–—(,|/]\s*mid(?:[\s-]level)?\s*(?:$|[),|/]|[-–—]\s)|\bintermediate\b"
+    r"|[\s,]+(?:[2-9]|ii|iii|iv|v)\s*$",
+    re.IGNORECASE,
+)
+
+
+def title_allows_description_check(title: str) -> bool:
+    """May the posting text decide this title? Never for a senior, staff,
+    II+, manager or intern title, and only for tech titles that lack
+    new-grad wording (those pass on the title alone)."""
+    if not title or is_new_grad(title):
+        return False
+    if _INTERN_RE.search(title) or _SENIOR_RE.search(title) or _LEVEL_RE.search(title):
+        return False
+    if _MID_TITLE_RE.search(title):
+        return False
+    return is_tech(title)
+
+
+def is_entry_level(title: str, entry_signal: str | None = None) -> bool:
+    """The title says new grad, or the posting text did and the title allows
+    it (a role listed with ``entry_signal="description"``)."""
+    if is_new_grad(title):
+        return True
+    return entry_signal == "description" and title_allows_description_check(title)
+
+
+def description_entry_reason(text: str, cycles=("Class of 2027", "Class of 2026"),
+                             now: datetime | None = None) -> str | None:
+    """Why the posting text makes this an entry-level role, or None.
+
+    One of "audience" (the text says it is for new/recent/university grads,
+    entry level or early career), "experience" (it asks for at most 0-2 years:
+    "0-2 years", "1+ years", "up to 2 years", "no experience required") or
+    "graduation" (a graduation window that includes a tracked class: "Class of
+    2026", "graduating by June 2027"). Any ask for 2+ years or a range past 2
+    ("1-3 years" is not accepted on experience), or senior/lead duties
+    ("mentor junior engineers", "lead a team"), returns None.
+    """
+    if not text:
+        return None
+    flat = re.sub(r"[–—]", "-", text)
+    asks = _experience_asks(flat)
+    # Strict: any ask for 2+ years rules the posting out, even next to a
+    # "1+ years" line ("2+ years shipping production software").
+    if any(low >= 2 for low, _high in asks):
+        return None
+    if _DESC_SENIOR_DUTY_RE.search(flat):
+        return None
+    for m in _DESC_AUDIENCE_RE.finditer(flat):
+        start, end = _sentence_bounds(flat, m.start())
+        before = flat[max(start, m.start() - 40):m.start()]
+        near = flat[max(start, m.start() - 120):min(end, m.end() + 120)]
+        if not (_DESC_AUDIENCE_BEFORE_VETO_RE.search(before)
+                or _DESC_AUDIENCE_NEAR_VETO_RE.search(near)):
+            return "audience"
+    if asks and all(high is None or high <= 2 for _low, high in asks):
+        return "experience"
+    tracked = {c.strip() for c in cycles}
+    stated = seasons_from_text(flat, now=now, include_start=False)
+    if tracked.intersection(stated):
+        return "graduation"
+    return None
 
 
 # --- location: US / Canada detection -----------------------------------------

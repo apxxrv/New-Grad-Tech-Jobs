@@ -143,6 +143,8 @@ _FETCHERS = {
     "oracle": _oracle,
     "workable": _workable,
 }
+# Sources whose posting text needs one detail request per role.
+DETAIL_SOURCES = frozenset(_FETCHERS)
 
 
 async def enrich_jobs(jobs: list[Job], existing: dict, net: Net) -> tuple[set[str], int]:

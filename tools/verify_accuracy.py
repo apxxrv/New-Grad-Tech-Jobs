@@ -7,7 +7,8 @@ Checks each OPEN role in data/jobs.json against the rules the pipeline promises:
   2. a title that states a tracked term+year agrees with the assigned season
   3. no title states an off-cycle year (those must be tombstoned, never listed)
   4. the location passes the US filter (config regions honored)
-  5. it still reads as a tech new grad role (title-level filters)
+  5. it still reads as a tech new grad role (title-level filters, or a posting
+     text that stated entry level for a title that allows it)
   6. a real posted date exists and is inside max_age_days
   7. inferred (~) rows carry a posted date (that date is the inference's basis)
   8. the company isn't blocklisted
@@ -131,7 +132,10 @@ def main() -> None:
                 not filters.region_ok(r.get("location") or "",
                                       config.want_us(cfg), config.want_canada(cfg)):
             flag(r, "out-of-region")
-        if not filters.is_new_grad(title):
+        # A plain title ("Software Engineer") is allowed only when the posting
+        # text was the evidence (entry_signal="description") and the title is
+        # not senior, staff, II+, manager or intern.
+        if not filters.is_entry_level(title, r.get("entry_signal")):
             flag(r, "not-a-new-grad-title")
         if cfg.get("role_scope", "tech") == "tech" and not filters.is_tech(title):
             flag(r, "not-a-tech-title")

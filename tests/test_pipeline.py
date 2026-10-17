@@ -538,3 +538,88 @@ class TestWorkdayPlaceholderLocation:
                           "company": "Sierra Space"}}
         assert _close_out_of_scope(existing, {"regions": ["US"], "role_scope": "tech"}) == 0
         assert existing["a"]["is_open"] is True
+
+
+class TestDescriptionEntryLevel:
+    """Plain tech titles listed because the posting text says entry level."""
+
+    CFG = {"cycles": ["Class of 2027", "Class of 2026"], "regions": ["US"],
+           "role_scope": "tech"}
+
+    def _results(self, title="Software Engineer", description=None, source="ashby"):
+        from datetime import UTC, datetime, timedelta
+
+        from grad_engine.models import Job
+        posted = (datetime.now(UTC) - timedelta(days=3)).strftime("%Y-%m-%dT00:00:00Z")
+        job = Job(id=f"{source}:acme:1", source=source, company="Acme",
+                  company_slug="acme", title=title, location="San Francisco, CA",
+                  url="https://x", posted_at=posted, description=description)
+        return [({"ats": source, "slug": "acme", "name": "Acme"}, Fetch([job]), None)]
+
+    def _keep(self, results, existing=None, cfg=None):
+        kept, *_ = pipeline._keep_matching(results, cfg or self.CFG, {}, existing or {})
+        return kept
+
+    def test_inline_entry_level_text_lists_a_plain_title(self):
+        kept = self._keep(self._results(description="<p>New college graduates are welcome.</p>"))
+        assert [(j.entry_signal, j.season, j.season_inferred) for j in kept] == [
+            ("description", filters.NOT_STATED, True)]
+
+    def test_inline_text_without_entry_wording_is_dropped(self):
+        assert self._keep(self._results(description="<p>5+ years of experience.</p>")) == []
+        assert self._keep(self._results(description="<p>Build our API.</p>")) == []
+
+    def test_description_never_promotes_a_senior_or_intern_title(self):
+        for title in ("Senior Software Engineer", "Software Engineer II",
+                      "Software Engineer Intern"):
+            text = "<p>New college graduates are welcome.</p>"
+            assert self._keep(self._results(title=title, description=text)) == [], title
+
+    def test_check_can_be_turned_off(self):
+        cfg = dict(self.CFG, description_entry_check=False)
+        text = "<p>New college graduates are welcome.</p>"
+        assert self._keep(self._results(description=text), cfg=cfg) == []
+
+    def test_title_wording_roles_are_unchanged(self):
+        kept = self._keep(self._results(title="Software Engineer, New Grad"))
+        assert [j.entry_signal for j in kept] == [None]
+
+    def test_detail_source_waits_for_enrichment_then_decides(self):
+        kept = self._keep(self._results(source="greenhouse"))
+        assert [j.entry_signal for j in kept] == ["pending"]
+        kept[0].description = "<p>0-2 years of relevant experience required.</p>"
+        existing: dict = {}
+        still, _ = pipeline._settle_enriched(kept, existing, self.CFG, 0)
+        assert [j.entry_signal for j in still] == ["description"]
+
+    def test_pending_role_without_entry_text_is_dropped_and_not_stored(self):
+        kept = self._keep(self._results(source="greenhouse"))
+        kept[0].description = "<p>3+ years of experience.</p>"
+        existing: dict = {}
+        still, _ = pipeline._settle_enriched(kept, existing, self.CFG, 0)
+        assert still == [] and existing == {}
+        # A failed detail fetch (no text) is not evidence either.
+        kept = self._keep(self._results(source="greenhouse"))
+        assert pipeline._settle_enriched(kept, {}, self.CFG, 0)[0] == []
+
+    def test_listed_role_keeps_its_verdict_without_refetching(self):
+        existing = {"greenhouse:acme:1": {"entry_signal": "description",
+                                          "season": filters.NOT_STATED,
+                                          "season_inferred": True}}
+        kept = self._keep(self._results(source="greenhouse"), existing)
+        assert [j.entry_signal for j in kept] == ["description"]
+
+    def test_store_sweep_respects_the_description_verdict(self):
+        from grad_engine.pipeline import _close_out_of_scope
+        existing = {
+            "a": {"is_open": True, "title": "Software Engineer", "company": "Acme",
+                  "location": "Austin, TX", "entry_signal": "description"},
+            "b": {"is_open": True, "title": "Software Engineer", "company": "Acme",
+                  "location": "Austin, TX"},
+            "c": {"is_open": True, "title": "Senior Software Engineer", "company": "Acme",
+                  "location": "Austin, TX", "entry_signal": "description"},
+        }
+        assert _close_out_of_scope(existing, self.CFG) == 2
+        assert existing["a"]["is_open"] is True
+        assert existing["b"]["is_open"] is False
+        assert existing["c"]["is_open"] is False

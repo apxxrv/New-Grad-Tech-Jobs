@@ -424,6 +424,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
     allowlist_only = config.allowlist_only(cfg)
     infer = config.infer_undated(cfg)
     infer_age = config.infer_max_age_days(cfg)
+    describe = config.description_entry_check(cfg)
     max_age = config.max_age_days(cfg)
     cutoff = (
         (datetime.now(UTC) - timedelta(days=max_age)).strftime("%Y-%m-%d")
@@ -492,7 +493,15 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
         if allowlist_only and not quality.is_recognized(company["name"]):
             continue
         for job in jobs:
-            if not filters.is_new_grad(job.title):
+            # A tech title with no new grad wording ("Software Engineer") may
+            # still be an entry-level role whose posting says so. It goes
+            # through the same season/region checks, then the posting text
+            # decides (below, or after enrichment fetches the text).
+            by_description = (
+                describe and not filters.is_new_grad(job.title)
+                and filters.title_allows_description_check(job.title)
+            )
+            if not by_description and not filters.is_new_grad(job.title):
                 continue
             if tech_only and not filters.is_tech(job.title):
                 continue
@@ -556,6 +565,13 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             # for being old was us overriding what the company wrote.
             if cutoff and posted_day and posted_day < cutoff and inferred:
                 continue
+            if by_description:
+                verdict = _description_verdict(
+                    job, existing.get(stored_owner(job) or job.id), cycles,
+                )
+                if verdict is None:
+                    continue  # the posting text does not say entry level
+                job.entry_signal = verdict
             job.season = season
             job.season_inferred = inferred
             if not inferred:
@@ -571,6 +587,25 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             kept.append(job)
     return (kept, succeeded, complete, seen_ids, errors, errors_by_ats,
             dropped_no_year, dropped_offcycle)
+
+
+def _description_verdict(job, prior: dict | None, cycles) -> str | None:
+    """"description" if the posting text makes this role entry level, None if
+    it does not, "pending" when the text needs a detail fetch first.
+
+    A role already listed on this evidence keeps it (the verdict is sticky,
+    like a text-verified season), so it is never re-fetched. Boards that ship
+    the text in their list payload (Lever, Ashby, Amazon, Recruitee) are
+    decided here for free; the rest wait for enrichment, see _settle_enriched.
+    """
+    if (prior or {}).get("entry_signal") == "description":
+        return "description"
+    if job.description is not None:
+        text = sponsorship.strip_html(job.description)
+        return "description" if filters.description_entry_reason(text, cycles) else None
+    if job.source in enrich.DETAIL_SOURCES:
+        return "pending"
+    return None
 
 
 def _settle_enriched(kept: list, existing: dict, cfg: dict,
@@ -591,6 +626,14 @@ def _settle_enriched(kept: list, existing: dict, cfg: dict,
     wants_us, wants_canada = config.want_us(cfg), config.want_canada(cfg)
     still = []
     for job in kept:
+        if job.entry_signal == "pending":
+            # The detail fetch is in. Only text that states entry level keeps
+            # the role; a failed fetch or a silent posting drops it for this
+            # run (it is checked again next run, nothing is stored).
+            text = sponsorship.strip_html(job.description) if job.description else ""
+            if not filters.description_entry_reason(text, cycles):
+                continue
+            job.entry_signal = "description"
         # A Workday "N Locations" role passed the region check as unknown;
         # enrichment may now have read its real places. A role whose
         # places are all out of region leaves here and its verdict is
@@ -737,7 +780,7 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
             record.get("season_inferred") and posted and posted.date() < infer_cutoff
         )
         rejected = (
-            (bool(title) and not filters.is_new_grad(title))
+            (bool(title) and not filters.is_entry_level(title, record.get("entry_signal")))
             or (bool(title) and tech_only and not filters.is_tech(title))
             or (
                 has_cycle_evidence
