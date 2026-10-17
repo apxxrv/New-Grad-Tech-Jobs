@@ -256,6 +256,11 @@ def main() -> None:
                 gates.append(f"  [stats-schema] {field} is not timezone-aware")
                 continue
             timestamps[field] = parsed.astimezone(UTC)
+        # CI sets this: a PR's stats come from the last scheduled fetch, not
+        # from the PR's own code or registry, so age and board count can lag.
+        allow_stale = (os.environ.get("ALLOW_STALE_STATS") or "").lower() in {
+            "1", "true", "yes",
+        }
         fetched_dt = timestamps.get("fetched_at")
         generated_dt = timestamps.get("generated_at")
         rendered_dt = timestamps.get("rendered_at")
@@ -263,9 +268,6 @@ def main() -> None:
             age = datetime.now(UTC) - fetched_dt
             if age < -timedelta(minutes=5):
                 gates.append("  [stats-future] fetch timestamp is in the future")
-            allow_stale = (os.environ.get("ALLOW_STALE_STATS") or "").lower() in {
-                "1", "true", "yes",
-            }
             if not allow_stale:
                 max_hours = int(os.environ.get("MAX_STATS_AGE_HOURS") or 12)
                 if age > timedelta(hours=max_hours):
@@ -358,7 +360,9 @@ def main() -> None:
             if stats.get("fetch_success_rate_registry") != expected_registry_rate:
                 gates.append("  [stats-arithmetic] registry success rate is inconsistent")
             registry_total = len(registry.load())
-            if companies_total != registry_total:
+            # A PR that adds companies changes the registry before any run has
+            # fetched them; the next scheduled run brings stats back in line.
+            if companies_total != registry_total and not allow_stale:
                 gates.append(
                     f"  [registry-drift] stats describe {companies_total} boards, "
                     f"registry has {registry_total}"
