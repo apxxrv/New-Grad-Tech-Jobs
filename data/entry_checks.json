@@ -3851,6 +3851,24 @@
     "title": "Site Reliability Engineer",
     "version": 1
   },
+  "greenhouse:didi:8299704": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Motion Planning",
+    "version": 1
+  },
+  "greenhouse:didi:8299718": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ML Engineer, Motion Planning",
+    "version": 1
+  },
   "greenhouse:divergent:5414652008": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -6650,6 +6668,15 @@
     "title": "Full Stack Software Engineer, Flight Software",
     "version": 1
   },
+  "greenhouse:spacex:8784864002": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Engineer",
+    "version": 1
+  },
   "greenhouse:spacex:8785502002": {
     "checked_at": "2026-10-18T18:52:29Z",
     "cycles": [
@@ -6693,6 +6720,15 @@
       "Class of 2027"
     ],
     "title": "Security Software Engineer (Starshield)",
+    "version": 1
+  },
+  "greenhouse:spacex:8807783002": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8807795002": {
@@ -10394,6 +10430,51 @@
     "title": "SVP, Business Transformation and AI Strategy",
     "version": 1
   },
+  "workday:blueorigin:/job/Grandview-MO/Battery-Software-Engineer_R74117": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Battery Software Engineer",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/EGSE-Automation-Software-Engineer---TeraWave_R73016-1": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "EGSE Automation Software Engineer - TeraWave",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/Motor-Controls-Engineer---Lunar-Avionics_R64620": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Controls Engineer - Lunar Avionics",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/Software-Engineer_R73434": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Hutto-TX/Silicon-Design-Infrastructure-Lead_R62949": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "CAD Engineer  – Infrastructure",
+    "version": 1
+  },
   "workday:bmo:/job/New-York-NY-USA/C---Quant-Developer_R260001393": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -12039,6 +12120,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:dow:/job/Houston-TX-USA/Machine-Learning-Engineer_R2067093-1": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Machine Learning Engineer",
     "version": 1
   },
   "workday:drivetime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer_R16137": {
@@ -17907,6 +17997,15 @@
       "Class of 2027"
     ],
     "title": "Full-Stack Developer (React + Java), Officer",
+    "version": 1
+  },
+  "workday:statestreet:/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107": {
+    "checked_at": "2026-10-18T21:17:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "RKS Configuration Management and DevOps, AVP",
     "version": 1
   },
   "workday:statestreet:/job/Quincy-Massachusetts/FinOps-for-AI--Vice-President_R-797297": {

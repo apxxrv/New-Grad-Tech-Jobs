@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-18T18:52:29Z",
- "data_as_of": "2026-10-18T18:52:29Z",
- "rendered_at": "2026-10-18T18:52:29Z",
+ "generated_at": "2026-10-18T21:17:42Z",
+ "data_as_of": "2026-10-18T21:17:42Z",
+ "rendered_at": "2026-10-18T21:17:42Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 916,
+ "count": 914,
  "jobs": [
   {
    "id": "greenhouse:abnormalsecurity:8015179003",
@@ -3310,29 +3310,6 @@
     "Git"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "ashby:clera:ed8a3210-b6d2-4756-930e-83af93efa3ec",
-   "company": "Clera",
-   "title": "AI/ML Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/clera/ed8a3210-b6d2-4756-930e-83af93efa3ec",
-   "posted_at": "2026-10-11T17:12:44.429+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$120k–$200k/yr",
-   "skills": [
-    "LLMs"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "New Grad",
    "remote": false
@@ -10639,31 +10616,6 @@
    "remote": false
   },
   {
-   "id": "workday:blueorigin:/job/Denver-CO/Cyber-Defense-Analyst_R72067",
-   "company": "Blue Origin",
-   "title": "Cyber Defense Analyst",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security",
-   "location": "Denver, CO, United States of America; Greater Seattle Area",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/Cyber-Defense-Analyst_R72067",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
    "company": "Hewlett Packard (HP)",
    "title": "Software Development Graduate Roles",
@@ -13566,7 +13518,7 @@
    "season_inferred": false,
    "category": "Software",
    "location": "SAN JOSE",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
    "posted_at": "2026-09-03T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-17T02:09:43Z",
