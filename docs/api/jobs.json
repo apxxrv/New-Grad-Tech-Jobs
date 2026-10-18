@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-17T23:38:24Z",
- "data_as_of": "2026-10-17T23:38:24Z",
- "rendered_at": "2026-10-17T23:38:24Z",
+ "generated_at": "2026-10-18T01:45:58Z",
+ "data_as_of": "2026-10-18T01:45:58Z",
+ "rendered_at": "2026-10-18T01:45:58Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 929,
+ "count": 928,
  "jobs": [
   {
    "id": "greenhouse:abnormalsecurity:8015179003",
@@ -8153,6 +8153,33 @@
    "remote": false
   },
   {
+   "id": "workday:dutchbros:/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Cybersecurity-Engineer_REQ-20202",
+   "company": "Dutch Bros",
+   "title": "Associate Cybersecurity Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security",
+   "location": "1930 W Rio Salado Pkwy Tempe AZ 85281",
+   "url": "https://dutchbros.wd1.myworkdayjobs.com/DBShops/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Cybersecurity-Engineer_REQ-20202",
+   "posted_at": "2026-09-28T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-18T01:45:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "AWS",
+    "Azure",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
    "id": "greenhouse:oneimaging:4423640009",
    "company": "OneImaging",
    "title": "Full Stack Associate Software Engineer (UMiami Only)",
@@ -11316,36 +11343,6 @@
    "remote": false
   },
   {
-   "id": "workday:aspentech:/job/Bedford-Massachusetts/Software-Developer_R9395",
-   "company": "AspenTech",
-   "title": "Software Developer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bedford, Massachusetts",
-   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C#",
-    "TypeScript",
-    "JavaScript",
-    "SQL",
-    "Angular",
-    "HTML/CSS",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 6,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "ashby:meow:56e3b840-11a0-4e98-baca-44e8e26b5218",
    "company": "Meow",
    "title": "Software Engineer - December 2026 Graduates",
@@ -13841,7 +13838,7 @@
    "season_inferred": false,
    "category": "Software",
    "location": "SAN JOSE",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
    "posted_at": "2026-09-03T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-17T02:09:43Z",
@@ -14006,30 +14003,6 @@
    ],
    "source": "ashby",
    "h1b_approvals": 23,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:kikoff:4393822009",
-   "company": "Kikoff",
-   "title": "Software Engineer - Recent Grad",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "San Francisco",
-   "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
-   "posted_at": "2026-09-02T21:10:54-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Ruby",
-    "AWS"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 2,
    "program": "New Grad",
    "remote": false
   },

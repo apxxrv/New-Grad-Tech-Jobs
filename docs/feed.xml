@@ -5,15 +5,15 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-17T23:38:24Z</updated>
+  <updated>2026-10-18T01:45:58Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:leonardocompany:/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173</id>
-    <title>Leonardo: Graduate Product Security Engineer</title>
-    <link href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173"/>
-    <updated>2026-10-17T23:38:21Z</updated>
+    <id>urn:grad-engine:workday:dutchbros:/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Cybersecurity-Engineer_REQ-20202</id>
+    <title>Dutch Bros: Associate Cybersecurity Engineer</title>
+    <link href="https://dutchbros.wd1.myworkdayjobs.com/DBShops/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Cybersecurity-Engineer_REQ-20202"/>
+    <updated>2026-10-18T01:45:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · GB - Luton - Cap. Green 300, United Kingdom; GB - Lincoln; GB - Southampton; GB - Basildon; GB - Bristol - Coldharbour Lane · status: closed</summary>
+    <summary>Not stated · Security · 1930 W Rio Salado Pkwy Tempe AZ 85281 · Python, Bash, AWS, Azure, Linux</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:leonardocompany:/job/GB---Edinburgh/Graduate-Test-Software-Engineer_R0034203-1</id>
@@ -22,6 +22,14 @@
     <updated>2026-10-17T23:38:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · GB - Edinburgh, United Kingdom; GB - Newcastle · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:leonardocompany:/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173</id>
+    <title>Leonardo: Graduate Product Security Engineer</title>
+    <link href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173"/>
+    <updated>2026-10-17T23:38:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · GB - Luton - Cap. Green 300, United Kingdom; GB - Lincoln; GB - Southampton; GB - Basildon; GB - Bristol - Coldharbour Lane · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131-2</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629845140207061253</id>
-    <title>ByteDance: Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629845140207061253"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
