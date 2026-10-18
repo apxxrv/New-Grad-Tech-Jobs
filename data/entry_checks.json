@@ -3689,6 +3689,24 @@
     "title": "Software Quality Engineer",
     "version": 1
   },
+  "greenhouse:cssmerge:8899478002": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full-Stack Engineer - Fleet Management",
+    "version": 1
+  },
+  "greenhouse:cssmerge:8899480002": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Back-End Engineer - Fleet Management",
+    "version": 1
+  },
   "greenhouse:darkwolfsolutions:7886231003": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -6722,6 +6740,15 @@
     "title": "Security Software Engineer (Starshield)",
     "version": 1
   },
+  "greenhouse:spacex:8807493002": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
   "greenhouse:spacex:8807783002": {
     "checked_at": "2026-10-18T21:17:41Z",
     "cycles": [
@@ -9411,6 +9438,24 @@
       "Class of 2027"
     ],
     "title": "AI Research Scientist",
+    "version": 1
+  },
+  "workday:accenture:/job/Roma/Back-End-Engineer---NET-8--API-Rest--SQL-Server_R00301120": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Back-End Engineer | .NET 8, API Rest, SQL Server",
+    "version": 1
+  },
+  "workday:accenture:/job/Sydney-International-House-3-Sussex-St/DevOps-Support-Engineer_R00351139-1": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Microsoft DevOps Support Engineer",
     "version": 1
   },
   "workday:accuray:/job/Madison-WI/Software-Engineer_3258": {
@@ -13283,6 +13328,15 @@
     "title": "Applied AI Engineer (Hybrid)",
     "version": 1
   },
+  "workday:globalhr:/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack AI/ML Developer - Digital Products (Remote)",
+    "version": 1
+  },
   "workday:globalhr:/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296": {
     "checked_at": "2026-10-17T23:38:23Z",
     "cycles": [
@@ -16548,6 +16602,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer- .NET Experience (Onsite, Overland Park, KS)",
+    "version": 1
+  },
+  "workday:nvidia:/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758": {
+    "checked_at": "2026-10-18T23:16:56Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Engineer, DOCA",
     "version": 1
   },
   "workday:nvidia:/job/US-CA-Santa-Clara/Evaluation-and-ML-Systems-Engineer--AI-Safety-and-Security-Engineering_JR2021888": {
