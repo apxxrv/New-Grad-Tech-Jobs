@@ -2240,6 +2240,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256493007": {
+    "checked_at": "2026-10-18T18:52:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256500007": {
     "checked_at": "2026-10-18T16:04:41Z",
     "cycles": [
@@ -6641,6 +6650,15 @@
     "title": "Full Stack Software Engineer, Flight Software",
     "version": 1
   },
+  "greenhouse:spacex:8785502002": {
+    "checked_at": "2026-10-18T18:52:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Engineer, Internal Systems",
+    "version": 1
+  },
   "greenhouse:spacex:8785507002": {
     "checked_at": "2026-10-18T16:04:41Z",
     "cycles": [
@@ -6675,6 +6693,15 @@
       "Class of 2027"
     ],
     "title": "Security Software Engineer (Starshield)",
+    "version": 1
+  },
+  "greenhouse:spacex:8807795002": {
+    "checked_at": "2026-10-18T18:52:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8808150002": {
@@ -6936,6 +6963,15 @@
       "Class of 2027"
     ],
     "title": "Security Engineer (OT)",
+    "version": 1
+  },
+  "greenhouse:spacex:8854707002": {
+    "checked_at": "2026-10-18T18:52:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer",
     "version": 1
   },
   "greenhouse:spacex:8856394002": {
@@ -9361,6 +9397,15 @@
   },
   "workday:ace:/job/Coppell-TX/Software-Engineer---Hybrid_JR202638112": {
     "checked_at": "2026-10-17T23:38:21Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:ace:/job/Coppell-TX/Software-Engineer_JR202638320-1": {
+    "checked_at": "2026-10-18T18:52:29Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
