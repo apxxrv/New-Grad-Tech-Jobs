@@ -1889,6 +1889,15 @@
     "title": "Research Scientist, Battlespace Awareness",
     "version": 1
   },
+  "greenhouse:andurilindustries:5236464007": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "GNC Software Engineer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5236475007": {
     "checked_at": "2026-10-18T11:54:58Z",
     "cycles": [
@@ -2229,6 +2238,15 @@
       "Class of 2027"
     ],
     "title": "DevOps Engineer, Radar",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5256500007": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
     "version": 1
   },
   "greenhouse:andurilindustries:5256503007": {
@@ -3282,6 +3300,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer (Radar R&D and Production Focused)",
+    "version": 1
+  },
+  "greenhouse:chaosindustries:5257064007": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Guidance Software Engineer",
     "version": 1
   },
   "greenhouse:chaosindustries:5257067007": {
@@ -4911,6 +4938,15 @@
       "Class of 2027"
     ],
     "title": "Information Security Analyst",
+    "version": 1
+  },
+  "greenhouse:humansignal:6208489004": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Improv & Voice Actors, Paid AI Research Study (Raleigh)",
     "version": 1
   },
   "greenhouse:humansignal:6218730004": {
@@ -6605,6 +6641,15 @@
     "title": "Full Stack Software Engineer, Flight Software",
     "version": 1
   },
+  "greenhouse:spacex:8785507002": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Software Engineer, Internal Systems",
+    "version": 1
+  },
   "greenhouse:spacex:8786430002": {
     "checked_at": "2026-10-17T23:38:23Z",
     "cycles": [
@@ -6657,6 +6702,15 @@
       "Class of 2027"
     ],
     "title": "Network Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
+  "greenhouse:spacex:8812137002": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Internal Applications",
     "version": 1
   },
   "greenhouse:spacex:8814943002": {
@@ -6729,6 +6783,15 @@
       "Class of 2027"
     ],
     "title": "Simulation Software Engineer (Vehicle Engineering)",
+    "version": 1
+  },
+  "greenhouse:spacex:8829681002": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8829698002": {
@@ -6873,6 +6936,15 @@
       "Class of 2027"
     ],
     "title": "Security Engineer (OT)",
+    "version": 1
+  },
+  "greenhouse:spacex:8856394002": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Software)",
     "version": 1
   },
   "greenhouse:spacex:8859566002": {
@@ -9836,6 +9908,15 @@
     "title": "Information Systems Security Engineer (ISSE1) (Government)",
     "version": 1
   },
+  "workday:autodesk:/job/Toronto-ON-CAN/Machine-Learning-Developer_26WD100628": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Machine Learning Developer",
+    "version": 1
+  },
   "workday:autonation:/job/Autonomous-Vehicle-Depot---Washington-DC/Autonomous-Vehicle-Technician---Washington-DC---ML-SHIFT---Pay-up-to--5796-per-hour_JR2026150624": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -9843,6 +9924,24 @@
       "Class of 2027"
     ],
     "title": "Autonomous Vehicle Technician - Washington D.C. - ML SHIFT - Pay up to $57.96 per hour",
+    "version": 1
+  },
+  "workday:avav:/job/Annapolis-Junction-MD/Software-System-Engineer_8484": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software System Engineer",
+    "version": 1
+  },
+  "workday:avav:/job/Jessup-MD/Software-Engineer_8062": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
     "version": 1
   },
   "workday:axiomspace:/job/Houston/Avionics-Software-Project-Engineer_JR100747": {
@@ -17421,6 +17520,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineering- Mulesoft, MTS/SMTS",
+    "version": 1
+  },
+  "workday:salesforce:/job/India---Hyderabad/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341": {
+    "checked_at": "2026-10-18T16:04:41Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering SMTS (Backend - Distributed Systems)",
     "version": 1
   },
   "workday:salesforce:/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1": {
