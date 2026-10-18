@@ -1817,6 +1817,15 @@
     "title": "Production Software Engineer",
     "version": 1
   },
+  "greenhouse:andurilindustries:5208637007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, GNC Modeling",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5226536007": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -1880,6 +1889,15 @@
     "title": "Research Scientist, Battlespace Awareness",
     "version": 1
   },
+  "greenhouse:andurilindustries:5236476007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Battlespace Awareness",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5236477007": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -1896,6 +1914,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Rust",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5236493007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Robotics Tracking and Fusion",
     "version": 1
   },
   "greenhouse:andurilindustries:5236494007": {
@@ -2087,6 +2114,15 @@
     "title": "Robotics Software Engineer",
     "version": 1
   },
+  "greenhouse:andurilindustries:5248741007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Software Engineer, Endpoint Security",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5248750007": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -2150,6 +2186,15 @@
     "title": "Software Manufacturing Test Engineer, Missiles",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256304007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Quality Engineer, Radar",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256305007": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -2168,6 +2213,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256509007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256510007": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -2184,6 +2238,15 @@
       "Class of 2027"
     ],
     "title": "NX Developer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5260387007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mission Software Engineer, Mission Systems, Cyber Security",
     "version": 1
   },
   "greenhouse:andurilindustries:5260431007": {
@@ -3194,6 +3257,15 @@
     "title": "Software Engineer (Radar R&D and Production Focused)",
     "version": 1
   },
+  "greenhouse:chaosindustries:5257069007": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "GNC Software Engineer",
+    "version": 1
+  },
   "greenhouse:chaosindustries:5257072007": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -3824,6 +3896,15 @@
     "title": "Software Engineer, Storage - Distributed Caching",
     "version": 1
   },
+  "greenhouse:doordashusa:8191886": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Data Platform",
+    "version": 1
+  },
   "greenhouse:doordashusa:8192116": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -3903,6 +3984,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Full Stack - Experimentation Platform",
+    "version": 1
+  },
+  "greenhouse:doordashusa:8263726": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, ML Serving Platform",
     "version": 1
   },
   "greenhouse:doordashusa:8264542": {
@@ -4785,6 +4875,15 @@
       "Class of 2027"
     ],
     "title": "Information Security Analyst",
+    "version": 1
+  },
+  "greenhouse:humansignal:6218736004": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Improv & Voice Actors, Paid AI Research Study (Las Vegas)",
     "version": 1
   },
   "greenhouse:humansignal:6218740004": {
@@ -6398,6 +6497,15 @@
     "title": "Operations Engineer, Starbase Infrastructure",
     "version": 1
   },
+  "greenhouse:spacex:8783243002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer (Flight Reliability)",
+    "version": 1
+  },
   "greenhouse:spacex:8783281002": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -6479,6 +6587,15 @@
     "title": "Security Software Engineer (Starshield)",
     "version": 1
   },
+  "greenhouse:spacex:8808150002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Network Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
   "greenhouse:spacex:8808182002": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -6542,6 +6659,15 @@
     "title": "IT Network Infrastructure Technician",
     "version": 1
   },
+  "greenhouse:spacex:8829307002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Simulations (Vehicle Engineering)",
+    "version": 1
+  },
   "greenhouse:spacex:8829309002": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -6558,6 +6684,15 @@
       "Class of 2027"
     ],
     "title": "Simulation Software Engineer (Vehicle Engineering)",
+    "version": 1
+  },
+  "greenhouse:spacex:8829698002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Engineer, Launch Software",
     "version": 1
   },
   "greenhouse:spacex:8831632002": {
@@ -6650,6 +6785,15 @@
     "title": "Security Engineer (Red Team)",
     "version": 1
   },
+  "greenhouse:spacex:8848609002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Engineer, Manufacturing Systems",
+    "version": 1
+  },
   "greenhouse:spacex:8848613002": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -6693,6 +6837,15 @@
       "Class of 2027"
     ],
     "title": "Environmental Health & Safety Engineer (AI Supercomputer)",
+    "version": 1
+  },
+  "greenhouse:spacex:8861901002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8861902002": {
@@ -6855,6 +7008,15 @@
       "Class of 2027"
     ],
     "title": "Network Security Engineer",
+    "version": 1
+  },
+  "greenhouse:spacex:8893741002": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Software)",
     "version": 1
   },
   "greenhouse:spacex:8893742002": {
@@ -7170,6 +7332,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer",
+    "version": 1
+  },
+  "greenhouse:systemstechnologyresearch:4720560006": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Reverse Engineer",
     "version": 1
   },
   "greenhouse:systemstechnologyresearch:4720562006": {
@@ -10781,6 +10952,15 @@
     "title": "Third-Party Cyber Risk Specialist",
     "version": 1
   },
+  "workday:cccis:/job/Chicago-Green-St-IL/Application-Security-Analyst_0014955": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Security Analyst",
+    "version": 1
+  },
   "workday:ceritypartners:/job/New-York-City-NY/Digital-Enablement---AI-Specialist_R923": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -12203,6 +12383,15 @@
     "title": "April 2027 - Leap Software Engineer",
     "version": 1
   },
+  "workday:fmr:/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "January 2027 - Leap Software Engineer",
+    "version": 1
+  },
   "workday:fmr:/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859-1": {
     "checked_at": "2026-10-18T01:45:57Z",
     "cycles": [
@@ -13400,6 +13589,15 @@
     "title": "[Agentic AI] Systems Evaluation Engineer",
     "version": 1
   },
+  "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA",
+    "version": 1
+  },
   "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-2": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -13416,6 +13614,15 @@
       "Class of 2027"
     ],
     "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA",
+    "version": 1
+  },
+  "workday:hpe:/job/Bengaluru-Karntaka-India/AI-Experience--UX--Designer_1209964": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Experience (UX) Designer",
     "version": 1
   },
   "workday:hpe:/job/Bengaluru-Karntaka-India/AI-Experience--UX--Designer_1209964-1": {
@@ -13436,6 +13643,15 @@
     "title": "AI Experience (UX) Designer",
     "version": 1
   },
+  "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC---AI-Performance-Engineer_1206826-1": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "HPC & AI Performance Engineer",
+    "version": 1
+  },
   "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC---AI-Performance-Engineer_1206826-2": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -13452,6 +13668,15 @@
       "Class of 2027"
     ],
     "title": "HPC & AI Performance Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer_1214694": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Systems Software Engineer",
     "version": 1
   },
   "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer_1214694-1": {
@@ -13472,6 +13697,15 @@
     "title": "Systems Software Engineer",
     "version": 1
   },
+  "workday:hpe:/job/Houston-Texas-United-States-of-America/HPC---AI-Performance-Engineer_1215573": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "HPC & AI Performance Engineer",
+    "version": 1
+  },
   "workday:hpe:/job/Houston-Texas-United-States-of-America/HPC---AI-Performance-Engineer_1215573-1": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -13488,6 +13722,15 @@
       "Class of 2027"
     ],
     "title": "HPC & AI Performance Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/San-Jose-California-United-States-of-America/DevOps-Engineer_1207704": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Engineer - HPE Networking (Hybrid - California)",
     "version": 1
   },
   "workday:hpe:/job/San-Jose-California-United-States-of-America/DevOps-Engineer_1207704-1": {
@@ -14768,6 +15011,15 @@
     "title": "Enterprise Data Scientist",
     "version": 1
   },
+  "workday:lthc:/job/Albany/IT-Cloud-Engineer-Network_JR103868": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "IT Cloud Engineer Network",
+    "version": 1
+  },
   "workday:lthc:/job/Albany/IT-Cloud-Engineer-Network_JR103868-1": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -15290,6 +15542,15 @@
     "title": "Data, Analytics and AI Business Consultant",
     "version": 1
   },
+  "workday:medtronic:/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Prin Software Engineer",
+    "version": 1
+  },
   "workday:medtronic:/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514-1": {
     "checked_at": "2026-10-18T01:45:58Z",
     "cycles": [
@@ -15297,6 +15558,15 @@
       "Class of 2027"
     ],
     "title": "Prin Software Engineer",
+    "version": 1
+  },
+  "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Quality-Systems-Specialist---Affera-Software_R70976": {
+    "checked_at": "2026-10-18T06:49:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Quality Systems Specialist – Affera Software",
     "version": 1
   },
   "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Quality-Systems-Specialist---Affera-Software_R70976-1": {

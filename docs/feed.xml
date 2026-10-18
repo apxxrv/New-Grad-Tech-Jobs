@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-18T01:45:58Z</updated>
+  <updated>2026-10-18T06:49:38Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5240165007</id>
+    <title>Anduril: Software Engineer, Battlespace Awareness</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007"/>
+    <updated>2026-10-18T06:49:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Broomfield, Colorado, United States; Fort Collins, Colorado, United States · Python, C++, JavaScript, SQL, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:dutchbros:/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Cybersecurity-Engineer_REQ-20202</id>
     <title>Dutch Bros: Associate Cybersecurity Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, PyTorch, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629789975396124981</id>
-    <title>ByteDance: Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629789975396124981"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
