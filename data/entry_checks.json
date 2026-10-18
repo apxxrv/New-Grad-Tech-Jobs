@@ -1889,6 +1889,15 @@
     "title": "Research Scientist, Battlespace Awareness",
     "version": 1
   },
+  "greenhouse:andurilindustries:5236475007": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Battlespace Awareness",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5236476007": {
     "checked_at": "2026-10-18T06:49:38Z",
     "cycles": [
@@ -2159,6 +2168,15 @@
     "title": "Software Engineer- Infrastructure",
     "version": 1
   },
+  "greenhouse:andurilindustries:5249750007": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mission Software Engineer, Mission Systems",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5250595007": {
     "checked_at": "2026-10-17T23:38:22Z",
     "cycles": [
@@ -2211,6 +2229,15 @@
       "Class of 2027"
     ],
     "title": "DevOps Engineer, Radar",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5256503007": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
     "version": 1
   },
   "greenhouse:andurilindustries:5256509007": {
@@ -3255,6 +3282,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer (Radar R&D and Production Focused)",
+    "version": 1
+  },
+  "greenhouse:chaosindustries:5257067007": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Flight Controls & Guidance Software Engineer",
     "version": 1
   },
   "greenhouse:chaosindustries:5257069007": {
@@ -4875,6 +4911,15 @@
       "Class of 2027"
     ],
     "title": "Information Security Analyst",
+    "version": 1
+  },
+  "greenhouse:humansignal:6218730004": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Improv & Voice Actors, Paid AI Research Study (NJ)",
     "version": 1
   },
   "greenhouse:humansignal:6218736004": {
@@ -6704,6 +6749,15 @@
     "title": "Site Reliability Engineer (High Performance Computing)",
     "version": 1
   },
+  "greenhouse:spacex:8837547002": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Engineer",
+    "version": 1
+  },
   "greenhouse:spacex:8838006002": {
     "checked_at": "2026-10-17T23:38:23Z",
     "cycles": [
@@ -6837,6 +6891,15 @@
       "Class of 2027"
     ],
     "title": "Environmental Health & Safety Engineer (AI Supercomputer)",
+    "version": 1
+  },
+  "greenhouse:spacex:8861900002": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8861901002": {
@@ -7010,6 +7073,15 @@
     "title": "Network Security Engineer",
     "version": 1
   },
+  "greenhouse:spacex:8893740002": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Software)",
+    "version": 1
+  },
   "greenhouse:spacex:8893741002": {
     "checked_at": "2026-10-18T06:49:38Z",
     "cycles": [
@@ -7053,6 +7125,15 @@
       "Class of 2027"
     ],
     "title": "Security Engineer (Infrastructure)",
+    "version": 1
+  },
+  "greenhouse:spacex:8899128002": {
+    "checked_at": "2026-10-18T11:54:58Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Software Engineer, Flight Software",
     "version": 1
   },
   "greenhouse:sparksoftcorporation:5246375007": {
