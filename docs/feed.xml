@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-18T23:16:56Z</updated>
+  <updated>2026-10-19T01:23:46Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:workday:accenture:/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624</id>
@@ -515,9 +515,9 @@
     <id>urn:grad-engine:ashby:snowflake:1bad12df-f443-426f-9d09-e96fc780d698</id>
     <title>Snowflake: AI Research Scientist, New Grad – Agents &amp; Reinforcement Learning</title>
     <link href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698"/>
-    <updated>2026-10-17T02:09:43Z</updated>
+    <updated>2026-10-19T01:03:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US-WA-Bellevue · $176K – $230K · Python, PyTorch, LLMs, Snowflake · H-1B track record: ~322 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · US-WA-Bellevue · $176K – $230K · Python, PyTorch, LLMs, Snowflake · status: closed · H-1B track record: ~322 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:switchboard:1699538e-eca3-4626-89a6-0eaa88130dcd</id>
@@ -531,9 +531,9 @@
     <id>urn:grad-engine:ashby:valinor:c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e</id>
     <title>Valinor: Full-Stack Software Engineer, C2 &amp; Tactical Integration</title>
     <link href="https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e"/>
-    <updated>2026-10-17T02:09:43Z</updated>
+    <updated>2026-10-19T01:03:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Cookeville, TN · AWS, Azure, Kubernetes, Docker, Git</summary>
+    <summary>Not stated · Software · Cookeville, TN · AWS, Azure, Kubernetes, Docker, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:voleon:d732fd5a-ac98-4985-9e60-d1d59f02a66c</id>
@@ -547,9 +547,9 @@
     <id>urn:grad-engine:ashby:zefr:b481bf4b-9149-40bf-bf0a-ea29580c5d66</id>
     <title>Zefr: Data Engineer</title>
     <link href="https://jobs.ashbyhq.com/zefr/b481bf4b-9149-40bf-bf0a-ea29580c5d66"/>
-    <updated>2026-10-17T02:09:43Z</updated>
+    <updated>2026-10-19T01:03:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Marina del Rey, CA · Python, SQL, AWS, GCP, Airflow</summary>
+    <summary>Not stated · Data &amp; ML/AI · Marina del Rey, CA · Python, SQL, AWS, GCP, Airflow · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:kenect:aa47c9879f1d</id>
