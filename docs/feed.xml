@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-19T06:19:05Z</updated>
+  <updated>2026-10-19T13:11:33Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:aristocrat:/job/Noida-UP-IN/Engineer-II_R0022613</id>
+    <title>Aristocrat Leisure: Engineer I - C++ developer</title>
+    <link href="https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Noida-UP-IN/Engineer-II_R0022613"/>
+    <updated>2026-10-19T13:11:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Noida, UP, IN, India; Gurugram, HR, IN · C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499</id>
+    <title>Northrop Grumman: 2027 Associate/Software Engineer Pathways Linthicum MA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"/>
+    <updated>2026-10-19T13:11:33Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Maryland-Linthicum · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016215066</id>
+    <title>AbbVie: Associate Cloud Engineer I</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990016215066"/>
+    <updated>2026-10-19T06:19:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Chicago, IL, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:mdtkangaroo:/job/Hyderabad-Telangana-India/AI-Data-Science-Eng-I---Databricks--SQL--Python_R-802018-1</id>
     <title>Mdtkangaroo: AI/Data Science Eng I - Databricks, SQL, Python</title>
@@ -22,14 +46,6 @@
     <updated>2026-10-19T06:19:05Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · China, Shanghai; China, Beijing; China, Shenzhen · C++ · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016215066</id>
-    <title>AbbVie: Associate Cloud Engineer I</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990016215066"/>
-    <updated>2026-10-19T06:19:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · North Chicago, IL, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:accenture:/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Seattle, Washington, USA · PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629126608919382277</id>
-    <title>ByteDance: Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629126608919382277"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629126645119650101</id>
-    <title>ByteDance: Research Scientist - AI Agent Memory Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629126645119650101"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
