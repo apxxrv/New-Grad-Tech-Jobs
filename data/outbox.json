@@ -1,50 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
-      "workday:bdx:/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
-      "workday:cisco:/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
-      "workday:citi:/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
-      "workday:dtna:/job/Detroit-MI-US/Software-Developer-I_DT-20202",
-      "greenhouse:gravitonresearchcapital:8899670002",
-      "workday:jainglobal:/job/New-York-New-York/Junior-Developer--Compliance_JR100626-1",
-      "workday:kla:/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2",
-      "workday:leidos:/job/San-Diego-CA/Software-Engineer-I_R-00194839",
-      "workday:leidos:/job/Huntsville-AL/Junior-Software-Engineer_R-00191407",
-      "workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26",
-      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "workday:rbi:/job/Jacksonville/Analyst--Data-Engineer--Firehouse-Subs_R3951",
-      "workday:globalhr:/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882227",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882223",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882229",
-      "workday:globalhr:/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177",
-      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
-      "greenhouse:tenet3:8894846002",
-      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-53217-1"
-    ],
-    "telegram": [
-      "workday:resmed:/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
-      "workday:bdx:/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
-      "workday:cisco:/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
-      "workday:citi:/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
-      "workday:dtna:/job/Detroit-MI-US/Software-Developer-I_DT-20202",
-      "greenhouse:gravitonresearchcapital:8899670002",
-      "workday:jainglobal:/job/New-York-New-York/Junior-Developer--Compliance_JR100626-1",
-      "workday:kla:/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2",
-      "workday:leidos:/job/San-Diego-CA/Software-Engineer-I_R-00194839",
-      "workday:leidos:/job/Huntsville-AL/Junior-Software-Engineer_R-00191407",
-      "workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26",
-      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
-      "workday:rbi:/job/Jacksonville/Analyst--Data-Engineer--Firehouse-Subs_R3951",
-      "workday:globalhr:/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882227",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882223",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882229",
-      "workday:globalhr:/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177",
-      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
-      "greenhouse:tenet3:8894846002",
-      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-53217-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
