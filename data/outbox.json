@@ -1,38 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:eihu.fa.us8.oraclecloud.com:2618133",
-      "greenhouse:accenturefederalservices:4723148006",
-      "workday:caci:/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750",
-      "workday:caci:/job/Detroit-MI-US/AI-Prompt-Engineer_333761",
-      "workday:caci:/job/Laredo-TX-US/AI-Prompt-Engineer_333762",
-      "workday:caci:/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760",
-      "greenhouse:coherehealth:8015082003",
-      "workday:collegeboard:/job/Remote---USA/Cyber-Threat-Hunter_REQ002976",
-      "greenhouse:ensco:5456926008",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-      "workday:kla:/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
-      "workday:nordstrom:/job/Seattle-WA/Engineer-1_R-889191",
-      "greenhouse:rocketlab:8038139003",
-      "workday:boeing:/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420",
-      "workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000138108"
-    ],
-    "telegram": [
-      "oracle:eihu.fa.us8.oraclecloud.com:2618133",
-      "greenhouse:accenturefederalservices:4723148006",
-      "workday:caci:/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750",
-      "workday:caci:/job/Detroit-MI-US/AI-Prompt-Engineer_333761",
-      "workday:caci:/job/Laredo-TX-US/AI-Prompt-Engineer_333762",
-      "workday:caci:/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760",
-      "greenhouse:coherehealth:8015082003",
-      "workday:collegeboard:/job/Remote---USA/Cyber-Threat-Hunter_REQ002976",
-      "greenhouse:ensco:5456926008",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-      "workday:kla:/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
-      "workday:nordstrom:/job/Seattle-WA/Engineer-1_R-889191",
-      "greenhouse:rocketlab:8038139003",
-      "workday:boeing:/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420",
-      "workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000138108"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
