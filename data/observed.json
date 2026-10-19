@@ -860,9 +860,10 @@
      "first_posted": "2026-09-28",
      "role_ids": [
       "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
-      "workday:globalfoundries:/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
+      "workday:globalfoundries:/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2065,5 +2066,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T19:34:04Z"
+ "updated_at": "2026-10-19T23:19:26Z"
 }
