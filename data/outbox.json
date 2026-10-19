@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:aristocrat:/job/Noida-UP-IN/Engineer-II_R0022613",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
-    ],
-    "telegram": [
-      "workday:aristocrat:/job/Noida-UP-IN/Engineer-II_R0022613",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
