@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-19T01:23:46Z</updated>
+  <updated>2026-10-19T06:19:05Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:mdtkangaroo:/job/Hyderabad-Telangana-India/AI-Data-Science-Eng-I---Databricks--SQL--Python_R-802018-1</id>
+    <title>Mdtkangaroo: AI/Data Science Eng I - Databricks, SQL, Python</title>
+    <link href="https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Hyderabad-Telangana-India/AI-Data-Science-Eng-I---Databricks--SQL--Python_R-802018-1"/>
+    <updated>2026-10-19T06:19:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad, Telangana, India; Pune, Maharashtra, India · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566</id>
+    <title>NVIDIA: Developer Technology Engineer - New College Graduate 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566"/>
+    <updated>2026-10-19T06:19:05Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · China, Shanghai; China, Beijing; China, Shenzhen · C++ · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016215066</id>
+    <title>AbbVie: Associate Cloud Engineer I</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990016215066"/>
+    <updated>2026-10-19T06:19:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Chicago, IL, United States (Hybrid) · HTML/CSS, AWS, GCP, Azure, Kubernetes · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:accenture:/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624</id>
     <title>Avanade: Junior Data Engineer Microsoft Fabric &amp; Azure</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629136672475040053</id>
-    <title>ByteDance: Research Scientist Graduate (Video Quality Analysis &amp; Coding Strategy) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629136672475040053"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629137778379557173</id>
-    <title>ByteDance: Research Scientist Graduate (Multimedia Standards) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629137778379557173"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Diego, California, USA · Python, C++, PyTorch · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7629483617265289525</id>
-    <title>ByteDance: Research Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7629483617265289525"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · LLMs, Python, PyTorch, CUDA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

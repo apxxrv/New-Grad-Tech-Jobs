@@ -1306,6 +1306,7 @@
     "Class of 2027": {
      "first_posted": "2026-08-21",
      "role_ids": [
+      "workday:nvidia:/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566",
       "workday:nvidia:/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107",
       "workday:nvidia:/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111",
       "workday:nvidia:/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
@@ -1313,7 +1314,7 @@
       "workday:nvidia:/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2050,5 +2051,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T01:23:46Z"
+ "updated_at": "2026-10-19T06:19:05Z"
 }
