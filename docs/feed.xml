@@ -5,15 +5,23 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-20T02:04:02Z</updated>
+  <updated>2026-10-20T07:44:14Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210801790</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (NLP) - Summer Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"/>
-    <updated>2026-10-20T02:04:02Z</updated>
+    <id>urn:grad-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883</id>
+    <title>The Aerospace Corporation: 2027 Aerospace Software and Simulation Engineer 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883"/>
+    <updated>2026-10-20T07:44:14Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States; Seattle, WA, United States; Palo Alto, CA, United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Software · El Segundo, CA · $150.4k/yr · Python, Java, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:relativity:8892460002</id>
+    <title>Relativity Space: Software Development Engineer in Test I</title>
+    <link href="https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002"/>
+    <updated>2026-10-20T02:04:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Long Beach, California, United States · Python, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac</id>
@@ -24,12 +32,12 @@
     <summary>Not stated · Software · New York, NY · $145k–$155k/yr · Python, Java, C++, Rust, Scala · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:relativity:8892460002</id>
-    <title>Relativity Space: Software Development Engineer in Test I</title>
-    <link href="https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002"/>
+    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210801790</id>
+    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (NLP) - Summer Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"/>
     <updated>2026-10-20T02:04:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Long Beach, California, United States · Python, Git</summary>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States; Seattle, WA, United States; Palo Alto, CA, United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:accenturefederalservices:4723148006</id>
@@ -43,9 +51,9 @@
     <id>urn:grad-engine:greenhouse:coherehealth:8015082003</id>
     <title>Cohere Health: Software Engineer I</title>
     <link href="https://job-boards.greenhouse.io/coherehealth/jobs/8015082003"/>
-    <updated>2026-10-19T23:19:26Z</updated>
+    <updated>2026-10-20T07:44:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · United States · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · United States · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:ensco:5456926008</id>
@@ -387,9 +395,9 @@
     <id>urn:grad-engine:greenhouse:abnormalsecurity:8015179003</id>
     <title>Abnormal Security: Software Engineer 1 - Cloud Infrastructure</title>
     <link href="https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"/>
-    <updated>2026-10-17T04:32:11Z</updated>
+    <updated>2026-10-20T07:44:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - USA · Python, Go, Bash, AWS, Azure · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Remote - USA · Python, Go, Bash, AWS, Azure · status: closed · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:lyft:8896679002</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · San Francisco · $138K – $160K · Python, TypeScript, LLMs, React, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511</id>
-    <title>OpenAI: Software Engineer, Applied Emerging Talent (2027)</title>
-    <link href="https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco · $180K • Offers Equity · Python, JavaScript, React, PostgreSQL · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
