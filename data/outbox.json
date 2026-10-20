@@ -1,40 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1",
-      "oracle:edel.fa.us2.oraclecloud.com:24668",
-      "workday:arrow:/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452",
-      "workday:ghr:/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1",
-      "workday:ghr:/job/Charlotte/Data-Scientist-I_26037331",
-      "workday:ghr:/job/Jacksonville/Client-Quantitative-Analyst-I_26034513",
-      "workday:ghr:/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816",
-      "workday:intel:/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299",
-      "workday:iqvia:/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309",
-      "workday:northeastern:/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R143032",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
-      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1",
-      "greenhouse:spacex:8903848002",
-      "greenhouse:trace3:8304310",
-      "greenhouse:trace3:8304333",
-      "workday:uchicago:/job/Chicago-IL/Junior-Software-Developer_JR35628"
-    ],
-    "telegram": [
-      "workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1",
-      "oracle:edel.fa.us2.oraclecloud.com:24668",
-      "workday:arrow:/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452",
-      "workday:ghr:/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1",
-      "workday:ghr:/job/Charlotte/Data-Scientist-I_26037331",
-      "workday:ghr:/job/Jacksonville/Client-Quantitative-Analyst-I_26034513",
-      "workday:ghr:/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816",
-      "workday:intel:/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299",
-      "workday:iqvia:/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309",
-      "workday:northeastern:/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R143032",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
-      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1",
-      "greenhouse:spacex:8903848002",
-      "greenhouse:trace3:8304310",
-      "greenhouse:trace3:8304333",
-      "workday:uchicago:/job/Chicago-IL/Junior-Software-Developer_JR35628"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
