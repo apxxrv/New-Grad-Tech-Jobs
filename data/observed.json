@@ -597,6 +597,18 @@
     }
    }
   },
+  "cvs health": {
+   "name": "CVS Health",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:cvshealth:/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cwill": {
    "name": "CWILL",
    "cycles": {
@@ -1532,6 +1544,18 @@
     }
    }
   },
+  "royal bank of canada": {
+   "name": "Royal Bank of Canada",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rtx": {
    "name": "RTX",
    "cycles": {
@@ -2068,5 +2092,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T13:12:20Z"
+ "updated_at": "2026-10-20T18:10:58Z"
 }
