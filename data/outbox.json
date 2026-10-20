@@ -1,36 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
-      "oracle:fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com:85560",
-      "eightfold:johndeere:137482532344",
-      "workable:node:2E183FDDB9",
-      "workday:collegeboard:/job/Remote---USA/Associate-Research-Scientist_REQ002979",
-      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
-      "workday:cvshealth:/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
-      "workday:magna:/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1",
-      "workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114",
-      "workday:globalhr:/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
-      "workday:globalhr:/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
-      "workday:boeing:/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1",
-      "workday:vanguard:/job/Malvern-PA/AI-ML-Scientist_183101",
-      "greenhouse:waymo:8286842"
-    ],
-    "telegram": [
-      "ashby:1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
-      "oracle:fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com:85560",
-      "eightfold:johndeere:137482532344",
-      "workable:node:2E183FDDB9",
-      "workday:collegeboard:/job/Remote---USA/Associate-Research-Scientist_REQ002979",
-      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
-      "workday:cvshealth:/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
-      "workday:magna:/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1",
-      "workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114",
-      "workday:globalhr:/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
-      "workday:globalhr:/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
-      "workday:boeing:/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1",
-      "workday:vanguard:/job/Malvern-PA/AI-ML-Scientist_183101",
-      "greenhouse:waymo:8286842"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
