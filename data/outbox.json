@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:jpmc.fa.oraclecloud.com:210801790",
-      "lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac",
-      "greenhouse:relativity:8892460002"
-    ],
-    "telegram": [
-      "oracle:jpmc.fa.oraclecloud.com:210801790",
-      "lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac",
-      "greenhouse:relativity:8892460002"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
