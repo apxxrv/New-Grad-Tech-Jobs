@@ -5,15 +5,135 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-20T18:10:58Z</updated>
+  <updated>2026-10-20T21:48:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com:85560</id>
-    <title>eClerx: Software Engineer</title>
-    <link href="https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560"/>
-    <updated>2026-10-20T18:10:58Z</updated>
+    <id>urn:grad-engine:workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1</id>
+    <title>Baxter International: Research Scientist I 🛂</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1"/>
+    <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York, United States · Python, SQL, LLMs, AWS, GCP · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Round Lake, Illinois · $96k–$132k/yr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:24668</id>
+    <title>Fortinet: Early Careers: Software Development Engineer 🛂</title>
+    <link href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, CA, United States · Python, Linux · sponsorship: no-sponsorship · H-1B track record: ~245 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:arrow:/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452</id>
+    <title>Arrow Electronics: Programming Machine Operator I / 4 PM - 12:30 AM</title>
+    <link href="https://arrow.wd1.myworkdayjobs.com/ac/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-NV-Reno, Nevada (Maestro Dr) · H-1B track record: ~106 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ghr:/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1</id>
+    <title>Bank of America: AI Engineer - Data Scientist I</title>
+    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, United States of America; Charlotte · $193.2k/yr · Python, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ghr:/job/Charlotte/Data-Scientist-I_26037331</id>
+    <title>Bank of America: Data Scientist I - Model Governance - Fraud Prevention and Detection</title>
+    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26037331"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Charlotte, United States of America; Newark; Plano; Fort Worth; Jacksonville; Phoenix · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ghr:/job/Jacksonville/Client-Quantitative-Analyst-I_26034513</id>
+    <title>Bank of America: Client Quantitative Analyst I</title>
+    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jacksonville/Client-Quantitative-Analyst-I_26034513"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Jacksonville, United States of America; Plano; Charlotte; Fort Worth · Python, SQL, Scala, Hadoop, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ghr:/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816</id>
+    <title>Bank of America: Global AML Operations - Client Quantitative Analyst I</title>
+    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Jacksonville, United States of America; Plano; Charlotte; Fort Worth · Python, SQL, Scala, Hadoop, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:intel:/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299</id>
+    <title>Intel: AI Research Engineer/Scientist</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, California, Santa Clara · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:iqvia:/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309</id>
+    <title>IQVIA: MedTech Field Service Software Tech Entry level - Southeast US 🛂</title>
+    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Orlando, FL, United States of America; Tampa, FL; Jacksonville, FL · $28–$30/hr · sponsorship: no-sponsorship · H-1B track record: ~210 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:northeastern:/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R143032</id>
+    <title>Northeastern University: Associate Research Scientist</title>
+    <link href="https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R143032"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA (Main Campus) · LLMs, Git · H-1B track record: ~140 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477</id>
+    <title>RTX: Software Engineer I-Embedded Linux (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · Linux, Python, C++, Bash, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8903848002</id>
+    <title>SpaceX: Space Operations Training Engineer (Full Stack Software)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Hawthorne, CA · $130k/yr · Python, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trace3:8304310</id>
+    <title>Trace3: Software Engineer (GAITS - Analyst Team) (26-386)</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304310"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · MATLAB, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trace3:8304333</id>
+    <title>Trace3: Software Engineer / Scrum Master - PLNR (26-394)</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304333"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · Java</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:uchicago:/job/Chicago-IL/Junior-Software-Developer_JR35628</id>
+    <title>University of Chicago: Junior Software Developer</title>
+    <link href="https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Software-Developer_JR35628"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · Python, C++, PyTorch, scikit-learn, Pandas · H-1B track record: ~335 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:eightfold:johndeere:137482532344</id>
@@ -24,12 +144,36 @@
     <summary>Not stated · Software · Moline, IL, Illinois, United States · Python, Java, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:greenhouse:waymo:8286842</id>
+    <title>Waymo: Product Data Scientist - Marketplace Logistics</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8286842"/>
+    <updated>2026-10-20T18:10:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, USA, San Francisco, CA, USA · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com:85560</id>
+    <title>eClerx: Software Engineer</title>
+    <link href="https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560"/>
+    <updated>2026-10-20T18:10:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States · Python, SQL, LLMs, AWS, GCP · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workable:node:2E183FDDB9</id>
     <title>Node.Digital: Junior AI/ML Engineer</title>
     <link href="https://apply.workable.com/node/j/2E183FDDB9/"/>
     <updated>2026-10-20T18:10:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Herndon, Virginia, United States (Hybrid) · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1</id>
+    <title>The Boeing Company: Product Security Engineer (Product Security Engineer) 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1"/>
+    <updated>2026-10-20T18:10:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · USA - Berkeley, MO · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:collegeboard:/job/Remote---USA/Associate-Research-Scientist_REQ002979</id>
@@ -48,22 +192,6 @@
     <summary>Class of 2027 · Software · CT - Work from home, United States of America; MS - Work from  home; MT - Work from home; NC - Work from home; LA - Work from home; MD - Work from home; ME - Work from home; MN - Work from home; NE - Work from home; MO - Work from home; ND - Work from home; NY - Work from hom; NJ - Work from home; NM - Work from home; NV - Work from home; OH - Work from hom; SC - Work from home; TX - Work from home; RI - Work from home; SD - Work from home; VT - Work from home; TN - Work from home; VA - Work from home; WA - Work from home; UT - Work from home; WI - Work from home; WV - Work from home; OR - Work from home; WY - Work from home; OK - Work from home; PA - Work from home; CO - Work from home; AL - Work from home; AZ - Work from home; CA - Work from home; DC - Work from home; FL - Work from home; IA - Work from home; AK - Work from home; AR - Work from home; ID - Work from home; IL - Work from home; KS - Work from home; DE - Work from home; GA - Work from home; IN - Work from home; KY - Work from home; MI - Work from home; MA - Work from home; NH - Work from home · Python, LLMs, AWS, GCP, Azure · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:magna:/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1</id>
-    <title>Magna International: Junior AI Enigneer</title>
-    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1"/>
-    <updated>2026-10-20T18:10:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~141 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114</id>
-    <title>Royal Bank of Canada: 2027 Summer, Technology &amp; Operations, Enterprise Logging Team, Junior Cloud Developer</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114"/>
-    <updated>2026-10-20T18:10:58Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Jersey City, New Jersey, United States of America · $20–$46/hr</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494</id>
     <title>RTX: Software Engineer I, Core Services and Libraries (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494"/>
@@ -80,12 +208,20 @@
     <summary>Not stated · Software · US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1</id>
-    <title>The Boeing Company: Product Security Engineer (Product Security Engineer) 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1"/>
+    <id>urn:grad-engine:workday:magna:/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1</id>
+    <title>Magna International: Junior AI Enigneer</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1"/>
     <updated>2026-10-20T18:10:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · USA - Berkeley, MO · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~141 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114</id>
+    <title>Royal Bank of Canada: 2027 Summer, Technology &amp; Operations, Enterprise Logging Team, Junior Cloud Developer</title>
+    <link href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114"/>
+    <updated>2026-10-20T18:10:58Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Jersey City, New Jersey, United States of America · $20–$46/hr</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:vanguard:/job/Malvern-PA/AI-ML-Scientist_183101</id>
@@ -94,14 +230,6 @@
     <updated>2026-10-20T18:10:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Malvern, PA, United States of America; Charlotte, NC · SQL, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:waymo:8286842</id>
-    <title>Waymo: Product Data Scientist - Marketplace Logistics</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8286842"/>
-    <updated>2026-10-20T18:10:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, USA, San Francisco, CA, USA · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:jerry.ai:ce7a8378-bb08-4600-ae0e-4fee9e11dc43</id>
@@ -370,7 +498,7 @@
   <entry>
     <id>urn:grad-engine:workday:kla:/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2</id>
     <title>KLA: Research Scientist</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/AnnArbor/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-1"/>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2"/>
     <updated>2026-10-19T19:34:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · USA-MI-Ann Arbor-KLA · $180k/yr · Python, C++, TensorFlow, CUDA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
@@ -678,133 +806,5 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Alpharetta, Georgia · Python, JavaScript, SQL, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1</id>
-    <title>Exelixis: AI and Agentic Engineer I</title>
-    <link href="https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Alameda, CA · $129k–$182k/yr · Python, TypeScript, JavaScript, LLMs, AWS · H-1B track record: ~36 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1</id>
-    <title>Health Research: Assistant Research Scientist</title>
-    <link href="https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Assistant-Research-Scientist_JR-0002352-1"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Albany, NY · $56.025k/yr · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:amat:/job/LinkouTWN/Global-Software-Support-Engineer_R2629320</id>
-    <title>Applied Materials: Global Software Support Engineer</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/LinkouTWN/Global-Software-Support-Engineer_R2629320"/>
-    <updated>2026-10-17T04:32:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Linkou,TWN, Taiwan; Hsinchu,TWN · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba</id>
-    <title>AiPrise: Software Engineer I</title>
-    <link href="https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose · $115K – $150K • Offers Equity • Offers Bonus · Python, Java, TypeScript, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:amplitude:9c43576b-d16f-4192-a366-7c9eb689c4be</id>
-    <title>Amplitude: Software Engineer I</title>
-    <link href="https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · Python, Java, TypeScript, SQL, LLMs · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:anysignal:71ef4b1c-be24-4ee7-b152-3ac14d9b5426</id>
-    <title>AnySignal: Associate Embedded Software Engineer 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/anysignal/71ef4b1c-be24-4ee7-b152-3ac14d9b5426"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, CA · $110k–$145k/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:apex-technology-inc:a78c2ffd-bbaf-4884-b5a1-09631798f655</id>
-    <title>Apex Technology, Inc.: Flight Software Engineer (Early) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/apex-technology-inc/a78c2ffd-bbaf-4884-b5a1-09631798f655"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles · $125K – $137.5K · Python, C++, Rust, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c</id>
-    <title>Applied Intuition: Embedded Test Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $90K – $115K • Offers Equity · Python, Java, C++, JavaScript, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:250080bd-10a8-4e5f-82b8-506029292d19</id>
-    <title>Applied Intuition: Software Integration Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $123K – $158K • Offers Equity · C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:45fc41cd-8280-4010-ba1f-def6114b3e39</id>
-    <title>Applied Intuition: Research Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $140K – $200K • Offers Equity · Python, PyTorch, Computer Vision · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:6971d533-1536-448b-96b8-544ad5383f44</id>
-    <title>Applied Intuition: Embedded Software Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $123K – $168K • Offers Equity · C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41</id>
-    <title>Applied Intuition: Robot Infrastructure Engineer - Collection Tooling</title>
-    <link href="https://jobs.ashbyhq.com/applied/932de549-2882-4c0d-aeca-b4a8ef5f1f41"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunnyvale · $150K – $300K • Offers Equity · Python, ROS · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e</id>
-    <title>Applied Intuition: Cybersecurity Software Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Sunnyvale · $130K – $158K • Offers Equity · Python, C++ · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:applied:a837cbd6-9fe4-4d74-a2dc-84f602c40694</id>
-    <title>Applied Intuition: Software Engineer - New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Sunnyvale · $123K – $158K • Offers Equity · React, GraphQL, Kubernetes, Docker · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:arizent:5f246f2b-8cd1-41ec-916c-9ed37a6b07a5</id>
-    <title>Arizent: Data &amp; AI Engineer</title>
-    <link href="https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · NYC | Midtown Manhattan · $100K – $125K · Python, SQL, LLMs, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:aurelian:a2bc965f-d639-41f7-946a-67c05c22e04e</id>
-    <title>Aurelian: Software Engineer (New Grad)</title>
-    <link href="https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle · $100K – $130K • Offers Equity</summary>
   </entry>
 </feed>
