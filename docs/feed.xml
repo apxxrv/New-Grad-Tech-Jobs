@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-19T23:19:26Z</updated>
+  <updated>2026-10-20T02:04:02Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210801790</id>
+    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (NLP) - Summer Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"/>
+    <updated>2026-10-20T02:04:02Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States; Seattle, WA, United States; Palo Alto, CA, United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac</id>
+    <title>Palantir: Software Engineer, New Grad - Query Engines</title>
+    <link href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"/>
+    <updated>2026-10-20T02:04:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · $145k–$155k/yr · Python, Java, C++, Rust, Scala · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:relativity:8892460002</id>
+    <title>Relativity Space: Software Development Engineer in Test I</title>
+    <link href="https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002"/>
+    <updated>2026-10-20T02:04:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Long Beach, California, United States · Python, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:accenturefederalservices:4723148006</id>
     <title>Accenture: Junior Software Developer</title>
@@ -14,38 +38,6 @@
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · St. Louis, MO · Python, Java, Bash, Node.js, Azure · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750</id>
-    <title>CACI: NASA Spacecraft Data Services Web Software Developer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Houston, TX, US · C#, SQL, .NET, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Detroit-MI-US/AI-Prompt-Engineer_333761</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Detroit-MI-US/AI-Prompt-Engineer_333761"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Detroit, MI, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Laredo-TX-US/AI-Prompt-Engineer_333762</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Laredo-TX-US/AI-Prompt-Engineer_333762"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Laredo, TX, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:coherehealth:8015082003</id>
@@ -56,20 +48,68 @@
     <summary>Not stated · Software · United States · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:collegeboard:/job/Remote---USA/Cyber-Threat-Hunter_REQ002976</id>
-    <title>College Board: Cyber Threat Hunter</title>
-    <link href="https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Cyber-Threat-Hunter_REQ002976"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Remote - USA · Python, Bash, LLMs, AWS, Kubernetes · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:ensco:5456926008</id>
     <title>ENSCO: Entry Level Cyber Engineer 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/ensco/jobs/5456926008"/>
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Dayton, Ohio, United States · Python, Bash, Kubernetes, Terraform, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:rocketlab:8038139003</id>
+    <title>Rocket Lab: Flight Software Engineer I 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Littleton, CO · C++, Rust, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420</id>
+    <title>The Boeing Company: Associate Flight Test Data Processing Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA - Berkeley, MO · C++, C#, SQL, .NET, Azure · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Detroit-MI-US/AI-Prompt-Engineer_333761</id>
+    <title>CACI: AI Prompt Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Detroit-MI-US/AI-Prompt-Engineer_333761"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Detroit, MI, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750</id>
+    <title>CACI: NASA Spacecraft Data Services Web Software Developer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Houston, TX, US · C#, SQL, .NET, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760</id>
+    <title>CACI: AI Prompt Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Laredo-TX-US/AI-Prompt-Engineer_333762</id>
+    <title>CACI: AI Prompt Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Laredo-TX-US/AI-Prompt-Engineer_333762"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Laredo, TX, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:collegeboard:/job/Remote---USA/Cyber-Threat-Hunter_REQ002976</id>
+    <title>College Board: Cyber Threat Hunter</title>
+    <link href="https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Cyber-Threat-Hunter_REQ002976"/>
+    <updated>2026-10-19T23:19:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Remote - USA · Python, Bash, LLMs, AWS, Kubernetes · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163</id>
@@ -94,22 +134,6 @@
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Seattle, WA · $162.5k/yr · Python, Java, LLMs, Spring, AWS · H-1B track record: ~335 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:rocketlab:8038139003</id>
-    <title>Rocket Lab: Flight Software Engineer I 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Littleton, CO · C++, Rust, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420</id>
-    <title>The Boeing Company: Associate Flight Test Data Processing Software Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA - Berkeley, MO · C++, C#, SQL, .NET, Azure · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000138108</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · San Francisco · $180K • Offers Equity · Python, JavaScript, React, PostgreSQL · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:pangramlabs:0512183c-2373-499c-8459-91d0fd2d72f3</id>
-    <title>Pangramlabs: Software Engineer - Customer Solutions</title>
-    <link href="https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brooklyn · $120K – $150K • Offers Equity • Offers Bonus · Python, React, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:periodic-labs:20b122c9-b8ec-4fb0-aaf4-9b45902affe0</id>
-    <title>Periodic Labs: Research Scientist, Scaling RL</title>
-    <link href="https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Menlo Park, CA; Montreal, Canada · LLMs · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
-    <title>Qumulo: Software Development Engineer (New Grad / Entry Level) 🛂</title>
-    <link href="https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

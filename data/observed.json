@@ -999,9 +999,10 @@
      "role_ids": [
       "oracle:jpmc.fa.oraclecloud.com:210773954",
       "oracle:jpmc.fa.oraclecloud.com:210774102",
-      "oracle:jpmc.fa.oraclecloud.com:210774111"
+      "oracle:jpmc.fa.oraclecloud.com:210774111",
+      "oracle:jpmc.fa.oraclecloud.com:210801790"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2066,5 +2067,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T23:19:26Z"
+ "updated_at": "2026-10-20T02:04:02Z"
 }
