@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:jerry.ai:ce7a8378-bb08-4600-ae0e-4fee9e11dc43",
+      "workday:mimecast:/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
+    ],
+    "telegram": [
+      "ashby:jerry.ai:ce7a8378-bb08-4600-ae0e-4fee9e11dc43",
+      "workday:mimecast:/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
+    ]
   }
 }

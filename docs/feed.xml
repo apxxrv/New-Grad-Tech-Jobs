@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-20T07:44:14Z</updated>
+  <updated>2026-10-20T13:12:20Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:hpe:/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809-2</id>
+    <title>Hewlett Packard Enterprise: Software Consulting Engineer</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809-2"/>
+    <updated>2026-10-20T13:12:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chennai, Tamil Nadu, India; Bengaluru, Karnātaka, India · status: closed · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mimecast:/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829</id>
+    <title>Mimecast: Software Engineer I</title>
+    <link href="https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829"/>
+    <updated>2026-10-20T13:12:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States of America– Minnesota – Minneapolis · Java, TypeScript, Kotlin, React, HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883</id>
     <title>The Aerospace Corporation: 2027 Aerospace Software and Simulation Engineer 🇺🇸</title>
@@ -203,9 +219,9 @@
     <id>urn:grad-engine:workday:dtna:/job/Detroit-MI-US/Software-Developer-I_DT-20202</id>
     <title>Daimler Truck: Software Developer I</title>
     <link href="https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Software-Developer-I_DT-20202"/>
-    <updated>2026-10-19T19:34:04Z</updated>
+    <updated>2026-10-20T13:12:20Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Detroit, MI US · Python, Java, C++, C#, JavaScript</summary>
+    <summary>Not stated · Software · Detroit, MI US · Python, Java, C++, C#, JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882223</id>
@@ -765,7 +781,7 @@
     <link href="https://jobs.ashbyhq.com/jerry.ai/f621d767-f3aa-4cdb-9b73-816467624c95"/>
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:mach9:622a014b-ff77-45bd-9caa-61a6506884ed</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-17T02:09:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Santa Clara · Python, PyTorch, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:netic:bab5d1e5-e31b-42f0-9cef-334b1f17fed3</id>
-    <title>Netic: Full-Stack Software Engineer (Product) - New Grad - 2026-2027</title>
-    <link href="https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco · $138K – $160K · Python, TypeScript, LLMs, React, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:netic:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f</id>
-    <title>Netic: Software Engineer (Agent Platform) - New Grad - 2026-2027</title>
-    <link href="https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"/>
-    <updated>2026-10-17T02:09:43Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Francisco · $138K – $160K · Python, TypeScript, LLMs, React, Databricks</summary>
   </entry>
 </feed>
