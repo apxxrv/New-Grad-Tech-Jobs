@@ -1,38 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "bytedance:bytedance:7698902624389482757",
-      "greenhouse:affirm:8039471003",
-      "workday:amat:/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
-      "workday:amat:/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
-      "workday:amat:/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046",
-      "workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1",
-      "greenhouse:coherehealth:8015082003",
-      "workday:compassion:/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1",
-      "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-      "workday:hp:/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763",
-      "greenhouse:purestorage:8282746",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
-      "workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
-      "greenhouse:twitch:8906750002",
-      "workday:usbank:/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
-    ],
-    "telegram": [
-      "bytedance:bytedance:7698902624389482757",
-      "greenhouse:affirm:8039471003",
-      "workday:amat:/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
-      "workday:amat:/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
-      "workday:amat:/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046",
-      "workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1",
-      "greenhouse:coherehealth:8015082003",
-      "workday:compassion:/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1",
-      "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-      "workday:hp:/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763",
-      "greenhouse:purestorage:8282746",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
-      "workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
-      "greenhouse:twitch:8906750002",
-      "workday:usbank:/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
