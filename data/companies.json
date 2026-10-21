@@ -5707,6 +5707,11 @@
     "site": "Centrica"
   },
   {
+    "name": "Centrl",
+    "slug": "centrl",
+    "ats": "breezy"
+  },
+  {
     "name": "Cerebras",
     "slug": "cerebras",
     "ats": "ashby"
@@ -6780,6 +6785,13 @@
     "site": "Careers"
   },
   {
+    "name": "Collegeboard",
+    "slug": "collegeboard",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "cbcareers"
+  },
+  {
     "name": "Collier Aerospace",
     "slug": "collieraerospace",
     "ats": "rippling"
@@ -6903,6 +6915,11 @@
     "name": "CommerceIQ",
     "slug": "commerceiq",
     "ats": "greenhouse"
+  },
+  {
+    "name": "CommonAI C.I.C.",
+    "slug": "commonai",
+    "ats": "workable"
   },
   {
     "name": "CommonLit",
@@ -11359,6 +11376,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Funnel Leasing",
+    "slug": "funnel-leasing",
+    "ats": "workable"
+  },
+  {
     "name": "Further",
     "slug": "furtherearlycareer",
     "ats": "greenhouse"
@@ -14255,6 +14277,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "IAScareers"
+  },
+  {
+    "name": "Integrate",
+    "slug": "integrate",
+    "ats": "ashby"
   },
   {
     "name": "Integrated Resources",
@@ -17697,6 +17724,11 @@
   {
     "name": "Metalenz",
     "slug": "metalenz",
+    "ats": "ashby"
+  },
+  {
+    "name": "Metamorphic",
+    "slug": "metamorphic",
     "ats": "ashby"
   },
   {
@@ -22528,6 +22560,11 @@
     "site": "redfin_careers"
   },
   {
+    "name": "Redgate",
+    "slug": "red-gate",
+    "ats": "ashby"
+  },
+  {
     "name": "Redhorse",
     "slug": "redhorsecorp",
     "ats": "lever"
@@ -25609,6 +25646,11 @@
     "name": "STCU",
     "slug": "STCU1",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Steel",
+    "slug": "steel",
+    "ats": "ashby"
   },
   {
     "name": "SteelEye",
@@ -29694,6 +29736,13 @@
     "name": "WeRide",
     "slug": "weride",
     "ats": "lever"
+  },
+  {
+    "name": "Werner",
+    "slug": "werner",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "werner"
   },
   {
     "name": "Western Aircraft",
