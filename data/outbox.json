@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "breezy:centrl:8e53123f374a",
+      "workday:collegeboard:/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+      "workday:expedia:/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+      "greenhouse:perscholashires:4721600006",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922"
+    ],
+    "telegram": [
+      "breezy:centrl:8e53123f374a",
+      "workday:collegeboard:/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+      "workday:expedia:/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+      "greenhouse:perscholashires:4721600006",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922"
+    ]
   }
 }

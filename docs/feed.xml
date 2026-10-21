@@ -5,15 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-21T09:50:57Z</updated>
+  <updated>2026-10-21T14:52:09Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:nvidia:/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405</id>
-    <title>NVIDIA: System Software Engineer, Tegra Security Software</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405"/>
-    <updated>2026-10-21T09:50:57Z</updated>
+    <id>urn:grad-engine:breezy:centrl:8e53123f374a</id>
+    <title>Centrl: Junior Software Engineer - Client Services</title>
+    <link href="https://centrl.breezy.hr/p/8e53123f374a-junior-software-engineer-client-services"/>
+    <updated>2026-10-21T14:52:09Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · UK, Bristol, United Kingdom; UK, Cambridge · Python, Rust, Linux · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Mountain View, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:collegeboard:/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1</id>
+    <title>Collegeboard: Software Engineer I (New Grad)</title>
+    <link href="https://collegeboard.wd1.myworkdayjobs.com/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1"/>
+    <updated>2026-10-21T14:52:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote - USA · TypeScript, JavaScript, React, Node.js, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:expedia:/job/USA---Missouri---Springfield/Software-Developer-I_R-110635</id>
+    <title>Expedia Group: Software Developer I</title>
+    <link href="https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635"/>
+    <updated>2026-10-21T14:52:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Missouri - Springfield · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:perscholashires:4721600006</id>
+    <title>Per Scholas: Instructional Assistant (Cyber)</title>
+    <link href="https://job-boards.greenhouse.io/perscholashires/jobs/4721600006"/>
+    <updated>2026-10-21T14:52:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Bronx, New York, United States · $23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922"/>
+    <updated>2026-10-21T14:52:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, C++, C#, .NET, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8</id>
@@ -22,6 +54,14 @@
     <updated>2026-10-21T09:50:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco · $130K – $180K • Offers Equity · TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405</id>
+    <title>NVIDIA: System Software Engineer, Tegra Security Software</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405"/>
+    <updated>2026-10-21T09:50:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · UK, Bristol, United Kingdom; UK, Cambridge · Python, Rust, Linux · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006</id>
@@ -603,9 +643,9 @@
     <id>urn:grad-engine:workday:aristocrat:/job/Noida-UP-IN/Engineer-II_R0022613</id>
     <title>Aristocrat Leisure: Engineer I - C++ developer</title>
     <link href="https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Noida-UP-IN/Engineer-II_R0022613"/>
-    <updated>2026-10-19T13:11:33Z</updated>
+    <updated>2026-10-21T14:52:09Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Noida, UP, IN, India; Gurugram, HR, IN · C++, Linux</summary>
+    <summary>Not stated · Software · Noida, UP, IN, India; Gurugram, HR, IN · C++, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, TX, United States · Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010937</id>
-    <title>Emerson Electric: Software Engineer 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · C++, Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409</id>
-    <title>Booz Allen: University - Applied AI Specialist 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Specialist_R0249409"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · McLean, VA · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196</id>
-    <title>Booz Allen: AI Software Developer, Junior 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Diego, CA · $141k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1</id>
-    <title>Chevron Corporation: 2026-2027 Information Technology - Software Engineer - Full-Time 🛂</title>
-    <link href="https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Houston, Texas, United States of America; Bakersfield, California, United States of America; Denver, Colorado, United States of America; Midland, Texas, United States of America; Covington, Louisiana, United States of America; Greeley, Colorado, United States of America · Python, Java, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:chewy:/job/Bellevue-WA/Software-Engineer-I_R30985-1</id>
-    <title>Chewy: Software Engineer I</title>
-    <link href="https://chewy.wd5.myworkdayjobs.com/External/job/Bellevue-WA/Software-Engineer-I_R30985-1"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Bellevue, WA, United States of America; Boston, MA; Plantation, FL · Python, Java, TypeScript, SQL, React · status: closed · H-1B track record: ~362 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
