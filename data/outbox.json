@@ -1,48 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:guidewire:/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
-      "greenhouse:accenturefederalservices:4722580006",
-      "workday:pae:/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
-      "workday:chewy:/job/Plantation-FL/Software-Engineer-I_R31182-1",
-      "workday:comscore:/job/OR---Portland-Airport/Software-Engineer_REQ1765",
-      "workday:etsy:/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
-      "greenhouse:grahamcapitalmanagement:4745292005",
-      "workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
-      "workday:motorolasolutions:/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
-      "workday:ncr:/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
-      "workday:nordstrom:/job/Seattle-WA/Engineer-1--Cloud-Engineering--Hybrid---Seattle--WA-_R-890088",
-      "greenhouse:pallet:5265290007",
-      "workday:globalhr:/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
-      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
-      "greenhouse:spacex:8694609002",
-      "greenhouse:systemstechnologyresearch:4723623006",
-      "greenhouse:tanium:8232146",
-      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--Databricks--MLOps-_R-53249"
-    ],
-    "telegram": [
-      "workday:guidewire:/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
-      "greenhouse:accenturefederalservices:4722580006",
-      "workday:pae:/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
-      "workday:chewy:/job/Plantation-FL/Software-Engineer-I_R31182-1",
-      "workday:comscore:/job/OR---Portland-Airport/Software-Engineer_REQ1765",
-      "workday:etsy:/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
-      "greenhouse:grahamcapitalmanagement:4745292005",
-      "workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
-      "workday:motorolasolutions:/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
-      "workday:ncr:/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
-      "workday:nordstrom:/job/Seattle-WA/Engineer-1--Cloud-Engineering--Hybrid---Seattle--WA-_R-890088",
-      "greenhouse:pallet:5265290007",
-      "workday:globalhr:/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
-      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
-      "greenhouse:spacex:8694609002",
-      "greenhouse:systemstechnologyresearch:4723623006",
-      "greenhouse:tanium:8232146",
-      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--Databricks--MLOps-_R-53249"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
