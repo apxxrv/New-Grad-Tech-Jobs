@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-21T04:51:31Z</updated>
+  <updated>2026-10-21T09:50:57Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405</id>
+    <title>NVIDIA: System Software Engineer, Tegra Security Software</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405"/>
+    <updated>2026-10-21T09:50:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · UK, Bristol, United Kingdom; UK, Cambridge · Python, Rust, Linux · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8</id>
+    <title>Mach9: Software Engineer - 3D Graphics</title>
+    <link href="https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8"/>
+    <updated>2026-10-21T09:50:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco · $130K – $180K • Offers Equity · TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006</id>
     <title>Northrop Grumman: Associate Software Engineer 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Bellevue, WA, United States of America; Boston, MA; Plantation, FL · Python, Java, TypeScript, SQL, React · status: closed · H-1B track record: ~362 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788</id>
-    <title>Cisco: Site Reliability Engineer I (Full Time) — United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US; Knoxville, Tennessee, US · Python, Bash, GCP, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:cisco:/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020</id>
-    <title>Cisco: UI Desktop macOS and IOS Engineer Hybird</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/UI-Desktop-Engineer-Hybird_2021020"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US · C++, C#, TypeScript, JavaScript, Swift</summary>
   </entry>
 </feed>
