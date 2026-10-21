@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Schedule](https://img.shields.io/badge/schedule-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 945 open roles (548 listed below) · 726 new this week
+### 943 open roles (546 listed below) · 723 new this week
 
-4,962 employers tracked · data as of Oct 21, 2026 at 00:23 UTC
+4,962 employers tracked · data as of Oct 21, 2026 at 04:51 UTC
 
-_530 have a class year the employer stated · 415 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_531 have a class year the employer stated · 412 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml)**
 
@@ -253,13 +253,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| NVIDIA ✓ | Software Engineer, Agent Performance Modeling - New College Grad 2026 🆕 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) | US, CA, Santa Clara | LLMs | Oct 20, 2026 |
 | CWILL | Loyalty & Referrals R&D Trainee - Full-Stack Engineer - Bilingual Mandarin | [Apply](https://apply.workable.com/cwill-us/j/3DE00A2E99/) | cary +2 more | Python, Java, TypeScript, JavaScript | Oct 13, 2026 |
 | CWILL | TrackingMore R&D Trainee - Full-Stack Engineer (Backend) - Bilingual Mandarin | [Apply](https://apply.workable.com/cwill-us/j/D6136D8314/) | cary +2 more | Python, Java, TypeScript, JavaScript | Oct 13, 2026 |
 | NVIDIA ✓ | SoC Software Engineer – New College Graduate 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | US, CA, Santa Clara | C++, Linux | Oct 13, 2026 |
 | NVIDIA ✓ | Developer Technology Engineer, Public Sector - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | US, CA, Santa Clara | Python, C++, CUDA | Oct 12, 2026 |
 | Gartner ✓ | Data Analyst - 2026/2027 graduates _(also open for Class of 2027)_ | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849) | Stamford +4 more | Python, SQL, LLMs | Oct 10, 2026 |
 | University of Nevada, Reno ✓ | Research Scientist, Transporta​tion Engineering | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Research-Scientist--Transportation-Engineering_R0153803) | University of Nevada, Reno - Main Campus | No skills listed | Oct 09, 2026 |
-| NVIDIA ✓ | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | US, CA, Santa Clara | Python, C++, PyTorch, CUDA | Oct 07, 2026 |
 | RTX | 2026 Raytheon Full Time - Receiver, Exciter, & Processing Architecture Software Engineer I - Marlborough, MA (Onsite) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Pos… | Python, C++, Bash, CUDA | Oct 05, 2026 |
 | General Motors ✓ | Machine Learning Engineer, AI Inference Solutions (Early in Career) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103) | Sunnyvale +2 more | Python, C++, PyTorch, LLMs | Oct 05, 2026 |
 | Northrop Grumman | 2026 Associate Software Engineer or Software Engineer - Aurora CO 🇺🇸 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437) | United States-Colorado-Aurora | Python | Sep 30, 2026 |
@@ -296,12 +296,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | TikTok ✓ | Machine Learning Engineer Graduate - Global E-commerce Recommenda​tion/Search - 2026 Start (PhD) | [Apply](https://lifeattiktok.com/search/7550798923146250504) | San Jose, California, USA | Linux | Sep 16, 2025 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (341 roles)
+## Recently posted — class year not stated  (339 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Northrop Grumman | Associate Software Engineer 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006) | United States-Nebraska-Bellevue | Java, SQL, Linux | Oct 20, 2026 |
 | Microsoft ✓ | Software Engineering IC2 🆕 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043616) | United States, Washington, Redmond | Python, Java, C++, C# | Oct 20, 2026 |
 | RoboForce | AI Resident 🆕 | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5459229008) | Milpitas, CA | PyTorch, TensorFlow | Oct 20, 2026 |
 | SpaceX | Space Operations Training Engineer (Full Stack Software) 🆕 | [Apply](https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002) | Hawthorne, CA | Python, JavaScript | Oct 20, 2026 |
@@ -314,7 +315,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Northeastern University ✓ | Associate Research Scientist 🆕 | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R143032) | Boston, MA (Main Campus) | LLMs, Git | Oct 20, 2026 |
 | University of Chicago ✓ | Junior Software Developer 🆕 | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Software-Developer_JR35628) | Chicago, IL | Python, C++, PyTorch, scikit-learn | Oct 20, 2026 |
 | John Deere | IT Development Program - Software Engineering 🛂 🆕 | [Apply](https://careers.deere.com/careers/job/137482532344) | Moline, IL, Illinois, United States | Python, Java, JavaScript | Oct 20, 2026 |
-| Waymo ✓ | Product Data Scientist - Marketplace Logistics 🆕 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8286842) | Mountain View +5 more | Python, SQL | Oct 20, 2026 |
 | The Boeing Company ✓ | Product Security Engineer (Product Security Engineer) 🇺🇸 🆕 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026516106-1) | USA - Berkeley, MO | No skills listed | Oct 20, 2026 |
 | College Board ✓ 🆁 | Associate Research Scientist 🆕 | [Apply](https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Associate-Research-Scientist_REQ002979) | Remote - USA | Tableau | Oct 20, 2026 |
 | RTX | Software Engineer I, Core Services and Libraries (Onsite) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494) | US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr… | C++, Linux, Git | Oct 20, 2026 |
@@ -342,7 +342,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Jain Global | Junior Developer, Compliance 🆕 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Junior-Developer--Compliance_JR100626-1) | New York +4 more | Python, TypeScript, SQL, React | Oct 19, 2026 |
 | KLA ✓ | Research Scientist 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2) | USA-MI-Ann Arbor-KLA | Python, C++, TensorFlow, CUDA | Oct 19, 2026 |
 | Leidos ✓ | Junior Software Engineer 🇺🇸 🆕 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00191407) | Huntsville, AL | Python, C++, SQL, CUDA | Oct 19, 2026 |
-| Leidos ✓ | Software Engineer I 🇺🇸 🆕 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer-I_R-00194839) | San Diego, CA | Python, C++, Bash, Linux | Oct 19, 2026 |
 | Microchip Technology ✓ | Engineer I-Software Development 🆕 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26) | TX - Houston - Compaq Center Dr | Python, Java, C++, Bash | Oct 19, 2026 |
 | RBI | Analyst, Data Engineer, Firehouse Subs 🆕 | [Apply](https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Jacksonville/Analyst--Data-Engineer--Firehouse-Subs_R3951) | Jacksonville | Python, SQL, AWS, dbt | Oct 19, 2026 |
 | The Travelers Companies | Data Engineer I (AWS, Python, GenAI) 🛂 🆕 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-53217-1) | CT - Hartford +2 more | Python, LLMs, AWS, Azure | Oct 19, 2026 |
@@ -382,7 +381,7 @@ These postings never name a class year — not in the title, not in the posting 
 | S&P Global ✓ | Machine Learning Operations Engineer I | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/ML-Ops-Engineer-II_330647-1) | Cambridge +4 more | Python, Bash, PyTorch, LLMs | Oct 15, 2026 |
 | Thales | AI Engineer - Graduate 🛂 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) | Orlando | Python, AWS | Oct 15, 2026 |
 | TNS | Application Security Analyst I | [Apply](https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Virtual---Virginia/Application-Security-Analyst-I_R3131) | USA - Virtual - Virginia +21 more | Azure, Git | Oct 15, 2026 |
-| Honeycomb 🆁 | Software Engineer I - LLM Observabil​ity 🛂 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5452584008) | Remote - United States | LLMs, Python, TypeScript, React | Oct 15, 2026 |
+| Honeycomb 🆁 | Software Engineer I -Agent Observabil​ity 🛂 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5452584008) | Remote - United States | Python, TypeScript, LLMs, React | Oct 15, 2026 |
 | Affirm ✓ 🆁 | Software Engineer I, Fullstack (Search) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US | Python, TypeScript, JavaScript, Kotlin | Oct 15, 2026 |
 | 1Password 🆁 | Junior Security Engineer | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | Remote (United States / Canada) | Go, Rust | Oct 15, 2026 |
 | Cisco | Site Reliability Engineer I (Full Time) — United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788) | RTP +9 more | Python, Bash, GCP, Azure | Oct 14, 2026 |
@@ -391,7 +390,6 @@ These postings never name a class year — not in the title, not in the posting 
 | i360techno​logies | OIC Interface Developer | [Apply](https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452476009) | Washington, DC | No skills listed | Oct 14, 2026 |
 | i360techno​logies | Oracle Analytics FDI Developer | [Apply](https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009) | Washington​,DC | SQL, Tableau | Oct 14, 2026 |
 | Lawrence Livermore National Laboratory (LLNL) | IT Solutions Division Group Leader / LivIT Associate Program Leader, Cloud and AI | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016125902) | Livermore, CA, United States (Hybrid) | LLMs | Oct 14, 2026 |
-| Booz Allen | Cybersecur​ity Engineer 🇺🇸 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Cybersecurity-Engineer_R0250686) | Colorado Springs, CO | No skills listed | Oct 14, 2026 |
 | The Boeing Company ✓ | Entry Level B1 Software Systems Engineer 🛂 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2) | USA - Tinker AFB +4 more | No skills listed | Oct 14, 2026 |
 | Medtronic ✓ | Software Quality Engineer I (Reliability/Compliance) 🛂 | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R71062-1) | Mounds View +5 more | Python, Docker, Linux | Oct 14, 2026 |
 | Nike ✓ | Machine Learning Engineer I | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1) | Beaverton, Oregon | Python, PyTorch, TensorFlow, LLMs | Oct 14, 2026 |
@@ -472,6 +470,7 @@ These postings never name a class year — not in the title, not in the posting 
 | Eurofins | Laboratory Software Specialist | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154107909) | Lancaster, PA, United States | No skills listed | Oct 07, 2026 |
 | Badger Meter | Engineer I- Firmware | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Engineer-I--Firmware_4628) | Milwaukee +4 more | C++, Git | Oct 07, 2026 |
 | GE Healthcare | Algorithm Software Engineer | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Algorithm-Software-Engineer_R4045928-1) | Haifa HEALTHCARE HA IL 2 | Python, C++, MATLAB, Computer Vision | Oct 07, 2026 |
+| Leidos ✓ | Defensive Cyber Software Developer 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Defensive-Cyber-Software-Developer_R-00194120) | Lawton, OK | Python, C++, Rust, Linux | Oct 07, 2026 |
 | Mechanics Bank | Information Security Analyst (On-site, CA) | [Apply](https://mechanicsbank.wd5.myworkdayjobs.com/MechanicsBank/job/Irvine-California/Information-Security-Analyst_R6219) | Irvine +6 more | Linux | Oct 07, 2026 |
 | University of Nevada, Reno ✓ | Student Worker - Student Computer Science Engineer, SAGE | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Student-Computer-Science-Engineer--SAGE_R0153576) | University of Nevada, Reno - Main Campus | Python, Java, C++, MATLAB | Oct 07, 2026 |
 | Sierra Space | Configurat​ion Management Analyst I (Software Systems) | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Configuration-Management--Software-Systems--Level-I_R26377-1) | Centennial +4 more | No skills listed | Oct 07, 2026 |
@@ -597,7 +596,6 @@ These postings never name a class year — not in the title, not in the posting 
 | SingleStore ✓ | MIT-Software Engineer-New Grad /Engine/ | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220863) | United States | C++, SQL, LLMs | Sep 21, 2026 |
 | SingleStore ✓ | MIT-Software Engineer-New Grad /Helios/ | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882) | United States | TypeScript, JavaScript, SQL | Sep 21, 2026 |
 | TeleTracking | Software Engineer I | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008) | Pittsburgh, PA | Java, AWS | Sep 21, 2026 |
-| Tulane University ✓ | Research Scientist I | [Apply](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1970) | New Orleans +3 more | No skills listed | Sep 21, 2026 |
 | AbbVie ✓ | Associate AI Data Scientist I | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) | North Chicago +2 more | Python, LLMs, HTML/CSS, AWS | Sep 21, 2026 |
 | DRW ✓ | Data Analyst, Exploration | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8189760) | Chicago | Python, SQL, Bash, Pandas | Sep 18, 2026 |
 | Pallet | Software Engineer, Agent Delivery | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | San Francisco | TypeScript, LLMs, React, Next.js | Sep 18, 2026 |
@@ -730,7 +728,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,835 of 5,275 registered boards returned successfully across 13 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1121.5s · 214 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,907 of 5,275 registered boards returned successfully across 13 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1135.3s · 221 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

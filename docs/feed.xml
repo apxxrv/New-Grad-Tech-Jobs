@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-21T00:23:17Z</updated>
+  <updated>2026-10-21T04:51:31Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006</id>
+    <title>Northrop Grumman: Associate Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006"/>
+    <updated>2026-10-21T04:51:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States-Nebraska-Bellevue · Java, SQL, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350</id>
+    <title>NVIDIA: Software Engineer, Agent Performance Modeling - New College Grad 2026</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"/>
+    <updated>2026-10-21T04:51:31Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · US, CA, Santa Clara · LLMs · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:eightfold:microsoft:1970393557043616</id>
     <title>Microsoft: Software Engineering IC2</title>
@@ -163,9 +179,9 @@
     <id>urn:grad-engine:greenhouse:waymo:8286842</id>
     <title>Waymo: Product Data Scientist - Marketplace Logistics</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8286842"/>
-    <updated>2026-10-20T18:10:58Z</updated>
+    <updated>2026-10-21T04:51:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, USA, San Francisco, CA, USA · Python, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, USA, San Francisco, CA, USA · Python, SQL · status: closed · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com:85560</id>
@@ -531,9 +547,9 @@
     <id>urn:grad-engine:workday:leidos:/job/San-Diego-CA/Software-Engineer-I_R-00194839</id>
     <title>Leidos: Software Engineer I 🇺🇸</title>
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer-I_R-00194839"/>
-    <updated>2026-10-19T19:34:04Z</updated>
+    <updated>2026-10-21T04:51:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Diego, CA · Python, C++, Bash, Linux, Git · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Diego, CA · Python, C++, Bash, Linux, Git · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · RTP, North Carolina, US, United States of America; San Jose, California, US · C++, C#, TypeScript, JavaScript, Swift</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:clearwateranalytics:/job/Office---Boise/Software-Development-Engineer-I_R12059</id>
-    <title>CWAN: Software Development Engineer I</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Engineer-I_R12059"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - Boise · Python, Java, TypeScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:directv:/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319</id>
-    <title>DIRECTV: Agentic AI Orchestration Analyst</title>
-    <link href="https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · El Segundo, CA, United States of America; United States - Virtual · H-1B track record: ~86 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

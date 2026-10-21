@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
+    ],
+    "telegram": [
+      "workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
+    ]
   }
 }
