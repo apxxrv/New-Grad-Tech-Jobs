@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T19:11:28Z",
- "data_as_of": "2026-10-21T19:11:28Z",
- "rendered_at": "2026-10-21T19:11:28Z",
+ "generated_at": "2026-10-21T22:33:47Z",
+ "data_as_of": "2026-10-21T22:33:47Z",
+ "rendered_at": "2026-10-21T22:33:47Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1089,25 +1089,6 @@
    }
   },
   {
-   "company": "Radiant",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -34,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
    "company": "Hewlett Packard (HP)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -2169,6 +2150,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Radiant",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -34,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-17"
    }
   },
   {
