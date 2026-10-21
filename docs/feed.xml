@@ -5,15 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-20T21:48:29Z</updated>
+  <updated>2026-10-21T00:23:17Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1</id>
-    <title>Baxter International: Research Scientist I 🛂</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1"/>
+    <id>urn:grad-engine:eightfold:microsoft:1970393557043616</id>
+    <title>Microsoft: Software Engineering IC2</title>
+    <link href="https://apply.careers.microsoft.com/careers/job/1970393557043616"/>
+    <updated>2026-10-21T00:23:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States, Washington, Redmond · $85.4k–$168.1k/yr · Python, Java, C++, C#, JavaScript · H-1B track record: ~9.3k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:roboforce:5459229008</id>
+    <title>RoboForce: AI Resident</title>
+    <link href="https://job-boards.greenhouse.io/roboforce/jobs/5459229008"/>
+    <updated>2026-10-21T00:23:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8903848002</id>
+    <title>SpaceX: Space Operations Training Engineer (Full Stack Software)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002"/>
     <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Round Lake, Illinois · $96k–$132k/yr · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · Hawthorne, CA · $130k/yr · Python, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trace3:8304310</id>
+    <title>Trace3: Software Engineer (GAITS - Analyst Team) (26-386)</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304310"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · MATLAB, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trace3:8304333</id>
+    <title>Trace3: Software Engineer / Scrum Master - PLNR (26-394)</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304333"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Colorado Springs, CO · Java</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:24668</id>
@@ -32,12 +64,12 @@
     <summary>Not stated · Software · US-NV-Reno, Nevada (Maestro Dr) · H-1B track record: ~106 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:ghr:/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1</id>
-    <title>Bank of America: AI Engineer - Data Scientist I</title>
-    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1"/>
+    <id>urn:grad-engine:workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1</id>
+    <title>Baxter International: Research Scientist I 🛂</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1"/>
     <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, United States of America; Charlotte · $193.2k/yr · Python, C++, LLMs</summary>
+    <summary>Not stated · Data &amp; ML/AI · Round Lake, Illinois · $96k–$132k/yr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ghr:/job/Charlotte/Data-Scientist-I_26037331</id>
@@ -64,6 +96,30 @@
     <summary>Not stated · Quant · Jacksonville, United States of America; Plano; Charlotte; Fort Worth · Python, SQL, Scala, Hadoop, Tableau</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:ghr:/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1</id>
+    <title>Bank of America: AI Engineer - Data Scientist I</title>
+    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/AI-Engineer---Data-Scientist-I_26038294-1"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, United States of America; Charlotte · $193.2k/yr · Python, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477</id>
+    <title>RTX: Software Engineer I-Embedded Linux (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · Linux, Python, C++, Bash, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1"/>
+    <updated>2026-10-20T21:48:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:intel:/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299</id>
     <title>Intel: AI Research Engineer/Scientist</title>
     <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0288299"/>
@@ -86,46 +142,6 @@
     <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Boston, MA (Main Campus) · LLMs, Git · H-1B track record: ~140 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477</id>
-    <title>RTX: Software Engineer I-Embedded Linux (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · Linux, Python, C++, Bash, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8903848002</id>
-    <title>SpaceX: Space Operations Training Engineer (Full Stack Software)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $130k/yr · Python, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trace3:8304310</id>
-    <title>Trace3: Software Engineer (GAITS - Analyst Team) (26-386)</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304310"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trace3:8304333</id>
-    <title>Trace3: Software Engineer / Scrum Master - PLNR (26-394)</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304333"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · Java</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:uchicago:/job/Chicago-IL/Junior-Software-Developer_JR35628</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-17T04:32:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · El Segundo, CA, United States of America; United States - Virtual · H-1B track record: ~86 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:dxctechnology:/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714</id>
-    <title>DXC Technology: 2027 Graduate - AI &amp; Innovation Full Stack Engineer</title>
-    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · AUS - VIC - MELBOURNE, Australia; AUS - SA - ADELAIDE; AUS - ACT - BRINDABELLA BUSINESS PARK; AUS - WA - PERTH; AUS - NSW - MACQUARIE PARK; AUS - QLD - BRISBANE</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:endurance:/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901</id>
-    <title>Sompo International Holdings: Assistant Pricing Developer</title>
-    <link href="https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/Assistant-Pricing-Developer_R4901"/>
-    <updated>2026-10-17T04:32:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Alpharetta, Georgia · Python, JavaScript, SQL, Pandas</summary>
   </entry>
 </feed>

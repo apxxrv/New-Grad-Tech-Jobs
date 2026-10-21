@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "eightfold:microsoft:1970393557043616",
+      "oracle:iazuqy.fa.ocs.oraclecloud.com:10078",
+      "greenhouse:roboforce:5459229008"
+    ],
+    "telegram": [
+      "eightfold:microsoft:1970393557043616",
+      "oracle:iazuqy.fa.ocs.oraclecloud.com:10078",
+      "greenhouse:roboforce:5459229008"
+    ]
   }
 }
