@@ -1,6 +1,38 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:hive:55154d4d-bd3e-4f83-9ec3-982da1e8da42",
+      "lever:hive:8977b31f-787d-4b17-ab00-5825764774fe",
+      "lever:hive:b60b0f85-8aed-4751-9f2c-5b92060c64a2",
+      "lever:hive:4947a174-d218-4c83-be26-89b1e889dc16",
+      "lever:hive:818e2024-c973-4cf7-84fd-7b14bd3a24f8",
+      "lever:hive:2c362789-c417-4d8c-bef5-d5fe1a5969ac",
+      "workable:the-anywhere-company:4010622FEF",
+      "workday:jda:/job/Dallas/Software-Engineer-I--Java-Required-_263368-1",
+      "workday:cdk:/job/Austin-TX-USA/Associate-Software-Engineer_JR9204",
+      "workday:cvshealth:/job/New-York-161-Ave-of-the-Americas/Data-Scientist---Pharmacy-Benefits_R1069422-1",
+      "workday:leidos:/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901",
+      "greenhouse:rendezvousrobotics:4464270009",
+      "workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
+      "workday:aero:/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972",
+      "workday:boeing:/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026503724-2"
+    ],
+    "telegram": [
+      "lever:hive:55154d4d-bd3e-4f83-9ec3-982da1e8da42",
+      "lever:hive:8977b31f-787d-4b17-ab00-5825764774fe",
+      "lever:hive:b60b0f85-8aed-4751-9f2c-5b92060c64a2",
+      "lever:hive:4947a174-d218-4c83-be26-89b1e889dc16",
+      "lever:hive:818e2024-c973-4cf7-84fd-7b14bd3a24f8",
+      "lever:hive:2c362789-c417-4d8c-bef5-d5fe1a5969ac",
+      "workable:the-anywhere-company:4010622FEF",
+      "workday:jda:/job/Dallas/Software-Engineer-I--Java-Required-_263368-1",
+      "workday:cdk:/job/Austin-TX-USA/Associate-Software-Engineer_JR9204",
+      "workday:cvshealth:/job/New-York-161-Ave-of-the-Americas/Data-Scientist---Pharmacy-Benefits_R1069422-1",
+      "workday:leidos:/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901",
+      "greenhouse:rendezvousrobotics:4464270009",
+      "workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
+      "workday:aero:/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972",
+      "workday:boeing:/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026503724-2"
+    ]
   }
 }

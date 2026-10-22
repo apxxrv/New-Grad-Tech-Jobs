@@ -431,9 +431,10 @@
       "bytedance:bytedance:7686732729746950405",
       "bytedance:bytedance:7686733097398290693",
       "bytedance:bytedance:7689561253011097909",
+      "bytedance:bytedance:7698902624003229957",
       "bytedance:bytedance:7698902624389482757"
      ],
-     "count": 105
+     "count": 106
     }
    }
   },
@@ -1536,6 +1537,18 @@
     }
    }
   },
+  "rendezvous robotics": {
+   "name": "Rendezvous Robotics",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "greenhouse:rendezvousrobotics:4464270009"
+     ],
+     "count": 1
+    }
+   }
+  },
   "replit": {
    "name": "Replit",
    "cycles": {
@@ -2108,5 +2121,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T17:22:43Z"
+ "updated_at": "2026-10-22T20:46:48Z"
 }
