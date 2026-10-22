@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-22T06:20:22Z</updated>
+  <updated>2026-10-22T11:56:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:iqvia:/job/Bangalore-India/AI-Engineer_R1555457</id>
+    <title>IQVIA: AI Engineer</title>
+    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/AI-Engineer_R1555457"/>
+    <updated>2026-10-22T11:56:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bangalore, India; Kochi, India · Python, Java, C++ · status: closed · H-1B track record: ~210 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:philips:/job/Pune/Software-Technologist-I---Embedded-C--_591151-1</id>
+    <title>Philips: Software Technologist I - Embedded C++</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Software-Technologist-I---Embedded-C--_591151-1"/>
+    <updated>2026-10-22T11:56:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Pune, India; Bangalore · C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:synnex:/job/Chennai-India/Associate-Software-Asset-Management-Analyst_R57422</id>
+    <title>TD Synnex: Associate Software Asset Management Analyst</title>
+    <link href="https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Associate-Software-Asset-Management-Analyst_R57422"/>
+    <updated>2026-10-22T11:56:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chennai, India; Remote, India · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7698902624003229957</id>
     <title>ByteDance: Research Scientist (Seed Model-Alignment&amp;Preparedness) - 2026 Start (PhD)</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote - USA · Python, Bash, LLMs, AWS, Kubernetes · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163</id>
-    <title>GlobalFoundries: AI/ML Systems Engineer (2027 New College Graduate)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · USA - Texas - Richardson · Python, PyTorch, TensorFlow, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:kla:/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3</id>
-    <title>KLA: Engr, Software 1</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA-NY-Remote-US03K · $38.66–$65.73/hr · Python, Java, C++, CUDA, Linux · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nordstrom:/job/Seattle-WA/Engineer-1_R-889191</id>
-    <title>Nordstrom: Engineer 1: Agentic AI - Inventory Solutions (Hybrid - Seattle, WA)</title>
-    <link href="https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1_R-889191"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle, WA · $162.5k/yr · Python, Java, LLMs, Spring, AWS · H-1B track record: ~335 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
