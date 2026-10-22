@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
+      "ashby:reliable-robotics:9c5a0c28-c147-4331-ad9d-cc840e33d70e",
+      "oracle:emdz.fa.us2.oraclecloud.com:6320",
+      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280",
+      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Software-Quality-Assurance-Engineer_JR102923-1",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+      "greenhouse:trueanomalyinc:5273017007"
+    ],
+    "telegram": [
+      "lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
+      "ashby:reliable-robotics:9c5a0c28-c147-4331-ad9d-cc840e33d70e",
+      "oracle:emdz.fa.us2.oraclecloud.com:6320",
+      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280",
+      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Software-Quality-Assurance-Engineer_JR102923-1",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+      "greenhouse:trueanomalyinc:5273017007"
+    ]
   }
 }

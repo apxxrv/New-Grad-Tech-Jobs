@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T20:46:48Z",
- "data_as_of": "2026-10-22T20:46:48Z",
- "rendered_at": "2026-10-22T20:46:48Z",
+ "generated_at": "2026-10-22T23:48:38Z",
+ "data_as_of": "2026-10-22T23:48:38Z",
+ "rendered_at": "2026-10-22T23:48:38Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1830,6 +1830,44 @@
    }
   },
   {
+   "company": "Guidehouse",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-22"
+   }
+  },
+  {
+   "company": "Palantir",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-22"
+   }
+  },
+  {
    "company": "Rendezvous Robotics",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -2305,5 +2343,5 @@
    }
   }
  ],
- "count": 121
+ "count": 123
 }
