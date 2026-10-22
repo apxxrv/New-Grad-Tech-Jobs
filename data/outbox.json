@@ -5,14 +5,40 @@
       "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
       "workday:tamus:/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1",
       "workday:verily:/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330",
-      "greenhouse:yext:8296161"
+      "greenhouse:yext:8296161",
+      "oracle:efds.fa.em5.oraclecloud.com:72607",
+      "workday:remitly:/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624",
+      "greenhouse:abnormalsecurity:8015179003",
+      "greenhouse:abnormalsecurity:8001641003",
+      "workday:autostore:/job/Atlanta-GA-USA/Software-Engineer_JR102735-1",
+      "workday:myhrabc:/job/Remote-Pennsylvania/Information-Security-Human-Risk-Analyst-I_R2618037-1",
+      "workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002361",
+      "workday:salesforce:/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1",
+      "workday:disney:/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+      "workday:thermofisher:/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756",
+      "workday:transunion:/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042996",
+      "workday:transunion:/job/Chicago-Illinois/Data-Scientist_19042997",
+      "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840"
     ],
     "telegram": [
       "lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33",
       "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
       "workday:tamus:/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1",
       "workday:verily:/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330",
-      "greenhouse:yext:8296161"
+      "greenhouse:yext:8296161",
+      "oracle:efds.fa.em5.oraclecloud.com:72607",
+      "workday:remitly:/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624",
+      "greenhouse:abnormalsecurity:8015179003",
+      "greenhouse:abnormalsecurity:8001641003",
+      "workday:autostore:/job/Atlanta-GA-USA/Software-Engineer_JR102735-1",
+      "workday:myhrabc:/job/Remote-Pennsylvania/Information-Security-Human-Risk-Analyst-I_R2618037-1",
+      "workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002361",
+      "workday:salesforce:/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1",
+      "workday:disney:/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+      "workday:thermofisher:/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756",
+      "workday:transunion:/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042996",
+      "workday:transunion:/job/Chicago-Illinois/Data-Scientist_19042997",
+      "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840"
     ]
   }
 }
