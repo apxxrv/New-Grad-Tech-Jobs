@@ -648,7 +648,7 @@
     "version": 1
   },
   "eightfold:qualcomm:446721598022": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -657,7 +657,7 @@
     "version": 1
   },
   "eightfold:qualcomm:446721635150": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -780,6 +780,15 @@
       "Class of 2027"
     ],
     "title": "Databricks Developer",
+    "version": 1
+  },
+  "greenhouse:accenturefederalservices:4702225006": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ETL Developer - SME",
     "version": 1
   },
   "greenhouse:accenturefederalservices:4702238006": {
@@ -1656,7 +1665,7 @@
     "version": 1
   },
   "greenhouse:accenturefederalservices:4723163006": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -1665,7 +1674,7 @@
     "version": 1
   },
   "greenhouse:accenturefederalservices:4723171006": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -1752,6 +1761,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Payments",
+    "version": 1
+  },
+  "greenhouse:airbnb:8280222": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, DevAI",
     "version": 1
   },
   "greenhouse:alarmcom:8828043002": {
@@ -1881,7 +1899,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5208637007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -1962,7 +1980,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5236476007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -1989,7 +2007,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5236493007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2169,7 +2187,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5248741007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2250,7 +2268,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5256304007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2304,7 +2322,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5256509007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2331,7 +2349,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5260387007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2403,7 +2421,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5265763007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2439,7 +2457,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5268307007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2448,7 +2466,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5268991007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2457,7 +2475,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5269017007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2484,7 +2502,7 @@
     "version": 1
   },
   "greenhouse:andurilindustries:5269889007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2517,6 +2535,15 @@
       "Class of 2027"
     ],
     "title": "Classified Cloud & Platform Engineer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5271821007": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Firmware Engineer, Manufacturing Test",
     "version": 1
   },
   "greenhouse:andurilindustries:5271824007": {
@@ -2673,7 +2700,7 @@
     "version": 1
   },
   "greenhouse:anthropic:5455961008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2682,7 +2709,7 @@
     "version": 1
   },
   "greenhouse:anthropic:5456018008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -2691,7 +2718,7 @@
     "version": 1
   },
   "greenhouse:anthropic:5458420008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3042,7 +3069,7 @@
     "version": 1
   },
   "greenhouse:avride:4458584009": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3357,7 +3384,7 @@
     "version": 1
   },
   "greenhouse:capitaltg:5268774007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3501,7 +3528,7 @@
     "version": 1
   },
   "greenhouse:chaosindustries:5257064007": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3852,7 +3879,7 @@
     "version": 1
   },
   "greenhouse:cssmerge:8899478002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3861,7 +3888,7 @@
     "version": 1
   },
   "greenhouse:cssmerge:8899480002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -3996,7 +4023,7 @@
     "version": 1
   },
   "greenhouse:didi:8299704": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -4005,7 +4032,7 @@
     "version": 1
   },
   "greenhouse:didi:8299718": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -4473,7 +4500,7 @@
     "version": 1
   },
   "greenhouse:ensco:5457159008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -4569,6 +4596,15 @@
       "Class of 2027"
     ],
     "title": "Data Platform Engineer",
+    "version": 1
+  },
+  "greenhouse:figma:6227402004": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Product Builder, AI Insights",
     "version": 1
   },
   "greenhouse:figureai:4713838006": {
@@ -5139,7 +5175,7 @@
     "version": 1
   },
   "greenhouse:humansignal:6208489004": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -5463,7 +5499,7 @@
     "version": 1
   },
   "greenhouse:ixllearning:8895549002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -5517,7 +5553,7 @@
     "version": 1
   },
   "greenhouse:justworks:8179714": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -5607,7 +5643,7 @@
     "version": 1
   },
   "greenhouse:launchdarkly:8015117003": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -5904,7 +5940,7 @@
     "version": 1
   },
   "greenhouse:newrelic:5436245008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -6162,6 +6198,15 @@
       "Class of 2027"
     ],
     "title": "Infrastructure Solutions Engineer",
+    "version": 1
+  },
+  "greenhouse:planetscale:4463390009": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Developer Experience Engineer",
     "version": 1
   },
   "greenhouse:podium81:8197489": {
@@ -6543,7 +6588,7 @@
     "version": 1
   },
   "greenhouse:salientmotion:5459241008": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -6750,7 +6795,7 @@
     "version": 1
   },
   "greenhouse:spacex:8785507002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -6822,7 +6867,7 @@
     "version": 1
   },
   "greenhouse:spacex:8812137002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -6903,7 +6948,7 @@
     "version": 1
   },
   "greenhouse:spacex:8829681002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -7065,7 +7110,7 @@
     "version": 1
   },
   "greenhouse:spacex:8856394002": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -7668,7 +7713,7 @@
     "version": 1
   },
   "greenhouse:tastylive:6230133004": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -8514,7 +8559,7 @@
     "version": 1
   },
   "smartrecruiters:AbbVie:3743990016237831": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -8829,21 +8874,12 @@
     "version": 1
   },
   "smartrecruiters:Intuitive:744000156658099": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
     ],
     "title": "Full-Stack Software Engineer",
-    "version": 1
-  },
-  "smartrecruiters:Intuitive:744000156658124": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Full-Stack Engineer",
     "version": 1
   },
   "smartrecruiters:JobsForHumanity:744000148506690": {
@@ -8907,15 +8943,6 @@
       "Class of 2027"
     ],
     "title": "Computational Biologist (ML) Postdoctoral Researcher",
-    "version": 1
-  },
-  "smartrecruiters:LLNL:3743990016242118": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Data Engineer",
     "version": 1
   },
   "smartrecruiters:LLNL:3743990016310277": {
@@ -9612,7 +9639,7 @@
     "version": 1
   },
   "workday:ag:/job/Bingen-WA/Unmanned-Aircraft-System--UAS--Embedded-Software-Engineer_JR10451237": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10071,7 +10098,7 @@
     "version": 1
   },
   "workday:autostore:/job/Atlanta-GA-USA/Robotics-Simulation-Engineer---Physical-AI---Digital-Twins_JR102741": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10539,7 +10566,7 @@
     "version": 1
   },
   "workday:blueorigin:/job/Grandview-MO/Battery-Software-Engineer_R74117": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10548,7 +10575,7 @@
     "version": 1
   },
   "workday:blueorigin:/job/Greater-Seattle-Area/EGSE-Automation-Software-Engineer---TeraWave_R73016-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10566,7 +10593,7 @@
     "version": 1
   },
   "workday:blueorigin:/job/Greater-Seattle-Area/Motor-Controls-Engineer---Lunar-Avionics_R64620": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10575,7 +10602,7 @@
     "version": 1
   },
   "workday:blueorigin:/job/Greater-Seattle-Area/Software-Engineer_R73434": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10584,7 +10611,7 @@
     "version": 1
   },
   "workday:blueorigin:/job/Hutto-TX/Silicon-Design-Infrastructure-Lead_R62949": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11583,7 +11610,7 @@
     "version": 1
   },
   "workday:cisco:/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -12131,71 +12158,8 @@
     "title": "Software Development Engineer",
     "version": 1
   },
-  "workday:cw:/job/Austin-Texas-USA/Mobile-Engineer_R338551-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer (Houston, TX)",
-    "version": 1
-  },
   "workday:cw:/job/Client-Site---USA---CA---Los-Angeles---800-S-Hope-Street/Mobile-Engineer_R337873": {
     "checked_at": "2026-10-21T19:11:27Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Client-Site---USA---CA---San-Diego---4808-Logan-Ave/Mobile-Engineer_R339012": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Client-Site---USA---GA---Douglasville---2281-Midway-Road/Mobile-Engineer_R338061": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Client-Site---USA---OK---Tulsa---4500-S-129th-East-Ave-Ste-195/Mobile-Engineer_R337974": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Client-Site---USA---OR---Hillsboro---3825-NE-Aloclek-Dr/Mobile-Engineer_R340152-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Client-Site---USA---TX---Richardson---400-International-Parkway/Mobile-Engineer_R337976": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Mobile Engineer",
-    "version": 1
-  },
-  "workday:cw:/job/Sacramento-California-USA/Mobile-Engineer_R337873": {
-    "checked_at": "2026-10-21T00:23:16Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -12636,7 +12600,7 @@
     "version": 1
   },
   "workday:ercot:/job/Austin-TX/GMS-Applications-Developer---RIOO_R2526-2": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -13050,7 +13014,7 @@
     "version": 1
   },
   "workday:fmr:/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -13113,7 +13077,7 @@
     "version": 1
   },
   "workday:gapinc:/job/SF---2-Folsom/Data-Scientist--Product-to-Market--P2M--Optimization_R223710": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -13671,7 +13635,7 @@
     "version": 1
   },
   "workday:globalhr:/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -13698,7 +13662,7 @@
     "version": 1
   },
   "workday:globalhr:/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Test-Equipment-Engineering---Electrical-Software-Engineer--Onsite-_01883267": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -13887,7 +13851,7 @@
     "version": 1
   },
   "workday:guidehouse:/job/US---VA-Norfolk/Data-Scientist_45745": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -14112,7 +14076,7 @@
     "version": 1
   },
   "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -14318,6 +14282,15 @@
     "title": "Print Supplies Big Data Analyst",
     "version": 1
   },
+  "workday:hp:/job/Vancouver-Washington-United-States-of-America/Supplies-Security-Software-Technician_3165668": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Supplies Security Software Technician",
+    "version": 1
+  },
   "workday:hp:/job/Vancouver-Washington-United-States-of-America/Supplies-Security-Software-Technician_3165668-1": {
     "checked_at": "2026-10-21T22:33:46Z",
     "cycles": [
@@ -14471,15 +14444,6 @@
     "title": "Cybersecurity Operations & Enablement",
     "version": 1
   },
-  "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Cybersecurity Operations & Enablement",
-    "version": 1
-  },
   "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088-3": {
     "checked_at": "2026-10-21T22:33:46Z",
     "cycles": [
@@ -14526,7 +14490,7 @@
     "version": 1
   },
   "workday:hpe:/job/Spring-Texas-United-States-of-America/SW-Embedded-BIOS-Engineer_1213658-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -14541,6 +14505,15 @@
       "Class of 2027"
     ],
     "title": "SW Embedded BIOS Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Test Engineer, HPC & AI Systems",
     "version": 1
   },
   "workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3": {
@@ -14840,15 +14813,6 @@
     "title": "Vice President, Software Engineering",
     "version": 1
   },
-  "workday:ironmountain:/job/US--MA--Remote/Salesforce-Service-Delivery-Developer_J0105977": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Salesforce Service Delivery Developer",
-    "version": 1
-  },
   "workday:itron:/job/United-States-of-America-Illinois-Chicago/DevOps-Engineer_JR102824": {
     "checked_at": "2026-10-21T19:11:27Z",
     "cycles": [
@@ -15045,24 +15009,6 @@
       "Class of 2027"
     ],
     "title": "Workday Integration and Platform Developer",
-    "version": 1
-  },
-  "workday:jll:/job/Chicago-IL/Forward-Deployed-AI-Engineer_REQ542628": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Forward Deployed AI Engineer",
-    "version": 1
-  },
-  "workday:jll:/job/Escondido-CA/Union-Mobile-Engineer_REQ521833": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Union Mobile Engineer",
     "version": 1
   },
   "workday:jll:/job/Greenville-SC/Mobile-Engineer_REQ540391-1": {
@@ -15750,7 +15696,7 @@
     "version": 1
   },
   "workday:lennar:/job/Miami-FL-Job-Posting-Location/LTG---AI-Agent-Developer_R26_0000003929": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -16047,7 +15993,7 @@
     "version": 1
   },
   "workday:manulife:/job/CAN-Quebec-Montreal-900-Boulevard-de-Maisonneuve-Ouest/Back-end-Software-Engineer_JR26050821": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -16326,7 +16272,7 @@
     "version": 1
   },
   "workday:mckesson:/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -16503,15 +16449,6 @@
       "Class of 2027"
     ],
     "title": "Software Development Engineer",
-    "version": 1
-  },
-  "workday:micron:/job/Richardson-TX/Systems-Software-Engineer_JR113846": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "Systems Software Engineer (AI inference stack, CUDA)",
     "version": 1
   },
   "workday:mitel:/job/Sofia-Hybrid/Information-Security-Specialist_R012920": {
@@ -16974,12 +16911,21 @@
     "version": 1
   },
   "workday:ngc:/job/United-States-California-San-Diego/Software-Engineer---Software-Test_R10248205": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
     ],
     "title": "Software Engineer - Software Test",
+    "version": 1
+  },
+  "workday:ngc:/job/United-States-Maryland-Baltimore/Cybersecurity-Analyst_R10229775": {
+    "checked_at": "2026-10-22T01:08:06Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Classified Cybersecurity Analyst",
     "version": 1
   },
   "workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Test-Engineer_R10257161": {
@@ -17037,7 +16983,7 @@
     "version": 1
   },
   "workday:nshe:/job/Medicine-Reno---University-of-Nevada-School-of-Medicine/Patient-Safety-Data-Analyst_R0154031": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -17063,15 +17009,6 @@
     "title": "Software Engineer- .NET Experience (Onsite, Overland Park, KS)",
     "version": 1
   },
-  "workday:nvidia:/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758": {
-    "checked_at": "2026-10-21T00:23:16Z",
-    "cycles": [
-      "Class of 2026",
-      "Class of 2027"
-    ],
-    "title": "DevOps Engineer, DOCA",
-    "version": 1
-  },
   "workday:nvidia:/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918": {
     "checked_at": "2026-10-21T04:51:30Z",
     "cycles": [
@@ -17082,7 +17019,7 @@
     "version": 1
   },
   "workday:nvidia:/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -17379,7 +17316,7 @@
     "version": 1
   },
   "workday:philips:/job/Orange-OH-Ohio-United-States/Research-Scientist-Computed-Tomography_586922": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -18054,7 +17991,7 @@
     "version": 1
   },
   "workday:rsm:/job/Chicago/Supervisor--D365-CE---Power-Platform-Engineering_JR122010": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -18342,7 +18279,7 @@
     "version": 1
   },
   "workday:sedgwick:/job/Telecommuter-FL/AI-Platform-Administrator_R79508-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -18594,7 +18531,7 @@
     "version": 1
   },
   "workday:statestreet:/job/Dallas/Software-Engineer---Backend-Platforms--Assistant-Vice-President--Wealth-Custody---Clearing-_R-793611": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -18621,7 +18558,7 @@
     "version": 1
   },
   "workday:statestreet:/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -19215,7 +19152,7 @@
     "version": 1
   },
   "workday:trellix:/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0037660": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -19242,7 +19179,7 @@
     "version": 1
   },
   "workday:trellix:/job/US-Virginia-Fairfax/Sr-Solution-Consultant--TS-SCI-Clearance-Required-_JR0037711-1": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -19251,7 +19188,7 @@
     "version": 1
   },
   "workday:trimble:/job/US---OR-Lake-Oswego/Software-Engineer_R57754": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -19377,7 +19314,7 @@
     "version": 1
   },
   "workday:tsc:/job/Huntsville-AL/Firmware-Design-Engineer_JR2781": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -19656,7 +19593,7 @@
     "version": 1
   },
   "workday:utaustin:/job/UT-MAIN-CAMPUS/School-of-Nursing-Full-Stack-AI-Engineer_R_00049526": {
-    "checked_at": "2026-10-21T00:23:16Z",
+    "checked_at": "2026-10-22T01:08:06Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"

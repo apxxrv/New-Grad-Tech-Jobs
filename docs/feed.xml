@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-21T22:33:47Z</updated>
+  <updated>2026-10-22T01:08:06Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:enbridge:/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2</id>
+    <title>Enbridge: Engineer in Training I Infrastructure Planning 🛂</title>
+    <link href="https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2"/>
+    <updated>2026-10-22T01:08:06Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Calgary, AB, CAN, Canada; Edmonton, AB, CAN · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7698902624003229957</id>
+    <title>ByteDance: Research Scientist (Seed Model-Alignment&amp;Preparedness) - 2026 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7698902624003229957"/>
+    <updated>2026-10-22T01:08:06Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531</id>
+    <title>Aptiv: Associate Data Developer</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531"/>
+    <updated>2026-10-22T01:08:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA Walnut Creek, CA - WR · Python, JavaScript, SQL, HTML/CSS, dbt · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:invenergyllc:/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1</id>
+    <title>Invenergy: Platform Developer I, Business Applications</title>
+    <link href="https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1"/>
+    <updated>2026-10-22T01:08:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · $85k/yr · C#, JavaScript, SQL, Azure</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7698902624389482757</id>
     <title>ByteDance: Research Scientist (Seed Model-Alignment&amp;Preparedness)- 2027 Start (PhD)</title>
@@ -24,20 +56,28 @@
     <summary>Not stated · Software · New York, New York, United States; San Francisco, California, United States · Python, SQL · H-1B track record: ~158 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683</id>
-    <title>Applied Materials: Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"/>
+    <id>urn:grad-engine:greenhouse:purestorage:8282746</id>
+    <title>Pure Storage: Junior DevOps Engineer</title>
+    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8282746"/>
     <updated>2026-10-21T22:33:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Santa Clara, California · Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780</id>
-    <title>Applied Materials: Algorithm Developer, Masters Degree, New College Grad (Santa Clara)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"/>
+    <id>urn:grad-engine:greenhouse:twitch:8906750002</id>
+    <title>Twitch: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/twitch/jobs/8906750002"/>
     <updated>2026-10-21T22:33:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara,CA · MATLAB · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Seattle, WA · Python, Java, React, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1</id>
+    <title>Applied Materials: Global Software Support Engineer I</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1"/>
+    <updated>2026-10-21T22:33:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin,TX · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:amat:/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046</id>
@@ -48,12 +88,20 @@
     <summary>Not stated · Software · Dallas-Richardson,TX · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1</id>
-    <title>Applied Materials: Global Software Support Engineer I</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1"/>
+    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780</id>
+    <title>Applied Materials: Algorithm Developer, Masters Degree, New College Grad (Santa Clara)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"/>
     <updated>2026-10-21T22:33:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Austin,TX · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Santa Clara,CA · MATLAB · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683</id>
+    <title>Applied Materials: Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"/>
+    <updated>2026-10-21T22:33:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:compassion:/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1</id>
@@ -72,20 +120,12 @@
     <summary>Class of 2027 · Data &amp; ML/AI · USA - California - Santa Clara, United States of America; USA - Texas - Richardson · PyTorch, TensorFlow, Computer Vision, AWS, Git</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763</id>
-    <title>Hewlett Packard (HP): Software Quality Assurance Engineer 1</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763"/>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1</id>
+    <title>RTX: Software Engineer I -  Test Solutions - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"/>
     <updated>2026-10-21T22:33:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Vancouver, Washington, United States of America · $59.35k–$89.6k/yr · Python, Java, SQL, Selenium</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:purestorage:8282746</id>
-    <title>Pure Storage: Junior DevOps Engineer</title>
-    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8282746"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara, California · Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, C# · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684</id>
@@ -96,20 +136,12 @@
     <summary>Not stated · Software · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1</id>
-    <title>RTX: Software Engineer I -  Test Solutions - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"/>
+    <id>urn:grad-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763</id>
+    <title>Hewlett Packard (HP): Software Quality Assurance Engineer 1</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763"/>
     <updated>2026-10-21T22:33:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, C# · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8906750002</id>
-    <title>Twitch: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8906750002"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, WA · Python, Java, React, AWS</summary>
+    <summary>Not stated · Software · Vancouver, Washington, United States of America · $59.35k–$89.6k/yr · Python, Java, SQL, Selenium</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:usbank:/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Seattle, WA · $162.5k/yr · Python, Java, LLMs, Spring, AWS · H-1B track record: ~335 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000138108</id>
-    <title>University of Washington: Research Scientist/Engineer 1</title>
-    <link href="https://uw.wd5.myworkdayjobs.com/uwhires/job/Seattle-WA/Research-Scientist-Engineer-1_REQ-0000138108"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle, WA · H-1B track record: ~221 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:iqvia:/job/Athens-Greece/Quantitative-Analyst-Consultant---Decision-Analytic-Modelling----Portugal-or-Greece_R1564859</id>
-    <title>IQVIA: Quantitative Analyst/Consultant - Decision Analytic Modelling  - Portugal or Greece 🛂</title>
-    <link href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Quantitative-Analyst-Consultant---Decision-Analytic-Modelling----Portugal-or-Greece_R1564859"/>
-    <updated>2026-10-19T23:19:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Athens, Greece; Lisbon, Portugal · Python, MATLAB · sponsorship: no-sponsorship · status: closed · H-1B track record: ~210 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:gravitonresearchcapital:8899670002</id>
-    <title>Graviton: Quantitative Researcher - 2027 Graduates</title>
-    <link href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002"/>
-    <updated>2026-10-19T19:34:04Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:tenet3:8894846002</id>
-    <title>Tenet3: Junior Frontend Software Engineer- Hybrid</title>
-    <link href="https://job-boards.greenhouse.io/tenet3/jobs/8894846002"/>
-    <updated>2026-10-19T19:34:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dayton, Ohio · JavaScript, React, HTML/CSS, Git</summary>
   </entry>
 </feed>

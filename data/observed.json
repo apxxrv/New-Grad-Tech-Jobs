@@ -319,9 +319,10 @@
       "bytedance:bytedance:7671026650366183685",
       "bytedance:bytedance:7671030761623177477",
       "bytedance:bytedance:7671032227920431413",
-      "bytedance:bytedance:7671033602288912645"
+      "bytedance:bytedance:7671033602288912645",
+      "bytedance:bytedance:7698902624003229957"
      ],
-     "count": 17
+     "count": 18
     },
     "Class of 2027": {
      "first_posted": "2026-03-31",
@@ -704,6 +705,18 @@
      "first_posted": "2026-03-26",
      "role_ids": [
       "ashby:ellipsislabs:256c2ec2-01c8-4ff6-9ad0-b926fe40472d"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "enbridge": {
+   "name": "Enbridge",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "workday:enbridge:/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2"
      ],
      "count": 1
     }
@@ -2095,5 +2108,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T22:33:47Z"
+ "updated_at": "2026-10-22T01:08:06Z"
 }

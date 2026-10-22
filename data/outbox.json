@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "bytedance:bytedance:7698902624003229957",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
+      "workday:invenergyllc:/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1"
+    ],
+    "telegram": [
+      "bytedance:bytedance:7698902624003229957",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
+      "workday:invenergyllc:/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1"
+    ]
   }
 }
