@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-22T01:08:06Z",
- "data_as_of": "2026-10-22T01:08:06Z",
- "rendered_at": "2026-10-22T01:08:06Z",
+ "generated_at": "2026-10-22T06:20:22Z",
+ "data_as_of": "2026-10-22T06:20:22Z",
+ "rendered_at": "2026-10-22T06:20:23Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 969,
+ "count": 967,
  "jobs": [
   {
    "id": "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
@@ -3021,34 +3021,6 @@
    "remote": false
   },
   {
-   "id": "workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450",
-   "company": "Choice Hotels",
-   "title": "Software Engineer 1",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Scottsdale AZ - Technology & Digital Commerce Center",
-   "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450",
-   "posted_at": "2026-10-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "AWS",
-    "Linux",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662",
    "company": "RTX",
    "title": "Software Engineer I, Onsite",
@@ -4950,7 +4922,7 @@
    "season_inferred": true,
    "category": "Hardware",
    "location": "Ann Arbor, MI",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711",
    "posted_at": "2026-10-13T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-17T02:09:43Z",
@@ -13327,30 +13299,6 @@
    ],
    "source": "oracle",
    "h1b_approvals": 234,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26010937",
-   "company": "Emerson Electric",
-   "title": "Software Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Austin, TX, United States",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
-   "posted_at": "2026-09-15",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T04:32:11Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "C++",
-    "Azure"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 8,
    "program": "New Grad",
    "remote": false
   },
