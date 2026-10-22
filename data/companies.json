@@ -597,6 +597,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Adler & Allan",
+    "slug": "AdlerAllan1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Adobe",
     "slug": "adobe",
     "ats": "workday",
@@ -4318,6 +4323,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Boeing",
+    "slug": "boeing",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "tap2"
+  },
+  {
     "name": "Boldyn Networks",
     "slug": "baicommunications",
     "ats": "workday",
@@ -4801,6 +4813,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "search"
+  },
+  {
+    "name": "Brunswick Group",
+    "slug": "brunswickgroup",
+    "ats": "greenhouse"
   },
   {
     "name": "BryceTech",
@@ -6422,6 +6439,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "CLEAResult_External_Careers"
+  },
+  {
+    "name": "Clearstreet",
+    "slug": "clearstreet",
+    "ats": "greenhouse"
   },
   {
     "name": "Clearway Energy",
@@ -9151,6 +9173,11 @@
     "site": "everwise_careers"
   },
   {
+    "name": "EDF Energy",
+    "slug": "EDF-UK",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "EDFT",
     "slug": "edftrading",
     "ats": "workday",
@@ -10243,6 +10270,11 @@
     "name": "Face Reality",
     "slug": "facereality",
     "ats": "rippling"
+  },
+  {
+    "name": "Facilities Management Express",
+    "slug": "fmx",
+    "ats": "workable"
   },
   {
     "name": "FactSet",
@@ -17904,6 +17936,13 @@
     "site": "miele-jobs"
   },
   {
+    "name": "Mii",
+    "slug": "mii",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "universityrecruiting"
+  },
+  {
     "name": "Mikata Health",
     "slug": "mikata",
     "ats": "rippling"
@@ -19093,6 +19132,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Newxel",
+    "slug": "newxel",
+    "ats": "ashby"
+  },
+  {
     "name": "NewYork-Presbyterian",
     "slug": "nyp",
     "ats": "workday",
@@ -20063,6 +20107,11 @@
     "ats": "ashby"
   },
   {
+    "name": "OpenArt AI",
+    "slug": "openart",
+    "ats": "ashby"
+  },
+  {
     "name": "Opendatajobs",
     "slug": "opendatajobs",
     "ats": "workable"
@@ -20977,6 +21026,11 @@
     "site": "PMI"
   },
   {
+    "name": "Petfolk",
+    "slug": "petfolk",
+    "ats": "rippling"
+  },
+  {
     "name": "Petra Security",
     "slug": "petra-security",
     "ats": "ashby"
@@ -21695,6 +21749,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Prime Therapeutics",
+    "slug": "primetherapeutics",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "PrimeTherapeuticsCareers"
+  },
+  {
     "name": "Primer",
     "slug": "primer",
     "ats": "ashby"
@@ -22383,6 +22444,11 @@
     "name": "Ramp",
     "slug": "ramp",
     "ats": "ashby"
+  },
+  {
+    "name": "Ramp",
+    "slug": "ramp",
+    "ats": "greenhouse"
   },
   {
     "name": "Randstad",
@@ -24508,6 +24574,11 @@
     "name": "SIFT",
     "slug": "siftstack",
     "ats": "ashby"
+  },
+  {
+    "name": "Sight Machine",
+    "slug": "sightmachine",
+    "ats": "rippling"
   },
   {
     "name": "SightCall",
@@ -28935,6 +29006,13 @@
     "name": "Verifone",
     "slug": "verifone",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Verily",
+    "slug": "verily",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "verily_careers"
   },
   {
     "name": "Verisign",
