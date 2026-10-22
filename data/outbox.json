@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33",
+      "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
+      "workday:tamus:/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1",
+      "workday:verily:/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330",
+      "greenhouse:yext:8296161"
+    ],
+    "telegram": [
+      "lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33",
+      "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
+      "workday:tamus:/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1",
+      "workday:verily:/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330",
+      "greenhouse:yext:8296161"
+    ]
   }
 }

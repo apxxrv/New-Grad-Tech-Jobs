@@ -5,8 +5,48 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-22T11:56:29Z</updated>
+  <updated>2026-10-22T14:51:32Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:yext:8296161</id>
+    <title>Yext: Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/yext/jobs/8296161"/>
+    <updated>2026-10-22T14:51:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · Python, Java, C++ · H-1B track record: ~20 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33</id>
+    <title>Galatea Associates: Entry-Level Financial Software Consultant</title>
+    <link href="https://jobs.lever.co/galatea-associates/6f2672b3-5b7e-4950-9866-c6ab1b871b33"/>
+    <updated>2026-10-22T14:51:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Somerville, MA</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909</id>
+    <title>RTX: Embedded Software Developer I  (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"/>
+    <updated>2026-10-22T14:51:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tamus:/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1</id>
+    <title>Tarleton State University: AI Solutions Specialist</title>
+    <link href="https://tamus.wd1.myworkdayjobs.com/TARLETON_External/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1"/>
+    <updated>2026-10-22T14:51:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Stephenville, TX · LLMs · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:verily:/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330</id>
+    <title>Verily: Cloud Engineer - NCG</title>
+    <link href="https://verily.wd1.myworkdayjobs.com/verily_careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330"/>
+    <updated>2026-10-22T14:51:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Raleigh, North Carolina · Python, AWS, GCP, Kubernetes, Terraform</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:iqvia:/job/Bangalore-India/AI-Engineer_R1555457</id>
     <title>IQVIA: AI Engineer</title>
@@ -739,9 +779,9 @@
     <id>urn:grad-engine:greenhouse:coherehealth:8015082003</id>
     <title>Cohere Health: Software Engineer I, Integrations</title>
     <link href="https://job-boards.greenhouse.io/coherehealth/jobs/8015082003"/>
-    <updated>2026-10-19T23:19:26Z</updated>
+    <updated>2026-10-22T14:51:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · United States · $94k–$110k/yr · Python, Java · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · United States · $94k–$110k/yr · Python, Java · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:ensco:5456926008</id>
@@ -761,50 +801,10 @@
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420</id>
-    <title>The Boeing Company: Associate Flight Test Data Processing Software Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420"/>
+    <title>Boeing: Associate Flight Test Data Processing Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2"/>
     <updated>2026-10-19T23:19:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · USA - Berkeley, MO · C++, C#, SQL, .NET, Azure · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Detroit-MI-US/AI-Prompt-Engineer_333761</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Detroit-MI-US/AI-Prompt-Engineer_333761"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Detroit, MI, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750</id>
-    <title>CACI: NASA Spacecraft Data Services Web Software Developer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/NASA-Spacecraft-Data-Services-Web-Software-Developer_333750"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Houston, TX, US · C#, SQL, .NET, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Indianapolis-IN-US/AI-Prompt-Engineer_333760"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:caci:/job/Laredo-TX-US/AI-Prompt-Engineer_333762</id>
-    <title>CACI: AI Prompt Engineer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Laredo-TX-US/AI-Prompt-Engineer_333762"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Laredo, TX, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:collegeboard:/job/Remote---USA/Cyber-Threat-Hunter_REQ002976</id>
-    <title>College Board: Cyber Threat Hunter</title>
-    <link href="https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Cyber-Threat-Hunter_REQ002976"/>
-    <updated>2026-10-19T23:19:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Remote - USA · Python, Bash, LLMs, AWS, Kubernetes · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
