@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196",
-      "workday:pae:/job/US-MD-Hanover/Software-Engineer-1_R0173916",
-      "workday:pae:/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729",
-      "workday:xcelenergy:/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1"
-    ],
-    "telegram": [
-      "lever:shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196",
-      "workday:pae:/job/US-MD-Hanover/Software-Engineer-1_R0173916",
-      "workday:pae:/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729",
-      "workday:xcelenergy:/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
