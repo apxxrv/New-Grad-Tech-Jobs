@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-23T07:37:50Z</updated>
+  <updated>2026-10-23T13:03:30Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196</id>
+    <title>Shield AI: Software Engineer I - New Grad (R6052)</title>
+    <link href="https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196"/>
+    <updated>2026-10-23T13:03:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Seattle, Washington · 100,000–150,000 USD/yr · Rust, SQL, React, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729</id>
+    <title>Amentum: Junior DevSecOps Engineer 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729"/>
+    <updated>2026-10-23T13:03:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:xcelenergy:/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1</id>
+    <title>Xcel Energy: Associate Data Scientist - Workforce Analytics</title>
+    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1"/>
+    <updated>2026-10-23T13:03:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Minneapolis, MN, 55401, United States of America; Denver, CO, 80205; Amarillo, TX, 79101 · $120.567k/yr · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:td:/job/London-Ontario/Software-Engineer-I--Java-_R_1511543-1</id>
+    <title>TD Bank: Software Engineer I (Java)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Software-Engineer-I--Java-_R_1511543-1"/>
+    <updated>2026-10-23T13:03:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · London, Ontario, Canada; Toronto, Ontario · Java, C++, C#, SQL, Spring · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3</id>
     <title>Hewlett Packard Enterprise: Test Engineer, HPC &amp; AI Systems - (Early Career)</title>
@@ -219,9 +251,9 @@
     <id>urn:grad-engine:workday:disney:/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2</id>
     <title>The Walt Disney Company: Product Software Engineer I</title>
     <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2"/>
-    <updated>2026-10-22T17:22:43Z</updated>
+    <updated>2026-10-23T13:03:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Glendale, CA, USA · $97.5k–$130.7k/yr · Python, Java, SQL, Scala, AWS</summary>
+    <summary>Not stated · Software · Glendale, CA, USA · $97.5k–$130.7k/yr · Python, Java, SQL, Scala, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Research-Scientist-I_JR-0002361</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Colorado Springs, CO · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:24668</id>
-    <title>Fortinet: Early Careers: Software Development Engineer 🛂</title>
-    <link href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunnyvale, CA, United States · Python, Linux · sponsorship: no-sponsorship · H-1B track record: ~245 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:arrow:/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452</id>
-    <title>Arrow Electronics: Programming Machine Operator I / 4 PM - 12:30 AM</title>
-    <link href="https://arrow.wd1.myworkdayjobs.com/ac/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-NV-Reno, Nevada (Maestro Dr) · H-1B track record: ~106 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:baxter:/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1</id>
-    <title>Baxter International: Research Scientist I 🛂</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Research-Scientist-I_JR-210533-1"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Round Lake, Illinois · $96k–$132k/yr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ghr:/job/Charlotte/Data-Scientist-I_26037331</id>
-    <title>Bank of America: Data Scientist I - Model Governance - Fraud Prevention and Detection</title>
-    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26037331"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Charlotte, United States of America; Newark; Plano; Fort Worth; Jacksonville; Phoenix · Python, SQL</summary>
   </entry>
 </feed>

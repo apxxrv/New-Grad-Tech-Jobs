@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T07:37:50Z",
- "data_as_of": "2026-10-23T07:37:50Z",
- "rendered_at": "2026-10-23T07:37:51Z",
+ "generated_at": "2026-10-23T13:03:30Z",
+ "data_as_of": "2026-10-23T13:03:30Z",
+ "rendered_at": "2026-10-23T13:03:30Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1811,25 +1811,6 @@
    }
   },
   {
-   "company": "Royal Bank of Canada",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-20"
-   }
-  },
-  {
    "company": "Guidehouse",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -2321,6 +2302,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-15"
+   }
+  },
+  {
+   "company": "Royal Bank of Canada",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-20"
    }
   },
   {
