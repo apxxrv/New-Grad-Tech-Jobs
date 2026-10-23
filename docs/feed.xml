@@ -5,8 +5,96 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-23T13:03:30Z</updated>
+  <updated>2026-10-23T18:09:12Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7670374385110599989</id>
+    <title>ByteDance: Research Scientist" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7670374385110599989"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:clera:6a6568a2-070e-428a-9a49-43c5226fc5f9</id>
+    <title>Clera: GTM Associate, RL &amp; Physical AI</title>
+    <link href="https://jobs.ashbyhq.com/clera/6a6568a2-070e-428a-9a49-43c5226fc5f9"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:slihrms:/job/USAZChandler/Construction-Data-Analyst-I_R-167169</id>
+    <title>AtkinsRéalis: Construction Data Analyst I</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZChandler/Construction-Data-Analyst-I_R-167169"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US.AZ.Chandler · $60k–$70k/yr</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:beyondtrust:8300876</id>
+    <title>BeyondTrust: Associate Data Engineer</title>
+    <link href="https://job-boards.greenhouse.io/beyondtrust/jobs/8300876"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote United States · Python, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637</id>
+    <title>General Dynamics Information Technology: Cybersecurity Exercise Planner (Junior) 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:leidos:/job/St-Louis-MO/Junior-Software-Developer_R-00195126</id>
+    <title>Leidos: Junior Software Developer 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Junior-Software-Developer_R-00195126"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · St. Louis, MO · Python, Java, C#, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rsm:/job/Chicago/AI-Machine-Learning-Engineer_JR122103</id>
+    <title>RSM: AI Machine Learning Engineer</title>
+    <link href="https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, United States of America; Orlando; Raleigh; Dallas; Atlanta Metro Area; Denver Downtown; Minneapolis · Python, PyTorch, TensorFlow, scikit-learn, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Security-Engineer-I_01884615</id>
+    <title>RTX: Embedded Software Security Engineer I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Security-Engineer-I_01884615"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 · Python, C++, Rust, MATLAB, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1</id>
+    <title>RTX: Software Engineer I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 · C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/Database-Engineer-I_R26247-1</id>
+    <title>Sierra Space: Database Engineer I</title>
+    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Database-Engineer-I_R26247-1"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Louisville, CO, United States of America; Centennial, CO · SQL, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tamus:/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2</id>
+    <title>Texas A&amp;M University System: Associate Research Scientist: One Health Bioinformatics and Molecular Diagnostics</title>
+    <link href="https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2"/>
+    <updated>2026-10-23T18:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · College Station, TX · Python, Bash, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:lever:shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196</id>
     <title>Shield AI: Software Engineer I - New Grad (R6052)</title>
@@ -619,9 +707,9 @@
     <id>urn:grad-engine:workday:guidewire:/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1</id>
     <title>Guidewire: Junior AI Engineer- Applied AI</title>
     <link href="https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1"/>
-    <updated>2026-10-21T19:11:28Z</updated>
+    <updated>2026-10-23T18:09:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - Remote · LLMs</summary>
+    <summary>Not stated · Data &amp; ML/AI · United States - Remote · LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582</id>
@@ -718,93 +806,5 @@
     <updated>2026-10-21T14:52:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Remote - USA · TypeScript, JavaScript, React, Node.js, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:expedia:/job/USA---Missouri---Springfield/Software-Developer-I_R-110635</id>
-    <title>Expedia Group: Software Developer I</title>
-    <link href="https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Missouri - Springfield · Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922"/>
-    <updated>2026-10-21T14:52:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, C++, C#, .NET, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8</id>
-    <title>Mach9: Software Engineer - 3D Graphics</title>
-    <link href="https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8"/>
-    <updated>2026-10-21T09:50:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · $130K – $180K • Offers Equity · TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nvidia:/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405</id>
-    <title>NVIDIA: System Software Engineer, Tegra Security Software</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405"/>
-    <updated>2026-10-21T09:50:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · UK, Bristol, United Kingdom; UK, Cambridge · Python, Rust, Linux · status: closed · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006</id>
-    <title>Northrop Grumman: Associate Software Engineer 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006"/>
-    <updated>2026-10-21T04:51:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States-Nebraska-Bellevue · Java, SQL, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350</id>
-    <title>NVIDIA: Software Engineer, Agent Performance Modeling - New College Grad 2026</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"/>
-    <updated>2026-10-21T04:51:31Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · US, CA, Santa Clara · LLMs · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:eightfold:microsoft:1970393557043616</id>
-    <title>Microsoft: Software Engineering IC2</title>
-    <link href="https://apply.careers.microsoft.com/careers/job/1970393557043616"/>
-    <updated>2026-10-21T00:23:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States, Washington, Redmond · $85.4k–$168.1k/yr · Python, Java, C++, C#, JavaScript · H-1B track record: ~9.3k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:roboforce:5459229008</id>
-    <title>RoboForce: AI Resident</title>
-    <link href="https://job-boards.greenhouse.io/roboforce/jobs/5459229008"/>
-    <updated>2026-10-21T00:23:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8903848002</id>
-    <title>SpaceX: Space Operations Training Engineer (Full Stack Software)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $130k/yr · Python, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trace3:8304310</id>
-    <title>Trace3: Software Engineer (GAITS - Analyst Team) (26-386)</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304310"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trace3:8304333</id>
-    <title>Trace3: Software Engineer / Scrum Master - PLNR (26-394)</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8304333"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Colorado Springs, CO · Java</summary>
   </entry>
 </feed>

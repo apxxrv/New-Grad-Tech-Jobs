@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "bytedance:bytedance:7670374385110599989",
+      "ashby:clera:6a6568a2-070e-428a-9a49-43c5226fc5f9",
+      "ashby:jerry.ai:705c618f-72b7-455e-a88b-2da217141de8",
+      "workday:slihrms:/job/USAZChandler/Construction-Data-Analyst-I_R-167169",
+      "greenhouse:beyondtrust:8300876",
+      "workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637",
+      "workday:leidos:/job/St-Louis-MO/Junior-Software-Developer_R-00195126",
+      "workday:rsm:/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
+      "workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Security-Engineer-I_01884615",
+      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
+      "workday:sierraspace:/job/Louisville-CO/Database-Engineer-I_R26247-1",
+      "workday:tamus:/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2"
+    ],
+    "telegram": [
+      "bytedance:bytedance:7670374385110599989",
+      "ashby:clera:6a6568a2-070e-428a-9a49-43c5226fc5f9",
+      "ashby:jerry.ai:705c618f-72b7-455e-a88b-2da217141de8",
+      "workday:slihrms:/job/USAZChandler/Construction-Data-Analyst-I_R-167169",
+      "greenhouse:beyondtrust:8300876",
+      "workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637",
+      "workday:leidos:/job/St-Louis-MO/Junior-Software-Developer_R-00195126",
+      "workday:rsm:/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
+      "workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Security-Engineer-I_01884615",
+      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
+      "workday:sierraspace:/job/Louisville-CO/Database-Engineer-I_R26247-1",
+      "workday:tamus:/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2"
+    ]
   }
 }
