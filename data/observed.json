@@ -540,6 +540,18 @@
     }
    }
   },
+  "citi": {
+   "name": "Citi",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:citi:/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482"
+     ],
+     "count": 1
+    }
+   }
+  },
   "color": {
    "name": "Color",
    "cycles": {
@@ -2161,5 +2173,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T18:09:12Z"
+ "updated_at": "2026-10-23T21:38:48Z"
 }
