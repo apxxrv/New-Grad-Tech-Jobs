@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:cat:/job/Peoria-Illinois/Data-Scientist-I--Lens-Customer-Analytics_R0000400640",
-      "workday:citi:/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482",
-      "workday:exelixis:/job/Alameda-CA/Engineer-I---DevSecOps--Ai-Security-_JR7119",
-      "workday:extraspace:/job/Salt-Lake-City-UT-United-States/SEO---AI-Search-Specialist_R-82568-1",
-      "workday:hpinc:/job/Tulsa-OK-USA/Cybersecurity-Analyst-I_REQ-2991",
-      "smartrecruiters:ServiceNow:744000157571919",
-      "workday:thermofisher:/job/Marietta-Ohio-USA/Embedded-Controls-Engineer_R-01364234"
-    ],
-    "telegram": [
-      "workday:cat:/job/Peoria-Illinois/Data-Scientist-I--Lens-Customer-Analytics_R0000400640",
-      "workday:citi:/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482",
-      "workday:exelixis:/job/Alameda-CA/Engineer-I---DevSecOps--Ai-Security-_JR7119",
-      "workday:extraspace:/job/Salt-Lake-City-UT-United-States/SEO---AI-Search-Specialist_R-82568-1",
-      "workday:hpinc:/job/Tulsa-OK-USA/Cybersecurity-Analyst-I_REQ-2991",
-      "smartrecruiters:ServiceNow:744000157571919",
-      "workday:thermofisher:/job/Marietta-Ohio-USA/Embedded-Controls-Engineer_R-01364234"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
