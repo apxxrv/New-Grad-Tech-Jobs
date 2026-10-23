@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-23T02:10:55Z</updated>
+  <updated>2026-10-23T07:37:50Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3</id>
+    <title>Hewlett Packard Enterprise: Test Engineer, HPC &amp; AI Systems - (Early Career)</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3"/>
+    <updated>2026-10-23T07:37:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Spring, Texas, United States of America · HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:reliable-robotics:9c5a0c28-c147-4331-ad9d-cc840e33d70e</id>
     <title>Reliable Robotics: Embedded Software Engineer</title>
@@ -83,49 +91,49 @@
     <id>urn:grad-engine:lever:hive:2c362789-c417-4d8c-bef5-d5fe1a5969ac</id>
     <title>Hive: Systems Engineer / DevOps</title>
     <link href="https://jobs.lever.co/hive/2c362789-c417-4d8c-bef5-d5fe1a5969ac"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · Python, Ruby, Bash, LLMs, AWS</summary>
+    <summary>Not stated · Software · San Francisco · Python, Ruby, Bash, LLMs, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:4947a174-d218-4c83-be26-89b1e889dc16</id>
     <title>Hive: Software Engineer - Frontend</title>
     <link href="https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · JavaScript, LLMs, React, HTML/CSS</summary>
+    <summary>Not stated · Software · San Francisco · JavaScript, LLMs, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:55154d4d-bd3e-4f83-9ec3-982da1e8da42</id>
     <title>Hive: Forward Deployed Software Engineer</title>
     <link href="https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · Python, TypeScript, JavaScript, LLMs</summary>
+    <summary>Not stated · Software · San Francisco · Python, TypeScript, JavaScript, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:818e2024-c973-4cf7-84fd-7b14bd3a24f8</id>
     <title>Hive: Software Engineer - Frontend</title>
     <link href="https://jobs.lever.co/hive/818e2024-c973-4cf7-84fd-7b14bd3a24f8"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle · JavaScript, LLMs, React, HTML/CSS</summary>
+    <summary>Not stated · Software · Seattle · JavaScript, LLMs, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:8977b31f-787d-4b17-ab00-5825764774fe</id>
     <title>Hive: Machine Learning Engineer</title>
     <link href="https://jobs.lever.co/hive/8977b31f-787d-4b17-ab00-5825764774fe"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle · Python, C++, SQL, Scala, Bash</summary>
+    <summary>Not stated · Data &amp; ML/AI · Seattle · Python, C++, SQL, Scala, Bash · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:b60b0f85-8aed-4751-9f2c-5b92060c64a2</id>
     <title>Hive: Machine Learning Engineer</title>
     <link href="https://jobs.lever.co/hive/b60b0f85-8aed-4751-9f2c-5b92060c64a2"/>
-    <updated>2026-10-22T20:46:48Z</updated>
+    <updated>2026-10-23T07:37:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco · Python, C++, SQL, Scala, Bash</summary>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco · Python, C++, SQL, Scala, Bash · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workable:the-anywhere-company:4010622FEF</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-20T21:48:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Charlotte, United States of America; Newark; Plano; Fort Worth; Jacksonville; Phoenix · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ghr:/job/Jacksonville/Client-Quantitative-Analyst-I_26034513</id>
-    <title>Bank of America: Client Quantitative Analyst I</title>
-    <link href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jacksonville/Client-Quantitative-Analyst-I_26034513"/>
-    <updated>2026-10-20T21:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Jacksonville, United States of America; Plano; Charlotte; Fort Worth · Python, SQL, Scala, Hadoop, Tableau</summary>
   </entry>
 </feed>
