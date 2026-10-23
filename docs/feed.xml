@@ -5,16 +5,8 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-22T23:48:38Z</updated>
+  <updated>2026-10-23T02:10:55Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
-  <entry>
-    <id>urn:grad-engine:lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7</id>
-    <title>Palantir: Forward Deployed Software Engineer, New Grad - Warp Speed 🇺🇸</title>
-    <link href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York, NY · $135k–$145k/yr · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:grad-engine:ashby:reliable-robotics:9c5a0c28-c147-4331-ad9d-cc840e33d70e</id>
     <title>Reliable Robotics: Embedded Software Engineer</title>
@@ -22,6 +14,22 @@
     <updated>2026-10-22T23:48:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mountain View, CA · $145K – $175K • Offers Equity · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:trueanomalyinc:5273017007</id>
+    <title>True Anomaly: Software Engineer I, QA (New Grad) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"/>
+    <updated>2026-10-22T23:48:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Denver, CO; Long Beach, CA · Git, Selenium · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7</id>
+    <title>Palantir: Forward Deployed Software Engineer, New Grad - Warp Speed 🇺🇸</title>
+    <link href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"/>
+    <updated>2026-10-22T23:48:38Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · New York, NY · $135k–$145k/yr · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:emdz.fa.us2.oraclecloud.com:6320</id>
@@ -40,6 +48,14 @@
     <summary>Class of 2027 · Software · McLean, VA, United States of America; Charleston, SC; Honolulu, HI; Panama City, FL; Huntsville, AL; Atlanta, GA; San Diego, CA; Annapolis Junction, MD; El Segundo, CA; Rome, NY; Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1</id>
+    <title>The Boeing Company: Entry-Level Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1"/>
+    <updated>2026-10-22T23:48:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Maryland Heights, MO · C#, JavaScript, SQL, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783</id>
     <title>Guidehouse: Technical Associate Application Developer - Campus 2027</title>
     <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"/>
@@ -54,22 +70,6 @@
     <updated>2026-10-22T23:48:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States of America, Washington, Liberty Lake · AWS, Azure, Docker, Linux, Git · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1</id>
-    <title>The Boeing Company: Entry-Level Software Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Maryland Heights, MO · C#, JavaScript, SQL, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:trueanomalyinc:5273017007</id>
-    <title>True Anomaly: Software Engineer I, QA (New Grad) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Denver, CO; Long Beach, CA · Git, Selenium · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:rendezvousrobotics:4464270009</id>
