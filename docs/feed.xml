@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-23T21:38:48Z</updated>
+  <updated>2026-10-24T00:16:40Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:mercury:6233910004</id>
+    <title>Mercury: Frontend Engineer - Design Systems</title>
+    <link href="https://job-boards.greenhouse.io/mercury/jobs/6233910004"/>
+    <updated>2026-10-24T00:16:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States · TypeScript, React, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:ServiceNow:744000157571919</id>
+    <title>ServiceNow: Associate Software Engineer</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000157571919"/>
+    <updated>2026-10-23T21:38:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Santa Clara, CALIFORNIA, United States · Java, JavaScript, HTML/CSS, Linux, PostgreSQL · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:cat:/job/Peoria-Illinois/Data-Scientist-I--Lens-Customer-Analytics_R0000400640</id>
     <title>Caterpillar Inc.: Data Scientist I, Lens Customer Analytics 🛂</title>
@@ -46,14 +62,6 @@
     <updated>2026-10-23T21:38:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Tulsa-OK-USA · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:ServiceNow:744000157571919</id>
-    <title>ServiceNow: Associate Software Engineer</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000157571919"/>
-    <updated>2026-10-23T21:38:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara, CALIFORNIA, United States · Java, JavaScript, HTML/CSS, Linux, PostgreSQL · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:thermofisher:/job/Marietta-Ohio-USA/Embedded-Controls-Engineer_R-01364234</id>
@@ -99,9 +107,9 @@
     <id>urn:grad-engine:workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637</id>
     <title>General Dynamics Information Technology: Cybersecurity Exercise Planner (Junior) 🇺🇸</title>
     <link href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637"/>
-    <updated>2026-10-23T18:09:11Z</updated>
+    <updated>2026-10-24T00:16:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1</id>
@@ -245,7 +253,7 @@
     <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1"/>
     <updated>2026-10-22T23:48:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Maryland Heights, MO · C#, JavaScript, SQL, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Software · USA - Maryland Heights, MO · C#, JavaScript, SQL, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783</id>
@@ -731,9 +739,9 @@
     <id>urn:grad-engine:workday:etsy:/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1</id>
     <title>Etsy: Software Engineer I, Marketplace Makers</title>
     <link href="https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1"/>
-    <updated>2026-10-21T19:11:28Z</updated>
+    <updated>2026-10-24T00:16:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Brooklyn, New York · Python, Java, TypeScript, JavaScript, Ruby · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Brooklyn, New York · Python, Java, TypeScript, JavaScript, Ruby · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-23T21:38:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · ATLANTA, GA, USA · Python, Java, C#, JavaScript, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nordstrom:/job/Seattle-WA/Engineer-1--Cloud-Engineering--Hybrid---Seattle--WA-_R-890088</id>
-    <title>Nordstrom: Engineer 1: Cloud Engineering (Hybrid - Seattle, WA)</title>
-    <link href="https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Cloud-Engineering--Hybrid---Seattle--WA-_R-890088"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, WA · $162.5k/yr · Python, AWS, GCP, Azure, Terraform · H-1B track record: ~335 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

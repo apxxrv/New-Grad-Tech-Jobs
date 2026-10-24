@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:mercury:6233910004",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419-2"
+    ],
+    "telegram": [
+      "greenhouse:mercury:6233910004",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+      "workday:boeing:/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419-2"
+    ]
   }
 }
