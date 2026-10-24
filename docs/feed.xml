@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-24T09:22:44Z</updated>
+  <updated>2026-10-24T13:33:56Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</id>
+    <title>Fuel Cycle: Associate AI Engineer</title>
+    <link href="https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d"/>
+    <updated>2026-10-24T13:33:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles Office · $90K – $110K · Python, SQL, LLMs, Django, Flask</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:caci:/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049</id>
     <title>CACI: Software Safety Developer/Analyst 🇺🇸</title>
@@ -275,9 +283,9 @@
     <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783</id>
     <title>Guidehouse: Technical Associate Application Developer - Campus 2027</title>
     <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"/>
-    <updated>2026-10-22T23:48:38Z</updated>
+    <updated>2026-10-24T13:33:56Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · US - IL, Chicago · Python, JavaScript, SQL, React, Next.js · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Software · US - IL, Chicago · Python, JavaScript, SQL, React, Next.js · status: closed · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Software-Quality-Assurance-Engineer_JR102923-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-23T18:09:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States - Remote · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582</id>
-    <title>KLA: AI Engineer (Computer Vision/Signal Processing)</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $231.7k/yr · Computer Vision, Python, C++, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

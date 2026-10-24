@@ -1,6 +1,10 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d"
+    ],
+    "telegram": [
+      "ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d"
+    ]
   }
 }

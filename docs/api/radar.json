@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T09:22:44Z",
- "data_as_of": "2026-10-24T09:22:44Z",
- "rendered_at": "2026-10-24T09:22:45Z",
+ "generated_at": "2026-10-24T13:33:56Z",
+ "data_as_of": "2026-10-24T13:33:56Z",
+ "rendered_at": "2026-10-24T13:33:56Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1792,25 +1792,6 @@
    }
   },
   {
-   "company": "Guidehouse",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-22",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-22"
-   }
-  },
-  {
    "company": "Palantir",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -2359,6 +2340,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "Guidehouse",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-22"
    }
   }
  ],
