@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-10-24T04:40:29Z",
- "data_as_of": "2026-10-24T04:40:29Z",
- "rendered_at": "2026-10-24T04:40:29Z",
+ "generated_at": "2026-10-24T09:22:44Z",
+ "data_as_of": "2026-10-24T09:22:44Z",
+ "rendered_at": "2026-10-24T09:22:45Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 986,
+ "count": 983,
  "jobs": [
+  {
+   "id": "workday:caci:/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049",
+   "company": "CACI",
+   "title": "Software Safety Developer/Analyst",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Lorton, VA, US",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-24T09:22:44Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "workday:globalhr:/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
    "company": "RTX",
@@ -9880,29 +9905,6 @@
    "remote": false
   },
   {
-   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26010922",
-   "company": "Emerson Electric",
-   "title": "Software Engineer - AI Enablement & Engineering Productivity",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Austin, TX, United States",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
-   "posted_at": "2026-10-01",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T04:32:11Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Git"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 8,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "ashby:mach9:622a014b-ff77-45bd-9caa-61a6506884ed",
    "company": "Mach9",
    "title": "ML Engineer, Product",
@@ -11758,53 +11760,6 @@
    "remote": false
   },
   {
-   "id": "workday:draftkings:/job/Boston-MA/Software-Engineer--iOS_JR14809-2",
-   "company": "DraftKings",
-   "title": "Software Engineer, iOS",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Boston, MA, United States of America; Remote - US",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer--iOS_JR14809-2",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Swift"
-   ],
-   "source": "workday",
-   "h1b_approvals": 52,
-   "program": "New Grad",
-   "remote": true
-  },
-  {
-   "id": "workday:kla:/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468",
-   "company": "KLA",
-   "title": "Software Engineer (Metrology Systems)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": "$168.4k/yr",
-   "skills": [
-    "C++",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 369,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "workday:travelers:/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
    "company": "The Travelers Companies",
    "title": "Software Engineer I - MERN, AWS",
@@ -12000,31 +11955,6 @@
    "source": "workday",
    "h1b_approvals": 79,
    "program": "Junior / Associate",
-   "remote": false
-  },
-  {
-   "id": "workday:relx:/job/Alpharetta-GA/Software-Engineer-1_R117973-1",
-   "company": "RELX",
-   "title": "Software Engineer 1",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Alpharetta, GA",
-   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Spring"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
    "remote": false
   },
   {

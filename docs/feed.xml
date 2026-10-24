@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-24T04:40:29Z</updated>
+  <updated>2026-10-24T09:22:44Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049</id>
+    <title>CACI: Software Safety Developer/Analyst 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049"/>
+    <updated>2026-10-24T09:22:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lorton, VA, US · Python, C++, SQL · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521</id>
     <title>RTX: Engineer I, Software Engineer - Test Engineering (Onsite) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-21T19:11:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $231.7k/yr · Computer Vision, Python, C++, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:motorolasolutions:/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1</id>
-    <title>Motorola: Embedded Software Engineer 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1"/>
-    <updated>2026-10-23T21:38:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Allen, TX (TX139) · C++, Linux · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
