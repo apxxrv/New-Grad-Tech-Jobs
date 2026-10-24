@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-24T00:16:40Z</updated>
+  <updated>2026-10-24T04:40:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521</id>
+    <title>RTX: Engineer I, Software Engineer - Test Engineering (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521"/>
+    <updated>2026-10-24T04:40:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:mercury:6233910004</id>
     <title>Mercury: Frontend Engineer - Design Systems</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-23T21:38:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Allen, TX (TX139) · C++, Linux · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ncr:/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033</id>
-    <title>NCR Voyix: Software Engineer – NCR Voyix for Department and Specialty Retail</title>
-    <link href="https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033"/>
-    <updated>2026-10-23T21:38:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · ATLANTA, GA, USA · Python, Java, C#, JavaScript, AWS · status: closed</summary>
   </entry>
 </feed>
