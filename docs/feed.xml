@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-24T13:33:56Z</updated>
+  <updated>2026-10-24T17:11:31Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</id>
@@ -488,14 +488,6 @@
     <summary>Not stated · Data &amp; ML/AI · Chicago, Illinois · $112.5k/yr · Python, Java, C++, SQL · H-1B track record: ~274 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:yext:8296161</id>
-    <title>Yext: Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/yext/jobs/8296161"/>
-    <updated>2026-10-22T14:51:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · Python, Java, C++ · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33</id>
     <title>Galatea Associates: Entry-Level Financial Software Consultant</title>
     <link href="https://jobs.lever.co/galatea-associates/6f2672b3-5b7e-4950-9866-c6ab1b871b33"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-23T18:09:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States - Remote · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582</id>
+    <title>KLA: AI Engineer (Computer Vision/Signal Processing)</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582"/>
+    <updated>2026-10-21T19:11:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $231.7k/yr · Computer Vision, Python, C++, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
