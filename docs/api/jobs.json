@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T17:11:31Z",
- "data_as_of": "2026-10-24T17:11:31Z",
- "rendered_at": "2026-10-24T17:11:32Z",
+ "generated_at": "2026-10-24T19:39:13Z",
+ "data_as_of": "2026-10-24T19:39:13Z",
+ "rendered_at": "2026-10-24T19:39:13Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 981,
+ "count": 979,
  "jobs": [
   {
    "id": "ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d",
@@ -9228,7 +9228,7 @@
    "season_inferred": true,
    "category": "Software",
    "location": "Ann Arbor, MI",
-   "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-2",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-3",
    "posted_at": "2026-10-05T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-17T02:09:43Z",
@@ -11259,29 +11259,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:wgu:/job/Salt-Lake-City-UT/Systems-Engineer---Infrastructure_JR-026187",
-   "company": "Western Governors University",
-   "title": "Sharepoint and Power Platform Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Salt Lake City, UT",
-   "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Systems-Engineer---Infrastructure_JR-026187",
-   "posted_at": "2026-09-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Azure"
-   ],
-   "source": "workday",
-   "h1b_approvals": 32,
    "program": "New Grad",
    "remote": false
   },
@@ -22871,30 +22848,6 @@
    ],
    "source": "bytedance",
    "h1b_approvals": 442,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:3redpartners:8624128002",
-   "company": "3RedPartners",
-   "title": "Graduate Quantitative Researcher (2027 Incoming Graduate, Full-Time)",
-   "season": "Class of 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Quant",
-   "location": "Chicago",
-   "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8624128002",
-   "posted_at": "2026-07-17T12:13:30-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "New Grad",
    "remote": false
   },
