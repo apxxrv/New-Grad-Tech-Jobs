@@ -959,9 +959,10 @@
     "Class of 2027": {
      "first_posted": "2026-10-22",
      "role_ids": [
-      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"
+      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1323,10 +1324,11 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2173,5 +2175,5 @@
    }
   }
  },
- "updated_at": "2026-10-25T17:59:55Z"
+ "updated_at": "2026-10-25T21:02:17Z"
 }

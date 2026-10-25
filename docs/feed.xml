@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-25T17:59:55Z</updated>
+  <updated>2026-10-25T21:02:17Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899</id>
+    <title>Guidehouse: IT Cybersecurity Compliance Technical Associate- Campus 2027</title>
+    <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899"/>
+    <updated>2026-10-25T21:02:17Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · US - VA, McLean, United States of America; US - Remote (Any location); GH Office: Chicago, IL (Green St); US - VA, Arlington · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541</id>
+    <title>Northrop Grumman: 2027 Associate Embedded Software Engineer - Morrisville NC 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541"/>
+    <updated>2026-10-25T21:02:17Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-North Carolina-Morrisville · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</id>
     <title>Fuel Cycle: Associate AI Engineer</title>
@@ -283,9 +299,9 @@
     <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783</id>
     <title>Guidehouse: Technical Associate Application Developer - Campus 2027</title>
     <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"/>
-    <updated>2026-10-24T13:33:56Z</updated>
+    <updated>2026-10-22T23:48:38Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · US - IL, Chicago · Python, JavaScript, SQL, React, Next.js · status: closed · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Software · US - IL, Chicago · Python, JavaScript, SQL, React, Next.js · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Software-Quality-Assurance-Engineer_JR102923-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-21T19:11:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-MD-FULTON-8170 ~ 8170 Maple Lawn Blvd ~ MAPLE LAWN, Ste 190, 200 &amp; 300 · Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:guidewire:/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1</id>
-    <title>Guidewire: Junior AI Engineer- Applied AI</title>
-    <link href="https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1"/>
-    <updated>2026-10-23T18:09:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - Remote · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582</id>
-    <title>KLA: AI Engineer (Computer Vision/Signal Processing)</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $231.7k/yr · Computer Vision, Python, C++, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

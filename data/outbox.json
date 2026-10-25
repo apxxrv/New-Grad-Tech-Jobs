@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899",
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541"
+    ],
+    "telegram": [
+      "workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899",
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541"
+    ]
   }
 }
