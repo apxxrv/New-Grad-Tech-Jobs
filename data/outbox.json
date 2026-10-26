@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
+      "workday:globalhr:/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I_R-51276-1",
+      "workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271",
+      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
+      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988"
+    ],
+    "telegram": [
+      "workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
+      "workday:globalhr:/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I_R-51276-1",
+      "workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271",
+      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
+      "workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988"
+    ]
   }
 }

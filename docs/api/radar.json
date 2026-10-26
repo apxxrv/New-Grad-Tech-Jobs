@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T07:07:56Z",
- "data_as_of": "2026-10-26T07:07:56Z",
- "rendered_at": "2026-10-26T07:07:56Z",
+ "generated_at": "2026-10-26T14:24:12Z",
+ "data_as_of": "2026-10-26T14:24:12Z",
+ "rendered_at": "2026-10-26T14:24:12Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1792,6 +1792,25 @@
    }
   },
   {
+   "company": "Royal Bank of Canada",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-20"
+   }
+  },
+  {
    "company": "Guidehouse",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -2321,25 +2340,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-15"
-   }
-  },
-  {
-   "company": "Royal Bank of Canada",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -6,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-20"
    }
   },
   {

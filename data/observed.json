@@ -1633,9 +1633,10 @@
     "Class of 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
+      "workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
       "workday:rbc:/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Summer--Technology---Operations--Enterprise-Logging-Team--Junior-Cloud-Developer_R-0000188114"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2175,5 +2176,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T07:07:56Z"
+ "updated_at": "2026-10-26T14:24:12Z"
 }

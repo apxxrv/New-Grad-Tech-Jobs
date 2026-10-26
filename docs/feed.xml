@@ -5,8 +5,88 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-26T07:07:56Z</updated>
+  <updated>2026-10-26T14:24:12Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2</id>
+    <title>Royal Bank of Canada: Data Engineer, RBC Amplify 2027, Vancouver</title>
+    <link href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · 410 GEORGIA ST W, FLOOR 3:VANCOUVER · LLMs, GraphQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 · Python, Java, C++, C#, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I_R-51276-1</id>
+    <title>The Travelers Companies: Software Engineer I 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271</id>
+    <title>The Travelers Companies: Engineering Development Program (EDP) - Software Engineering 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · SQL, React, Next.js, GraphQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910</id>
+    <title>The Travelers Companies: Data Engineer I (AWS, Python, GenAI) 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; TX - Richardson; MN - St. Paul · Python, LLMs, AWS, Azure, Spark · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134</id>
+    <title>The Travelers Companies: Software Engineer I - Elixir, Python, AWS 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; MN - St. Paul; MD - Hunt Valley · Python, AWS, JavaScript, React, PostgreSQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525</id>
+    <title>The Travelers Companies: Data Engineer I (AWS, Databricks) 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; MN - St. Paul · AWS, Databricks, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988</id>
+    <title>The Travelers Companies: Software Engineer I (MERN, AWS) 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; MN - St. Paul · AWS, JavaScript, Kubernetes, Docker, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mmc:/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1</id>
+    <title>Marsh: Oliver Wyman - Digital - AI Product Owner - Dubai/Abu Dhabi</title>
+    <link href="https://mmc.wd1.myworkdayjobs.com/mmc/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1"/>
+    <updated>2026-10-26T14:24:10Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Dubai - Media, United Arab Emirates; Abu Dhabi - Nation Towers · Python, TypeScript, SQL, LLMs, AWS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:equifax:/job/IND-Trivandrum-Equifax-Analytics-PEC/Software-Engineer-I_J00179300-1</id>
+    <title>Equifax: Software Engineer I</title>
+    <link href="https://equifax.wd5.myworkdayjobs.com/external/job/IND-Trivandrum-Equifax-Analytics-PEC/Software-Engineer-I_J00179300-1"/>
+    <updated>2026-10-26T14:24:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · IND-Trivandrum-Equifax Analytics-PEC, India; IND-Pune-Equifax Analytics-PEC · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~378 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:hpe:/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2</id>
     <title>Hewlett Packard Enterprise: Graduate Software Engineer</title>
@@ -683,9 +763,9 @@
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1</id>
     <title>RTX: Software Engineer I -  Test Solutions - Onsite 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"/>
-    <updated>2026-10-21T22:33:47Z</updated>
+    <updated>2026-10-26T14:24:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, C# · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, C# · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684</id>
@@ -726,85 +806,5 @@
     <updated>2026-10-21T19:11:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · Norwalk, Connecticut, United States · Python, Java, C#, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pallet:5265290007</id>
-    <title>Pallet: Associate Deployment Strategist (AI/ML Product)</title>
-    <link href="https://job-boards.greenhouse.io/pallet/jobs/5265290007"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco or New York City · SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8694609002</id>
-    <title>SpaceX: Data Engineer (Starlink Mobile)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Redmond, WA · Python, C++, SQL, Kubernetes, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:systemstechnologyresearch:4723623006</id>
-    <title>STR: DevSecOps Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723623006"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, VA · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:tanium:8232146</id>
-    <title>Tanium: AI Research Scientist 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/tanium/jobs/8232146"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) · Python, PyTorch, TensorFlow, scikit-learn, Pandas · sponsorship: citizens-only · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:chewy:/job/Plantation-FL/Software-Engineer-I_R31182-1</id>
-    <title>Chewy: Software Engineer I</title>
-    <link href="https://chewy.wd5.myworkdayjobs.com/External/job/Plantation-FL/Software-Engineer-I_R31182-1"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plantation, FL, United States of America; Boston, MA · Java, SQL, React, Vue, Spring · status: closed · H-1B track record: ~362 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:comscore:/job/OR---Portland-Airport/Software-Engineer_REQ1765</id>
-    <title>Comscore: Software Engineer</title>
-    <link href="https://comscore.wd5.myworkdayjobs.com/External/job/OR---Portland-Airport/Software-Engineer_REQ1765"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · OR - Portland (Airport) · H-1B track record: ~45 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:etsy:/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1</id>
-    <title>Etsy: Software Engineer I, Marketplace Makers</title>
-    <link href="https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1"/>
-    <updated>2026-10-24T00:16:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brooklyn, New York · Python, Java, TypeScript, JavaScript, Ruby · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565</id>
-    <title>RTX: HWIL Software Engineer I 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 · C++, C# · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030</id>
-    <title>RTX: Software Engineer/Developer I  (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 · Python, Java, C++, MATLAB, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord · Python, C++, Spring, Linux, Kafka · sponsorship: citizens-only</summary>
   </entry>
 </feed>
