@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-26T01:51:10Z</updated>
+  <updated>2026-10-26T07:07:56Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:hpe:/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2</id>
+    <title>Hewlett Packard Enterprise: Graduate Software Engineer</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2"/>
+    <updated>2026-10-26T07:07:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bengaluru, Karnātaka, India; Kolkata, West Bengal · status: closed · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899</id>
     <title>Guidehouse: IT Cybersecurity Compliance Technical Associate- Campus 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-21T19:11:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord · Python, C++, Spring, Linux, Kafka · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-MD-FULTON-8170 ~ 8170 Maple Lawn Blvd ~ MAPLE LAWN, Ste 190, 200 &amp; 300 · Java, C++ · sponsorship: citizens-only</summary>
   </entry>
 </feed>
