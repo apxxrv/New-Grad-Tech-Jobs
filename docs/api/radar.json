@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T14:24:12Z",
- "data_as_of": "2026-10-26T14:24:12Z",
- "rendered_at": "2026-10-26T14:24:12Z",
+ "generated_at": "2026-10-26T20:11:08Z",
+ "data_as_of": "2026-10-26T20:11:08Z",
+ "rendered_at": "2026-10-26T20:11:08Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1146,25 +1146,6 @@
    }
   },
   {
-   "company": "Assured Guaranty",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002?gh_jid=8827458002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
    "company": "Astranis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -2226,6 +2207,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-17"
+   }
+  },
+  {
+   "company": "Assured Guaranty",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-21"
    }
   },
   {

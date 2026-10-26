@@ -5,15 +5,151 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-26T14:24:12Z</updated>
+  <updated>2026-10-26T20:11:08Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2</id>
-    <title>Royal Bank of Canada: Data Engineer, RBC Amplify 2027, Vancouver</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · 410 GEORGIA ST W, FLOOR 3:VANCOUVER · LLMs, GraphQL</summary>
+    <id>urn:grad-engine:ashby:clera:4841b9ad-eb7f-42df-84a0-077cb6084ca1</id>
+    <title>Clera: AI/ML Engineer 🛂</title>
+    <link href="https://jobs.ashbyhq.com/clera/4841b9ad-eb7f-42df-84a0-077cb6084ca1"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco · $120k–$200k/yr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771</id>
+    <title>Amentum: Entry Level Software Engineer - SECRET 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-VA-Dahlgren · Java, C++, C#, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603</id>
+    <title>Amentum: Junior Web Developer</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-VA-Dahlgren · JavaScript, SQL, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cibc:/job/New-York-NY/Analyst--Project-Finance---Infrastructure--Corporate-Banking_2621997</id>
+    <title>CIBC: Analyst, Project Finance &amp; Infrastructure, Corporate Banking</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/Analyst--Project-Finance---Infrastructure--Corporate-Banking_2621997"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ciena:/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1</id>
+    <title>Ciena: Software Engineer (Security) - New Grad</title>
+    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Atlanta · Python, C++, Linux, Git · H-1B track record: ~43 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230639</id>
+    <title>General Dynamics Information Technology: Cybersecurity Exercise Planner (Junior) 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230639"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Research-Scientist-I--Temporary-_JR-0002368</id>
+    <title>Health Research: Research Scientist I (Temporary) 🛂</title>
+    <link href="https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I--Temporary-_JR-0002368"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Albany, NY · $69.764k/yr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928</id>
+    <title>Northrop Grumman: Associate Cloud Software Engineer (Level 1) 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States-California-Redondo Beach · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599</id>
+    <title>Northrop Grumman: Associate Software Engineer / Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States-Alabama-Huntsville · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362</id>
+    <title>RTX: Embedded Security Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Security · US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234</id>
+    <title>RTX: Embedded Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:flir:/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188</id>
+    <title>Teledyne: Jr. Software Engineer 🇺🇸</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US - Huntsville, AL · Java, C++, C#, SQL, .NET · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:flir:/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189</id>
+    <title>Teledyne: Associate Software Engineer 🇺🇸</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US - Huntsville, AL · C#, SQL, .NET, AWS, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1</id>
+    <title>The Boeing Company: Entry-level Software Engineer–Developers 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - El Segundo, CA · Python, Java, C++, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks-_R-53262</id>
+    <title>The Travelers Companies: Data Engineer I (AWS, Databricks) 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks-_R-53262"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · GA - Atlanta · AWS, Databricks, SQL, Snowflake · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:toyota:/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071</id>
+    <title>Toyota: Software Engineer (Early Career Professional)</title>
+    <link href="https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071"/>
+    <updated>2026-10-26T20:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plano, Texas · Python, Java, TypeScript, AWS, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ferrovial:/job/Port-Colborne-ON/Webber---Seasonal-Equipment-Operator-Call-In---Port-Colborne---Infrastructure-Management_JR20062-1</id>
+    <title>Ferrovial: Webber - Seasonal Equipment Operator Call-In - Port Colborne - Infrastructure Management</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Port-Colborne-ON/Webber---Seasonal-Equipment-Operator-Call-In---Port-Colborne---Infrastructure-Management_JR20062-1"/>
+    <updated>2026-10-26T20:11:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Port Colborne, ON, Canada; Fort Erie, ON · $30–$32/hr · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ferrovial:/job/Homer-ON/Webber---Seasonal-Equipment-Operator-Call-In---Homer---Infrastructure-Management_JR20061</id>
+    <title>Ferrovial: Webber - Seasonal Equipment Operator Call-In - Homer - Infrastructure Management</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Homer-ON/Webber---Seasonal-Equipment-Operator-Call-In---Homer---Infrastructure-Management_JR20061"/>
+    <updated>2026-10-26T20:11:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Homer, ON, Canada; Beaverdams, ON · $30–$32/hr · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492</id>
@@ -24,36 +160,12 @@
     <summary>Not stated · Software · US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 · Python, Java, C++, C#, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I_R-51276-1</id>
-    <title>The Travelers Companies: Software Engineer I 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1"/>
+    <id>urn:grad-engine:workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2</id>
+    <title>Royal Bank of Canada: Data Engineer, RBC Amplify 2027, Vancouver</title>
+    <link href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2"/>
     <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271</id>
-    <title>The Travelers Companies: Engineering Development Program (EDP) - Software Engineering 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · SQL, React, Next.js, GraphQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910</id>
-    <title>The Travelers Companies: Data Engineer I (AWS, Python, GenAI) 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; TX - Richardson; MN - St. Paul · Python, LLMs, AWS, Azure, Spark · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134</id>
-    <title>The Travelers Companies: Software Engineer I - Elixir, Python, AWS 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CT - Hartford, United States of America; MN - St. Paul; MD - Hunt Valley · Python, AWS, JavaScript, React, PostgreSQL · sponsorship: no-sponsorship</summary>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · 410 GEORGIA ST W, FLOOR 3:VANCOUVER · LLMs, GraphQL</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525</id>
@@ -64,6 +176,30 @@
     <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; MN - St. Paul · AWS, Databricks, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910</id>
+    <title>The Travelers Companies: Data Engineer I (AWS, Python, GenAI) 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; TX - Richardson; MN - St. Paul · Python, LLMs, AWS, Azure, Spark · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271</id>
+    <title>The Travelers Companies: Engineering Development Program (EDP) - Software Engineering 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · SQL, React, Next.js, GraphQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134</id>
+    <title>The Travelers Companies: Software Engineer I - Elixir, Python, AWS 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134"/>
+    <updated>2026-10-26T14:24:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CT - Hartford, United States of America; MN - St. Paul; MD - Hunt Valley · Python, AWS, JavaScript, React, PostgreSQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988</id>
     <title>The Travelers Companies: Software Engineer I (MERN, AWS) 🛂</title>
     <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988"/>
@@ -72,12 +208,12 @@
     <summary>Not stated · Software · CT - Hartford, United States of America; MN - St. Paul · AWS, JavaScript, Kubernetes, Docker, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:mmc:/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1</id>
-    <title>Marsh: Oliver Wyman - Digital - AI Product Owner - Dubai/Abu Dhabi</title>
-    <link href="https://mmc.wd1.myworkdayjobs.com/mmc/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1"/>
-    <updated>2026-10-26T14:24:10Z</updated>
+    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I_R-51276-1</id>
+    <title>The Travelers Companies: Software Engineer I 🛂</title>
+    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1"/>
+    <updated>2026-10-26T14:24:12Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Dubai - Media, United Arab Emirates; Abu Dhabi - Nation Towers · Python, TypeScript, SQL, LLMs, AWS · status: closed</summary>
+    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:equifax:/job/IND-Trivandrum-Equifax-Analytics-PEC/Software-Engineer-I_J00179300-1</id>
@@ -86,6 +222,14 @@
     <updated>2026-10-26T14:24:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · IND-Trivandrum-Equifax Analytics-PEC, India; IND-Pune-Equifax Analytics-PEC · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~378 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mmc:/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1</id>
+    <title>Marsh: Oliver Wyman - Digital - AI Product Owner - Dubai/Abu Dhabi</title>
+    <link href="https://mmc.wd1.myworkdayjobs.com/mmc/job/Dubai---Media/Oliver-Wyman---Digital---AI-Product-Owner---Dubai-Abu-Dhabi_R_370750-1"/>
+    <updated>2026-10-26T14:24:10Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Dubai - Media, United Arab Emirates; Abu Dhabi - Nation Towers · Python, TypeScript, SQL, LLMs, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:hpe:/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2</id>
@@ -411,49 +555,49 @@
     <id>urn:grad-engine:lever:hive:2c362789-c417-4d8c-bef5-d5fe1a5969ac</id>
     <title>Hive: Systems Engineer / DevOps</title>
     <link href="https://jobs.lever.co/hive/2c362789-c417-4d8c-bef5-d5fe1a5969ac"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · Python, Ruby, Bash, LLMs, AWS · status: closed</summary>
+    <summary>Not stated · Software · San Francisco · Python, Ruby, Bash, LLMs, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:4947a174-d218-4c83-be26-89b1e889dc16</id>
     <title>Hive: Software Engineer - Frontend</title>
     <link href="https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · JavaScript, LLMs, React, HTML/CSS · status: closed</summary>
+    <summary>2 openings · Not stated · Software · San Francisco · JavaScript, LLMs, React, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:55154d4d-bd3e-4f83-9ec3-982da1e8da42</id>
     <title>Hive: Forward Deployed Software Engineer</title>
     <link href="https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · Python, TypeScript, JavaScript, LLMs · status: closed</summary>
+    <summary>Not stated · Software · San Francisco · Python, TypeScript, JavaScript, LLMs</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:818e2024-c973-4cf7-84fd-7b14bd3a24f8</id>
     <title>Hive: Software Engineer - Frontend</title>
     <link href="https://jobs.lever.co/hive/818e2024-c973-4cf7-84fd-7b14bd3a24f8"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle · JavaScript, LLMs, React, HTML/CSS · status: closed</summary>
+    <summary>2 openings · Not stated · Software · Seattle · JavaScript, LLMs, React, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:8977b31f-787d-4b17-ab00-5825764774fe</id>
     <title>Hive: Machine Learning Engineer</title>
     <link href="https://jobs.lever.co/hive/8977b31f-787d-4b17-ab00-5825764774fe"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle · Python, C++, SQL, Scala, Bash · status: closed</summary>
+    <summary>Not stated · Data &amp; ML/AI · Seattle · Python, C++, SQL, Scala, Bash</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:hive:b60b0f85-8aed-4751-9f2c-5b92060c64a2</id>
     <title>Hive: Machine Learning Engineer</title>
     <link href="https://jobs.lever.co/hive/b60b0f85-8aed-4751-9f2c-5b92060c64a2"/>
-    <updated>2026-10-23T07:37:50Z</updated>
+    <updated>2026-10-22T20:46:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco · Python, C++, SQL, Scala, Bash · status: closed</summary>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco · Python, C++, SQL, Scala, Bash</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workable:the-anywhere-company:4010622FEF</id>
@@ -662,149 +806,5 @@
     <updated>2026-10-22T01:08:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · USA Walnut Creek, CA - WR · Python, JavaScript, SQL, HTML/CSS, dbt · H-1B track record: ~251 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:enbridge:/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2</id>
-    <title>Enbridge: Engineer in Training I Infrastructure Planning 🛂</title>
-    <link href="https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2"/>
-    <updated>2026-10-22T01:08:06Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Calgary, AB, CAN, Canada; Edmonton, AB, CAN · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:invenergyllc:/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1</id>
-    <title>Invenergy: Platform Developer I, Business Applications</title>
-    <link href="https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1"/>
-    <updated>2026-10-22T01:08:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, IL · $85k/yr · C#, JavaScript, SQL, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7698902624389482757</id>
-    <title>ByteDance: Research Scientist Graduate (Seed Model-Alignment&amp;Preparedness) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7698902624389482757"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, PyTorch, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:affirm:8039471003</id>
-    <title>Affirm: Analyst, Early Career (Full Stack)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8039471003"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York, United States; San Francisco, California, United States · Python, SQL · H-1B track record: ~158 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:purestorage:8282746</id>
-    <title>Pure Storage: Junior DevOps Engineer</title>
-    <link href="https://job-boards.greenhouse.io/purestorage/jobs/8282746"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara, California · Linux · H-1B track record: ~208 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8906750002</id>
-    <title>Twitch: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8906750002"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, WA · Python, Java, React, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1</id>
-    <title>Applied Materials: Global Software Support Engineer I</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin,TX · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:amat:/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046</id>
-    <title>Applied Materials: Global Software Support Engineer I</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas-Richardson,TX · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780</id>
-    <title>Applied Materials: Algorithm Developer, Masters Degree, New College Grad (Santa Clara)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara,CA · MATLAB · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683</id>
-    <title>Applied Materials: Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:compassion:/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1</id>
-    <title>Compassion International: Software Support Specialist (Temporary)</title>
-    <link href="https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - USA</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055</id>
-    <title>GlobalFoundries: AI Software Engineer (2027 New College Graduate)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · USA - California - Santa Clara, United States of America; USA - Texas - Richardson · PyTorch, TensorFlow, Computer Vision, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1</id>
-    <title>RTX: Software Engineer I -  Test Solutions - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, C# · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684</id>
-    <title>RTX: Software Engineer I (Onsite)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763</id>
-    <title>Hewlett Packard (HP): Software Quality Assurance Engineer 1</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Vancouver, Washington, United States of America · $59.35k–$89.6k/yr · Python, Java, SQL, Selenium</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:usbank:/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686</id>
-    <title>U.S. Bank: Software Engineer 1 - Mainframe (Cobol)</title>
-    <link href="https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"/>
-    <updated>2026-10-21T22:33:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brookfield, WI, United States of America; Atlanta, GA; Hopkins, MN; Edison, NJ; Chicago, IL; Gresham, OR; Denver, CO; Charlotte, NC; Irving, TX; Earth City, MO</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:accenturefederalservices:4722580006</id>
-    <title>Accenture: DevOps Engineer 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4722580006?gh_jid=4722580006"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chantilly, VA · Python, AWS, Linux · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:grahamcapitalmanagement:4745292005</id>
-    <title>Graham Capital Management: Trading Technology Software Developer</title>
-    <link href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005"/>
-    <updated>2026-10-21T19:11:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Norwalk, Connecticut, United States · Python, Java, C#, SQL</summary>
   </entry>
 </feed>
