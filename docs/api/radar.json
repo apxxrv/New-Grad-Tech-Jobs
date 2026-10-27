@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-10-27T16:23:01Z",
- "data_as_of": "2026-10-27T16:23:01Z",
- "rendered_at": "2026-10-27T16:23:01Z",
+ "generated_at": "2026-10-27T20:54:26Z",
+ "data_as_of": "2026-10-27T20:54:26Z",
+ "rendered_at": "2026-10-27T20:54:26Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
+  {
+   "company": "Databricks",
+   "last_cycle_posted": "",
+   "posted_on": "2023-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2023-08-04",
+   "days_until": -1180,
+   "status": "open",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2023-08-04"
+   }
+  },
   {
    "company": "Veeva Systems",
    "last_cycle_posted": "",
@@ -1346,7 +1365,7 @@
    "expected": "2026-09-29",
    "days_until": -28,
    "status": "open",
-   "url": "https://careers.deere.com/careers/job/137483583981",
+   "url": "https://careers.deere.com/careers/job/137483700527",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1849,6 +1868,25 @@
    }
   },
   {
+   "company": "OneMain Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-27"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2074,6 +2112,25 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-10-13"
+   }
+  },
+  {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "2026-10-27",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-10-27",
+   "days_until": 365,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-10-27"
    }
   },
   {
@@ -2381,5 +2438,5 @@
    }
   }
  ],
- "count": 125
+ "count": 128
 }
