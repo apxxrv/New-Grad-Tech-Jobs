@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607597-1",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923"
+    ],
+    "telegram": [
+      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Analytics-Engineer-I--Commercialization_R1607597-1",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923"
+    ]
   }
 }
