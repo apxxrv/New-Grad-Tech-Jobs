@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:edel.fa.us2.oraclecloud.com:24771",
+      "ashby:jerry.ai:271b73bc-2b1a-4be6-b3dc-d72d806b8e35",
+      "oracle:jpmc.fa.oraclecloud.com:210803936",
+      "ashby:swarmaero:7d3783c5-f98c-4def-8c33-6de907aab30e",
+      "greenhouse:abacusinsights:8917379002",
+      "workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2",
+      "workday:bannerhealth:/job/Remote-Arizona/DevOps-Engineer-II_R4457524",
+      "workday:bah:/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060",
+      "workday:evergreenix:/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
+      "smartrecruiters:LLNL:3743990016421516",
+      "workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730"
+    ],
+    "telegram": [
+      "oracle:edel.fa.us2.oraclecloud.com:24771",
+      "ashby:jerry.ai:271b73bc-2b1a-4be6-b3dc-d72d806b8e35",
+      "oracle:jpmc.fa.oraclecloud.com:210803936",
+      "ashby:swarmaero:7d3783c5-f98c-4def-8c33-6de907aab30e",
+      "greenhouse:abacusinsights:8917379002",
+      "workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2",
+      "workday:bannerhealth:/job/Remote-Arizona/DevOps-Engineer-II_R4457524",
+      "workday:bah:/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060",
+      "workday:evergreenix:/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
+      "smartrecruiters:LLNL:3743990016421516",
+      "workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730"
+    ]
   }
 }

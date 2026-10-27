@@ -210,6 +210,18 @@
     }
    }
   },
+  "aveva": {
+   "name": "AVEVA",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"
+     ],
+     "count": 1
+    }
+   }
+  },
   "belvedere trading": {
    "name": "Belvedere Trading",
    "cycles": {
@@ -1063,9 +1075,10 @@
       "oracle:jpmc.fa.oraclecloud.com:210773954",
       "oracle:jpmc.fa.oraclecloud.com:210774102",
       "oracle:jpmc.fa.oraclecloud.com:210774111",
-      "oracle:jpmc.fa.oraclecloud.com:210801790"
+      "oracle:jpmc.fa.oraclecloud.com:210801790",
+      "oracle:jpmc.fa.oraclecloud.com:210803936"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2176,5 +2189,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T20:11:08Z"
+ "updated_at": "2026-10-27T00:04:24Z"
 }
