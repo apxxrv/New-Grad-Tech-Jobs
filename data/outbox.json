@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:caci:/job/Long-Beach-CA-US/AI-Prompt-Engineer_334136",
-      "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
-    ],
-    "telegram": [
-      "workday:caci:/job/Long-Beach-CA-US/AI-Prompt-Engineer_334136",
-      "workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
