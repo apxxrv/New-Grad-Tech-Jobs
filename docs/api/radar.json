@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T00:04:24Z",
- "data_as_of": "2026-10-27T00:04:24Z",
- "rendered_at": "2026-10-27T00:04:25Z",
+ "generated_at": "2026-10-27T05:07:25Z",
+ "data_as_of": "2026-10-27T05:07:25Z",
+ "rendered_at": "2026-10-27T05:07:25Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1773,25 +1773,6 @@
    }
   },
   {
-   "company": "Guidehouse",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-22",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-22"
-   }
-  },
-  {
    "company": "Palantir",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -2378,6 +2359,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "Guidehouse",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-22"
    }
   }
  ],

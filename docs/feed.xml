@@ -5,23 +5,31 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-27T00:04:24Z</updated>
+  <updated>2026-10-27T05:07:25Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:24771</id>
-    <title>Fortinet: Early Careers: AI Automation Engineer 🛂</title>
-    <link href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771"/>
-    <updated>2026-10-27T00:04:24Z</updated>
+    <id>urn:grad-engine:workday:caci:/job/Long-Beach-CA-US/AI-Prompt-Engineer_334136</id>
+    <title>CACI: AI Prompt Engineer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Long-Beach-CA-US/AI-Prompt-Engineer_334136"/>
+    <updated>2026-10-27T05:07:25Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · H-1B track record: ~245 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA, US · Python, TypeScript, JavaScript, LLMs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803936</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936"/>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039</id>
+    <title>RTX: Software Engineer I, Gen4 Airborne Radar 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"/>
+    <updated>2026-10-27T05:07:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:jerry.ai:271b73bc-2b1a-4be6-b3dc-d72d806b8e35</id>
+    <title>Jerry: Associate Data Scientist</title>
+    <link href="https://jobs.ashbyhq.com/jerry.ai/271b73bc-2b1a-4be6-b3dc-d72d806b8e35"/>
     <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Palo Alto, CA, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:swarmaero:7d3783c5-f98c-4def-8c33-6de907aab30e</id>
@@ -40,36 +48,20 @@
     <summary>Not stated · Data &amp; ML/AI · United States · $62.4k/yr · SQL, LLMs, AWS, Azure, Databricks</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2</id>
-    <title>AVEVA: Cloud Operations &amp; Infrastructure Graduate - USA</title>
-    <link href="https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"/>
+    <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:24771</id>
+    <title>Fortinet: Early Careers: AI Automation Engineer 🛂</title>
+    <link href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771"/>
+    <updated>2026-10-27T00:04:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · H-1B track record: ~245 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803936</id>
+    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936"/>
     <updated>2026-10-27T00:04:24Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Lake Forest, California, United States of America; Scottsdale, Arizona, United States of America · C#, SQL, .NET, AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bannerhealth:/job/Remote-Arizona/DevOps-Engineer-II_R4457524</id>
-    <title>Banner Health: DevOps Engineer I</title>
-    <link href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote Arizona · $39.78–$66.3/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060</id>
-    <title>Booz Allen: Full Stack Software Engineer, Junior 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · McLean, VA · $108k/yr · Python, TypeScript, JavaScript, SQL, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:evergreenix:/job/USA_TX_Richardson/Software-Engineer-I_JR500927</id>
-    <title>Everfox: Software Engineer I 🇺🇸</title>
-    <link href="https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA_TX_Richardson · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
+    <summary>Class of 2027 · Quant · Palo Alto, CA, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:LLNL:3743990016421516</id>
@@ -80,12 +72,36 @@
     <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Hybrid) · $227.43k–$288.396k/yr · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471</id>
-    <title>Leidos: Cyber Risk Analyst</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471"/>
+    <id>urn:grad-engine:workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2</id>
+    <title>AVEVA: Cloud Operations &amp; Infrastructure Graduate - USA</title>
+    <link href="https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"/>
+    <updated>2026-10-27T00:04:24Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Lake Forest, California, United States of America; Scottsdale, Arizona, United States of America · C#, SQL, .NET, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bah:/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060</id>
+    <title>Booz Allen: Full Stack Software Engineer, Junior 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060"/>
     <updated>2026-10-27T00:04:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Gaithersburg, MD · Python, Azure · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · McLean, VA · $108k/yr · Python, TypeScript, JavaScript, SQL, React · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bannerhealth:/job/Remote-Arizona/DevOps-Engineer-II_R4457524</id>
+    <title>Banner Health: DevOps Engineer I</title>
+    <link href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524"/>
+    <updated>2026-10-27T00:04:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote Arizona · $39.78–$66.3/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:evergreenix:/job/USA_TX_Richardson/Software-Engineer-I_JR500927</id>
+    <title>Everfox: Software Engineer I 🇺🇸</title>
+    <link href="https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927"/>
+    <updated>2026-10-27T00:04:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA_TX_Richardson · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730</id>
@@ -94,6 +110,14 @@
     <updated>2026-10-27T00:04:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, C# · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471</id>
+    <title>Leidos: Cyber Risk Analyst</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471"/>
+    <updated>2026-10-27T00:04:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Gaithersburg, MD · Python, Azure · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:4841b9ad-eb7f-42df-84a0-077cb6084ca1</id>
@@ -331,9 +355,9 @@
     <id>urn:grad-engine:workday:guidehouse:/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899</id>
     <title>Guidehouse: IT Cybersecurity Compliance Technical Associate- Campus 2027</title>
     <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899"/>
-    <updated>2026-10-25T21:02:17Z</updated>
+    <updated>2026-10-27T05:07:25Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · US - VA, McLean, United States of America; US - Remote (Any location); GH Office: Chicago, IL (Green St); US - VA, Arlington · H-1B track record: ~68 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Security · US - VA, McLean, United States of America; US - Remote (Any location); GH Office: Chicago, IL (Green St); US - VA, Arlington · status: closed · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541</id>
@@ -438,14 +462,6 @@
     <updated>2026-10-23T18:09:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Francisco</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:jerry.ai:705c618f-72b7-455e-a88b-2da217141de8</id>
-    <title>Jerry: Associate Data Scientist</title>
-    <link href="https://jobs.ashbyhq.com/jerry.ai/705c618f-72b7-455e-a88b-2da217141de8"/>
-    <updated>2026-10-23T18:09:11Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7670374385110599989</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-22T17:22:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote, Pennsylvania, United States of America; Remote, Maryland</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:remitly:/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624</id>
-    <title>Remitly: Fullstack Software Development Engineer I, Card</title>
-    <link href="https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"/>
-    <updated>2026-10-22T17:22:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington Virginia, United States · Python, Java, TypeScript, Kotlin, React · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:salesforce:/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1</id>
-    <title>Salesforce: Research Scientist - Salesforce AI Research</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1"/>
-    <updated>2026-10-22T17:22:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · California - Palo Alto, United States of America; California - San Francisco · $137.1k–$276.1k/yr · Python, PyTorch, LLMs, Computer Vision · H-1B track record: ~501 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
