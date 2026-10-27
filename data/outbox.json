@@ -1,40 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26013042",
-      "breezy:jnd-inc:5b8c79658b3a",
-      "breezy:jnd-inc:f248fa218f7d",
-      "oracle:jpmc.fa.oraclecloud.com:210803983",
-      "greenhouse:accenturefederalservices:4725277006",
-      "greenhouse:databricks:6865698002",
-      "greenhouse:databricks:6865704002",
-      "workday:gevernova:/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
-      "workday:gevernova:/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2",
-      "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592",
-      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
-      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
-      "workday:ngc:/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
-      "workday:myhrhome:/job/Wilmington-DE/Data-Science-Analyst_R2609-52405",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645"
-    ],
-    "telegram": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26013042",
-      "breezy:jnd-inc:5b8c79658b3a",
-      "breezy:jnd-inc:f248fa218f7d",
-      "oracle:jpmc.fa.oraclecloud.com:210803983",
-      "greenhouse:accenturefederalservices:4725277006",
-      "greenhouse:databricks:6865698002",
-      "greenhouse:databricks:6865704002",
-      "workday:gevernova:/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
-      "workday:gevernova:/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2",
-      "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592",
-      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
-      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
-      "workday:ngc:/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
-      "workday:myhrhome:/job/Wilmington-DE/Data-Science-Analyst_R2609-52405",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
