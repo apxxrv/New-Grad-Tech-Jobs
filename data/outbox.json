@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:crosscountry-consulting:10ecb553-0393-4e7b-af5a-88a1947a0769",
-      "lever:crosscountry-consulting:eb6ab6cf-6f93-486f-b4bf-6137bc67feb7",
-      "lever:crosscountry-consulting:f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
-      "ashby:madhive:b95e6485-c017-49a0-a966-61f68404279c",
-      "workday:att:/job/USATXDallas--208-S-Akard-St---Concourse208-S-Akard-St--Concourse/AI-Native-Software-Engineer-Analyst--Full-Stack-Python_R-124488-1",
-      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
-      "workday:nvent:/job/Bangalore-IN/Graduate-Engineer---IT---Software_R24213",
-      "workday:globalhr:/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232"
-    ],
-    "telegram": [
-      "lever:crosscountry-consulting:10ecb553-0393-4e7b-af5a-88a1947a0769",
-      "lever:crosscountry-consulting:eb6ab6cf-6f93-486f-b4bf-6137bc67feb7",
-      "lever:crosscountry-consulting:f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
-      "ashby:madhive:b95e6485-c017-49a0-a966-61f68404279c",
-      "workday:att:/job/USATXDallas--208-S-Akard-St---Concourse208-S-Akard-St--Concourse/AI-Native-Software-Engineer-Analyst--Full-Stack-Python_R-124488-1",
-      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
-      "workday:nvent:/job/Bangalore-IN/Graduate-Engineer---IT---Software_R24213",
-      "workday:globalhr:/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
