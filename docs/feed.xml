@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-28T00:14:57Z</updated>
+  <updated>2026-10-28T05:45:00Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:startree:6235909004</id>
+    <title>StarTree: Software Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/startree/jobs/6235909004"/>
+    <updated>2026-10-28T05:45:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US (Remote) · Java, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:hctz.fa.us2.oraclecloud.com:2506767</id>
     <title>onsemi: AI Engineer</title>
@@ -14,14 +22,6 @@
     <updated>2026-10-28T00:14:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629</id>
-    <title>Amentum: Software Engineer Junior</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"/>
-    <updated>2026-10-28T00:14:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-CA-Vandenberg AFB · $70k–$85k/yr · Python, Java, C++, JavaScript, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:avav:/job/Jessup-MD/Jr-Software-Engineer_9123-1</id>
@@ -38,6 +38,14 @@
     <updated>2026-10-28T00:14:57Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · United States-California-El Segundo, United States of America; United States-California-San Diego; United States-California-Palmdale; United States-California-Redondo Beach · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629</id>
+    <title>Amentum: Software Engineer Junior</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"/>
+    <updated>2026-10-28T00:14:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-Vandenberg AFB · $70k–$85k/yr · Python, Java, C++, JavaScript, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:jnd-inc:5b8c79658b3a</id>
@@ -59,9 +67,9 @@
     <id>urn:grad-engine:greenhouse:accenturefederalservices:4725277006</id>
     <title>Accenture: Junior Cloud Engineer 🇺🇸</title>
     <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4725277006?gh_jid=4725277006"/>
-    <updated>2026-10-27T20:54:26Z</updated>
+    <updated>2026-10-28T05:45:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Reston, VA · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Reston, VA · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only · status: closed · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:databricks:6865698002</id>
@@ -294,14 +302,6 @@
     <updated>2026-10-27T00:04:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Remote Arizona · $39.78–$66.3/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:evergreenix:/job/USA_TX_Richardson/Software-Engineer-I_JR500927</id>
-    <title>Everfox: Software Engineer I 🇺🇸</title>
-    <link href="https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA_TX_Richardson · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730</id>
