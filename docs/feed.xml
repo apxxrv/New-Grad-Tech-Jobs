@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-28T05:45:00Z</updated>
+  <updated>2026-10-28T11:53:02Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer / Software Engineer - Huntsville AL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"/>
+    <updated>2026-10-28T11:53:02Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Alabama-Huntsville · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:statestreet:/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1</id>
+    <title>State Street: Junior Software Engineer - SA</title>
+    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1"/>
+    <updated>2026-10-28T11:53:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gdansk, Poland; BIG - Zielinskiego Krakow · Java, C#, TypeScript, JavaScript, SQL · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:startree:6235909004</id>
     <title>StarTree: Software Engineer I</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-22T23:48:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Denver, CO; Long Beach, CA · Git, Selenium · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7</id>
-    <title>Palantir: Forward Deployed Software Engineer, New Grad - Warp Speed 🇺🇸</title>
-    <link href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · New York, NY · $135k–$145k/yr · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:emdz.fa.us2.oraclecloud.com:6320</id>
-    <title>Rice University: Data Warehouse Developer</title>
-    <link href="https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6320"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Houston, TX, United States · $73.326k–$85k/yr · Python, Java, C++, SQL, AWS</summary>
   </entry>
 </feed>
