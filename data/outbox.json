@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hctz.fa.us2.oraclecloud.com:2506767",
-      "workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629",
-      "workday:avav:/job/Jessup-MD/Jr-Software-Engineer_9123-1",
-      "workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
-      "workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineer-I---Anti-Tamper---Program-Protection--On-site--_01883946"
-    ],
-    "telegram": [
-      "oracle:hctz.fa.us2.oraclecloud.com:2506767",
-      "workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629",
-      "workday:avav:/job/Jessup-MD/Jr-Software-Engineer_9123-1",
-      "workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
-      "workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineer-I---Anti-Tamper---Program-Protection--On-site--_01883946"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
