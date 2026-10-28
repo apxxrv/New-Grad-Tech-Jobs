@@ -5,15 +5,39 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-27T20:54:26Z</updated>
+  <updated>2026-10-28T00:14:57Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013042</id>
-    <title>Emerson Electric: Software Engineer</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Austin, TX, United States · Python, Java, C++, C#, TypeScript</summary>
+    <id>urn:grad-engine:oracle:hctz.fa.us2.oraclecloud.com:2506767</id>
+    <title>onsemi: AI Engineer</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767"/>
+    <updated>2026-10-28T00:14:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629</id>
+    <title>Amentum: Software Engineer Junior</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"/>
+    <updated>2026-10-28T00:14:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-Vandenberg AFB · $70k–$85k/yr · Python, Java, C++, JavaScript, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:avav:/job/Jessup-MD/Jr-Software-Engineer_9123-1</id>
+    <title>Avav: Jr. Software Engineer 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1"/>
+    <updated>2026-10-28T00:14:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Jessup, MD · Python, Java, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer/Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957"/>
+    <updated>2026-10-28T00:14:57Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-California-El Segundo, United States of America; United States-California-San Diego; United States-California-Palmdale; United States-California-Redondo Beach · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:breezy:jnd-inc:5b8c79658b3a</id>
@@ -30,14 +54,6 @@
     <updated>2026-10-27T20:54:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Plano, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803983</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:accenturefederalservices:4725277006</id>
@@ -64,6 +80,30 @@
     <summary>Class of 2027 · Data &amp; ML/AI · Bellevue, Washington; Mountain View, California · Java, C++, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013042</id>
+    <title>Emerson Electric: Software Engineer</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Austin, TX, United States · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803983</id>
+    <title>JPMorganChase: 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592</id>
+    <title>General Motors: Software Verification Engineer, AV Platform (Early Career)</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Milford, Michigan, United States of America; Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:gevernova:/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2</id>
     <title>GE Vernova: GE Vernova AI Engineer 🛂</title>
     <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2"/>
@@ -80,36 +120,12 @@
     <summary>Not stated · Data &amp; ML/AI · Greenville · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592</id>
-    <title>General Motors: Software Verification Engineer, AV Platform (Early Career)</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Milford, Michigan, United States of America; Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912</id>
-    <title>Northrop Grumman: Associate Software Engineer - Colorado Springs 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States-Colorado-Colorado Springs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer - Boulder CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"/>
+    <id>urn:grad-engine:workday:myhrhome:/job/Wilmington-DE/Data-Science-Analyst_R2609-52405</id>
+    <title>OneMain Financial: Data Science Analyst</title>
+    <link href="https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405"/>
     <updated>2026-10-27T20:54:26Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-Colorado-Boulder · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer - Azusa CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-California-Azusa · Python, Java, C++, C#, Git · sponsorship: citizens-only</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · Wilmington, DE · Python</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823</id>
@@ -120,12 +136,28 @@
     <summary>Not stated · Software · United States-Alabama-Huntsville · Java · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:myhrhome:/job/Wilmington-DE/Data-Science-Analyst_R2609-52405</id>
-    <title>OneMain Financial: Data Science Analyst</title>
-    <link href="https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405"/>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer - Azusa CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"/>
     <updated>2026-10-27T20:54:26Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Wilmington, DE · Python</summary>
+    <summary>Class of 2027 · Software · United States-California-Azusa · Python, Java, C++, C#, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer - Boulder CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Colorado-Boulder · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912</id>
+    <title>Northrop Grumman: Associate Software Engineer - Colorado Springs 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States-Colorado-Colorado Springs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:madhive:b95e6485-c017-49a0-a966-61f68404279c</id>
@@ -315,9 +347,9 @@
     <id>urn:grad-engine:workday:ciena:/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1</id>
     <title>Ciena: Software Engineer (Security) - New Grad</title>
     <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1"/>
-    <updated>2026-10-26T20:11:08Z</updated>
+    <updated>2026-10-28T00:14:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Atlanta · Python, C++, Linux, Git · H-1B track record: ~43 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Security · Atlanta · Python, C++, Linux, Git · status: closed · H-1B track record: ~43 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:flir:/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189</id>
@@ -334,14 +366,6 @@
     <updated>2026-10-26T20:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US - Huntsville, AL · Java, C++, C#, SQL, .NET · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:gdit:/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230639</id>
-    <title>General Dynamics Information Technology: Cybersecurity Exercise Planner (Junior) 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230639"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362</id>
@@ -537,7 +561,7 @@
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:fuel-cycle:0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</id>
-    <title>Fuel Cycle: Associate AI Engineer</title>
+    <title>Fuel Cycle: Associate AI Engineer (Onsite in Los Angeles)</title>
     <link href="https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d"/>
     <updated>2026-10-24T13:33:56Z</updated>
     <category term="Not stated"/>
@@ -653,7 +677,7 @@
     <link href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637"/>
     <updated>2026-10-24T00:16:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · USA VA Arlington · sponsorship: citizens-only · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Security · USA VA Arlington · sponsorship: citizens-only · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-22T23:48:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Houston, TX, United States · $73.326k–$85k/yr · Python, Java, C++, SQL, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/McLean-VA/University--Software-Developer_R0252280</id>
-    <title>Booz Allen: University, Software Developer 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · McLean, VA, United States of America; Charleston, SC; Honolulu, HI; Panama City, FL; Huntsville, AL; Atlanta, GA; San Diego, CA; Annapolis Junction, MD; El Segundo, CA; Rome, NY; Colorado Springs, CO · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1</id>
-    <title>The Boeing Company: Entry-Level Software Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1"/>
-    <updated>2026-10-22T23:48:38Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · USA - Maryland Heights, MO · C#, JavaScript, SQL, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783</id>
-    <title>Guidehouse: Technical Associate Application Developer - Campus 2027</title>
-    <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · US - IL, Chicago · Python, JavaScript, SQL, React, Next.js · status: closed · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

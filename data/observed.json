@@ -1361,6 +1361,7 @@
      "first_posted": "2026-10-14",
      "role_ids": [
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+      "workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
@@ -1371,7 +1372,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2238,5 +2239,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T20:54:26Z"
+ "updated_at": "2026-10-28T00:14:57Z"
 }
