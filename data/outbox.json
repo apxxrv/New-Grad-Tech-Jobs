@@ -1,36 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-      "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22057",
-      "lever:pentagrp:32e124e9-1980-452e-9e03-6e98ccf094a9",
-      "eightfold:qualcomm:446721803210",
-      "greenhouse:charterup:5466377008",
-      "workday:cvshealth:/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1",
-      "greenhouse:gleanwork:4748567005",
-      "workday:ngc:/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
-      "workday:globalhr:/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399",
-      "greenhouse:rubrik:8267709",
-      "workday:boeing:/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1",
-      "workday:boeing:/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164",
-      "workday:boeing:/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282-1",
-      "smartrecruiters:UniversityOfNotreDame:3743990016473082"
-    ],
-    "telegram": [
-      "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-      "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22057",
-      "lever:pentagrp:32e124e9-1980-452e-9e03-6e98ccf094a9",
-      "eightfold:qualcomm:446721803210",
-      "greenhouse:charterup:5466377008",
-      "workday:cvshealth:/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1",
-      "greenhouse:gleanwork:4748567005",
-      "workday:ngc:/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
-      "workday:globalhr:/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399",
-      "greenhouse:rubrik:8267709",
-      "workday:boeing:/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1",
-      "workday:boeing:/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164",
-      "workday:boeing:/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282-1",
-      "smartrecruiters:UniversityOfNotreDame:3743990016473082"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
