@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T17:41:01Z",
- "data_as_of": "2026-10-28T17:41:01Z",
- "rendered_at": "2026-10-28T17:41:01Z",
+ "generated_at": "2026-10-28T22:09:14Z",
+ "data_as_of": "2026-10-28T22:09:14Z",
+ "rendered_at": "2026-10-28T22:09:15Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -187,7 +187,7 @@
    "expected": "2026-07-13",
    "days_until": -107,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505",
+   "url": "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -288,25 +288,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-07-16"
-   }
-  },
-  {
-   "company": "3RedPartners",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-17",
-   "days_until": -103,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-07-17"
    }
   },
   {
@@ -2207,6 +2188,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-07-13"
+   }
+  },
+  {
+   "company": "3RedPartners",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-17",
+   "days_until": -103,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-17"
    }
   },
   {
