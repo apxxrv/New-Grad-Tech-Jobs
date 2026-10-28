@@ -1468,6 +1468,21 @@
     }
    }
   },
+  "old mission": {
+   "name": "Old Mission",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-13",
+     "role_ids": [
+      "ashby:old-mission-capital:78e433a8-cd5f-404d-8f58-3fcb61e9837d",
+      "ashby:old-mission-capital:a7b34fe6-cd82-4f17-b5d7-983aa354b505",
+      "ashby:old-mission-capital:a8bad54c-405b-469c-8a7d-b7794dfb54b3",
+      "ashby:old-mission-capital:e307627e-98e6-47ac-924e-b0dbef1984c8"
+     ],
+     "count": 4
+    }
+   }
+  },
   "old mission capital": {
    "name": "Old Mission Capital",
    "cycles": {
@@ -1607,6 +1622,18 @@
       "workday:pg:/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918"
      ],
      "count": 3
+    }
+   }
+  },
+  "pure": {
+   "name": "Pure",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-06",
+     "role_ids": [
+      "ashby:pureapp:c37cdf2d-18a8-417e-b429-16875859a29a"
+     ],
+     "count": 1
     }
    }
   },
@@ -2240,5 +2267,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T11:53:02Z"
+ "updated_at": "2026-10-28T17:41:01Z"
 }

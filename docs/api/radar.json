@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T11:53:02Z",
- "data_as_of": "2026-10-28T11:53:02Z",
- "rendered_at": "2026-10-28T11:53:02Z",
+ "generated_at": "2026-10-28T17:41:01Z",
+ "data_as_of": "2026-10-28T17:41:01Z",
+ "rendered_at": "2026-10-28T17:41:01Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -169,6 +169,25 @@
    "days_until": -107,
    "status": "open",
    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-13"
+   }
+  },
+  {
+   "company": "Old Mission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-13",
+   "days_until": -107,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1688,7 +1707,7 @@
    "expected": "2026-10-14",
    "days_until": -14,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2077,6 +2096,25 @@
    }
   },
   {
+   "company": "Pure",
+   "last_cycle_posted": "2026-10-06",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-10-06",
+   "days_until": 343,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-10-06"
+   }
+  },
+  {
    "company": "University of Nevada, Reno",
    "last_cycle_posted": "2026-10-09",
    "posted_on": "",
@@ -2438,5 +2476,5 @@
    }
   }
  ],
- "count": 128
+ "count": 130
 }
