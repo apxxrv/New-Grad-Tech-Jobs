@@ -5,23 +5,31 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-28T22:09:14Z</updated>
+  <updated>2026-10-29T02:00:45Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22057</id>
-    <title>EXL: Data Analyst</title>
-    <link href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22057"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Jersey City, New Jersey, United States · Python, SQL, AWS, Spark</summary>
+    <id>urn:grad-engine:ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4</id>
+    <title>Pure: iOS / UI Engineer</title>
+    <link href="https://jobs.ashbyhq.com/pureapp/86b9bbba-268a-49d0-8c07-904ee802ceb4"/>
+    <updated>2026-10-29T02:00:44Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · New York City · $120K – $250K • Offers Equity • Offers Bonus · TypeScript, SQL, Swift, React, AWS</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:lever:pentagrp:32e124e9-1980-452e-9e03-6e98ccf094a9</id>
-    <title>Penta Group: Quantitative Research Associate</title>
-    <link href="https://jobs.lever.co/pentagrp/32e124e9-1980-452e-9e03-6e98ccf094a9"/>
-    <updated>2026-10-28T22:09:14Z</updated>
+    <id>urn:grad-engine:workday:globalfoundries:/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083</id>
+    <title>GlobalFoundries: AI Enabled Device Modeling</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083"/>
+    <updated>2026-10-29T02:00:44Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · Washington, D.C.</summary>
+    <summary>Not stated · Data &amp; ML/AI · USA - New York - Malta, United States of America; Essex Junction · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:guidehouse:/job/US---DC-Washington/Junior-Data-Scientist_45736</id>
+    <title>Guidehouse: Junior Data Scientist</title>
+    <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Junior-Data-Scientist_45736"/>
+    <updated>2026-10-29T02:00:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - DC, Washington · Python, AWS, Azure, Databricks · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:eightfold:qualcomm:446721803210</id>
@@ -40,36 +48,12 @@
     <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia · Python, SQL, dbt, Snowflake, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:cvshealth:/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1</id>
-    <title>CVS Health: Software Development Engineer - Operational Analytics</title>
-    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · CT - Hartford · Python, TypeScript, SQL, React, Angular</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:gleanwork:4748567005</id>
     <title>Glean: Software Engineer, University Grad</title>
     <link href="https://job-boards.greenhouse.io/gleanwork/jobs/4748567005"/>
     <updated>2026-10-28T22:09:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mountain View, CA · $115k–$150k/yr · Python, Java, C++, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160</id>
-    <title>Northrop Grumman: Associate Software Engineer - Pathways Program - Aurora CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States-Colorado-Aurora · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399</id>
-    <title>RTX: Cyber/EW Research Engineer I - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · US-MA-CAMBRIDGE-BBN05 ~ 10 &amp; 50 Moulton St ~ MOULTON B5 · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:rubrik:8267709</id>
@@ -80,20 +64,36 @@
     <summary>Not stated · Software · Palo Alto, CA · Python, C++, AWS, GCP, Azure · H-1B track record: ~117 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:lever:pentagrp:32e124e9-1980-452e-9e03-6e98ccf094a9</id>
+    <title>Penta Group: Quantitative Research Associate</title>
+    <link href="https://jobs.lever.co/pentagrp/32e124e9-1980-452e-9e03-6e98ccf094a9"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Washington, D.C.</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22057</id>
+    <title>EXL: Data Analyst</title>
+    <link href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22057"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Jersey City, New Jersey, United States · Python, SQL, AWS, Spark</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:UniversityOfNotreDame:3743990016473082</id>
+    <title>Universityofnotredame: Programming &amp; Operations Specialist | ONDISC</title>
+    <link href="https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016473082"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Notre Dame, IN, United States · $55k/yr</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1</id>
     <title>The Boeing Company: Entry-Level F-15 Flight Test Data Engineer 🇺🇸</title>
     <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1"/>
     <updated>2026-10-28T22:09:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · USA - Eglin AFB, FL · Python, C#, PyTorch, TensorFlow · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164</id>
-    <title>The Boeing Company: Advanced Technologist - Associate Cloud Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Hazelwood, MO · Terraform · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282-1</id>
@@ -104,12 +104,36 @@
     <summary>Not stated · Software · USA - Hazelwood, MO · Terraform · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:smartrecruiters:UniversityOfNotreDame:3743990016473082</id>
-    <title>Universityofnotredame: Programming &amp; Operations Specialist | ONDISC</title>
-    <link href="https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016473082"/>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164</id>
+    <title>The Boeing Company: Advanced Technologist - Associate Cloud Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Advanced-Technologist---Associate-Cloud-Engineer_JR2026520164"/>
     <updated>2026-10-28T22:09:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Notre Dame, IN, United States · $55k/yr</summary>
+    <summary>Not stated · Software · USA - Hazelwood, MO · Terraform · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cvshealth:/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1</id>
+    <title>CVS Health: Software Development Engineer - Operational Analytics</title>
+    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CT - Hartford · Python, TypeScript, SQL, React, Angular</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399</id>
+    <title>RTX: Cyber/EW Research Engineer I - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Cyber-EW-Research-Engineer-I---Onsite_01885399"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-MA-CAMBRIDGE-BBN05 ~ 10 &amp; 50 Moulton St ~ MOULTON B5 · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160</id>
+    <title>Northrop Grumman: Associate Software Engineer - Pathways Program - Aurora CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160"/>
+    <updated>2026-10-28T22:09:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States-Colorado-Aurora · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:agave:73bd2c98-bf87-4eaa-aea8-35e7b6131d0e</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-26T14:24:12Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · 410 GEORGIA ST W, FLOOR 3:VANCOUVER · LLMs, GraphQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525</id>
-    <title>The Travelers Companies: Data Engineer I (AWS, Databricks) 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; MN - St. Paul · AWS, Databricks, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910</id>
-    <title>The Travelers Companies: Data Engineer I (AWS, Python, GenAI) 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · CT - Hartford, United States of America; TX - Richardson; MN - St. Paul · Python, LLMs, AWS, Azure, Spark · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271</id>
-    <title>The Travelers Companies: Engineering Development Program (EDP) - Software Engineering 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CT - Hartford, United States of America; GA - Atlanta; MN - St. Paul; MD - Hunt Valley · SQL, React, Next.js, GraphQL · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

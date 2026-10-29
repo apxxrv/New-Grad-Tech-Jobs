@@ -1631,9 +1631,10 @@
     "Class of 2026": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4",
       "ashby:pureapp:c37cdf2d-18a8-417e-b429-16875859a29a"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2267,5 +2268,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T22:09:14Z"
+ "updated_at": "2026-10-29T02:00:45Z"
 }
