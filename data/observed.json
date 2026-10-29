@@ -1919,9 +1919,10 @@
      "first_posted": "2026-10-13",
      "role_ids": [
       "workday:sunlife:/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1",
+      "workday:sunlife:/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
       "workday:sunlife:/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2280,5 +2281,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T08:40:32Z"
+ "updated_at": "2026-10-29T15:47:53Z"
 }

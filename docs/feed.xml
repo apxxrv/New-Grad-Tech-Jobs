@@ -5,15 +5,63 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-29T08:40:32Z</updated>
+  <updated>2026-10-29T15:47:53Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:salesforce:/job/India---Bangalore/Software-Engineering-AMTS_JR307116</id>
-    <title>Salesforce: Software Engineering AMTS</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116"/>
-    <updated>2026-10-29T08:40:32Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · India - Bangalore; India - Hyderabad · status: closed · H-1B track record: ~501 approvals (FY2022–2023)</summary>
+    <id>urn:grad-engine:oracle:ecsr.fa.us2.oraclecloud.com:10009083</id>
+    <title>Vanderbilt University: AI &amp; Free Speech Specialist, The Future of Free Speech</title>
+    <link href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009083"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Nashville, TN, United States · H-1B track record: ~92 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:clear:8259786</id>
+    <title>CLEAR: Forward Deployed AI Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/clear/jobs/8259786"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY, United States · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826 · Python, C++, JavaScript, MATLAB, Node.js · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443</id>
+    <title>RTX: Software Security Engineer I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2890</id>
+    <title>TSC: Software Engineer I 🇺🇸</title>
+    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plymouth, MA · Python, JavaScript, Bash, LLMs, React · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:verabradley:/job/Corporate-Headquarters---Roanoke-IN/Associate-System-Administrator_R020400</id>
+    <title>Vera Bradley: Associate Systems Administrator - Infrastructure</title>
+    <link href="https://verabradley.wd5.myworkdayjobs.com/vbcareers/job/Corporate-Headquarters---Roanoke-IN/Associate-System-Administrator_R020400"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Corporate Headquarters - Roanoke, IN, United States of America; New York Office - New York, NY · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:sunlife:/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284</id>
+    <title>Sun Life: Student, Data Analyst (Winter-Summer-Fall 2027)</title>
+    <link href="https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284"/>
+    <updated>2026-10-29T15:47:52Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Toronto, Ontario, Canada; Waterloo, Ontario · Python, SQL, Tableau · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831</id>
@@ -30,6 +78,14 @@
     <updated>2026-10-29T08:40:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Milpitas, CA · $195.2k/yr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:salesforce:/job/India---Bangalore/Software-Engineering-AMTS_JR307116</id>
+    <title>Salesforce: Software Engineering AMTS</title>
+    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116"/>
+    <updated>2026-10-29T08:40:32Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · India - Bangalore; India - Hyderabad · status: closed · H-1B track record: ~501 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4</id>
@@ -750,61 +806,5 @@
     <updated>2026-10-26T20:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Albany, NY · $69.764k/yr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599</id>
-    <title>Northrop Grumman: Associate Software Engineer / Software Engineer 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States-Alabama-Huntsville · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928</id>
-    <title>Northrop Grumman: Associate Cloud Software Engineer (Level 1) 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States-California-Redondo Beach · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771</id>
-    <title>Amentum: Entry Level Software Engineer - SECRET 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-VA-Dahlgren · Java, C++, C#, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603</id>
-    <title>Amentum: Junior Web Developer</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-VA-Dahlgren · JavaScript, SQL, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:toyota:/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071</id>
-    <title>Toyota: Software Engineer (Early Career Professional)</title>
-    <link href="https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, Texas · Python, Java, TypeScript, AWS, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:travelers:/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks-_R-53262</id>
-    <title>The Travelers Companies: Data Engineer I (AWS, Databricks) 🛂</title>
-    <link href="https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks-_R-53262"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · GA - Atlanta · AWS, Databricks, SQL, Snowflake · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ferrovial:/job/Homer-ON/Webber---Seasonal-Equipment-Operator-Call-In---Homer---Infrastructure-Management_JR20061</id>
-    <title>Ferrovial: Webber - Seasonal Equipment Operator Call-In - Homer - Infrastructure Management</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Homer-ON/Webber---Seasonal-Equipment-Operator-Call-In---Homer---Infrastructure-Management_JR20061"/>
-    <updated>2026-10-26T20:11:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Homer, ON, Canada; Beaverdams, ON · $30–$32/hr · status: closed</summary>
   </entry>
 </feed>
