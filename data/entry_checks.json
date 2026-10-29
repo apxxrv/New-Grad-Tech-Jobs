@@ -2132,6 +2132,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256493007": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256500007": {
     "checked_at": "2026-10-29T08:40:32Z",
     "cycles": [
@@ -3363,6 +3372,24 @@
       "Class of 2027"
     ],
     "title": "Machine Learning Scientist",
+    "version": 1
+  },
+  "greenhouse:castelioncorporation:4405501009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer",
+    "version": 1
+  },
+  "greenhouse:castelioncorporation:4422964009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mission Software Engineer",
     "version": 1
   },
   "greenhouse:celigo:8331964": {
@@ -4877,6 +4904,33 @@
     "title": "Workday System Developer",
     "version": 1
   },
+  "greenhouse:hearst:4466208009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ServiceNow Developer",
+    "version": 1
+  },
+  "greenhouse:hearst:4466333009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Engineer",
+    "version": 1
+  },
+  "greenhouse:hearst:4466360009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Ad Tech Developer",
+    "version": 1
+  },
   "greenhouse:horizonindustrieslimited:5431514008": {
     "checked_at": "2026-10-28T17:40:59Z",
     "cycles": [
@@ -5372,6 +5426,15 @@
     "title": "Research Scientist / Research Engineer, Automated Safety",
     "version": 1
   },
+  "greenhouse:localitymediallcdbafirstdue:4420545009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Site Reliability Engineer",
+    "version": 1
+  },
   "greenhouse:locusrobotics:5268347007": {
     "checked_at": "2026-10-28T17:41:00Z",
     "cycles": [
@@ -5651,6 +5714,15 @@
     "title": "GTM AI Engineer (Automation & AI)",
     "version": 1
   },
+  "greenhouse:newtonresearch:5430842008": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
+    "version": 1
+  },
   "greenhouse:newtonresearch:5442149008": {
     "checked_at": "2026-10-28T17:41:00Z",
     "cycles": [
@@ -5784,6 +5856,15 @@
       "Class of 2027"
     ],
     "title": "Specialist AI GTM Strategy and Activation - Technical Market Engagement",
+    "version": 1
+  },
+  "greenhouse:ophelia:5442505008": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
     "version": 1
   },
   "greenhouse:orioninnovation:4714763006": {
@@ -5948,6 +6029,15 @@
     "title": "Data Engineer in Test",
     "version": 1
   },
+  "greenhouse:prolificacademicltd:5020554101": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Pediatrician - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
   "greenhouse:prolificacademicltd:5020555101": {
     "checked_at": "2026-10-29T15:47:52Z",
     "cycles": [
@@ -5955,6 +6045,15 @@
       "Class of 2027"
     ],
     "title": "Obstetrician - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
+  "greenhouse:protagonist:6236592004": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
     "version": 1
   },
   "greenhouse:purestorage:8168627": {
@@ -6018,6 +6117,33 @@
       "Class of 2027"
     ],
     "title": "Front-end Software Engineer (React)",
+    "version": 1
+  },
+  "greenhouse:quberesearchandtechnologies:8857670002": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "C++ Developer – ETF Technology & Infrastructure",
+    "version": 1
+  },
+  "greenhouse:quberesearchandtechnologies:8863499002": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Linux Operations Engineer",
+    "version": 1
+  },
+  "greenhouse:quberesearchandtechnologies:8894575002": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Windows Infrastructure Operations Engineer",
     "version": 1
   },
   "greenhouse:queracomputinginc:5436471008": {
@@ -6407,6 +6533,15 @@
     "title": "Metrology Data Scientist",
     "version": 1
   },
+  "greenhouse:sitimecorporation:4454595009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "MEMS Production Software Engineer",
+    "version": 1
+  },
   "greenhouse:sitrepsllc:4429234009": {
     "checked_at": "2026-10-28T17:41:00Z",
     "cycles": [
@@ -6549,6 +6684,15 @@
       "Class of 2027"
     ],
     "title": "Contract Software Development Engineer in Test - Subscription Platform",
+    "version": 1
+  },
+  "greenhouse:spacex:8807795002": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8808150002": {
@@ -6792,6 +6936,15 @@
       "Class of 2027"
     ],
     "title": "Full Stack Software Engineer, Launch Software",
+    "version": 1
+  },
+  "greenhouse:spacex:8852117002": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
     "version": 1
   },
   "greenhouse:spacex:8852118002": {
@@ -7161,6 +7314,42 @@
       "Class of 2027"
     ],
     "title": "Quantitative Researcher, Equity Mid-Frequency",
+    "version": 1
+  },
+  "greenhouse:star-catcher:4438607009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "greenhouse:star-catcher:4438807009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Ground & Mission Systems",
+    "version": 1
+  },
+  "greenhouse:star-catcher:4438882009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Embedded & Flight Systems",
+    "version": 1
+  },
+  "greenhouse:star-catcher:4438895009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Electrical Engineer - FPGA Firmware",
     "version": 1
   },
   "greenhouse:starburst:5416956008": {
@@ -7566,6 +7755,15 @@
       "Class of 2027"
     ],
     "title": "Flight Software Engineer",
+    "version": 1
+  },
+  "greenhouse:textnowinc:4421318009": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
     "version": 1
   },
   "greenhouse:thealleninstitute:8234335": {
@@ -8945,6 +9143,15 @@
     "title": "NVIDIA Infrastructure Engineer — NVIDIA V100 or A100",
     "version": 1
   },
+  "smartrecruiters:SyncreonConsulting:744000158557521": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NVIDIA Infrastructure Engineer — NVIDIA V100 or A100",
+    "version": 1
+  },
   "smartrecruiters:Talan:744000158144691": {
     "checked_at": "2026-10-28T22:09:14Z",
     "cycles": [
@@ -9501,6 +9708,15 @@
       "Class of 2027"
     ],
     "title": "AI Cloud Platform Engineer",
+    "version": 1
+  },
+  "workday:ally:/job/Detroit-MI/Mgr---Software-Eng_R2600878": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mgr - Software Eng",
     "version": 1
   },
   "workday:alsglobal:/job/North-Vancouver-British-Columbia-Canada/Oracle-Fusion-Cloud-Developer_R9637-1": {
@@ -12408,6 +12624,15 @@
       "Class of 2027"
     ],
     "title": "Analytics Engineer",
+    "version": 1
+  },
+  "workday:fico:/job/Work-from-Home-United-States/Software-Engineering---Data-Engineer--Python---Cloud-Databases-_32363": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering – Data Engineer (Python & Cloud Databases)",
     "version": 1
   },
   "workday:fis:/job/US-FL-JAX-347/DevOps-Engineer-Specialists_JR0310832": {
@@ -18582,6 +18807,15 @@
       "Class of 2027"
     ],
     "title": "Assistant Professor - AI in Agriculture",
+    "version": 1
+  },
+  "workday:tapestry:/job/New-York-New-York-USA-Corporate-Headquarters/Data-Engineer_JR18085": {
+    "checked_at": "2026-10-29T16:25:23Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer",
     "version": 1
   },
   "workday:target:/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Business-Information-Security-Officer--BISO----Operational-Technology_R0000440733": {

@@ -5,15 +5,119 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-29T15:47:53Z</updated>
+  <updated>2026-10-29T16:25:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:oracle:ecsr.fa.us2.oraclecloud.com:10009083</id>
-    <title>Vanderbilt University: AI &amp; Free Speech Specialist, The Future of Free Speech</title>
-    <link href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009083"/>
-    <updated>2026-10-29T15:47:53Z</updated>
+    <id>urn:grad-engine:ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606</id>
+    <title>Shield AI: Software Development Engineer - New Graduate</title>
+    <link href="https://jobs.ashbyhq.com/shieldai/c0735824-2b3c-46a2-a888-99e7376a9606"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Diego, California · Python, C++, Computer Vision, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065014</id>
+    <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist - 2027 | University of Chicago</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065025</id>
+    <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist 2027 | Georgia Institute of Technology</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065049</id>
+    <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist 2027 | Harvard</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065049"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065051</id>
+    <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist 2027 | Massachusetts Institute of Technology</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065123</id>
+    <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist 2027 | Columbia University</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065123"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065202</id>
+    <title>Akuna Capital: Junior Quantitative Researcher, 2027 | Georgia Institute of Technology</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065202"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065206</id>
+    <title>Akuna Capital: Junior Quantitative Researcher, 2027 | Carnegie Mellon University</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065206"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065211</id>
+    <title>Akuna Capital: Junior Quantitative Researcher, 2027 | Harvard</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065211"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065309</id>
+    <title>Akuna Capital: Junior Quantitative Researcher, 2027 | Massachusetts Institute of Technology</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065309"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:akunacapitaloci:8065317</id>
+    <title>Akuna Capital: Junior Quantitative Researcher, 2027 | Columbia University</title>
+    <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065317"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Quant · Chicago, IL · Python · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cisco:/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253</id>
+    <title>Cisco: Software QA Engineer I (Full Time) - United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253"/>
+    <updated>2026-10-29T16:25:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Nashville, TN, United States · H-1B track record: ~92 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Richardson, Texas, US · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:draftkings:/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1</id>
+    <title>DraftKings: Software Engineer (December 2026 Grads)</title>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Boston, MA · Java, C#, TypeScript, Swift, Kotlin · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279</id>
+    <title>Northrop Grumman: 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · United States-Colorado-Aurora · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:clear:8259786</id>
@@ -24,12 +128,12 @@
     <summary>Not stated · Data &amp; ML/AI · New York, NY, United States · Python, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"/>
+    <id>urn:grad-engine:oracle:ecsr.fa.us2.oraclecloud.com:10009083</id>
+    <title>Vanderbilt University: AI &amp; Free Speech Specialist, The Future of Free Speech</title>
+    <link href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009083"/>
     <updated>2026-10-29T15:47:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826 · Python, C++, JavaScript, MATLAB, Node.js · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Nashville, TN, United States · H-1B track record: ~92 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443</id>
@@ -38,6 +142,14 @@
     <updated>2026-10-29T15:47:53Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"/>
+    <updated>2026-10-29T15:47:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826 · Python, C++, JavaScript, MATLAB, Node.js · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2890</id>
@@ -67,9 +179,9 @@
     <id>urn:grad-engine:workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831</id>
     <title>FactSet: Software Engineer I</title>
     <link href="https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831"/>
-    <updated>2026-10-29T08:40:32Z</updated>
+    <updated>2026-10-29T16:25:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · India, Hyderabad, DVS, SEZ-1 – Orion B4; FL 7,8,9,11 (Hyderabad - Divyasree 3) · Java, SQL, Spring, PostgreSQL</summary>
+    <summary>Not stated · Software · India, Hyderabad, DVS, SEZ-1 – Orion B4; FL 7,8,9,11 (Hyderabad - Divyasree 3) · Java, SQL, Spring, PostgreSQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720</id>
@@ -387,9 +499,9 @@
     <id>urn:grad-engine:workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083895</id>
     <title>Rocket Companies: Software Engineer I</title>
     <link href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"/>
-    <updated>2026-10-28T17:41:01Z</updated>
+    <updated>2026-10-29T16:25:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Detroit, MI, United States of America; Dallas, TX · TypeScript, Node.js, GraphQL</summary>
+    <summary>Not stated · Software · Detroit, MI, United States of America; Dallas, TX · TypeScript, Node.js, GraphQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:usaa:/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1</id>
@@ -544,6 +656,14 @@
     <summary>Not stated · Data &amp; ML/AI · Greenville · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645</id>
+    <title>RTX: Software Engineer I - (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645"/>
+    <updated>2026-10-27T20:54:26Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 · C++, C# · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:myhrhome:/job/Wilmington-DE/Data-Science-Analyst_R2609-52405</id>
     <title>OneMain Financial: Data Science Analyst</title>
     <link href="https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405"/>
@@ -686,125 +806,5 @@
     <updated>2026-10-27T00:04:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · H-1B track record: ~245 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803936</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Palo Alto, CA, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2</id>
-    <title>AVEVA: Cloud Operations &amp; Infrastructure Graduate - USA</title>
-    <link href="https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Lake Forest, California, United States of America; Scottsdale, Arizona, United States of America · C#, SQL, .NET, AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060</id>
-    <title>Booz Allen: Full Stack Software Engineer, Junior 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · McLean, VA · $108k/yr · Python, TypeScript, JavaScript, SQL, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bannerhealth:/job/Remote-Arizona/DevOps-Engineer-II_R4457524</id>
-    <title>Banner Health: DevOps Engineer I</title>
-    <link href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote Arizona · $39.78–$66.3/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730</id>
-    <title>RTX: Engineer I, Software Engineer - Test Engineering (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730"/>
-    <updated>2026-10-27T00:04:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 · Python, C# · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471</id>
-    <title>Leidos: Cyber Risk Analyst</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Gaithersburg, MD · Python, Azure · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:clera:4841b9ad-eb7f-42df-84a0-077cb6084ca1</id>
-    <title>Clera: AI/ML Engineer 🛂</title>
-    <link href="https://jobs.ashbyhq.com/clera/4841b9ad-eb7f-42df-84a0-077cb6084ca1"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco · $120k–$200k/yr · LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1</id>
-    <title>The Boeing Company: Entry-level Software Engineer–Developers 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - El Segundo, CA · Python, Java, C++, Git · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:cibc:/job/New-York-NY/Analyst--Project-Finance---Infrastructure--Corporate-Banking_2621997</id>
-    <title>CIBC: Analyst, Project Finance &amp; Infrastructure, Corporate Banking</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/Analyst--Project-Finance---Infrastructure--Corporate-Banking_2621997"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ciena:/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1</id>
-    <title>Ciena: Software Engineer (Security) - New Grad</title>
-    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1"/>
-    <updated>2026-10-28T00:14:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Atlanta · Python, C++, Linux, Git · status: closed · H-1B track record: ~43 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:flir:/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189</id>
-    <title>Teledyne: Associate Software Engineer 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Huntsville, AL · C#, SQL, .NET, AWS, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:flir:/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188</id>
-    <title>Teledyne: Jr. Software Engineer 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Huntsville, AL · Java, C++, C#, SQL, .NET · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362</id>
-    <title>RTX: Embedded Security Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Security · US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234</id>
-    <title>RTX: Embedded Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:healthresearch:/job/Albany-NY/Research-Scientist-I--Temporary-_JR-0002368</id>
-    <title>Health Research: Research Scientist I (Temporary) 🛂</title>
-    <link href="https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I--Temporary-_JR-0002368"/>
-    <updated>2026-10-26T20:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Albany, NY · $69.764k/yr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

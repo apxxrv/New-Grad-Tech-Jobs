@@ -66,6 +66,27 @@
     }
    }
   },
+  "akuna capital": {
+   "name": "Akuna Capital",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "greenhouse:akunacapitaloci:8065014",
+      "greenhouse:akunacapitaloci:8065025",
+      "greenhouse:akunacapitaloci:8065049",
+      "greenhouse:akunacapitaloci:8065051",
+      "greenhouse:akunacapitaloci:8065123",
+      "greenhouse:akunacapitaloci:8065202",
+      "greenhouse:akunacapitaloci:8065206",
+      "greenhouse:akunacapitaloci:8065211",
+      "greenhouse:akunacapitaloci:8065309",
+      "greenhouse:akunacapitaloci:8065317"
+     ],
+     "count": 10
+    }
+   }
+  },
   "amazon": {
    "name": "Amazon",
    "cycles": {
@@ -702,6 +723,18 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "greenhouse:doordashusa:8163709"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "draftkings": {
+   "name": "DraftKings",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:draftkings:/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1"
      ],
      "count": 1
     }
@@ -1364,6 +1397,7 @@
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
       "workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
@@ -1373,7 +1407,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -1814,16 +1848,19 @@
     "Class of 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:c0735824-2b3c-46a2-a888-99e7376a9606",
+      "ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606",
       "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
      ],
-     "count": 1
+     "count": 3
     },
     "Class of 2026": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606",
       "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2281,5 +2318,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T15:47:53Z"
+ "updated_at": "2026-10-29T16:25:23Z"
 }
