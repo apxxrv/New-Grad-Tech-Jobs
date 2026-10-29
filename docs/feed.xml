@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-29T02:00:45Z</updated>
+  <updated>2026-10-29T08:40:32Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:salesforce:/job/India---Bangalore/Software-Engineering-AMTS_JR307116</id>
+    <title>Salesforce: Software Engineering AMTS</title>
+    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116"/>
+    <updated>2026-10-29T08:40:32Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · India - Bangalore; India - Hyderabad · status: closed · H-1B track record: ~501 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831</id>
+    <title>FactSet: Software Engineer I</title>
+    <link href="https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831"/>
+    <updated>2026-10-29T08:40:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · India, Hyderabad, DVS, SEZ-1 – Orion B4; FL 7,8,9,11 (Hyderabad - Divyasree 3) · Java, SQL, Spring, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:kla:/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720</id>
+    <title>KLA: System Software Engineer - Distributed Computing</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720"/>
+    <updated>2026-10-29T08:40:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · $195.2k/yr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4</id>
     <title>Pure: iOS / UI Engineer</title>
@@ -203,9 +227,9 @@
     <id>urn:grad-engine:ashby:pureapp:c37cdf2d-18a8-417e-b429-16875859a29a</id>
     <title>Pure: Software Engineer</title>
     <link href="https://jobs.ashbyhq.com/pureapp/c37cdf2d-18a8-417e-b429-16875859a29a"/>
-    <updated>2026-10-28T17:41:01Z</updated>
+    <updated>2026-10-29T08:40:32Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · New York City · $120K – $300K • Offers Equity • Offers Bonus · Java, TypeScript, SQL, React, AWS</summary>
+    <summary>Class of 2026 · Software · New York City · $120K – $300K • Offers Equity • Offers Bonus · Java, TypeScript, SQL, React, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:relling:a31f91ae-30f9-4e36-b9d2-2cb74c398d2e</id>
@@ -227,9 +251,9 @@
     <id>urn:grad-engine:greenhouse:extrahopnetworks:6119816004</id>
     <title>ExtraHop: Software Engineer I | Cloud 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004"/>
-    <updated>2026-10-28T17:41:01Z</updated>
+    <updated>2026-10-29T08:40:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, WA · $110k–$125k/yr · Python, AWS, Docker, Terraform, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Seattle, WA · $110k–$125k/yr · Python, AWS, Docker, Terraform, Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:grvty:4470580009</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-26T20:11:07Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Homer, ON, Canada; Beaverdams, ON · $30–$32/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ferrovial:/job/Port-Colborne-ON/Webber---Seasonal-Equipment-Operator-Call-In---Port-Colborne---Infrastructure-Management_JR20062-1</id>
-    <title>Ferrovial: Webber - Seasonal Equipment Operator Call-In - Port Colborne - Infrastructure Management</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Port-Colborne-ON/Webber---Seasonal-Equipment-Operator-Call-In---Port-Colborne---Infrastructure-Management_JR20062-1"/>
-    <updated>2026-10-26T20:11:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Port Colborne, ON, Canada; Fort Erie, ON · $30–$32/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 · Python, Java, C++, C#, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:rbc:/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2</id>
-    <title>Royal Bank of Canada: Data Engineer, RBC Amplify 2027, Vancouver</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2"/>
-    <updated>2026-10-26T14:24:12Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · 410 GEORGIA ST W, FLOOR 3:VANCOUVER · LLMs, GraphQL</summary>
   </entry>
 </feed>

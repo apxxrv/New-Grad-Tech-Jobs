@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831",
+      "workday:kla:/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720"
+    ],
+    "telegram": [
+      "workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831",
+      "workday:kla:/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720"
+    ]
   }
 }

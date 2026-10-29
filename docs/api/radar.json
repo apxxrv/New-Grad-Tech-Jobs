@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T02:00:45Z",
- "data_as_of": "2026-10-29T02:00:45Z",
- "rendered_at": "2026-10-29T02:00:45Z",
+ "generated_at": "2026-10-29T08:40:32Z",
+ "data_as_of": "2026-10-29T08:40:32Z",
+ "rendered_at": "2026-10-29T08:40:33Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -2153,6 +2153,25 @@
    }
   },
   {
+   "company": "Salesforce",
+   "last_cycle_posted": "2026-10-29",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-10-29",
+   "days_until": 365,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
    "company": "Momentum",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -2476,5 +2495,5 @@
    }
   }
  ],
- "count": 130
+ "count": 131
 }

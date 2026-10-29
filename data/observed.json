@@ -1751,6 +1751,18 @@
     }
    }
   },
+  "salesforce": {
+   "name": "Salesforce",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:salesforce:/job/India---Bangalore/Software-Engineering-AMTS_JR307116"
+     ],
+     "count": 1
+    }
+   }
+  },
   "scale ai": {
    "name": "Scale AI",
    "cycles": {
@@ -2268,5 +2280,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T02:00:45Z"
+ "updated_at": "2026-10-29T08:40:32Z"
 }
