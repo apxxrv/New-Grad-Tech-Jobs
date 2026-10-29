@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ecsr.fa.us2.oraclecloud.com:10009083",
-      "greenhouse:clear:8259786",
-      "workday:globalhr:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857",
-      "workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
-      "workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2890",
-      "workday:verabradley:/job/Corporate-Headquarters---Roanoke-IN/Associate-System-Administrator_R020400"
-    ],
-    "telegram": [
-      "oracle:ecsr.fa.us2.oraclecloud.com:10009083",
-      "greenhouse:clear:8259786",
-      "workday:globalhr:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857",
-      "workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
-      "workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2890",
-      "workday:verabradley:/job/Corporate-Headquarters---Roanoke-IN/Associate-System-Administrator_R020400"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
