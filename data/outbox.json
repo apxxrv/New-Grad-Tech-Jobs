@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4",
-      "workday:globalfoundries:/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083",
-      "workday:guidehouse:/job/US---DC-Washington/Junior-Data-Scientist_45736"
-    ],
-    "telegram": [
-      "ashby:pureapp:86b9bbba-268a-49d0-8c07-904ee802ceb4",
-      "workday:globalfoundries:/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083",
-      "workday:guidehouse:/job/US---DC-Washington/Junior-Data-Scientist_45736"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
