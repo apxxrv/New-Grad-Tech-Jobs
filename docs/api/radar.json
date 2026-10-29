@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T16:25:23Z",
- "data_as_of": "2026-10-29T16:25:23Z",
- "rendered_at": "2026-10-29T16:28:37Z",
+ "generated_at": "2026-10-29T20:51:09Z",
+ "data_as_of": "2026-10-29T20:51:09Z",
+ "rendered_at": "2026-10-29T20:51:10Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1621,6 +1621,25 @@
    }
   },
   {
+   "company": "Ford Motor Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -20,
+   "status": "open",
+   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-09"
+   }
+  },
+  {
    "company": "Gartner",
    "last_cycle_posted": "",
    "posted_on": "2026-10-10",
@@ -1906,24 +1925,6 @@
    }
   },
   {
-   "company": "Ford Motor Company",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "",
-   "days_until": null,
-   "status": "open",
-   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607",
-   "note": "",
-   "provenance": {
-    "type": "live-role",
-    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607"
-   }
-  },
-  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2191,6 +2192,25 @@
   },
   {
    "company": "DraftKings",
+   "last_cycle_posted": "2026-10-29",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-10-29",
+   "days_until": 365,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
+   "company": "Morningstar",
    "last_cycle_posted": "2026-10-29",
    "posted_on": "",
    "precision": "day",
@@ -2551,5 +2571,5 @@
    }
   }
  ],
- "count": 134
+ "count": 135
 }

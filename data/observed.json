@@ -325,16 +325,18 @@
      "role_ids": [
       "workday:bah:/job/McLean-VA/University---Applied-AI-Specialist_R0249409",
       "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280",
+      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252601",
       "workday:bah:/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
      ],
-     "count": 3
+     "count": 4
     },
     "Class of 2026": {
      "first_posted": "2026-10-22",
      "role_ids": [
-      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280"
+      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280",
+      "workday:bah:/job/McLean-VA/University--Software-Developer_R0252601"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -863,6 +865,18 @@
     }
    }
   },
+  "ford motor": {
+   "name": "Ford Motor Company",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "oracle:efds.fa.em5.oraclecloud.com:72607"
+     ],
+     "count": 1
+    }
+   }
+  },
   "freeform": {
    "name": "Freeform",
    "cycles": {
@@ -1358,6 +1372,19 @@
     }
    }
   },
+  "morningstar": {
+   "name": "Morningstar",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109",
+      "workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108"
+     ],
+     "count": 2
+    }
+   }
+  },
   "netic": {
    "name": "Netic",
    "cycles": {
@@ -1779,9 +1806,10 @@
     "Class of 2027": {
      "first_posted": "2026-07-20",
      "role_ids": [
+      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645",
       "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1848,11 +1876,10 @@
     "Class of 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:c0735824-2b3c-46a2-a888-99e7376a9606",
       "ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606",
       "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
      ],
-     "count": 3
+     "count": 2
     },
     "Class of 2026": {
      "first_posted": "2026-10-06",
@@ -2318,5 +2345,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T16:25:23Z"
+ "updated_at": "2026-10-29T20:51:09Z"
 }
