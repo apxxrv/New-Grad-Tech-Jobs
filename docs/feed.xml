@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-30T06:37:40Z</updated>
+  <updated>2026-10-30T13:41:22Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692</id>
+    <title>RTX: Embedded Software Security Engineer I - S3E 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692"/>
+    <updated>2026-10-30T13:41:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:saabusa:/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1</id>
     <title>Saab: Associate Software Engineer 🇺🇸</title>
@@ -27,9 +35,9 @@
     <id>urn:grad-engine:greenhouse:thoughtworksreferral:8333235</id>
     <title>Thoughtworks: Associate (Graduate) Developer</title>
     <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235"/>
-    <updated>2026-10-30T00:33:43Z</updated>
+    <updated>2026-10-30T13:41:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, Illinois, USA · Python · H-1B track record: ~125 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Chicago, Illinois, USA · Python · status: closed · H-1B track record: ~125 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:zoox:67982bee-811b-453b-8596-b53c13f7a78d</id>
@@ -59,9 +67,9 @@
     <id>urn:grad-engine:workday:cvshealth:/job/IL---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1077672</id>
     <title>CVS Health: Associate Software Development Engineer (Conversion)</title>
     <link href="https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/IL---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1077672"/>
-    <updated>2026-10-30T00:33:43Z</updated>
+    <updated>2026-10-30T13:41:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · IL - Work from home</summary>
+    <summary>Not stated · Software · IL - Work from home · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:hitachi:/job/Norman-Oklahoma-United-States/Data-Analyst_R0150190</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-27T20:54:26Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592</id>
-    <title>General Motors: Software Verification Engineer, AV Platform (Early Career)</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Milford, Michigan, United States of America; Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
