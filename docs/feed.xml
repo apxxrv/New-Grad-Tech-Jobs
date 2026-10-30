@@ -5,8 +5,72 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-30T13:41:22Z</updated>
+  <updated>2026-10-30T19:05:57Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:arrow:/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Infrastructure-Engineer-I_R249265</id>
+    <title>Arrow Electronics: Infrastructure Engineer I</title>
+    <link href="https://arrow.wd1.myworkdayjobs.com/ac/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Infrastructure-Engineer-I_R249265"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-AZ-Phoenix, Arizona (East Sky Harbor Cir) · H-1B track record: ~106 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cambridgeassociates:/job/Boston/Jr-Developer_JR0000457-2</id>
+    <title>Cambridge Associates: Jr. Developer</title>
+    <link href="https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Jr-Developer_JR0000457-2"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boston, United States of America; Arlington · Python, Java, SQL, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:citi:/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010</id>
+    <title>Citi: Junior Application Developer</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Tampa Florida United States · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:kairospower:6193295004</id>
+    <title>Kairos Power: Firmware Development Engineer</title>
+    <link href="https://job-boards.greenhouse.io/kairospower/jobs/6193295004"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Alameda, CA · Python, C++, Git, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356</id>
+    <title>RTX: Entry-Level Software Developer - Application Support &amp; Sustainment (Remote) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · Java, C#, SQL, HTML/CSS, .NET · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:smithfieldfoods:/job/Smithfield-VA/Career-Foundation-Program-Associate---IT-Infrastructure---Cybersecurity_R-2026-12296</id>
+    <title>Smithfield Foods: Career Foundation Program Associate - IT Infrastructure &amp; Cybersecurity</title>
+    <link href="https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program-Associate---IT-Infrastructure---Cybersecurity_R-2026-12296"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Smithfield, VA · $21.63–$31.25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tsc:/job/Silver-Spring-MD/Software-Engineer-I_JR2898</id>
+    <title>TSC: Software Engineer I 🇺🇸</title>
+    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Silver Spring, MD · $83k–$108k/yr · Java, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tsc:/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897</id>
+    <title>TSC: Software Engineer I</title>
+    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Huntsville, AL Discovery · Python, C++, Bash, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692</id>
     <title>RTX: Embedded Software Security Engineer I - S3E 🇺🇸</title>
@@ -169,7 +233,7 @@
   </entry>
   <entry>
     <id>urn:grad-engine:workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108</id>
-    <title>Morningstar: Associate Software Engineer (Central Tech AI)</title>
+    <title>Morningstar: Morningstar Development Program (MDP): Associate Software Engineer (Central Tech AI)</title>
     <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108"/>
     <updated>2026-10-29T20:51:09Z</updated>
     <category term="Class of 2026"/>
@@ -742,69 +806,5 @@
     <updated>2026-10-28T00:14:57Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · United States-California-El Segundo, United States of America; United States-California-San Diego; United States-California-Palmdale; United States-California-Redondo Beach · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629</id>
-    <title>Amentum: Software Engineer Junior</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"/>
-    <updated>2026-10-28T00:14:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-CA-Vandenberg AFB · $70k–$85k/yr · Python, Java, C++, JavaScript, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:breezy:jnd-inc:5b8c79658b3a</id>
-    <title>JND: [Entry Level] Software Tester (2605-3)</title>
-    <link href="https://jnd-inc.breezy.hr/p/5b8c79658b3a-entry-level-software-tester-2605-3"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:breezy:jnd-inc:f248fa218f7d</id>
-    <title>JND: [Entry Level] Software Tester / Field Tester (2605-3)</title>
-    <link href="https://jnd-inc.breezy.hr/p/f248fa218f7d-entry-level-software-tester-field-tester-2605-3"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:accenturefederalservices:4725277006</id>
-    <title>Accenture: Junior Cloud Engineer 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/accenturefederalservices/jobs/4725277006?gh_jid=4725277006"/>
-    <updated>2026-10-28T05:45:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Reston, VA · Python, Bash, AWS, GCP, Azure · sponsorship: citizens-only · status: closed · H-1B track record: ~3.2k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:databricks:6865698002</id>
-    <title>Databricks: Software Engineer - New Grad (2027 Start)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:databricks:6865704002</id>
-    <title>Databricks: Software Engineer - New Grad, Distributed Data Systems (2027 Start)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Bellevue, Washington; Mountain View, California · Java, C++, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013042</id>
-    <title>Emerson Electric: Software Engineer</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · Austin, TX, United States · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:jpmc.fa.oraclecloud.com:210803983</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
