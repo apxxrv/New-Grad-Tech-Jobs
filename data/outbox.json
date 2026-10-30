@@ -1,28 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:zoox:67982bee-811b-453b-8596-b53c13f7a78d",
-      "greenhouse:captivation:5467652008",
-      "workday:costar:/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
-      "workday:cvshealth:/job/IL---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1077672",
-      "workday:hitachi:/job/Norman-Oklahoma-United-States/Data-Analyst_R0150190",
-      "smartrecruiters:LLNL:3743990016514176",
-      "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432",
-      "greenhouse:thoughtworksreferral:8333235",
-      "workday:tsc:/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896"
-    ],
-    "telegram": [
-      "lever:zoox:67982bee-811b-453b-8596-b53c13f7a78d",
-      "greenhouse:captivation:5467652008",
-      "workday:costar:/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
-      "workday:cvshealth:/job/IL---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1077672",
-      "workday:hitachi:/job/Norman-Oklahoma-United-States/Data-Analyst_R0150190",
-      "smartrecruiters:LLNL:3743990016514176",
-      "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
-      "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432",
-      "greenhouse:thoughtworksreferral:8333235",
-      "workday:tsc:/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
