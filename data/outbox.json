@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:arrow:/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Infrastructure-Engineer-I_R249265",
-      "workday:cambridgeassociates:/job/Boston/Jr-Developer_JR0000457-2",
-      "workday:citi:/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010",
-      "greenhouse:kairospower:6193295004",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
-      "workday:smithfieldfoods:/job/Smithfield-VA/Career-Foundation-Program-Associate---IT-Infrastructure---Cybersecurity_R-2026-12296",
-      "workday:tsc:/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
-      "workday:tsc:/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897"
-    ],
-    "telegram": [
-      "workday:arrow:/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Infrastructure-Engineer-I_R249265",
-      "workday:cambridgeassociates:/job/Boston/Jr-Developer_JR0000457-2",
-      "workday:citi:/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010",
-      "greenhouse:kairospower:6193295004",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
-      "workday:smithfieldfoods:/job/Smithfield-VA/Career-Foundation-Program-Associate---IT-Infrastructure---Cybersecurity_R-2026-12296",
-      "workday:tsc:/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
-      "workday:tsc:/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
