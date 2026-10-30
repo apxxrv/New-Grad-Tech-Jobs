@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T19:05:57Z",
- "data_as_of": "2026-10-30T19:05:57Z",
- "rendered_at": "2026-10-30T19:05:57Z",
+ "generated_at": "2026-10-30T23:15:47Z",
+ "data_as_of": "2026-10-30T23:15:47Z",
+ "rendered_at": "2026-10-30T23:15:47Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -245,25 +245,6 @@
    "days_until": -107,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-07-15"
-   }
-  },
-  {
-   "company": "Chicago Trading Company",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-15",
-   "days_until": -107,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2283,6 +2264,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-07-13"
+   }
+  },
+  {
+   "company": "Chicago Trading Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -107,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-07-15"
    }
   },
   {

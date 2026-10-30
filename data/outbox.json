@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:handshake:c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+      "workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016420",
+      "ashby:zefr:d3353c85-2e31-4855-84cc-f18749edc640",
+      "greenhouse:getbuilt:4749545005",
+      "workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
+      "workday:motorolasolutions:/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+      "greenhouse:pathrobotics:8926017002",
+      "workday:boeing:/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1",
+      "workday:thermofisher:/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1"
+    ],
+    "telegram": [
+      "ashby:handshake:c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+      "workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016420",
+      "ashby:zefr:d3353c85-2e31-4855-84cc-f18749edc640",
+      "greenhouse:getbuilt:4749545005",
+      "workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
+      "workday:motorolasolutions:/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+      "greenhouse:pathrobotics:8926017002",
+      "workday:boeing:/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1",
+      "workday:thermofisher:/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1"
+    ]
   }
 }

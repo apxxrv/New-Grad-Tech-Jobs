@@ -5,8 +5,80 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-30T19:05:57Z</updated>
+  <updated>2026-10-30T23:15:47Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:handshake:c2cea12b-4dba-4782-ac2d-279c6865a4b7</id>
+    <title>Handshake: Software Engineer I, Promotions</title>
+    <link href="https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · $140K – $170K • Offers Equity · Python, Ruby</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016420</id>
+    <title>University of Wisconsin-Madison: Data Analyst</title>
+    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016420"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:zefr:d3353c85-2e31-4855-84cc-f18749edc640</id>
+    <title>Zefr: Software Engineer</title>
+    <link href="https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Marina del Rey, CA · Python, SQL, GraphQL, Airflow, dbt</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:getbuilt:4749545005</id>
+    <title>Built Technologies: Innovation Software Engineer 1</title>
+    <link href="https://job-boards.greenhouse.io/getbuilt/jobs/4749545005"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Nashville, Tennessee, United States · $80k–$110k/yr · Python, TypeScript, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523</id>
+    <title>Intel: Software Application Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, Arizona, Phoenix, United States of America; US, Oregon, Hillsboro · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pathrobotics:8926017002</id>
+    <title>Path Robotics: Software Engineer, C++</title>
+    <link href="https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Columbus, Ohio · C++, Computer Vision, AWS, Kubernetes, Docker · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:boeing:/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1</id>
+    <title>The Boeing Company: Associate Software Engineer 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - Albuquerque, NM, United States of America; USA - El Segundo, CA · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:thermofisher:/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1</id>
+    <title>Thermo Fisher Scientific: Associate Research Scientist, Proteins 🛂</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Lawrenceville, New Jersey, USA · sponsorship: no-sponsorship · H-1B track record: ~368 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:kairospower:6193295004</id>
+    <title>Kairos Power: Firmware Development Engineer</title>
+    <link href="https://job-boards.greenhouse.io/kairospower/jobs/6193295004"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Alameda, CA · Python, C++, Git, Verilog</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:arrow:/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Infrastructure-Engineer-I_R249265</id>
     <title>Arrow Electronics: Infrastructure Engineer I</title>
@@ -32,14 +104,6 @@
     <summary>Not stated · Software · Tampa Florida United States · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:kairospower:6193295004</id>
-    <title>Kairos Power: Firmware Development Engineer</title>
-    <link href="https://job-boards.greenhouse.io/kairospower/jobs/6193295004"/>
-    <updated>2026-10-30T19:05:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Alameda, CA · Python, C++, Git, Verilog</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356</id>
     <title>RTX: Entry-Level Software Developer - Application Support &amp; Sustainment (Remote) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356"/>
@@ -56,20 +120,20 @@
     <summary>Not stated · Security · Smithfield, VA · $21.63–$31.25/hr</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:tsc:/job/Silver-Spring-MD/Software-Engineer-I_JR2898</id>
-    <title>TSC: Software Engineer I 🇺🇸</title>
-    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"/>
-    <updated>2026-10-30T19:05:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Silver Spring, MD · $83k–$108k/yr · Java, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:tsc:/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897</id>
     <title>TSC: Software Engineer I</title>
     <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897"/>
     <updated>2026-10-30T19:05:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Huntsville, AL Discovery · Python, C++, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tsc:/job/Silver-Spring-MD/Software-Engineer-I_JR2898</id>
+    <title>TSC: Software Engineer I 🇺🇸</title>
+    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"/>
+    <updated>2026-10-30T19:05:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Silver Spring, MD · $83k–$108k/yr · Java, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692</id>
@@ -742,69 +806,5 @@
     <updated>2026-10-29T16:25:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Detroit, MI, United States of America; Dallas, TX · TypeScript, Node.js, GraphQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:usaa:/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1</id>
-    <title>USAA: Software Engineer - Entry Level 🛂</title>
-    <link href="https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Antonio Home Office I, United States of America; Plano Legacy · Python, Java, C++, JavaScript, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205</id>
-    <title>University of Washington: Research Scientist/Engineer Assistant - Department of Global Health (Temporary)</title>
-    <link href="https://uw.wd5.myworkdayjobs.com/uwhires/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle, WA · $52.692k/yr · H-1B track record: ~221 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer / Software Engineer - Huntsville AL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"/>
-    <updated>2026-10-28T11:53:02Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-Alabama-Huntsville · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:statestreet:/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1</id>
-    <title>State Street: Junior Software Engineer - SA</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1"/>
-    <updated>2026-10-28T11:53:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Gdansk, Poland; BIG - Zielinskiego Krakow · Java, C#, TypeScript, JavaScript, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:startree:6235909004</id>
-    <title>StarTree: Software Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/startree/jobs/6235909004"/>
-    <updated>2026-10-28T05:45:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US (Remote) · Java, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:hctz.fa.us2.oraclecloud.com:2506767</id>
-    <title>onsemi: AI Engineer</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767"/>
-    <updated>2026-10-28T22:09:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:avav:/job/Jessup-MD/Jr-Software-Engineer_9123-1</id>
-    <title>Avav: Jr. Software Engineer 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1"/>
-    <updated>2026-10-28T00:14:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Jessup, MD · Python, Java, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer/Software Engineer 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957"/>
-    <updated>2026-10-28T00:14:57Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-California-El Segundo, United States of America; United States-California-San Diego; United States-California-Palmdale; United States-California-Redondo Beach · sponsorship: citizens-only</summary>
   </entry>
 </feed>
