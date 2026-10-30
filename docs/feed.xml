@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-30T00:33:43Z</updated>
+  <updated>2026-10-30T06:37:40Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:saabusa:/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1</id>
+    <title>Saab: Associate Software Engineer 🇺🇸</title>
+    <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1"/>
+    <updated>2026-10-30T06:37:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · East Syracuse, NY (Collamer) · C++, SQL, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:captivation:5467652008</id>
+    <title>Captivation: Radio Frequency Software Engineer 1 - C++/Linux/Python/DSP 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/captivation/jobs/5467652008"/>
+    <updated>2026-10-30T00:33:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Annapolis Junction, MD · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:thoughtworksreferral:8333235</id>
+    <title>Thoughtworks: Associate (Graduate) Developer</title>
+    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235"/>
+    <updated>2026-10-30T00:33:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, Illinois, USA · Python · H-1B track record: ~125 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:lever:zoox:67982bee-811b-453b-8596-b53c13f7a78d</id>
     <title>Zoox: Contract Student Worker - Software Engineer (40 hrs/wk)</title>
@@ -16,12 +40,12 @@
     <summary>Not stated · Software · Foster City, CA · Python, TypeScript, JavaScript, LLMs, React · H-1B track record: ~280 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5467652008</id>
-    <title>Captivation: Radio Frequency Software Engineer 1 - C++/Linux/Python/DSP 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5467652008"/>
+    <id>urn:grad-engine:smartrecruiters:LLNL:3743990016514176</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Geographic Information System Software Developer</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990016514176"/>
     <updated>2026-10-30T00:33:43Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Python, C++, Linux · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Livermore, CA, United States (Hybrid) · $121.83k–$154.5k/yr · Python, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:costar:/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234</id>
@@ -54,14 +78,6 @@
     <updated>2026-10-30T00:33:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, SQL, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:thoughtworksreferral:8333235</id>
-    <title>Thoughtworks: Associate (Graduate) Developer</title>
-    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235"/>
-    <updated>2026-10-30T00:33:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, Illinois, USA · Python · H-1B track record: ~125 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:tsc:/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896</id>
@@ -99,9 +115,9 @@
     <id>urn:grad-engine:smartrecruiters:LLNL:3743990016508806</id>
     <title>Lawrence Livermore National Laboratory (LLNL): Geographic Information System Software Developer</title>
     <link href="https://jobs.smartrecruiters.com/LLNL/3743990016508806"/>
-    <updated>2026-10-29T20:51:09Z</updated>
+    <updated>2026-10-30T06:37:40Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Livermore, CA, United States (Hybrid) · $121.83k–$154.5k/yr · Python, SQL, Git</summary>
+    <summary>Not stated · Software · Livermore, CA, United States (Hybrid) · $121.83k–$154.5k/yr · Python, SQL, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:appliedis:/job/Remote---VA/Junior-Data-Engineer_JR2026001430</id>
@@ -395,9 +411,9 @@
     <id>urn:grad-engine:greenhouse:gleanwork:4748567005</id>
     <title>Glean: Software Engineer, University Grad</title>
     <link href="https://job-boards.greenhouse.io/gleanwork/jobs/4748567005"/>
-    <updated>2026-10-28T22:09:14Z</updated>
+    <updated>2026-10-30T06:37:40Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Mountain View, CA · $115k–$150k/yr · Python, Java, C++, JavaScript, LLMs</summary>
+    <summary>Not stated · Software · Mountain View, CA · $115k–$150k/yr · Python, Java, C++, JavaScript, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:rubrik:8267709</id>
@@ -489,7 +505,7 @@
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:engramme:19941069-b865-48ad-a19f-0de38745817f</id>
-    <title>Engramme: Part-Time AI Research Evaluator</title>
+    <title>Engramme: Part-Time AI Research Data Annotator</title>
     <link href="https://jobs.ashbyhq.com/engramme/19941069-b865-48ad-a19f-0de38745817f"/>
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Not stated"/>
@@ -790,21 +806,5 @@
     <updated>2026-10-27T20:54:26Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · Milford, Michigan, United States of America; Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:gevernova:/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2</id>
-    <title>GE Vernova: GE Vernova AI Engineer 🛂</title>
-    <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Greenville · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:gevernova:/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2</id>
-    <title>GE Vernova: GE Vernova Data Scientist 🛂</title>
-    <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2"/>
-    <updated>2026-10-27T20:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Greenville · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
