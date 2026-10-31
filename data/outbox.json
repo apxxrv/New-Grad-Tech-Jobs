@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151",
-      "greenhouse:bluestaq:4475119009"
-    ],
-    "telegram": [
-      "ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151",
-      "greenhouse:bluestaq:4475119009"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
