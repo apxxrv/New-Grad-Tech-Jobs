@@ -5,8 +5,48 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-31T02:35:37Z</updated>
+  <updated>2026-10-31T09:04:35Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:analogdevices:/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680</id>
+    <title>Analog Devices: Associate System Platforms Engineer (FPGA and Software) 🇺🇸</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · US, NC, Durham · Python, C++, Bash, Linux, Git · sponsorship: citizens-only · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911</id>
+    <title>Applied Materials: Software Engineer, New College Grad- Master's (Chandler, AZ)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chandler,AZ · Python, C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:amat:/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376</id>
+    <title>Applied Materials: New College Grad - Computational Physics &amp; Agentic AI Engineer, Doctorate Degree (Spring 2027)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Santa Clara,CA · Python, C++, LLMs · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</id>
+    <title>Bristol Myers Squibb: Associate Engineer, Analytical AI Engineering</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Princeton - NJ - US · Python, SQL, AWS, Azure, Git · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018</id>
+    <title>Northrop Grumman: Associate Software Engineer - Hollywood (MD) 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Maryland-Hollywood · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151</id>
     <title>Inductive Automation: Software Solutions Engineer I</title>
@@ -766,45 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Bedford, Massachusetts · AWS, Azure, Kubernetes, Docker, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:boeing:/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135-2</id>
-    <title>The Boeing Company: Associate Software Engineer 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135-2"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA - Huntsville, AL · Python, Java, C++ · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:dxctechnology:/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986</id>
-    <title>DXC Technology: Analyst I Software Engineering</title>
-    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · IND - TN - CHENNAI · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:fiserv:/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880</id>
-    <title>Fiserv: Android Application Framework Developer - Device Engineering 🛂</title>
-    <link href="https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunnyvale, California · Java, C++, Kotlin, Linux, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:guidehouse:/job/US---IL-Scott-Air-Force-Base/Junior-Developer_45430-1</id>
-    <title>Guidehouse: Junior Developer</title>
-    <link href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Scott-Air-Force-Base/Junior-Developer_45430-1"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - IL, Scott Air Force Base · Python, Pandas, AWS, Azure, Databricks · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:leidos:/job/Lawton-OK/Junior-Offensive-Cyber-Engineer_R-00195608</id>
-    <title>Leidos: Junior Offensive Cyber Engineer 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-Offensive-Cyber-Engineer_R-00195608"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Lawton, OK · Python, Bash, AWS, Azure, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
