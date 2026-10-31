@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-30T23:15:47Z</updated>
+  <updated>2026-10-31T02:35:37Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151</id>
+    <title>Inductive Automation: Software Solutions Engineer I</title>
+    <link href="https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151"/>
+    <updated>2026-10-31T02:35:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · On-Site: Columbia, MD · $82K – $95K · Python, Java, SQL, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:bluestaq:4475119009</id>
+    <title>Bluestaq: Cybersecurity Engineering Residency Program 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/bluestaq/jobs/4475119009"/>
+    <updated>2026-10-31T02:35:37Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Security · Colorado Springs · AWS, Linux · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:handshake:c2cea12b-4dba-4782-ac2d-279c6865a4b7</id>
     <title>Handshake: Software Engineer I, Promotions</title>
@@ -14,14 +30,6 @@
     <updated>2026-10-30T23:15:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco, CA · $140K – $170K • Offers Equity · Python, Ruby</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016420</id>
-    <title>University of Wisconsin-Madison: Data Analyst</title>
-    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016420"/>
-    <updated>2026-10-30T23:15:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:zefr:d3353c85-2e31-4855-84cc-f18749edc640</id>
@@ -40,14 +48,6 @@
     <summary>Not stated · Software · Nashville, Tennessee, United States · $80k–$110k/yr · Python, TypeScript, JavaScript, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523</id>
-    <title>Intel: Software Application Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"/>
-    <updated>2026-10-30T23:15:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US, Arizona, Phoenix, United States of America; US, Oregon, Hillsboro · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:pathrobotics:8926017002</id>
     <title>Path Robotics: Software Engineer, C++</title>
     <link href="https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002"/>
@@ -64,12 +64,28 @@
     <summary>Not stated · Software · USA - Albuquerque, NM, United States of America; USA - El Segundo, CA · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523</id>
+    <title>Intel: Software Application Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, Arizona, Phoenix, United States of America; US, Oregon, Hillsboro · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:thermofisher:/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1</id>
     <title>Thermo Fisher Scientific: Associate Research Scientist, Proteins 🛂</title>
     <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lawrenceville-New-Jersey-USA/Associate-Research-Scientist--Proteins_R-01369840-1"/>
     <updated>2026-10-30T23:15:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Lawrenceville, New Jersey, USA · sponsorship: no-sponsorship · H-1B track record: ~368 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016420</id>
+    <title>University of Wisconsin-Madison: Data Analyst</title>
+    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016420"/>
+    <updated>2026-10-30T23:15:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:kairospower:6193295004</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Lawton, OK · Python, Bash, AWS, Azure, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:priceline:/job/New-York/Junior-Software-Engineer_R5885</id>
-    <title>Priceline: Junior Software Engineer</title>
-    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, Java, TypeScript, JavaScript, Ruby</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083895</id>
-    <title>Rocket Companies: Software Engineer I</title>
-    <link href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"/>
-    <updated>2026-10-29T16:25:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Detroit, MI, United States of America; Dallas, TX · TypeScript, Node.js, GraphQL · status: closed</summary>
   </entry>
 </feed>

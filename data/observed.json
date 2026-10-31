@@ -299,6 +299,13 @@
       "greenhouse:bluestaq:4420189009"
      ],
      "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:bluestaq:4475119009"
+     ],
+     "count": 1
     }
    }
   },
@@ -2345,5 +2352,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T23:15:47Z"
+ "updated_at": "2026-10-31T02:35:37Z"
 }
