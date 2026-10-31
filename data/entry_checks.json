@@ -2123,6 +2123,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256493007": {
+    "checked_at": "2026-10-31T23:03:52Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256500007": {
     "checked_at": "2026-10-31T15:33:57Z",
     "cycles": [
@@ -6020,6 +6029,15 @@
     "title": "Data Engineer in Test",
     "version": 1
   },
+  "greenhouse:prolificacademicltd:5020550101": {
+    "checked_at": "2026-10-31T23:03:52Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Industry Physician - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
   "greenhouse:prolificacademicltd:5020551101": {
     "checked_at": "2026-10-31T15:33:57Z",
     "cycles": [
@@ -6936,6 +6954,15 @@
       "Class of 2027"
     ],
     "title": "Full Stack Software Engineer, Launch Software",
+    "version": 1
+  },
+  "greenhouse:spacex:8852117002": {
+    "checked_at": "2026-10-31T23:03:52Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
     "version": 1
   },
   "greenhouse:spacex:8852118002": {
