@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:analogdevices:/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680",
-      "workday:amat:/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
-      "workday:amat:/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376",
-      "workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2629992",
-      "workday:bristolmyerssquibb:/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
-      "workday:ngc:/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
-    ],
-    "telegram": [
-      "workday:analogdevices:/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680",
-      "workday:amat:/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
-      "workday:amat:/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376",
-      "workday:amat:/job/AustinTX/Global-Software-Support-Engineer-I_R2629992",
-      "workday:bristolmyerssquibb:/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
-      "workday:ngc:/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
