@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-31T15:33:58Z</updated>
+  <updated>2026-10-31T19:46:35Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:clera:af49e694-238d-4b82-9f46-3fbc4c99637f</id>
+    <title>Clera: GTM Associate, RL &amp; Physical AI</title>
+    <link href="https://jobs.ashbyhq.com/clera/af49e694-238d-4b82-9f46-3fbc4c99637f"/>
+    <updated>2026-10-31T19:46:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:coinflow:f367c81e-aa74-4e09-8838-a9816178ae48</id>
     <title>Coinflow: Software Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Francisco · Python, C++, Computer Vision, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:webfx:8a29234f-1b15-4f4f-ac20-a38b650fc72c</id>
-    <title>WebFX: Jr. Business Data Analyst</title>
-    <link href="https://jobs.ashbyhq.com/webfx/8a29234f-1b15-4f4f-ac20-a38b650fc72c"/>
-    <updated>2026-10-30T00:12:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Harrisburg, PA · HTML/CSS · status: closed</summary>
   </entry>
 </feed>
