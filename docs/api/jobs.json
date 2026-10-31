@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-31T09:04:35Z",
- "data_as_of": "2026-10-31T09:04:35Z",
- "rendered_at": "2026-10-31T09:04:36Z",
+ "generated_at": "2026-10-31T15:33:58Z",
+ "data_as_of": "2026-10-31T15:33:58Z",
+ "rendered_at": "2026-10-31T15:33:58Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1057,
+ "count": 1060,
  "jobs": [
   {
    "id": "workday:bristolmyerssquibb:/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
@@ -571,6 +571,31 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Junior / Associate",
+   "remote": false
+  },
+  {
+   "id": "ashby:coinflow:f367c81e-aa74-4e09-8838-a9816178ae48",
+   "company": "Coinflow",
+   "title": "Software Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Chicago",
+   "url": "https://jobs.ashbyhq.com/coinflow/f367c81e-aa74-4e09-8838-a9816178ae48",
+   "posted_at": "2026-10-29T13:04:59.727+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-31T15:33:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Rust",
+    "TypeScript"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "New Grad",
    "remote": false
   },
   {
@@ -2019,36 +2044,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Junior / Associate",
-   "remote": false
-  },
-  {
-   "id": "workday:usaa:/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
-   "company": "USAA",
-   "title": "Software Engineer - Entry Level",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "San Antonio Home Office I, United States of America; Plano Legacy",
-   "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
-   "posted_at": "2026-10-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-28T17:41:01Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "SQL",
-    "HTML/CSS",
-    "Spring",
-    "AWS"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Entry Level",
    "remote": false
   },
   {
@@ -4983,6 +4978,31 @@
    "h1b_approvals": 12,
    "program": "New Grad",
    "remote": false
+  },
+  {
+   "id": "greenhouse:orbisoperations:4436220009",
+   "company": "Orbis Operations",
+   "title": "Research Engineer, AI (Entry-Level)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
+   "posted_at": "2026-10-21T15:35:51-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-31T15:33:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "Docker"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Entry Level",
+   "remote": true
   },
   {
    "id": "lever:galatea-associates:6f2672b3-5b7e-4950-9866-c6ab1b871b33",
@@ -11794,6 +11814,29 @@
    "remote": false
   },
   {
+   "id": "greenhouse:networkbio:5445891008",
+   "company": "Network Bio",
+   "title": "AI Scientist",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Seattle, WA or Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/networkbio/jobs/5445891008",
+   "posted_at": "2026-10-06T17:02:45-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-31T15:33:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "LLMs"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
    "id": "greenhouse:roblox:8229705",
    "company": "Roblox",
    "title": "Software Engineer, Test Frameworks & Tooling",
@@ -15852,6 +15895,35 @@
    "source": "workday",
    "h1b_approvals": 489,
    "program": "New Grad",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:superapp:8813982002",
+   "company": "SuperApp",
+   "title": "Software Engineer - Early Careers",
+   "season": "Class of 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002",
+   "posted_at": "2026-09-16T09:41:59-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-31T15:33:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "TypeScript",
+    "React",
+    "Kubernetes",
+    "Docker"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Early Career",
    "remote": false
   },
   {

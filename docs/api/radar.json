@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T09:04:35Z",
- "data_as_of": "2026-10-31T09:04:35Z",
- "rendered_at": "2026-10-31T09:04:36Z",
+ "generated_at": "2026-10-31T15:33:58Z",
+ "data_as_of": "2026-10-31T15:33:58Z",
+ "rendered_at": "2026-10-31T15:33:58Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1081,6 +1081,25 @@
    "days_until": -45,
    "status": "open",
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "SuperApp",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2571,5 +2590,5 @@
    }
   }
  ],
- "count": 135
+ "count": 136
 }

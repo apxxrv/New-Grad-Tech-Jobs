@@ -5,15 +5,39 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-10-31T09:04:35Z</updated>
+  <updated>2026-10-31T15:33:58Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:analogdevices:/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680</id>
-    <title>Analog Devices: Associate System Platforms Engineer (FPGA and Software) 🇺🇸</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680"/>
-    <updated>2026-10-31T09:04:35Z</updated>
+    <id>urn:grad-engine:ashby:coinflow:f367c81e-aa74-4e09-8838-a9816178ae48</id>
+    <title>Coinflow: Software Engineer</title>
+    <link href="https://jobs.ashbyhq.com/coinflow/f367c81e-aa74-4e09-8838-a9816178ae48"/>
+    <updated>2026-10-31T15:33:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · US, NC, Durham · Python, C++, Bash, Linux, Git · sponsorship: citizens-only · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Chicago · Python, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:networkbio:5445891008</id>
+    <title>Network Bio: AI Scientist</title>
+    <link href="https://job-boards.greenhouse.io/networkbio/jobs/5445891008"/>
+    <updated>2026-10-31T15:33:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Seattle, WA or Palo Alto, CA · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:orbisoperations:4436220009</id>
+    <title>Orbis Operations: Research Engineer, AI (Entry-Level)</title>
+    <link href="https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009"/>
+    <updated>2026-10-31T15:33:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - US · Python, LLMs, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:superapp:8813982002</id>
+    <title>SuperApp: Software Engineer - Early Careers</title>
+    <link href="https://job-boards.greenhouse.io/superapp/jobs/8813982002"/>
+    <updated>2026-10-31T15:33:58Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · San Francisco, CA · Python, Java, C++, TypeScript, React</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:amat:/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911</id>
@@ -30,6 +54,14 @@
     <updated>2026-10-31T09:04:35Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Santa Clara,CA · Python, C++, LLMs · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:analogdevices:/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680</id>
+    <title>Analog Devices: Associate System Platforms Engineer (FPGA and Software) 🇺🇸</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680"/>
+    <updated>2026-10-31T09:04:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · US, NC, Durham · Python, C++, Bash, Linux, Git · sponsorship: citizens-only · H-1B track record: ~181 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-30T00:12:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Harrisburg, PA · HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:extrahopnetworks:6119816004</id>
-    <title>ExtraHop: Software Engineer I | Cloud 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004"/>
-    <updated>2026-10-29T08:40:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, WA · $110k–$125k/yr · Python, AWS, Docker, Terraform, Git · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:grvty:4470580009</id>
-    <title>GRVTY: Junior Software Engineer 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/grvty/jobs/4470580009"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sterling, Virginia, United States · Python, Bash, Flask, Kubernetes, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:mlbevents:8300925</id>
-    <title>Mlbevents: Associate Software Engineer (Seasonal)</title>
-    <link href="https://job-boards.greenhouse.io/mlbevents/jobs/8300925"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York · $40–$55/hr · Java, JavaScript, LLMs, React, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:aspentech:/job/Bedford-Massachusetts/DevOps-Engineer-I_R9496</id>
-    <title>AspenTech: DevOps Engineer I</title>
-    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/DevOps-Engineer-I_R9496"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Bedford, Massachusetts · AWS, Azure, Kubernetes, Docker, Git</summary>
   </entry>
 </feed>

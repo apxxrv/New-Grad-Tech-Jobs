@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:coinflow:f367c81e-aa74-4e09-8838-a9816178ae48",
+      "greenhouse:networkbio:5445891008",
+      "greenhouse:orbisoperations:4436220009",
+      "greenhouse:superapp:8813982002"
+    ],
+    "telegram": [
+      "ashby:coinflow:f367c81e-aa74-4e09-8838-a9816178ae48",
+      "greenhouse:networkbio:5445891008",
+      "greenhouse:orbisoperations:4436220009",
+      "greenhouse:superapp:8813982002"
+    ]
   }
 }
