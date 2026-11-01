@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-01T09:25:25Z</updated>
+  <updated>2026-11-01T16:18:51Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:awac:/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158</id>
+    <title>Awac: Associate, Application Developer, IT Platform, AWai</title>
+    <link href="https://awac.wd108.myworkdayjobs.com/alliedworld_careers/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158"/>
+    <updated>2026-11-01T16:18:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New Jersey · Python, LLMs, React, AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366</id>
     <title>Northrop Grumman: 2027 Associate Software Engineer - Bellevue (NE) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:old-mission-capital:e307627e-98e6-47ac-924e-b0dbef1984c8</id>
-    <title>Old Mission: Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)</title>
-    <link href="https://jobs.ashbyhq.com/old-mission-capital/e307627e-98e6-47ac-924e-b0dbef1984c8"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, IL · Python, C++</summary>
   </entry>
 </feed>

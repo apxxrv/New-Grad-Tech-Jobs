@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T09:25:25Z",
- "data_as_of": "2026-11-01T09:25:25Z",
- "rendered_at": "2026-11-01T09:25:25Z",
+ "generated_at": "2026-11-01T16:18:51Z",
+ "data_as_of": "2026-11-01T16:18:51Z",
+ "rendered_at": "2026-11-01T16:18:51Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -649,25 +649,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -61,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-01"
    }
   },
   {
@@ -1707,7 +1688,7 @@
    "expected": "2026-10-14",
    "days_until": -18,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2340,6 +2321,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -61,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-01"
    }
   },
   {
