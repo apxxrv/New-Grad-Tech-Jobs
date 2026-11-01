@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-01T02:20:30Z</updated>
+  <updated>2026-11-01T09:25:25Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer - Bellevue (NE) 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366"/>
+    <updated>2026-11-01T09:25:25Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Alabama-Huntsville · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:thermofisher:/job/Bangalore-India/Associate-Systems-Developer_R-01369454</id>
+    <title>Thermo Fisher Scientific: Associate Systems Developer</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Associate-Systems-Developer_R-01369454"/>
+    <updated>2026-11-01T09:25:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bangalore, India; Taguig City, Philippines · SQL · status: closed · H-1B track record: ~368 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:af49e694-238d-4b82-9f46-3fbc4c99637f</id>
     <title>Clera: GTM Associate, RL &amp; Physical AI</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Quant · Chicago, IL · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:pureapp:c37cdf2d-18a8-417e-b429-16875859a29a</id>
-    <title>Pure: Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/pureapp/c37cdf2d-18a8-417e-b429-16875859a29a"/>
-    <updated>2026-10-29T08:40:32Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Software · New York City · $120K – $300K • Offers Equity • Offers Bonus · Java, TypeScript, SQL, React, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:relling:a31f91ae-30f9-4e36-b9d2-2cb74c398d2e</id>
-    <title>Relling: Robotics Software Engineer - New Grad</title>
-    <link href="https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Francisco · Python, C++, Computer Vision, ROS</summary>
   </entry>
 </feed>

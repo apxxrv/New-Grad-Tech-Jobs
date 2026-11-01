@@ -1428,6 +1428,7 @@
     "Class of 2027": {
      "first_posted": "2026-10-14",
      "role_ids": [
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
       "workday:ngc:/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
@@ -1443,7 +1444,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2366,5 +2367,5 @@
    }
   }
  },
- "updated_at": "2026-11-01T02:20:30Z"
+ "updated_at": "2026-11-01T09:25:25Z"
 }
