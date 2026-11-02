@@ -208,6 +208,18 @@
     }
    }
   },
+  "atkinsréalis": {
+   "name": "AtkinsRéalis",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:slihrms:/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725"
+     ],
+     "count": 1
+    }
+   }
+  },
   "autodesk": {
    "name": "Autodesk",
    "cycles": {
@@ -2274,6 +2286,18 @@
     }
    }
   },
+  "verkada": {
+   "name": "Verkada",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "greenhouse:verkada:5280545007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vermeer": {
    "name": "Vermeer",
    "cycles": {
@@ -2369,5 +2393,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T15:52:01Z"
+ "updated_at": "2026-11-02T23:30:59Z"
 }
