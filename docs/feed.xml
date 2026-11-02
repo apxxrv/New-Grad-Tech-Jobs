@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-02T06:11:35Z</updated>
+  <updated>2026-11-02T15:52:01Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440</id>
+    <title>RTX: Embedded Security Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"/>
+    <updated>2026-11-02T15:52:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:bbinsurance:/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694</id>
     <title>Brown &amp; Brown Insurance: Junior HubSpot Developer</title>
@@ -569,11 +577,11 @@
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:ecsr.fa.us2.oraclecloud.com:10009083</id>
-    <title>Vanderbilt University: AI &amp; Free Speech Specialist, The Future of Free Speech</title>
+    <title>Vanderbilt University: AI &amp; Free Speech Specialist, The Future of Free Speech- Temporary</title>
     <link href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009083"/>
-    <updated>2026-10-30T00:33:43Z</updated>
+    <updated>2026-10-29T15:47:53Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Nashville, TN, United States · status: closed · H-1B track record: ~92 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Nashville, TN, United States · H-1B track record: ~92 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States · Python, AWS, GCP, Azure, Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:old-mission-capital:78e433a8-cd5f-404d-8f58-3fcb61e9837d</id>
-    <title>Old Mission: Software Engineer – 2027 Graduate Program (August Start)</title>
-    <link href="https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Chicago, IL · Python, C++, JavaScript, SQL, React</summary>
   </entry>
 </feed>

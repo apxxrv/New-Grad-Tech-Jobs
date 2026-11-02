@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ecsr.fa.us2.oraclecloud.com:10009083",
+      "workday:globalhr:/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
+    ],
+    "telegram": [
+      "oracle:ecsr.fa.us2.oraclecloud.com:10009083",
+      "workday:globalhr:/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
+    ]
   }
 }
