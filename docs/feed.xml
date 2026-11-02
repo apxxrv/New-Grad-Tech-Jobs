@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-02T00:05:38Z</updated>
+  <updated>2026-11-02T06:11:35Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:bbinsurance:/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694</id>
+    <title>Brown &amp; Brown Insurance: Junior HubSpot Developer</title>
+    <link href="https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"/>
+    <updated>2026-11-02T06:11:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plano, TX, USA · C#, TypeScript, JavaScript, React, HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:awac:/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158</id>
     <title>Awac: Associate, Application Developer, IT Platform, AWai</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Chicago, IL · Python, C++, JavaScript, SQL, React</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:old-mission-capital:a7b34fe6-cd82-4f17-b5d7-983aa354b505</id>
-    <title>Old Mission: Quantitative Trader – 2027 Graduate Program (February Start)</title>
-    <link href="https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>
   </entry>
 </feed>

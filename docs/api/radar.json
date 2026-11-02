@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T00:05:38Z",
- "data_as_of": "2026-11-02T00:05:38Z",
- "rendered_at": "2026-11-02T00:05:38Z",
+ "generated_at": "2026-11-02T06:11:35Z",
+ "data_as_of": "2026-11-02T06:11:35Z",
+ "rendered_at": "2026-11-02T06:11:36Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -605,26 +605,7 @@
    "expected": "2026-08-31",
    "days_until": -63,
    "status": "open",
-   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "RELX",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -63,
-   "status": "open",
-   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
+   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2306,6 +2287,25 @@
   },
   {
    "company": "CapTech Consulting",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -63,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "RELX",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

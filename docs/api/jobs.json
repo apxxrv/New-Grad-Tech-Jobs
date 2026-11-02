@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-11-02T00:05:38Z",
- "data_as_of": "2026-11-02T00:05:38Z",
- "rendered_at": "2026-11-02T00:05:38Z",
+ "generated_at": "2026-11-02T06:11:35Z",
+ "data_as_of": "2026-11-02T06:11:35Z",
+ "rendered_at": "2026-11-02T06:11:36Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1029,
+ "count": 1031,
  "jobs": [
+  {
+   "id": "workday:bbinsurance:/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+   "company": "Brown & Brown Insurance",
+   "title": "Junior HubSpot Developer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Plano, TX, USA",
+   "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+   "posted_at": "2026-11-01T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-11-02T06:11:35Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "HTML/CSS",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
    "company": "Northrop Grumman",
@@ -15691,31 +15719,6 @@
    "remote": false
   },
   {
-   "id": "workday:micron:/job/Richardson-TX/New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578",
-   "company": "Micron Technology",
-   "title": "New College Grad - AI Infrastructure & HBM Architecture Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Richardson, TX",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": 489,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "greenhouse:superapp:8813982002",
    "company": "SuperApp",
    "title": "Software Engineer - Early Careers",
@@ -17077,14 +17080,14 @@
   },
   {
    "id": "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
-   "company": "RELX",
+   "company": "LexisNexis Risk Solutions",
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
    "season": "Class of 2027",
    "seasons": null,
    "season_inferred": false,
    "category": "Software",
    "location": "Alpharetta, GA",
-   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
+   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617",
    "posted_at": "2026-08-31T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-28T08:05:06Z",
@@ -17101,20 +17104,20 @@
     "Azure"
    ],
    "source": "workday",
-   "h1b_approvals": null,
+   "h1b_approvals": 69,
    "program": "New Grad",
    "remote": false
   },
   {
    "id": "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
-   "company": "RELX",
+   "company": "LexisNexis Risk Solutions",
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
    "season": "Class of 2027",
    "seasons": null,
    "season_inferred": false,
    "category": "Software",
    "location": "Alpharetta, GA",
-   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
+   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1",
    "posted_at": "2026-08-31T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-28T08:05:06Z",
@@ -17131,7 +17134,7 @@
     "Azure"
    ],
    "source": "workday",
-   "h1b_approvals": null,
+   "h1b_approvals": 69,
    "program": "New Grad",
    "remote": false
   },
@@ -21057,6 +21060,29 @@
    "remote": false
   },
   {
+   "id": "bytedance:tiktok:7668854153882011957",
+   "company": "TikTok",
+   "title": "Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+   "season": "Class of 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "San Jose, California, USA",
+   "url": "https://lifeattiktok.com/search/7668854153882011957",
+   "posted_at": "2026-08-01T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-17T02:09:43Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "PyTorch"
+   ],
+   "source": "bytedance",
+   "h1b_approvals": 442,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
    "id": "bytedance:tiktok:7668855346857019701",
    "company": "TikTok",
    "title": "Software Engineer Graduate (Ads Interface) - 2027 Start",
@@ -22004,6 +22030,29 @@
     "Angular",
     "Vue",
     "HTML/CSS"
+   ],
+   "source": "bytedance",
+   "h1b_approvals": 442,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
+   "id": "bytedance:tiktok:7668831188103481605",
+   "company": "TikTok",
+   "title": "Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)",
+   "season": "Class of 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "San Jose, California, USA",
+   "url": "https://lifeattiktok.com/search/7668831188103481605",
+   "posted_at": "2026-07-31T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-17T02:09:43Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "PyTorch"
    ],
    "source": "bytedance",
    "h1b_approvals": 442,
