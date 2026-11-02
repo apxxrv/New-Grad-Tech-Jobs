@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-01T20:43:11Z</updated>
+  <updated>2026-11-02T00:05:38Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:workday:awac:/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158</id>
@@ -440,6 +440,14 @@
     <summary>2 openings · Not stated · Software · Washington, D.C. · Python, Computer Vision, Docker, Linux, Git · status: closed</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:986a26e9-0597-4402-85ee-0f05a6012902</id>
+    <title>Shield AI: Software Engineer I - New Grad (R6052)</title>
+    <link href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902"/>
+    <updated>2026-10-29T16:25:23Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Seattle, Washington · Rust, SQL, React, Linux</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:greenhouse:akunacapitaloci:8065014</id>
     <title>Akuna Capital: Junior Quantitative Developer &amp; Strategist - 2027 | University of Chicago</title>
     <link href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014"/>
@@ -795,14 +803,6 @@
     <id>urn:grad-engine:ashby:old-mission-capital:a7b34fe6-cd82-4f17-b5d7-983aa354b505</id>
     <title>Old Mission: Quantitative Trader – 2027 Graduate Program (February Start)</title>
     <link href="https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505"/>
-    <updated>2026-10-28T17:41:01Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:old-mission-capital:a8bad54c-405b-469c-8a7d-b7794dfb54b3</id>
-    <title>Old Mission: Quantitative Trader – 2027 Graduate Program (August Start)</title>
-    <link href="https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3"/>
     <updated>2026-10-28T17:41:01Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Quant · Chicago, IL or New York, NY · Python, C++</summary>

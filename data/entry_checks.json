@@ -2042,8 +2042,8 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
-  "greenhouse:andurilindustries:5256493007": {
-    "checked_at": "2026-10-31T23:03:52Z",
+  "greenhouse:andurilindustries:5256500007": {
+    "checked_at": "2026-11-02T00:05:38Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -5768,13 +5768,13 @@
     "title": "Data Engineer in Test",
     "version": 1
   },
-  "greenhouse:prolificacademicltd:5020550101": {
-    "checked_at": "2026-10-31T23:03:52Z",
+  "greenhouse:prolificacademicltd:5020551101": {
+    "checked_at": "2026-11-02T00:05:38Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
     ],
-    "title": "Industry Physician - AI Research Participants - United States (Remote)",
+    "title": "Junior Doctor - AI Research Participants - United States (Remote)",
     "version": 1
   },
   "greenhouse:prolificacademicltd:5020552101": {
@@ -6524,6 +6524,15 @@
     "title": "Simulation Software Engineer (Vehicle Engineering)",
     "version": 1
   },
+  "greenhouse:spacex:8829681002": {
+    "checked_at": "2026-11-02T00:05:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
   "greenhouse:spacex:8831632002": {
     "checked_at": "2026-11-01T02:20:30Z",
     "cycles": [
@@ -6650,8 +6659,8 @@
     "title": "Full Stack Software Engineer, Launch Software",
     "version": 1
   },
-  "greenhouse:spacex:8852117002": {
-    "checked_at": "2026-10-31T23:03:52Z",
+  "greenhouse:spacex:8852118002": {
+    "checked_at": "2026-11-02T00:05:38Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -8954,6 +8963,15 @@
     "title": "Software Engineer, Data",
     "version": 1
   },
+  "workday:acs:/job/GA-Atlanta/Temporary---Data-Engineer_JR3466": {
+    "checked_at": "2026-11-02T00:05:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Temporary - Data Engineer",
+    "version": 1
+  },
   "workday:adec:/job/Oregon---Newberg-Campus/Data-Engineer_JR102478": {
     "checked_at": "2026-11-01T02:20:29Z",
     "cycles": [
@@ -9447,6 +9465,15 @@
       "Class of 2027"
     ],
     "title": "Information Systems Security Engineer (ISSE1) (Government)",
+    "version": 1
+  },
+  "workday:autonation:/job/Autonomous-Vehicle-Depot---Washington-DC/Autonomous-Vehicle-Technician---Washington-DC---ML-SHIFT---Pay-up-to--5796-per-hour_JR2026150624": {
+    "checked_at": "2026-11-02T00:05:38Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Autonomous Vehicle Technician - Washington D.C. - ML SHIFT - Pay up to $57.96 per hour",
     "version": 1
   },
   "workday:autostore:/job/Atlanta-GA-USA/Robotics-Simulation-Engineer---Physical-AI---Digital-Twins_JR102741": {
