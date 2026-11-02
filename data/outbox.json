@@ -1,50 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:aurora-operations-inc:3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
-      "oracle:edel.fa.us2.oraclecloud.com:24852",
-      "oracle:edel.fa.us2.oraclecloud.com:24851",
-      "workday:genpt:/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000035844",
-      "ashby:jerry.ai:18efcfbf-bfb6-4186-9109-323cfda29f13",
-      "oracle:emje.fa.us6.oraclecloud.com:22524",
-      "oracle:ecsr.fa.us2.oraclecloud.com:10009068",
-      "smartrecruiters:AbbVie:3743990016565806",
-      "greenhouse:andurilindustries:5236290007",
-      "workday:slihrms:/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725",
-      "workday:bah:/job/McLean-VA/ServiceNow-Developer--Junior_R0251800",
-      "workday:caci:/job/Remote-Any-State/RPA-Developer_334297",
-      "workday:cisco:/job/San-Francisco-California-US/Software-Engineer_2028277-2",
-      "workday:nascar:/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445",
-      "greenhouse:qualtrics:8334245",
-      "greenhouse:qualtrics:8325652",
-      "greenhouse:smartsheet:8347710",
-      "greenhouse:spacex:8920514002",
-      "workday:statestreet:/job/Burlington-Massachusetts/Application--Infrastructure---Service-Management--AVP_R-794569",
-      "workday:taxwell:/job/Remote---Texas/Software-Engineer-I_R0003951",
-      "greenhouse:verkada:5280545007"
-    ],
-    "telegram": [
-      "ashby:aurora-operations-inc:3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
-      "oracle:edel.fa.us2.oraclecloud.com:24852",
-      "oracle:edel.fa.us2.oraclecloud.com:24851",
-      "workday:genpt:/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000035844",
-      "ashby:jerry.ai:18efcfbf-bfb6-4186-9109-323cfda29f13",
-      "oracle:emje.fa.us6.oraclecloud.com:22524",
-      "oracle:ecsr.fa.us2.oraclecloud.com:10009068",
-      "smartrecruiters:AbbVie:3743990016565806",
-      "greenhouse:andurilindustries:5236290007",
-      "workday:slihrms:/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725",
-      "workday:bah:/job/McLean-VA/ServiceNow-Developer--Junior_R0251800",
-      "workday:caci:/job/Remote-Any-State/RPA-Developer_334297",
-      "workday:cisco:/job/San-Francisco-California-US/Software-Engineer_2028277-2",
-      "workday:nascar:/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445",
-      "greenhouse:qualtrics:8334245",
-      "greenhouse:qualtrics:8325652",
-      "greenhouse:smartsheet:8347710",
-      "greenhouse:spacex:8920514002",
-      "workday:statestreet:/job/Burlington-Massachusetts/Application--Infrastructure---Service-Management--AVP_R-794569",
-      "workday:taxwell:/job/Remote---Texas/Software-Engineer-I_R0003951",
-      "greenhouse:verkada:5280545007"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
