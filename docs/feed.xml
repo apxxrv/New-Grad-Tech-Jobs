@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-03T04:19:11Z</updated>
+  <updated>2026-11-03T12:14:04Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:centene:/job/Remote-MO/Cloud-Platform-Engineer-I_1671976</id>
+    <title>Centene: Cloud Platform Engineer I</title>
+    <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1671976"/>
+    <updated>2026-11-03T12:14:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote-MO, United States of America; Remote-NE; Remote-KS; Remote-AZ; Remote-SD; Remote-ND; Remote-IN; Remote-AR; Remote-IL; Remote-AL; Remote-MT; Remote-ID; Remote-MS; Remote-IA; Remote-WY; Remote-OR; Remote-OK; Remote-MN; Remote-WI; Remote-OH; Remote-MI; Remote-NV; Remote-NM; Remote-UT; Remote-LA; Remote-CO; Remote-TX; Remote-CA · $30.58–$55.09/hr · Python, LLMs, AWS, Azure, Git</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:applied:48bab48f-c708-40b6-ac2c-36bb704287b3</id>
     <title>Applied Intuition: Software Engineer (Sunnyvale, CA)</title>
@@ -730,7 +738,7 @@
   <entry>
     <id>urn:grad-engine:workday:draftkings:/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1</id>
     <title>DraftKings: Software Engineer (December 2026 Grads)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1"/>
     <updated>2026-10-29T16:25:23Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · Boston, MA · Java, C#, TypeScript, Swift, Kotlin · H-1B track record: ~52 approvals (FY2022–2023)</summary>
@@ -798,13 +806,5 @@
     <updated>2026-10-29T15:47:52Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Toronto, Ontario, Canada; Waterloo, Ontario · Python, SQL, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831</id>
-    <title>FactSet: Software Engineer I</title>
-    <link href="https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831"/>
-    <updated>2026-10-29T16:25:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · India, Hyderabad, DVS, SEZ-1 – Orion B4; FL 7,8,9,11 (Hyderabad - Divyasree 3) · Java, SQL, Spring, PostgreSQL · status: closed</summary>
   </entry>
 </feed>
