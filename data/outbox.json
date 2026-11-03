@@ -1,6 +1,42 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:egug.fa.us2.oraclecloud.com:26013255",
+      "oracle:egug.fa.us2.oraclecloud.com:26013254",
+      "eightfold:microsoft:1970393557050639",
+      "workday:vantive:/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1",
+      "greenhouse:alarmcom:8923631002",
+      "greenhouse:coherehealth:8015082003",
+      "workday:costar:/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
+      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer_R-00196157",
+      "workday:leidos:/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405",
+      "workday:ncr:/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
+      "workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083895",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-l---Embedded--Onsite_01886765",
+      "workday:globalhr:/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1",
+      "workday:stvinc:/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923",
+      "workday:maxar:/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24867-3",
+      "workday:maxar:/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
+    ],
+    "telegram": [
+      "oracle:egug.fa.us2.oraclecloud.com:26013255",
+      "oracle:egug.fa.us2.oraclecloud.com:26013254",
+      "eightfold:microsoft:1970393557050639",
+      "workday:vantive:/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1",
+      "greenhouse:alarmcom:8923631002",
+      "greenhouse:coherehealth:8015082003",
+      "workday:costar:/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
+      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer_R-00196157",
+      "workday:leidos:/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405",
+      "workday:ncr:/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
+      "workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083895",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-l---Embedded--Onsite_01886765",
+      "workday:globalhr:/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1",
+      "workday:stvinc:/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923",
+      "workday:maxar:/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24867-3",
+      "workday:maxar:/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
+    ]
   }
 }
