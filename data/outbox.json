@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:applied:48bab48f-c708-40b6-ac2c-36bb704287b3",
-      "workday:mckesson:/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0152816",
-      "workday:umiami:/job/Coral-Gables-FL/BI-Report-Developer-1_R100102376"
-    ],
-    "telegram": [
-      "ashby:applied:48bab48f-c708-40b6-ac2c-36bb704287b3",
-      "workday:mckesson:/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0152816",
-      "workday:umiami:/job/Coral-Gables-FL/BI-Report-Developer-1_R100102376"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
