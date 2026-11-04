@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016499",
+      "greenhouse:atomicmachines:4478776009",
+      "workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831",
+      "workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626",
+      "workday:ttc:/job/Pune-IN/QA-Developer-I---Toro-Technology-Center-India_JR17716"
+    ],
+    "telegram": [
+      "workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016499",
+      "greenhouse:atomicmachines:4478776009",
+      "workday:factset:/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Internal-Job-Posting-Software-Engineer---III_R31831",
+      "workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626",
+      "workday:ttc:/job/Pune-IN/QA-Developer-I---Toro-Technology-Center-India_JR17716"
+    ]
   }
 }

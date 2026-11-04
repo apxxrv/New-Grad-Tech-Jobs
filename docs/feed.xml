@@ -5,15 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-04T00:32:18Z</updated>
+  <updated>2026-11-04T07:15:18Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:bytedance:bytedance:7704089625815468293</id>
-    <title>ByteDance: Video/Image AI/ML Software Engineer - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</title>
-    <link href="https://joinbytedance.com/search/7704089625815468293"/>
-    <updated>2026-11-04T00:32:18Z</updated>
+    <id>urn:grad-engine:workday:lifeworks:/job/Toronto-Ontario-Canada/System-Analyst_R-22736</id>
+    <title>TELUS: Front End Developer Analyst (remote)</title>
+    <link href="https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/System-Analyst_R-22736"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada; Montreal, Quebec, Canada · Python, JavaScript, SQL, HTML/CSS, .NET · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016499</id>
+    <title>University of Wisconsin-Madison: Data Analyst</title>
+    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016499"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:atomicmachines:4478776009</id>
+    <title>Atomic Machines: Applied AI Engineer, People</title>
+    <link href="https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Emeryville, or Santa Clara, California · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626</id>
+    <title>Northrop Grumman: 2027 Associate S/W Embedded Engineer – Sykesville MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626"/>
+    <updated>2026-11-04T07:15:18Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Software · United States-Maryland-Sykesville · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ttc:/job/Pune-IN/QA-Developer-I---Toro-Technology-Center-India_JR17716</id>
+    <title>The Toro Company: QA Developer I - Toro Technology Center India</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Pune-IN/QA-Developer-I---Toro-Technology-Center-India_JR17716"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Pune, IN · C#, SQL, Azure, Selenium</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:plsn:c422866f-657e-4510-9c05-872a8f8e0ad6</id>
@@ -32,20 +64,20 @@
     <summary>Not stated · Software · Palo Alto, California · $150K – $220K • 0.5% – 1.5% · Python</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:bytedance:bytedance:7704089625815468293</id>
+    <title>ByteDance: Video/Image AI/ML Software Engineer - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</title>
+    <link href="https://joinbytedance.com/search/7704089625815468293"/>
+    <updated>2026-11-04T00:32:18Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:eightfold:qualcomm:446721916659</id>
     <title>Qualcomm: Modem Machine Learning Engineer</title>
     <link href="https://careers.qualcomm.com/careers/job/446721916659"/>
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Diego, California, United States of America · Python, C++, SQL, PyTorch, TensorFlow · H-1B track record: ~85 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727</id>
-    <title>Amentum: Software Tools Developer, Entry Level 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-AL-Huntsville · Python, C++, JavaScript, React, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:captivation:5471530008</id>
@@ -72,20 +104,20 @@
     <summary>Class of 2027 · Data &amp; ML/AI · New York, NY · Python, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:isu:/job/Ames-IA/Research-Scientist-I---Poultry_R20169</id>
-    <title>Iowa State University: Research Scientist I - Poultry 🛂</title>
-    <link href="https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Research-Scientist-I---Poultry_R20169"/>
+    <id>urn:grad-engine:greenhouse:rocketlab:8182050003</id>
+    <title>Rocket Lab: AI Software Engineer I 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"/>
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ames, IA · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA · Python, PyTorch, Pandas, LLMs, AWS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1</id>
-    <title>RELX: Tech Accelerate Graduate Program - Software Engineer I</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"/>
+    <id>urn:grad-engine:greenhouse:spacex:8925605002</id>
+    <title>SpaceX: Embedded Software Engineer, Satellite Antenna (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002"/>
     <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Alpharetta, GA · Python, Java, C++, JavaScript, SQL</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Redmond, WA · C++, Rust</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:LinkedIn3:744000159509679</id>
@@ -94,6 +126,22 @@
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, United States (Hybrid) · Python, Java, SQL, Scala, Ruby · H-1B track record: ~1.6k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:Skyward1:744000159491899</id>
+    <title>Skyward: Software Engineer - Entry Level</title>
+    <link href="https://jobs.smartrecruiters.com/Skyward1/744000159491899"/>
+    <updated>2026-11-04T00:32:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Stevens Point, WI, United States (Hybrid) · C#, JavaScript, SQL, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:isu:/job/Ames-IA/Research-Scientist-I---Poultry_R20169</id>
+    <title>Iowa State University: Research Scientist I - Poultry 🛂</title>
+    <link href="https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Research-Scientist-I---Poultry_R20169"/>
+    <updated>2026-11-04T00:32:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ames, IA · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882</id>
@@ -112,28 +160,20 @@
     <summary>Class of 2027 · Software · Buffalo, NY · $29.57–$43.99/hr · Python, Java, C#, Ruby, LLMs · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:rocketlab:8182050003</id>
-    <title>Rocket Lab: AI Software Engineer I 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"/>
+    <id>urn:grad-engine:workday:pae:/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727</id>
+    <title>Amentum: Software Tools Developer, Entry Level 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"/>
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA · Python, PyTorch, Pandas, LLMs, AWS · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · US-AL-Huntsville · Python, C++, JavaScript, React, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:smartrecruiters:Skyward1:744000159491899</id>
-    <title>Skyward: Software Engineer - Entry Level</title>
-    <link href="https://jobs.smartrecruiters.com/Skyward1/744000159491899"/>
+    <id>urn:grad-engine:workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1</id>
+    <title>RELX: Tech Accelerate Graduate Program - Software Engineer I</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"/>
     <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Stevens Point, WI, United States (Hybrid) · C#, JavaScript, SQL, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8925605002</id>
-    <title>SpaceX: Embedded Software Engineer, Satellite Antenna (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Redmond, WA · C++, Rust</summary>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Alpharetta, GA · Python, Java, C++, JavaScript, SQL</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:eightfold:microsoft:1970393557050639</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-30T06:37:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Livermore, CA, United States (Hybrid) · $121.83k–$154.5k/yr · Python, SQL, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:appliedis:/job/Remote---VA/Junior-Data-Engineer_JR2026001430</id>
-    <title>Applied Information Sciences: Junior Data Engineer</title>
-    <link href="https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Junior-Data-Engineer_JR2026001430"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - VA · $93k–$141k/yr · Python, SQL, LLMs, AWS, Terraform · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:lennar:/job/St-Petersburg-FL/Cloud-Engineer-I_R26_0000004699</id>
-    <title>Lennar Corporation: Cloud Engineer I</title>
-    <link href="https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/St-Petersburg-FL/Cloud-Engineer-I_R26_0000004699"/>
-    <updated>2026-10-29T20:51:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St. Petersburg, FL · Python, SQL, Bash, AWS, Azure · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:magellanhealth:/job/Charleston-AFB-SC-29404-MFLC-Joint-Base-Charleston/Military---Family-Life-Counselor---Adult-Embedded_R00000071236</id>
-    <title>Magellan Health: Military &amp; Family Life Counselor - Adult Embedded</title>
-    <link href="https://magellanhealth.wd5.myworkdayjobs.com/magellan_health_careers/job/Charleston-AFB-SC-29404-MFLC-Joint-Base-Charleston/Military---Family-Life-Counselor---Adult-Embedded_R00000071236"/>
-    <updated>2026-10-29T20:51:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Charleston AFB SC 29404 MFLC Joint Base Charleston · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:moog:/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229</id>
-    <title>Moog: Associate Software Engineer 🇺🇸</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229"/>
-    <updated>2026-11-03T04:19:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Barbara, CA · $114.5k/yr · Linux · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109</id>
-    <title>Morningstar: Associate Software Engineer (Central Tech AI) - Partner Link</title>
-    <link href="https://morningstar.wd5.myworkdayjobs.com/confidential/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109"/>
-    <updated>2026-10-29T20:51:09Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · Chicago · Python, LLMs · H-1B track record: ~64 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
