@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T07:15:18Z",
- "data_as_of": "2026-11-04T07:15:18Z",
- "rendered_at": "2026-11-04T07:15:18Z",
+ "generated_at": "2026-11-04T15:42:18Z",
+ "data_as_of": "2026-11-04T15:42:18Z",
+ "rendered_at": "2026-11-04T15:42:18Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -2286,6 +2286,25 @@
    }
   },
   {
+   "company": "Rolls-Royce",
+   "last_cycle_posted": "2026-11-04",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2027-11-04",
+   "days_until": 365,
+   "status": "waiting",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-projection",
+    "cycle": "Class of 2026",
+    "observed_on": "2026-11-04"
+   }
+  },
+  {
    "company": "Momentum",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -2666,5 +2685,5 @@
    }
   }
  ],
- "count": 140
+ "count": 141
 }

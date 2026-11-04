@@ -5,23 +5,47 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-04T07:15:18Z</updated>
+  <updated>2026-11-04T15:42:18Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:lifeworks:/job/Toronto-Ontario-Canada/System-Analyst_R-22736</id>
-    <title>TELUS: Front End Developer Analyst (remote)</title>
-    <link href="https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/System-Analyst_R-22736"/>
-    <updated>2026-11-04T07:15:18Z</updated>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855</id>
+    <title>Bristol Myers Squibb: Data &amp; AI Platform Engineer I, Commercialization</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855"/>
+    <updated>2026-11-04T15:42:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada; Montreal, Quebec, Canada · Python, JavaScript, SQL, HTML/CSS, .NET · status: closed</summary>
+    <summary>Not stated · Data &amp; ML/AI · Hyderabad - TS - IN · Python, SQL, AWS, Git, Databricks · H-1B track record: ~226 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016499</id>
-    <title>University of Wisconsin-Madison: Data Analyst</title>
-    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016499"/>
-    <updated>2026-11-04T07:15:18Z</updated>
+    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480</id>
+    <title>M&amp;T Bank: 2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management) 🛂</title>
+    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480"/>
+    <updated>2026-11-04T15:42:18Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Buffalo, NY · $29.57–$43.99/hr · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458</id>
+    <title>M&amp;T Bank: 2027 Technology Development Program - Cybersecurity (Workforce Identity &amp; Access Management) 🛂</title>
+    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458"/>
+    <updated>2026-11-04T15:42:18Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Buffalo, NY · $29.57–$43.99/hr · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rollsroyce:/job/Indianapolis/Controls-Operations-Engineer_JR6160756</id>
+    <title>Rolls-Royce: Software Development Infrastructure Engineer</title>
+    <link href="https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Controls-Operations-Engineer_JR6160756"/>
+    <updated>2026-11-04T15:42:18Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · Indianapolis · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989</id>
+    <title>RTX: Platform Engineer I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989"/>
+    <updated>2026-11-04T15:42:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
+    <summary>Not stated · Software · US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG · Kubernetes, Docker, Terraform, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:atomicmachines:4478776009</id>
@@ -30,6 +54,14 @@
     <updated>2026-11-04T07:15:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Emeryville, or Santa Clara, California · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:lifeworks:/job/Toronto-Ontario-Canada/System-Analyst_R-22736</id>
+    <title>TELUS: Front End Developer Analyst (remote)</title>
+    <link href="https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/System-Analyst_R-22736"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada; Montreal, Quebec, Canada · Python, JavaScript, SQL, HTML/CSS, .NET · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626</id>
@@ -46,6 +78,14 @@
     <updated>2026-11-04T07:15:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Pune, IN · C#, SQL, Azure, Selenium</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Analyst_JR10016499</id>
+    <title>University of Wisconsin-Madison: Data Analyst</title>
+    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Analyst_JR10016499"/>
+    <updated>2026-11-04T07:15:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL, Git, Tableau</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:plsn:c422866f-657e-4510-9c05-872a8f8e0ad6</id>
@@ -203,9 +243,9 @@
     <id>urn:grad-engine:workday:globalhr:/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1</id>
     <title>RTX: Leadership Development Program – Engineering, Software Discipline (Starts June 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1"/>
-    <updated>2026-11-03T19:44:25Z</updated>
+    <updated>2026-11-04T15:42:18Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ · Python, Java, C++, C# · sponsorship: citizens-only</summary>
+    <summary>Class of 2027 · Software · US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ · Python, Java, C++, C# · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:leidos:/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-30T00:33:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, SQL, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:tsc:/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896</id>
-    <title>TSC: Junior Software Engineer (UAS)</title>
-    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896"/>
-    <updated>2026-10-30T00:33:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, VA · Python, C++, JavaScript, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:northwoodspace:f7b9e8d5-7368-4a54-b445-ff647f12b1b6</id>
-    <title>Northwood Space: Software Engineer- Early Career (Platform) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6"/>
-    <updated>2026-10-29T20:51:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Torrance, CA · $123K – $140K · Python, C++, Rust, TypeScript, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:axon:8040053003</id>
-    <title>Axon: Unity Software Engineer I - Internal Tools</title>
-    <link href="https://job-boards.greenhouse.io/axon/jobs/8040053003"/>
-    <updated>2026-10-30T00:33:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seattle, Washington, United States · C# · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:hcwp.fa.us2.oraclecloud.com:2015589</id>
-    <title>Coherent: Data Analyst - Project Management Support</title>
-    <link href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015589"/>
-    <updated>2026-10-29T20:51:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Budd Lake, NJ, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:LLNL:3743990016508806</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Geographic Information System Software Developer</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990016508806"/>
-    <updated>2026-10-30T06:37:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Livermore, CA, United States (Hybrid) · $121.83k–$154.5k/yr · Python, SQL, Git · status: closed</summary>
   </entry>
 </feed>
