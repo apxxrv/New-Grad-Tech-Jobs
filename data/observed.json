@@ -508,9 +508,10 @@
       "bytedance:bytedance:7686733097398290693",
       "bytedance:bytedance:7689561253011097909",
       "bytedance:bytedance:7698902624003229957",
-      "bytedance:bytedance:7698902624389482757"
+      "bytedance:bytedance:7698902624389482757",
+      "bytedance:bytedance:7704089625815468293"
      ],
-     "count": 107
+     "count": 108
     }
    }
   },
@@ -855,6 +856,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "eulerity": {
+   "name": "Eulerity",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "greenhouse:eulerity:4726901006"
      ],
      "count": 1
     }
@@ -1280,9 +1293,11 @@
      "first_posted": "2026-10-01",
      "role_ids": [
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1767,17 +1782,19 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
-      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"
      ],
-     "count": 2
+     "count": 3
     },
     "Class of 2026": {
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
-      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2407,5 +2424,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T19:44:25Z"
+ "updated_at": "2026-11-04T00:32:18Z"
 }

@@ -1,6 +1,44 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "bytedance:bytedance:7704089625815468293",
+      "ashby:plsn:c422866f-657e-4510-9c05-872a8f8e0ad6",
+      "ashby:plsn:fc551b74-07b0-4dfe-b830-d4c437995100",
+      "eightfold:qualcomm:446721916659",
+      "workday:pae:/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727",
+      "greenhouse:assystinc:4436912009",
+      "greenhouse:captivation:5471530008",
+      "greenhouse:captivation:5471546008",
+      "greenhouse:eulerity:4726901006",
+      "workday:hpinc:/job/Tulsa-OK-USA/Cybersecurity-Analyst-I_REQ-2991",
+      "workday:isu:/job/Ames-IA/Research-Scientist-I---Poultry_R20169",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1",
+      "smartrecruiters:LinkedIn3:744000159509679",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
+      "greenhouse:rocketlab:8182050003",
+      "smartrecruiters:Skyward1:744000159491899",
+      "greenhouse:spacex:8925605002"
+    ],
+    "telegram": [
+      "bytedance:bytedance:7704089625815468293",
+      "ashby:plsn:c422866f-657e-4510-9c05-872a8f8e0ad6",
+      "ashby:plsn:fc551b74-07b0-4dfe-b830-d4c437995100",
+      "eightfold:qualcomm:446721916659",
+      "workday:pae:/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727",
+      "greenhouse:assystinc:4436912009",
+      "greenhouse:captivation:5471530008",
+      "greenhouse:captivation:5471546008",
+      "greenhouse:eulerity:4726901006",
+      "workday:hpinc:/job/Tulsa-OK-USA/Cybersecurity-Analyst-I_REQ-2991",
+      "workday:isu:/job/Ames-IA/Research-Scientist-I---Poultry_R20169",
+      "workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1",
+      "smartrecruiters:LinkedIn3:744000159509679",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
+      "greenhouse:rocketlab:8182050003",
+      "smartrecruiters:Skyward1:744000159491899",
+      "greenhouse:spacex:8925605002"
+    ]
   }
 }
