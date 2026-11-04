@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T15:42:18Z",
- "data_as_of": "2026-11-04T15:42:18Z",
- "rendered_at": "2026-11-04T15:42:18Z",
+ "generated_at": "2026-11-04T21:46:40Z",
+ "data_as_of": "2026-11-04T21:46:40Z",
+ "rendered_at": "2026-11-04T21:46:41Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1460,7 +1460,7 @@
    "expected": "2026-10-01",
    "days_until": -34,
    "status": "open",
-   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1593,7 +1593,7 @@
    "expected": "2026-10-09",
    "days_until": -26,
    "status": "open",
-   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607",
+   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1963,6 +1963,25 @@
    }
   },
   {
+   "company": "Rolls-Royce",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-04"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2283,25 +2302,6 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-10-29"
-   }
-  },
-  {
-   "company": "Rolls-Royce",
-   "last_cycle_posted": "2026-11-04",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2027-11-04",
-   "days_until": 365,
-   "status": "waiting",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-projection",
-    "cycle": "Class of 2026",
-    "observed_on": "2026-11-04"
    }
   },
   {

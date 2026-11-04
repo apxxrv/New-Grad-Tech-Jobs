@@ -1,6 +1,50 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26013465",
+      "oracle:efds.fa.em5.oraclecloud.com:73527",
+      "workday:guidewire:/job/United-States---Exton-PA/Software-Engineer_JR_15373-1",
+      "workday:guidewire:/job/United-States---Exton-PA/Software-Engineer_JR_15376-1",
+      "workday:abbott:/job/United-States---California---Pleasanton/Software-Test-Engineer_31165820",
+      "greenhouse:captivation:5473290008",
+      "greenhouse:captivation:5473266008",
+      "greenhouse:captivation:5473267008",
+      "greenhouse:captivation:5473268008",
+      "smartrecruiters:HardinDesign:744000159682070",
+      "smartrecruiters:Keenfinity:744000159681439",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554",
+      "workday:magellanhealth:/job/Goldsboro-NC-27531-MFLC-Seymour-Johnson-AFB/Military-and-Family-Life-Counselor---Embedded--adults-_R00000071301-1",
+      "workday:mckesson:/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155879",
+      "smartrecruiters:NBCUniversal3:744000159723020",
+      "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819",
+      "workday:sonyglobal:/job/San-Diego/Associate-Data-Analyst_JR-119868",
+      "workday:boeing:/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462",
+      "workday:boeing:/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026528665"
+    ],
+    "telegram": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26013465",
+      "oracle:efds.fa.em5.oraclecloud.com:73527",
+      "workday:guidewire:/job/United-States---Exton-PA/Software-Engineer_JR_15373-1",
+      "workday:guidewire:/job/United-States---Exton-PA/Software-Engineer_JR_15376-1",
+      "workday:abbott:/job/United-States---California---Pleasanton/Software-Test-Engineer_31165820",
+      "greenhouse:captivation:5473290008",
+      "greenhouse:captivation:5473266008",
+      "greenhouse:captivation:5473267008",
+      "greenhouse:captivation:5473268008",
+      "smartrecruiters:HardinDesign:744000159682070",
+      "smartrecruiters:Keenfinity:744000159681439",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554",
+      "workday:magellanhealth:/job/Goldsboro-NC-27531-MFLC-Seymour-Johnson-AFB/Military-and-Family-Life-Counselor---Embedded--adults-_R00000071301-1",
+      "workday:mckesson:/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155879",
+      "smartrecruiters:NBCUniversal3:744000159723020",
+      "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819",
+      "workday:sonyglobal:/job/San-Diego/Associate-Data-Analyst_JR-119868",
+      "workday:boeing:/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462",
+      "workday:boeing:/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026528665"
+    ]
   }
 }

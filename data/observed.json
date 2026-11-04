@@ -916,9 +916,10 @@
     "Class of 2027": {
      "first_posted": "2026-10-09",
      "role_ids": [
-      "oracle:efds.fa.em5.oraclecloud.com:72607"
+      "oracle:efds.fa.em5.oraclecloud.com:72607",
+      "oracle:efds.fa.em5.oraclecloud.com:73527"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1292,6 +1293,9 @@
     "Class of 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
@@ -1299,7 +1303,7 @@
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
      ],
-     "count": 6
+     "count": 9
     }
    }
   },
@@ -1843,7 +1847,15 @@
     "Class of 2026": {
      "first_posted": "2026-11-04",
      "role_ids": [
-      "workday:rollsroyce:/job/Indianapolis/Controls-Operations-Engineer_JR6160756"
+      "workday:rollsroyce:/job/Indianapolis/Controls-Operations-Engineer_JR6160756",
+      "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819"
+     ],
+     "count": 2
+    },
+    "Class of 2027": {
+     "first_posted": "2026-11-04",
+     "role_ids": [
+      "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819"
      ],
      "count": 1
     }
@@ -2439,5 +2451,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T15:42:18Z"
+ "updated_at": "2026-11-04T21:46:40Z"
 }
