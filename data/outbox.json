@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855",
-      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
-      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480",
-      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458",
-      "workday:rollsroyce:/job/Indianapolis/Controls-Operations-Engineer_JR6160756",
-      "workday:globalhr:/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989"
-    ],
-    "telegram": [
-      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855",
-      "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Process-Data-Engineer-I---Pharmaceutical-Product-Development_R1605604-1",
-      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480",
-      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458",
-      "workday:rollsroyce:/job/Indianapolis/Controls-Operations-Engineer_JR6160756",
-      "workday:globalhr:/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
