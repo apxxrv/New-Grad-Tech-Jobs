@@ -1,34 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:erg:ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a",
-      "lever:erg:b6fd32ca-e15e-4abf-b2fd-8a1e7498ab5a",
-      "workday:cisive:/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
-      "workday:darktrace:/job/USA---California-Home-Office/Cyber-Security-Analyst_JR102503",
-      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J288021-1",
-      "workday:leidos:/job/Huntsville-AL/Entry-Level-Software-Tester_R-00196288",
-      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1",
-      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460",
-      "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875-1",
-      "greenhouse:myriad360:8930382002",
-      "workday:priceline:/job/New-York/Associate-Software-Engineer_R5911",
-      "workday:sbmmanagement:/job/MCCLELLAN-CA/Software-Data-Entry-Specialist-I_JR108895",
-      "workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2915"
-    ],
-    "telegram": [
-      "lever:erg:ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a",
-      "lever:erg:b6fd32ca-e15e-4abf-b2fd-8a1e7498ab5a",
-      "workday:cisive:/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
-      "workday:darktrace:/job/USA---California-Home-Office/Cyber-Security-Analyst_JR102503",
-      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J288021-1",
-      "workday:leidos:/job/Huntsville-AL/Entry-Level-Software-Tester_R-00196288",
-      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1",
-      "workday:mastercard:/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460",
-      "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875-1",
-      "greenhouse:myriad360:8930382002",
-      "workday:priceline:/job/New-York/Associate-Software-Engineer_R5911",
-      "workday:sbmmanagement:/job/MCCLELLAN-CA/Software-Data-Entry-Specialist-I_JR108895",
-      "workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2915"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
