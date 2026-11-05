@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:efds.fa.em5.oraclecloud.com:72607",
-      "ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151",
-      "workday:bristolmyerssquibb:/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1",
-      "workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1",
-      "greenhouse:ultimagenomics:6250742004",
-      "greenhouse:verkada:5283644007",
-      "workday:godirect:/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1",
-      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548"
-    ],
-    "telegram": [
-      "oracle:efds.fa.em5.oraclecloud.com:72607",
-      "ashby:inductive-automation-llc:30720689-1747-4983-a482-7e19a5d4d151",
-      "workday:bristolmyerssquibb:/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1",
-      "workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1",
-      "greenhouse:ultimagenomics:6250742004",
-      "greenhouse:verkada:5283644007",
-      "workday:godirect:/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1",
-      "workday:wgu:/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
