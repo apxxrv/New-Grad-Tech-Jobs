@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T02:00:31Z",
- "data_as_of": "2026-11-05T02:00:31Z",
- "rendered_at": "2026-11-05T02:00:32Z",
+ "generated_at": "2026-11-05T09:41:23Z",
+ "data_as_of": "2026-11-05T09:41:23Z",
+ "rendered_at": "2026-11-05T09:41:23Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -967,25 +967,6 @@
    "days_until": -52,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "CoStar Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2435,6 +2416,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "CoStar Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-14"
    }
   },
   {

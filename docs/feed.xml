@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-05T02:00:31Z</updated>
+  <updated>2026-11-05T09:41:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:twitch:8931345002</id>
+    <title>Twitch: Software Dev Engineer I - Security Platform</title>
+    <link href="https://job-boards.greenhouse.io/twitch/jobs/8931345002"/>
+    <updated>2026-11-05T02:00:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Irvine, CA · $110.5k–$160k/yr · LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:twosixtechnologies:6241576004</id>
+    <title>Two Six Technologies: Full Stack Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004"/>
+    <updated>2026-11-05T02:00:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Arlington, Virginia · Python, TypeScript, Kubernetes, Docker, PostgreSQL</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workday:epiqsystems:/job/Phoenix-AZ/Cyber-Security-Analyst--SOC-_R0035102</id>
     <title>Epiq Systems: Cyber Security Analyst (SOC)</title>
@@ -24,6 +40,14 @@
     <summary>Not stated · Software · Salt Lake City, UT, United States · C#, JavaScript, SQL, Angular, HTML/CSS · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521</id>
+    <title>RTX: Infrastructure Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521"/>
+    <updated>2026-11-05T02:00:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-UT-WEST VALLEY CITY-338 ~ 1127 &amp; 1128 w 2400 S ~ BLDG 338 · Python, C++, Bash, Kubernetes, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1</id>
     <title>Hewlett Packard (HP): Software Systems Engineer - HP IQ</title>
     <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1"/>
@@ -38,30 +62,6 @@
     <updated>2026-11-05T02:00:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · CA - San Jose - 3850 N. First St · Python, C++, Bash, Git · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521</id>
-    <title>RTX: Infrastructure Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-UT-WEST VALLEY CITY-338 ~ 1127 &amp; 1128 w 2400 S ~ BLDG 338 · Python, C++, Bash, Kubernetes, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8931345002</id>
-    <title>Twitch: Software Dev Engineer I - Security Platform</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8931345002"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Irvine, CA · $110.5k–$160k/yr · LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twosixtechnologies:6241576004</id>
-    <title>Two Six Technologies: Full Stack Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, Virginia · Python, TypeScript, Kubernetes, Docker, PostgreSQL</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:captivation:5473266008</id>
@@ -571,9 +571,9 @@
     <id>urn:grad-engine:greenhouse:spacex:8920514002</id>
     <title>SpaceX: Data Scientist (Starlink)</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002"/>
-    <updated>2026-11-02T23:30:59Z</updated>
+    <updated>2026-11-05T09:41:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Redmond, WA · Python, C++</summary>
+    <summary>Not stated · Data &amp; ML/AI · Redmond, WA · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:verkada:5280545007</id>
