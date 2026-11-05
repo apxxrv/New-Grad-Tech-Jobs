@@ -1440,6 +1440,18 @@
     }
    }
   },
+  "natwest group": {
+   "name": "NatWest Group",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:rbs:/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netic": {
    "name": "Netic",
    "cycles": {
@@ -2451,5 +2463,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T09:41:23Z"
+ "updated_at": "2026-11-05T18:05:32Z"
 }
