@@ -2362,9 +2362,10 @@
     "Class of 2027": {
      "first_posted": "2026-11-02",
      "role_ids": [
-      "greenhouse:verkada:5280545007"
+      "greenhouse:verkada:5280545007",
+      "greenhouse:verkada:5283644007"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2463,5 +2464,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T18:05:32Z"
+ "updated_at": "2026-11-05T23:11:46Z"
 }

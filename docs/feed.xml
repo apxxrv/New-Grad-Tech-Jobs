@@ -5,8 +5,64 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-05T18:05:32Z</updated>
+  <updated>2026-11-05T23:11:46Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1</id>
+    <title>Bristol Myers Squibb: Data Engineer, Clinical Operations</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Princeton - NJ - US · Python, SQL, LLMs, Spark, Databricks · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1</id>
+    <title>RTX: Software Systems Quality Engineer (Compliance) in AZ 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800 · Azure, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:ultimagenomics:6250742004</id>
+    <title>Ultima Genomics: Firmware Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Fremont, California, United States · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:verkada:5283644007</id>
+    <title>Verkada: Software Engineer - Computer Vision 🛂</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5283644007"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Mateo, CA United States · Computer Vision, Python, PyTorch, TensorFlow · sponsorship: no-sponsorship · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:godirect:/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1</id>
+    <title>Voya Financial: Quantitative Research Analyst, I&amp;G</title>
+    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · San Diego, CA · Python, SQL, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wgu:/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548</id>
+    <title>Western Governors University: Associate Software Engineer</title>
+    <link href="https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Salt Lake City, UT · Java, TypeScript, JavaScript, React, Angular · H-1B track record: ~32 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:myriad360:8930382002</id>
+    <title>Myriad360: Junior AI and Automation Engineer</title>
+    <link href="https://boards.greenhouse.io/myriad360/jobs/8930382002?gh_jid=8930382002"/>
+    <updated>2026-11-05T18:05:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States · Python, TypeScript, JavaScript, LLMs, Azure</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:lever:erg:ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a</id>
     <title>Eastern Research Group: Early-Career Research Scientist/Engineer- Aerosol &amp; Environmental</title>
@@ -64,14 +120,6 @@
     <summary>Not stated · Software · Mounds View, Minnesota, United States of America; Newton, Massachusetts, United States of America · H-1B track record: ~424 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:myriad360:8930382002</id>
-    <title>Myriad360: Junior AI and Automation Engineer</title>
-    <link href="https://boards.greenhouse.io/myriad360/jobs/8930382002?gh_jid=8930382002"/>
-    <updated>2026-11-05T18:05:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, TypeScript, JavaScript, LLMs, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:priceline:/job/New-York/Associate-Software-Engineer_R5911</id>
     <title>Priceline: Associate Software Engineer</title>
     <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Associate-Software-Engineer_R5911"/>
@@ -96,20 +144,20 @@
     <summary>Not stated · Software · Plymouth, MA · Python, JavaScript, Bash, LLMs, React · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:rbs:/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403</id>
-    <title>NatWest Group: AI ML Trainee | 6-Month Fixed-Term Contract | 2025/2026 Graduates</title>
-    <link href="https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403"/>
-    <updated>2026-11-05T18:05:31Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · Bengaluru, India; Chennai; Gurugram · Python, LLMs, Git · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:pfizer:/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818</id>
     <title>Pfizer: Associate, AI Engineering</title>
     <link href="https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818"/>
     <updated>2026-11-05T18:05:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United Kingdom - Walton Oaks; Europe - Any Pfizer Site · status: closed · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rbs:/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403</id>
+    <title>NatWest Group: AI ML Trainee | 6-Month Fixed-Term Contract | 2025/2026 Graduates</title>
+    <link href="https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403"/>
+    <updated>2026-11-05T18:05:31Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · Bengaluru, India; Chennai; Gurugram · Python, LLMs, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:twitch:8931345002</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-02T23:30:59Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Birmingham, AL, USA · Python, JavaScript, Bash, GCP, Azure · sponsorship: no-sponsorship · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nascar:/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445</id>
-    <title>NASCAR: Junior Data Scientist</title>
-    <link href="https://nascar.wd1.myworkdayjobs.com/NASCAR/job/Daytona-Beach-FL/Junior-Data-Scientist_JR14445"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Daytona Beach, FL · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:slihrms:/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725</id>
-    <title>AtkinsRéalis: Rail Infrastructure Student (Summer 2027)</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · CA.ON.Toronto.191 The West Mall, Canada; CA.BC.Vancouver. 733 Seymour St. · $61.9k–$80k/yr</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:statestreet:/job/Burlington-Massachusetts/Application--Infrastructure---Service-Management--AVP_R-794569</id>
-    <title>State Street: Application, Infrastructure &amp; Service Management, Officer</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Application--Infrastructure---Service-Management--AVP_R-794569"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Burlington Massachusetts · $70k–$118.75k/yr · SQL, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:taxwell:/job/Remote---Texas/Software-Engineer-I_R0003951</id>
-    <title>Taxwell: Software Engineer I</title>
-    <link href="https://taxwell.wd1.myworkdayjobs.com/taxwellcareers/job/Remote---Texas/Software-Engineer-I_R0003951"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - Texas · JavaScript, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440</id>
-    <title>RTX: Embedded Security Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"/>
-    <updated>2026-11-02T15:52:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bbinsurance:/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694</id>
-    <title>Brown &amp; Brown Insurance: Junior HubSpot Developer</title>
-    <link href="https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"/>
-    <updated>2026-11-02T06:11:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, TX, USA · C#, TypeScript, JavaScript, React, HTML/CSS</summary>
   </entry>
 </feed>
