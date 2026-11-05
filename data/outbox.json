@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:genpt:/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1",
+      "workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
+      "workday:epiqsystems:/job/Phoenix-AZ/Cyber-Security-Analyst--SOC-_R0035102",
+      "workday:extraspace:/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836",
+      "workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1",
+      "workday:microchiphr:/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26",
+      "workday:globalhr:/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521",
+      "greenhouse:twitch:8931345002",
+      "greenhouse:twosixtechnologies:6241576004"
+    ],
+    "telegram": [
+      "workday:genpt:/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1",
+      "workday:choicehotels:/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
+      "workday:epiqsystems:/job/Phoenix-AZ/Cyber-Security-Analyst--SOC-_R0035102",
+      "workday:extraspace:/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836",
+      "workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1",
+      "workday:microchiphr:/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26",
+      "workday:globalhr:/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521",
+      "greenhouse:twitch:8931345002",
+      "greenhouse:twosixtechnologies:6241576004"
+    ]
   }
 }
