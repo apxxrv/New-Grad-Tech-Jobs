@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T11:46:47Z",
- "data_as_of": "2026-11-06T11:46:47Z",
- "rendered_at": "2026-11-06T11:46:47Z",
+ "generated_at": "2026-11-06T18:41:39Z",
+ "data_as_of": "2026-11-06T18:41:39Z",
+ "rendered_at": "2026-11-06T18:41:39Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -529,7 +529,7 @@
    "expected": "2026-08-25",
    "days_until": -73,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+   "url": "https://jobs.ashbyhq.com/Solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -643,7 +643,7 @@
    "expected": "2026-08-31",
    "days_until": -67,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+   "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1498,7 +1498,7 @@
    "expected": "2026-10-06",
    "days_until": -31,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606",
+   "url": "https://jobs.ashbyhq.com/shieldai/c0735824-2b3c-46a2-a888-99e7376a9606",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1925,6 +1925,25 @@
    }
   },
   {
+   "company": "BP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-06"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2211,25 +2230,6 @@
   },
   {
    "company": "Morningstar",
-   "last_cycle_posted": "2026-10-29",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2027-10-29",
-   "days_until": 357,
-   "status": "waiting",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-projection",
-    "cycle": "Class of 2026",
-    "observed_on": "2026-10-29"
-   }
-  },
-  {
-   "company": "Salesforce",
    "last_cycle_posted": "2026-10-29",
    "posted_on": "",
    "precision": "day",
@@ -2702,7 +2702,26 @@
     "cycle": "Class of 2027",
     "observed_on": "2026-10-22"
    }
+  },
+  {
+   "company": "Salesforce",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-06"
+   }
   }
  ],
- "count": 142
+ "count": 143
 }

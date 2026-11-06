@@ -1,6 +1,34 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:genovatech:e2bf49c4-97c8-4dc3-8b85-087dfc64ad78",
+      "greenhouse:acog:4401658009",
+      "workday:bpinternational:/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1",
+      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334610",
+      "workday:chewy:/job/Boston-MA/Software-Engineer-I_R31431",
+      "workday:livanova:/job/Houston-Texas-United-States/Software-Test-Engineer-I_JR-14953",
+      "workday:magellanhealth:/job/Camp-Lejeune-NC-28542-MFLC-Camp-Lejeune/Military-and-Family-Life-Counselor---Embedded--Adults-_R00000071323-1",
+      "workday:nwis:/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225",
+      "workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083975",
+      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Engineer-I--Onsite-_01888024",
+      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1",
+      "workday:salesforce:/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2",
+      "workday:coke:/job/US---GA---Atlanta/Sr-Software-Engineer_R-147091"
+    ],
+    "telegram": [
+      "lever:genovatech:e2bf49c4-97c8-4dc3-8b85-087dfc64ad78",
+      "greenhouse:acog:4401658009",
+      "workday:bpinternational:/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1",
+      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334610",
+      "workday:chewy:/job/Boston-MA/Software-Engineer-I_R31431",
+      "workday:livanova:/job/Houston-Texas-United-States/Software-Test-Engineer-I_JR-14953",
+      "workday:magellanhealth:/job/Camp-Lejeune-NC-28542-MFLC-Camp-Lejeune/Military-and-Family-Life-Counselor---Embedded--Adults-_R00000071323-1",
+      "workday:nwis:/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225",
+      "workday:quickenloans:/job/Detroit-MI/Software-Engineer-I_R-083975",
+      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Engineer-I--Onsite-_01888024",
+      "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1",
+      "workday:salesforce:/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2",
+      "workday:coke:/job/US---GA---Atlanta/Sr-Software-Engineer_R-147091"
+    ]
   }
 }
