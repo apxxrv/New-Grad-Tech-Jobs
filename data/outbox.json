@@ -1,34 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:edel.fa.us2.oraclecloud.com:23620",
-      "workday:abbott:/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31165508-1",
-      "workday:chewy:/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
-      "workday:icf:/job/Richmond-VA/Software-Developer_R2603769",
-      "workday:intel:/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983",
-      "workday:isu:/job/Ames-IA/Software-Developer-I_R20057",
-      "workday:moog:/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135",
-      "workday:ovative:/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
-      "greenhouse:pendartechnologies:5475948008",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029",
-      "greenhouse:thebrattlegroup:4751955005",
-      "workday:thermofisher:/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist_R-01375204",
-      "workday:connect:/job/Secaucus-NJ/Business-Intelligence-Data-Analyst_R-105413"
-    ],
-    "telegram": [
-      "oracle:edel.fa.us2.oraclecloud.com:23620",
-      "workday:abbott:/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31165508-1",
-      "workday:chewy:/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
-      "workday:icf:/job/Richmond-VA/Software-Developer_R2603769",
-      "workday:intel:/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983",
-      "workday:isu:/job/Ames-IA/Software-Developer-I_R20057",
-      "workday:moog:/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135",
-      "workday:ovative:/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
-      "greenhouse:pendartechnologies:5475948008",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029",
-      "greenhouse:thebrattlegroup:4751955005",
-      "workday:thermofisher:/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist_R-01375204",
-      "workday:connect:/job/Secaucus-NJ/Business-Intelligence-Data-Analyst_R-105413"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
