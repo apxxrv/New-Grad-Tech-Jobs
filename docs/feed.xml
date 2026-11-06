@@ -5,23 +5,31 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-05T23:11:46Z</updated>
+  <updated>2026-11-06T03:40:54Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1</id>
-    <title>Bristol Myers Squibb: Data Engineer, Clinical Operations</title>
-    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1"/>
-    <updated>2026-11-05T23:11:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Princeton - NJ - US · Python, SQL, LLMs, Spark, Databricks · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+    <id>urn:grad-engine:workday:bah:/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089</id>
+    <title>Booz Allen: Cybersecurity Analyst, Junior 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089"/>
+    <updated>2026-11-06T03:40:54Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Rome, NY · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1</id>
-    <title>RTX: Software Systems Quality Engineer (Compliance) in AZ 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1"/>
-    <updated>2026-11-05T23:11:46Z</updated>
+    <id>urn:grad-engine:workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1</id>
+    <title>Medtronic: Software Quality Engineer I 🛂</title>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1"/>
+    <updated>2026-11-06T03:40:54Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800 · Azure, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Mounds View, Minnesota, United States of America; Newton, Massachusetts, United States of America · Python, Docker, Linux · sponsorship: no-sponsorship · H-1B track record: ~424 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:td:/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642</id>
+    <title>TD Bank: Applied Machine Learning Scientist I</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642"/>
+    <updated>2026-11-06T03:40:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada; Montréal, Québec · Python, SQL, LLMs, Azure, Databricks · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:ultimagenomics:6250742004</id>
@@ -38,6 +46,22 @@
     <updated>2026-11-05T23:11:46Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Mateo, CA United States · Computer Vision, Python, PyTorch, TensorFlow · sponsorship: no-sponsorship · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:bristolmyerssquibb:/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1</id>
+    <title>Bristol Myers Squibb: Data Engineer, Clinical Operations</title>
+    <link href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Princeton - NJ - US · Python, SQL, LLMs, Spark, Databricks · H-1B track record: ~226 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1</id>
+    <title>RTX: Software Systems Quality Engineer (Compliance) in AZ 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Software-Systems-Quality-Engineer--Compliance--in-AZ_01887723-1"/>
+    <updated>2026-11-05T23:11:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800 · Azure, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:godirect:/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1</id>
@@ -134,14 +158,6 @@
     <updated>2026-11-05T18:05:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · MCCLELLAN, CA · $22.66–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:tsc:/job/Plymouth-MA/Software-Engineer-I_JR2915</id>
-    <title>TSC: Software Engineer I 🇺🇸</title>
-    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915"/>
-    <updated>2026-11-05T18:05:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plymouth, MA · Python, JavaScript, Bash, LLMs, React · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:pfizer:/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818</id>
@@ -275,9 +291,9 @@
     <id>urn:grad-engine:smartrecruiters:Keenfinity:744000159681439</id>
     <title>Keenfinity: Associate DevOps Software Engineer</title>
     <link href="https://jobs.smartrecruiters.com/Keenfinity/744000159681439"/>
-    <updated>2026-11-04T21:46:40Z</updated>
+    <updated>2026-11-06T03:40:54Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Fairport, NY, United States (Hybrid) · $80k–$87k/yr · Python, C#, JavaScript, SQL, Bash</summary>
+    <summary>Not stated · Software · Fairport, NY, United States (Hybrid) · $80k–$87k/yr · Python, C#, JavaScript, SQL, Bash · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:NBCUniversal3:744000159723020</id>
@@ -715,9 +731,9 @@
     <id>urn:grad-engine:greenhouse:qualtrics:8334245</id>
     <title>Qualtrics: Software Development Engineer I - Data Platform</title>
     <link href="https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245"/>
-    <updated>2026-11-02T23:30:59Z</updated>
+    <updated>2026-11-06T03:40:54Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Seattle, Washington,  United States · Java, LLMs, AWS · H-1B track record: ~122 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Seattle, Washington,  United States · Java, LLMs, AWS · status: closed · H-1B track record: ~122 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:smartsheet:8347710</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-02T23:30:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Remote (Any State), United States of America; O'fallon, IL, US · Python, Java, C#, SQL, .NET · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:cisco:/job/San-Francisco-California-US/Software-Engineer_2028277-2</id>
-    <title>Cisco: Software Engineer</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Software-Engineer_2028277-2"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California, US · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:genpt:/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000035844</id>
-    <title>Genuine Parts Company: DevOps Engineer I 🛂</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000035844"/>
-    <updated>2026-11-02T23:30:59Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Birmingham, AL, USA · Python, JavaScript, Bash, GCP, Azure · sponsorship: no-sponsorship · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

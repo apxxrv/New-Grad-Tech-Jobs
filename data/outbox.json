@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bah:/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089",
+      "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1"
+    ],
+    "telegram": [
+      "workday:bah:/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089",
+      "workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1"
+    ]
   }
 }
