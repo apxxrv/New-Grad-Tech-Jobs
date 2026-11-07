@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workable:elevation-autism-center:B5CCC7D40B",
-      "greenhouse:engine:8046374003",
-      "greenhouse:keyfactorinc:6242660004"
-    ],
-    "telegram": [
-      "workable:elevation-autism-center:B5CCC7D40B",
-      "greenhouse:engine:8046374003",
-      "greenhouse:keyfactorinc:6242660004"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
