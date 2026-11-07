@@ -5,15 +5,15 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-07T16:34:22Z</updated>
+  <updated>2026-11-07T20:49:02Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workable:elevation-autism-center:B5CCC7D40B</id>
-    <title>Elevation Autism Center: Software Engineer - AI &amp; Workflow Automation</title>
-    <link href="https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/"/>
-    <updated>2026-11-07T16:34:22Z</updated>
+    <id>urn:grad-engine:ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b</id>
+    <title>Clera: GTM Associate, RL &amp; Physical AI</title>
+    <link href="https://jobs.ashbyhq.com/Clera/4b22c4a0-a5f5-4688-ad32-06bcea97772b"/>
+    <updated>2026-11-07T20:49:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia, United States (Hybrid) · $40–$60/hr · Python, TypeScript, SQL, LLMs, React</summary>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:engine:8046374003</id>
@@ -30,6 +30,14 @@
     <updated>2026-11-07T16:34:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States (Remote)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:elevation-autism-center:B5CCC7D40B</id>
+    <title>Elevation Autism Center: Software Engineer - AI &amp; Workflow Automation</title>
+    <link href="https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/"/>
+    <updated>2026-11-07T16:34:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia, United States (Hybrid) · $40–$60/hr · Python, TypeScript, SQL, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016715126</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, United States (Hybrid) · Python, Java, SQL, Scala, Ruby · H-1B track record: ~1.6k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:Skyward1:744000159491899</id>
-    <title>Skyward: Software Engineer - Entry Level</title>
-    <link href="https://jobs.smartrecruiters.com/Skyward1/744000159491899"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Stevens Point, WI, United States (Hybrid) · C#, JavaScript, SQL, HTML/CSS · status: closed</summary>
   </entry>
 </feed>
