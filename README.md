@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/apxxrv/New-Grad-Tech-Jobs/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/apxxrv/New-Grad-Tech-Jobs/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fapxxrv.github.io%2FNew-Grad-Tech-Jobs%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/)&nbsp;![Schedule](https://img.shields.io/badge/schedule-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)
 
-### 1049 open roles (569 listed below) · 126 new this week
+### 1051 open roles (571 listed below) · 124 new this week
 
-5,204 employers tracked · data as of Nov 07, 2026 at 10:12 UTC
+5,218 employers tracked · data as of Nov 07, 2026 at 16:34 UTC
 
-_548 have a class year the employer stated · 501 are recent postings whose class year isn't stated (listed separately, never mixed in)._
+_548 have a class year the employer stated · 503 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/)** · **[📡 RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml)** · **[⚙️ JSON API](https://apxxrv.github.io/New-Grad-Tech-Jobs/api/jobs.json)** · **[✉️ RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [RSS-to-email](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Fapxxrv%2FNew-Grad-Tech-Jobs%2Fmain%2Fdocs%2Ffeed.xml) or [RSS](https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://apxxrv.github.io/New-Grad-Tech-Jobs/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 5,550 job-board endpoints (5,204 distinct employers; some run more than one board) scheduled for polling every 30 minutes. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 5,564 job-board endpoints (5,218 distinct employers; some run more than one board) scheduled for polling every 30 minutes. Full source and tests in this repo. |
 
 ## Scope
 
@@ -276,7 +276,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stripe ✓ | Software Engineer, Early Career — Immediate Start | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York | Java, JavaScript, Scala, Ruby | Sep 17, 2026 |
 | General Motors ✓ | Software Systems Engineer, Data Labeling Engineering - Early Career | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) | Sunnyvale +2 more | Python, Java, C++, Go | Sep 09, 2026 |
 | Amazon ✓ | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) 🇺🇸 | [Apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) | Seattle, Washington, USA | Python, Java, C++, C# | Sep 04, 2026 |
-| Cadence Design Systems ✓ | Software Engineer  (new college grad Dec 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1) | SAN JOSE | Python, C++ | Sep 03, 2026 |
+| Cadence Design Systems ✓ | Software Engineer  (new college grad Dec 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2) | SAN JOSE | Python, C++ | Sep 03, 2026 |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC 🛂 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4390274009) | Huntington Beach +2 more | Python, C++, Rust, Linux | Sep 02, 2026 |
 | Global Lending Services | Data Scientist - December 2026 - May 2027 Grads _(also open for Class of 2027)_ | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07) | Greenville, South Carolina | No skills listed | Aug 27, 2026 |
 | Amazon ✓ | Software Development Engineer, Amazon Leo, Early Career - 2026 🇺🇸 | [Apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) | Redmond, Washington, USA | Python, Java, C++, C# | Aug 25, 2026 |
@@ -302,13 +302,16 @@ If it helps you, a star means a lot and tells me to keep going.
 | TikTok ✓ | Machine Learning Engineer Graduate - Global E-commerce Recommenda​tion/Search - 2026 Start (PhD) | [Apply](https://lifeattiktok.com/search/7550798923146250504) | San Jose, California, USA | Linux | Sep 16, 2025 |
 | Anduril | 2026 Early Career Software Engineer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Atlanta +14 more | Python, Java, C++, Rust | Aug 11, 2025 |
 
-## Recently posted — class year not stated  (355 roles)
+## Recently posted — class year not stated  (357 roles)
 
 These postings never name a class year — not in the title, not in the posting text — so neither do we. They're recent new grad tech roles (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which class year they're for, and we'd rather say so than guess. The moment a posting's own text states a class year, the role moves up into that section automatically.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | AbbVie ✓ | Associate Software Engineer I 🆕 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126) | North Chicago +2 more | Java, TypeScript, SQL, LLMs | Nov 07, 2026 |
+| Elevation Autism Center | Software Engineer - AI & Workflow Automation 🆕 | [Apply](https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/) | Atlanta, Georgia, United States (Hybrid) | Python, TypeScript, SQL, LLMs | Nov 06, 2026 |
+| Engine 🆁 | Software Engineer - GTM Engineering 🆕 | [Apply](https://job-boards.greenhouse.io/engine/jobs/8046374003) | Remote - US | Python, TypeScript, JavaScript | Nov 06, 2026 |
+| Keyfactor 🆁 | Associate Software Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) | United States (Remote) | No skills listed | Nov 06, 2026 |
 | Pendar Technologies | Scientific Software Engineer – Algorithms 🆕 | [Apply](https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008) | Cambridge, MA | Python, Computer Vision | Nov 06, 2026 |
 | Abbott | Software Quality Engineer I 🆕 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31165508-1) | United States - California - Sylmar | Python, Java, C#, Ruby | Nov 06, 2026 |
 | Chewy ✓ | Software Engineer I, Full Stack, Promotions 🆕 | [Apply](https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) | Boston, MA | React | Nov 06, 2026 |
@@ -373,7 +376,6 @@ These postings never name a class year — not in the title, not in the posting 
 | Amentum | Software Tools Developer, Entry Level 🇺🇸 | [Apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727) | US-AL-Huntsville | Python, C++, JavaScript, React | Nov 03, 2026 |
 | Leidos ✓ | Junior Software Engineer (SWE-1) | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405) | 3325 Fort George G. Meade MD | Python, Java, Spark, Hadoop | Nov 03, 2026 |
 | Vantor | Junior Data Engineer (TS/SCI) 🇺🇸 _(2 openings)_ | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3) [#2](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24867-3) | Herndon, VA | Python, SQL, AWS, GCP | Nov 03, 2026 |
-| Microsoft ✓ | Software Engineering IC2 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050639) | United States, Washington, Redmond | Python, Java, C++, C# | Nov 02, 2026 |
 | Applied Intuition ✓ | Software Engineer (Sunnyvale, CA) | [Apply](https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3) | Sunnyvale | C++, Go, SQL, GCP | Nov 02, 2026 |
 | University of Miami ✓ | BI Report Developer 1 | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/BI-Report-Developer-1_R100102376) | Coral Gables, FL | Python, SQL, Git, Tableau | Nov 02, 2026 |
 | Aurora Innovation ✓ | Developer Support Engineer I | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3) | Pittsburgh, PA | Python, Bash, AWS, Terraform | Nov 02, 2026 |
@@ -771,7 +773,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,120 of 5,550 registered boards returned successfully across 13 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 891.1s · 224 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 5,130 of 5,564 registered boards returned successfully across 13 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 990.6s · 224 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
