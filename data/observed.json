@@ -1601,11 +1601,12 @@
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
       "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+      "workday:nvidia:/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
       "workday:nvidia:/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
       "workday:nvidia:/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
       "workday:nvidia:/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
      ],
-     "count": 19
+     "count": 20
     },
     "Class of 2027": {
      "first_posted": "2026-08-21",
@@ -2517,5 +2518,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T23:46:53Z"
+ "updated_at": "2026-11-07T03:21:52Z"
 }

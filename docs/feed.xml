@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-06T23:46:53Z</updated>
+  <updated>2026-11-07T03:21:52Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016715126</id>
+    <title>AbbVie: Associate Software Engineer I</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990016715126"/>
+    <updated>2026-11-07T03:21:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Chicago, IL, United States (Hybrid) · Java, TypeScript, SQL, LLMs, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nvidia:/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894</id>
+    <title>NVIDIA: Research Scientist, AI and Systems Security - PhD New College Grad 2026</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894"/>
+    <updated>2026-11-07T03:21:52Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · US, MA, Westford, United States of America; US, CA, Santa Clara · Python, C++ · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:pendartechnologies:5475948008</id>
+    <title>Pendar Technologies: Scientific Software Engineer – Algorithms</title>
+    <link href="https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008"/>
+    <updated>2026-11-06T23:46:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cambridge, MA · $100k–$130k/yr · Python, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:thebrattlegroup:4751955005</id>
+    <title>The Brattle Group: Data and AI Engineer - July 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005"/>
+    <updated>2026-11-06T23:46:52Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, California, United States · $100k–$126k/yr · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship · H-1B track record: ~20 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:edel.fa.us2.oraclecloud.com:23620</id>
     <title>Fortinet: Early Careers: Software Engineer – Cloud Platform (FortiSIEM) 🛂</title>
@@ -30,6 +62,14 @@
     <updated>2026-11-06T23:46:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Boston, MA · React · H-1B track record: ~362 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029</id>
+    <title>RTX: Software Security Engineer 1 (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029"/>
+    <updated>2026-11-06T23:46:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:icf:/job/Richmond-VA/Software-Developer_R2603769</id>
@@ -70,30 +110,6 @@
     <updated>2026-11-06T23:46:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Minneapolis, United States of America; Chicago · $60k–$66k/yr · Python, SQL, AWS, GCP, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pendartechnologies:5475948008</id>
-    <title>Pendar Technologies: Scientific Software Engineer – Algorithms</title>
-    <link href="https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008"/>
-    <updated>2026-11-06T23:46:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · $100k–$130k/yr · Python, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029</id>
-    <title>RTX: Software Security Engineer 1 (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029"/>
-    <updated>2026-11-06T23:46:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:thebrattlegroup:4751955005</id>
-    <title>The Brattle Group: Data and AI Engineer - July 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005"/>
-    <updated>2026-11-06T23:46:52Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Francisco, California, United States · $100k–$126k/yr · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship · H-1B track record: ~20 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:thermofisher:/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist_R-01375204</id>
@@ -739,9 +755,9 @@
     <id>urn:grad-engine:greenhouse:rocketlab:8182050003</id>
     <title>Rocket Lab: AI Software Engineer I 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"/>
-    <updated>2026-11-04T00:32:18Z</updated>
+    <updated>2026-11-07T03:21:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA · Python, PyTorch, Pandas, LLMs, AWS · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA · Python, PyTorch, Pandas, LLMs, AWS · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:spacex:8925605002</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Buffalo, NY · $29.57–$43.99/hr · Python, Java, C#, Ruby, LLMs · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727</id>
-    <title>Amentum: Software Tools Developer, Entry Level 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-AL-Huntsville · Python, C++, JavaScript, React, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:relx:/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1</id>
-    <title>RELX: Tech Accelerate Graduate Program - Software Engineer I</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Alpharetta, GA · Python, Java, C++, JavaScript, SQL</summary>
   </entry>
 </feed>
