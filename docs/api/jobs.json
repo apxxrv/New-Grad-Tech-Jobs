@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-08T06:08:26Z",
- "data_as_of": "2026-11-08T06:08:26Z",
- "rendered_at": "2026-11-08T06:08:26Z",
+ "generated_at": "2026-11-08T13:33:17Z",
+ "data_as_of": "2026-11-08T13:33:17Z",
+ "rendered_at": "2026-11-08T13:33:18Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1048,
+ "count": 1046,
  "jobs": [
   {
    "id": "ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b",
@@ -12570,32 +12570,6 @@
    "remote": false
   },
   {
-   "id": "workday:stryker:/job/Fort-Lauderdale-Florida/Software-Engineering--R-D-Engineering-Development-Program_R575603",
-   "company": "Stryker",
-   "title": "Software Engineering, R&D Engineering Development Program",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fort Lauderdale, Florida",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Software-Engineering--R-D-Engineering-Development-Program_R575603",
-   "posted_at": "2026-10-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": "$77.7k–$129.5k/yr",
-   "skills": [
-    "C++",
-    "HTML/CSS",
-    "Docker",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 104,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "lever:galatea-associates:d5bceaf1-0137-4cc3-9353-72cc7a4f937b",
    "company": "Galatea Associates",
    "title": "Entry-Level Financial Software Consultant",
@@ -12724,31 +12698,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:troweprice:/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
-   "company": "T. Rowe Price",
-   "title": "Associate Software Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Owings Mills, MD",
-   "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
-   "posted_at": "2026-10-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-09T18:59:14Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "AWS",
-    "Azure"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Junior / Associate",
    "remote": false
   },
   {
