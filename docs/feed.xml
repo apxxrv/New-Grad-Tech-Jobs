@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-08T13:33:17Z</updated>
+  <updated>2026-11-08T18:45:46Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa</id>
+    <title>Shield AI: Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸</title>
+    <link href="https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"/>
+    <updated>2026-11-08T18:45:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896</id>
+    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
+    <link href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"/>
+    <updated>2026-11-08T18:45:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319</id>
+    <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
+    <link href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"/>
+    <updated>2026-11-08T18:45:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b</id>
     <title>Clera: GTM Associate, RL &amp; Physical AI</title>
@@ -782,29 +806,5 @@
     <updated>2026-11-04T00:32:18Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · New York, NY · Python, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:rocketlab:8182050003</id>
-    <title>Rocket Lab: AI Software Engineer I 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"/>
-    <updated>2026-11-07T03:21:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Long Beach, CA · Python, PyTorch, Pandas, LLMs, AWS · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8925605002</id>
-    <title>SpaceX: Embedded Software Engineer, Satellite Antenna (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Redmond, WA · C++, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:LinkedIn3:744000159509679</id>
-    <title>LinkedIn: Data Scientist</title>
-    <link href="https://jobs.smartrecruiters.com/LinkedIn3/744000159509679"/>
-    <updated>2026-11-04T00:32:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA, United States (Hybrid) · Python, Java, SQL, Scala, Ruby · H-1B track record: ~1.6k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
