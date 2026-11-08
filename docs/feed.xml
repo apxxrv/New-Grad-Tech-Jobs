@@ -5,7 +5,7 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-08T18:45:46Z</updated>
+  <updated>2026-11-08T22:43:34Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
     <id>urn:grad-engine:lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa</id>
@@ -16,20 +16,20 @@
     <summary>Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896</id>
-    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
-    <link href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"/>
-    <updated>2026-11-08T18:45:46Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319</id>
     <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
     <link href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"/>
     <updated>2026-11-08T18:45:46Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896</id>
+    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
+    <link href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"/>
+    <updated>2026-11-08T18:45:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b</id>

@@ -8,7 +8,7 @@
 
 ### 1049 open roles (567 listed below) · 126 new this week
 
-5,219 employers tracked · data as of Nov 08, 2026 at 18:45 UTC
+5,219 employers tracked · data as of Nov 08, 2026 at 22:43 UTC
 
 _551 have a class year the employer stated · 498 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -111,9 +111,9 @@ If it helps you, a star means a lot and tells me to keep going.
 | AtkinsRéalis | Rail Infrastruc​ture Student (Summer 2027) | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONToronto191-The-West-Mall/Rail-Infrastructure-Student--Summer-2027-_R-170725) | CA.ON.Toro​nto.191 The West Mall +2 more | No skills listed | Nov 02, 2026 |
 | Northrop Grumman | 2027 Associate Software Engineer - Bellevue (NE) 🇺🇸 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366) | United States-Alabama-Huntsville | No skills listed | Nov 01, 2026 |
 | Applied Materials ✓ | New College Grad - Computatio​nal Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376) | Santa Clara,CA | Python, C++, LLMs | Oct 30, 2026 |
-| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 🆕 _(also open for Class of 2026)_ | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Washington, D.C. | Python, C++, Linux, Git | Oct 27, 2026 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 🆕 _(also open for Class of 2026)_ | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | United States | Python, C++, Linux, Git | Oct 27, 2026 |
-| Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 🆕 _(also open for Class of 2026)_ | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Washington, D.C. | Python, C++, PyTorch, Computer Vision | Oct 27, 2026 |
+| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 🆕 | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Washington, D.C. | Python, C++, Linux, Git | Oct 27, 2026 |
+| Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 🆕 | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Washington, D.C. | Python, C++, PyTorch, Computer Vision | Oct 27, 2026 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 🆕 | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | United States | Python, C++, Linux, Git | Oct 27, 2026 |
 | JPMorgan​Chase ✓ | 2027 Machine Learning Center of Excellence - Time Series and Reinforcem​ent Learning (TSRL) - Summer Associate | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | New York, NY, United States | Python, Java, C++, PyTorch | Oct 27, 2026 |
 | RTX | Software Engineer I - (Onsite) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~… | C++, C# | Oct 27, 2026 |
 | OneMain Financial | Data Science Analyst | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) | Wilmington, DE | Python | Oct 27, 2026 |
@@ -257,7 +257,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Databricks ✓ | Software Engineer - New Grad (2027 Start) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Bellevue +7 more | Python, Java, C++, Databricks | Aug 04, 2023 |
 | Databricks ✓ | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Bellevue +3 more | Java, C++, Databricks | Aug 04, 2023 |
 
-## Class of 2026  (45 employer-stated)
+## Class of 2026  (42 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
@@ -267,9 +267,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Morningstar ✓ | Associate Software Engineer (Central Tech AI) - Partner Link | [Apply](https://morningstar.wd5.myworkdayjobs.com/confidential/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109) | Chicago | Python, LLMs | Oct 29, 2026 |
 | Morningstar ✓ | Morningstar Development Program (MDP): Associate Software Engineer (Central Tech AI) | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108) | Chicago | Python, LLMs | Oct 29, 2026 |
 | Pure | iOS / UI Engineer | [Apply](https://jobs.ashbyhq.com/pureapp/86b9bbba-268a-49d0-8c07-904ee802ceb4) | New York City | TypeScript, SQL, Swift, React | Oct 29, 2026 |
-| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 🆕 _(also open for Class of 2027)_ | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Washington, D.C. | Python, C++, Linux, Git | Oct 27, 2026 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 🆕 _(also open for Class of 2027)_ | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | United States | Python, C++, Linux, Git | Oct 27, 2026 |
-| Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 🆕 _(also open for Class of 2027)_ | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Washington, D.C. | Python, C++, PyTorch, Computer Vision | Oct 27, 2026 |
 | NVIDIA ✓ | Software Engineer, Agent Performance Modeling - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) | US, CA, Santa Clara | LLMs | Oct 20, 2026 |
 | CWILL | Loyalty & Referrals R&D Trainee - Full-Stack Engineer - Bilingual Mandarin | [Apply](https://apply.workable.com/cwill-us/j/3DE00A2E99/) | cary +2 more | Python, Java, TypeScript, JavaScript | Oct 13, 2026 |
 | NVIDIA ✓ | SoC Software Engineer – New College Graduate 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | US, CA, Santa Clara | C++, Linux | Oct 13, 2026 |
@@ -281,7 +278,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stripe ✓ | Software Engineer, Early Career — Immediate Start | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York | Java, JavaScript, Scala, Ruby | Sep 17, 2026 |
 | General Motors ✓ | Software Systems Engineer, Data Labeling Engineering - Early Career | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) | Sunnyvale +2 more | Python, Java, C++, Go | Sep 09, 2026 |
 | Amazon ✓ | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) 🇺🇸 | [Apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) | Seattle, Washington, USA | Python, Java, C++, C# | Sep 04, 2026 |
-| Cadence Design Systems ✓ | Software Engineer  (new college grad Dec 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1) | SAN JOSE | Python, C++ | Sep 03, 2026 |
+| Cadence Design Systems ✓ | Software Engineer  (new college grad Dec 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2) | SAN JOSE | Python, C++ | Sep 03, 2026 |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC 🛂 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4390274009) | Huntington Beach +2 more | Python, C++, Rust, Linux | Sep 02, 2026 |
 | Global Lending Services | Data Scientist - December 2026 - May 2027 Grads _(also open for Class of 2027)_ | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07) | Greenville, South Carolina | No skills listed | Aug 27, 2026 |
 | Amazon ✓ | Software Development Engineer, Amazon Leo, Early Career - 2026 🇺🇸 | [Apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) | Redmond, Washington, USA | Python, Java, C++, C# | Aug 25, 2026 |
@@ -773,7 +770,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,999 of 5,565 registered boards returned successfully across 13 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1080.6s · 212 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 5,100 of 5,565 registered boards returned successfully across 13 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1161.9s · 216 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

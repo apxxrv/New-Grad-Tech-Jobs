@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T18:45:46Z",
- "data_as_of": "2026-11-08T18:45:46Z",
- "rendered_at": "2026-11-08T18:45:46Z",
+ "generated_at": "2026-11-08T22:43:34Z",
+ "data_as_of": "2026-11-08T22:43:34Z",
+ "rendered_at": "2026-11-08T22:43:34Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
  "count": 1049,
@@ -4957,10 +4957,7 @@
    "company": "Shield AI",
    "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
    "season": "Class of 2027",
-   "seasons": [
-    "Class of 2027",
-    "Class of 2026"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Software",
    "location": "Washington, D.C.",
@@ -4982,43 +4979,11 @@
    "remote": false
   },
   {
-   "id": "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896",
-   "company": "Shield AI",
-   "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
-   "season": "Class of 2027",
-   "seasons": [
-    "Class of 2027",
-    "Class of 2026"
-   ],
-   "season_inferred": false,
-   "category": "Software",
-   "location": "United States",
-   "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
-   "posted_at": "2026-10-27T21:55:40Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-11-08T18:45:46Z",
-   "sponsorship": "citizens-only",
-   "salary": "77,200–211,200 USD/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "lever",
-   "h1b_approvals": 2,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319",
    "company": "Shield AI",
    "title": "Engineer I, Software - Perception - New Grad - 6135",
    "season": "Class of 2027",
-   "seasons": [
-    "Class of 2027",
-    "Class of 2026"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Software",
    "location": "Washington, D.C.",
@@ -5033,6 +4998,32 @@
     "C++",
     "PyTorch",
     "Computer Vision",
+    "Linux",
+    "Git"
+   ],
+   "source": "lever",
+   "h1b_approvals": 2,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
+   "id": "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896",
+   "company": "Shield AI",
+   "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+   "season": "Class of 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "United States",
+   "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+   "posted_at": "2026-10-27T21:55:40Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-11-08T18:45:46Z",
+   "sponsorship": "citizens-only",
+   "salary": "77,200–211,200 USD/yr",
+   "skills": [
+    "Python",
+    "C++",
     "Linux",
     "Git"
    ],
@@ -17391,7 +17382,7 @@
    "season_inferred": false,
    "category": "Software",
    "location": "SAN JOSE",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
    "posted_at": "2026-09-03T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-17T02:09:43Z",
