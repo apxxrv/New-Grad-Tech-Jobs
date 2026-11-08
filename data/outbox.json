@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
-      "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896",
-      "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319"
-    ],
-    "telegram": [
-      "lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
-      "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896",
-      "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
