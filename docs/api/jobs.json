@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-08T00:15:38Z",
- "data_as_of": "2026-11-08T00:15:38Z",
- "rendered_at": "2026-11-08T00:15:38Z",
+ "generated_at": "2026-11-08T06:08:26Z",
+ "data_as_of": "2026-11-08T06:08:26Z",
+ "rendered_at": "2026-11-08T06:08:26Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1049,
+ "count": 1048,
  "jobs": [
   {
    "id": "ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b",
@@ -15846,33 +15846,6 @@
    "source": "greenhouse",
    "h1b_approvals": 26,
    "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:amgen:/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
-   "company": "Amgen",
-   "title": "Associate AI Engineer, OI&A",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "US - California - Thousand Oaks",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
-   "posted_at": "2026-09-23T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-28T08:05:06Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "Databricks"
-   ],
-   "source": "workday",
-   "h1b_approvals": 768,
-   "program": "Junior / Associate",
    "remote": false
   },
   {
