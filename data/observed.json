@@ -33,10 +33,11 @@
     "Class of 2027": {
      "first_posted": "2026-09-24",
      "role_ids": [
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
       "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
       "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -265,6 +266,19 @@
       "workday:aveva:/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"
      ],
      "count": 1
+    }
+   }
+  },
+  "barclays": {
+   "name": "Barclays",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "workday:barclays:/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Developer-Graduate-Programme-Prague_JR-0000131174-1",
+      "workday:barclays:/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Part-Time-Developer-Programme-Prague_JR-0000131175"
+     ],
+     "count": 2
     }
    }
   },
@@ -1543,6 +1557,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
@@ -1553,7 +1568,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2526,5 +2541,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T09:52:59Z"
+ "updated_at": "2026-11-09T20:21:18Z"
 }

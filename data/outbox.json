@@ -1,6 +1,52 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:anavationllc:b6d788eb-e17a-42ff-9c06-821103960654",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214463",
+      "ashby:harvey:b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "ashby:jerry.ai:81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea",
+      "ashby:netholabs:a16457f4-63a5-4a75-82d4-04ea2fc4e393",
+      "oracle:emje.fa.us6.oraclecloud.com:22659",
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "workday:cdk:/job/Hoffman-Estates-IL-USA/Pricing-Data-Analyst_JR9446",
+      "greenhouse:coinbase:8278991",
+      "workday:csiweb:/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
+      "smartrecruiters:HardinDesign:744000160661857",
+      "workday:mufgub:/job/Jersey-City-NJ/Business-Data-Analyst_10079330-WD-1",
+      "workday:repligen:/job/Waltham-MA/AI-Engineer-I_R-971",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147",
+      "workday:sbasite:/job/Boca-Raton-FL-Corporate-Office/Cloud-Engineer-I_JR102701",
+      "greenhouse:selffinancial:6252143004",
+      "workday:stoneridge:/job/Novi-MI/Junior-AI-Specialist_JR102766",
+      "workday:synchronyfinancial:/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752",
+      "workday:upbound:/job/Plano-TX/Platform-Engineer-II_R-100847",
+      "workday:visa:/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
+    ],
+    "telegram": [
+      "lever:anavationllc:b6d788eb-e17a-42ff-9c06-821103960654",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214463",
+      "ashby:harvey:b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "ashby:harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "ashby:jerry.ai:81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea",
+      "ashby:netholabs:a16457f4-63a5-4a75-82d4-04ea2fc4e393",
+      "oracle:emje.fa.us6.oraclecloud.com:22659",
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "workday:cdk:/job/Hoffman-Estates-IL-USA/Pricing-Data-Analyst_JR9446",
+      "greenhouse:coinbase:8278991",
+      "workday:csiweb:/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
+      "smartrecruiters:HardinDesign:744000160661857",
+      "workday:mufgub:/job/Jersey-City-NJ/Business-Data-Analyst_10079330-WD-1",
+      "workday:repligen:/job/Waltham-MA/AI-Engineer-I_R-971",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154",
+      "workday:globalhr:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147",
+      "workday:sbasite:/job/Boca-Raton-FL-Corporate-Office/Cloud-Engineer-I_JR102701",
+      "greenhouse:selffinancial:6252143004",
+      "workday:stoneridge:/job/Novi-MI/Junior-AI-Specialist_JR102766",
+      "workday:synchronyfinancial:/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752",
+      "workday:upbound:/job/Plano-TX/Platform-Engineer-II_R-100847",
+      "workday:visa:/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
+    ]
   }
 }

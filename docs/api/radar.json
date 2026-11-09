@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T09:52:59Z",
- "data_as_of": "2026-11-09T09:52:59Z",
- "rendered_at": "2026-11-09T09:52:59Z",
+ "generated_at": "2026-11-09T20:21:18Z",
+ "data_as_of": "2026-11-09T20:21:18Z",
+ "rendered_at": "2026-11-09T20:21:18Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -497,6 +497,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-21"
+   }
+  },
+  {
+   "company": "DTCC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -76,
+   "status": "open",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-08-25"
    }
   },
   {
@@ -1450,6 +1469,25 @@
    }
   },
   {
+   "company": "Harvey",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": -38,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-02"
+   }
+  },
+  {
    "company": "Constant Contact",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -2362,25 +2400,6 @@
    }
   },
   {
-   "company": "DTCC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -76,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-08-25"
-   }
-  },
-  {
    "company": "CapTech Consulting",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -2590,25 +2609,6 @@
    }
   },
   {
-   "company": "Harvey",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-02",
-   "days_until": -38,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-02"
-   }
-  },
-  {
    "company": "Autodesk",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -2759,7 +2759,26 @@
     "cycle": "Class of 2027",
     "observed_on": "2026-11-06"
    }
+  },
+  {
+   "company": "Barclays",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-09",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-09"
+   }
   }
  ],
- "count": 145
+ "count": 146
 }
