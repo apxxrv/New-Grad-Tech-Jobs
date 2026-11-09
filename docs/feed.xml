@@ -5,16 +5,8 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-09T02:16:50Z</updated>
+  <updated>2026-11-09T09:52:59Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
-  <entry>
-    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035</id>
-    <title>M&amp;T Bank: 2027 Technology Development Program - Software Engineering (Enterprise &amp; Wealth Application Development) 🛂</title>
-    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035"/>
-    <updated>2026-11-09T02:16:50Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Buffalo, NY · $29.57–$43.99/hr · Java, C#, SQL, Angular, Spring · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036</id>
     <title>M&amp;T Bank: 2027 Technology Development Program - Software Engineering (Data &amp; API Engineering) 🛂</title>
@@ -22,6 +14,14 @@
     <updated>2026-11-09T02:16:50Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · Buffalo, NY · $29.57–$43.99/hr · Python, Java, SQL, Azure, Databricks · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035</id>
+    <title>M&amp;T Bank: 2027 Technology Development Program - Software Engineering (Enterprise &amp; Wealth Application Development) 🛂</title>
+    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035"/>
+    <updated>2026-11-09T02:16:50Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Buffalo, NY · $29.57–$43.99/hr · Java, C#, SQL, Angular, Spring · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa</id>
