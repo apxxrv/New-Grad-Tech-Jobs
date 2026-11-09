@@ -1345,11 +1345,13 @@
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
+      "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
       "workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
      ],
-     "count": 9
+     "count": 11
     }
    }
   },
@@ -2524,5 +2526,5 @@
    }
   }
  },
- "updated_at": "2026-11-08T22:43:34Z"
+ "updated_at": "2026-11-09T02:16:50Z"
 }
