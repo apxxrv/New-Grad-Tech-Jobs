@@ -5,8 +5,96 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-10T11:20:21Z</updated>
+  <updated>2026-11-10T18:54:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:ashby:ande:8ff8145e-8040-4a7a-a90c-cc1fdc36deb1</id>
+    <title>Ande: Software Engineer, AI (Early Career)</title>
+    <link href="https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York City · $120K – $160K • Offers Equity · Python, TypeScript, LLMs, React, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2433871</id>
+    <title>Cummins: Electronic Systems Engineer - Software</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Columbus, IN, United States · C++ · H-1B track record: ~917 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:generaltranslation:05d33170-2b35-4597-849c-6efbb612fa9b</id>
+    <title>General Translation: Software Engineer, Infra</title>
+    <link href="https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco · TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:abacusinsights:8917380002</id>
+    <title>Abacus Insights: Associate Data Engineer</title>
+    <link href="https://boards.greenhouse.io/abacusinsights/jobs/8917380002?gh_jid=8917380002"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States · $62.4k/yr · SQL, LLMs, AWS, Azure, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:fis:/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1</id>
+    <title>Fidelity National Information Services: Mainframe Software Engineer I 🛂</title>
+    <link href="https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US GA CMH ONE RIVERFRONT · Java · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:kla:/job/Ann-Arbor-MI/Data-Scientist_2642917</id>
+    <title>KLA: Data Scientist</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Data-Scientist_2642917"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $153.7k/yr · Python, SQL · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:sharkninjaoperatingllc:4713793006</id>
+    <title>SharkNinja: Applied AI &amp; Analytics Spring Opportunities (Jan-Jun 2027)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States; New York, New York, United States · Python, SQL, LLMs, AWS, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:statestreet:/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933</id>
+    <title>State Street: Junior Platform Engineer, Officer</title>
+    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Quincy, Massachusetts · $70k–$118.75k/yr · Python, AWS, Terraform, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:thehartford:/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766</id>
+    <title>The Hartford: Associate Data Scientist, Personal Lines</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Charlotte, NC, United States of America; Columbus, OH; Hartford, CT; Chicago, IL · Python, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:vizient:/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R</id>
+    <title>Vizient: Associate Software Engineer (Hybrid)</title>
+    <link href="https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Irving, TX 75062 Vizient Corporate HQ · Java, TypeScript, JavaScript, React, HTML/CSS · H-1B track record: ~73 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:Wise:744000160933600</id>
+    <title>Wise: Graduate Data Scientist 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/Wise/744000160933600"/>
+    <updated>2026-11-10T18:54:29Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · Austin, , United States · $114k/yr · Python, SQL, LLMs, Computer Vision, Spark · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:cursor:164e27cd-289e-4bcd-8aaf-5280e75c5ed6</id>
     <title>Cursor: Software Engineer, New Grad 2027</title>
@@ -718,93 +806,5 @@
     <updated>2026-11-05T18:05:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United Kingdom - Walton Oaks; Europe - Any Pfizer Site · status: closed · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:rbs:/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403</id>
-    <title>NatWest Group: AI ML Trainee | 6-Month Fixed-Term Contract | 2025/2026 Graduates</title>
-    <link href="https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403"/>
-    <updated>2026-11-05T18:05:31Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · Bengaluru, India; Chennai; Gurugram · Python, LLMs, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8931345002</id>
-    <title>Twitch: Software Dev Engineer I - Security Platform</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8931345002"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Irvine, CA · $110.5k–$160k/yr · LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:twosixtechnologies:6241576004</id>
-    <title>Two Six Technologies: Full Stack Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004"/>
-    <updated>2026-11-10T03:00:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, Virginia · Python, TypeScript, Kubernetes, Docker, PostgreSQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:epiqsystems:/job/Phoenix-AZ/Cyber-Security-Analyst--SOC-_R0035102</id>
-    <title>Epiq Systems: Cyber Security Analyst (SOC)</title>
-    <link href="https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Phoenix-AZ/Cyber-Security-Analyst--SOC-_R0035102"/>
-    <updated>2026-11-06T18:41:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Phoenix, AZ, United States of America; Kansas City, MO; Tampa, FL; Portland, OR; Overland Park, KS · $80k/yr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:extraspace:/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836</id>
-    <title>Extra Space Storage: Associate Software Engineer 🛂</title>
-    <link href="https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Salt Lake City, UT, United States · C#, JavaScript, SQL, Angular, HTML/CSS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521</id>
-    <title>RTX: Infrastructure Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-UT-WEST VALLEY CITY-338 ~ 1127 &amp; 1128 w 2400 S ~ BLDG 338 · Python, C++, Bash, Kubernetes, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1</id>
-    <title>Hewlett Packard (HP): Software Systems Engineer - HP IQ</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California, United States of America · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:microchiphr:/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26</id>
-    <title>Microchip Technology: Engineer I - Software</title>
-    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26"/>
-    <updated>2026-11-05T02:00:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CA - San Jose - 3850 N. First St · Python, C++, Bash, Git · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5473266008</id>
-    <title>Captivation: Software Engineer 1 - Java/Confluence/Jira/AWS/Maven/MapReduce 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5473266008"/>
-    <updated>2026-11-04T21:46:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Java, AWS, Python, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5473267008</id>
-    <title>Captivation: Software Engineer 1 - Python/Kotlin/Java/Terraform/Elasticsearch/Opensearch/AWS 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5473267008"/>
-    <updated>2026-11-04T21:46:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Python, Java, Kotlin, AWS, Terraform · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:captivation:5473268008</id>
-    <title>Captivation: Software Engineer 1 - Python/PySpark/AWS 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/captivation/jobs/5473268008"/>
-    <updated>2026-11-04T21:46:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Annapolis Junction, MD · Python, AWS, Spark · sponsorship: citizens-only</summary>
   </entry>
 </feed>

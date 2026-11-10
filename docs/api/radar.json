@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T11:20:21Z",
- "data_as_of": "2026-11-10T11:20:21Z",
- "rendered_at": "2026-11-10T11:20:21Z",
+ "generated_at": "2026-11-10T18:54:29Z",
+ "data_as_of": "2026-11-10T18:54:29Z",
+ "rendered_at": "2026-11-10T18:54:29Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1089,6 +1089,25 @@
    }
   },
   {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -54,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "Hewlett Packard (HP)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -2020,6 +2039,25 @@
    }
   },
   {
+   "company": "Wise",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Wise/744000160933600",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-10"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2818,5 +2856,5 @@
    }
   }
  ],
- "count": 148
+ "count": 150
 }

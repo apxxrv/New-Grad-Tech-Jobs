@@ -743,9 +743,10 @@
     "Class of 2027": {
      "first_posted": "2026-11-09",
      "role_ids": [
+      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2433871",
       "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437283"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2048,6 +2049,18 @@
     }
    }
   },
+  "sharkninja": {
+   "name": "SharkNinja",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4713793006"
+     ],
+     "count": 1
+    }
+   }
+  },
   "shield ai": {
    "name": "Shield AI",
    "cycles": {
@@ -2553,6 +2566,25 @@
     }
    }
   },
+  "wise": {
+   "name": "Wise",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "smartrecruiters:Wise:744000160933600"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "smartrecruiters:Wise:744000160933600"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ziprecruiter": {
    "name": "ZipRecruiter",
    "cycles": {
@@ -2573,5 +2605,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T11:20:21Z"
+ "updated_at": "2026-11-10T18:54:29Z"
 }
