@@ -1,34 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:ande:8ff8145e-8040-4a7a-a90c-cc1fdc36deb1",
-      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2433871",
-      "ashby:generaltranslation:05d33170-2b35-4597-849c-6efbb612fa9b",
-      "greenhouse:abacusinsights:8917380002",
-      "greenhouse:abnormalsecurity:8015179003",
-      "workday:fis:/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1",
-      "workday:kla:/job/Ann-Arbor-MI/Data-Scientist_2642917",
-      "workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471",
-      "greenhouse:sharkninjaoperatingllc:4713793006",
-      "workday:statestreet:/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933",
-      "workday:thehartford:/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766",
-      "workday:vizient:/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
-      "smartrecruiters:Wise:744000160933600"
-    ],
-    "telegram": [
-      "ashby:ande:8ff8145e-8040-4a7a-a90c-cc1fdc36deb1",
-      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2433871",
-      "ashby:generaltranslation:05d33170-2b35-4597-849c-6efbb612fa9b",
-      "greenhouse:abacusinsights:8917380002",
-      "greenhouse:abnormalsecurity:8015179003",
-      "workday:fis:/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1",
-      "workday:kla:/job/Ann-Arbor-MI/Data-Scientist_2642917",
-      "workday:leidos:/job/Gaithersburg-MD/Cyber-Risk-Analyst_R-00195471",
-      "greenhouse:sharkninjaoperatingllc:4713793006",
-      "workday:statestreet:/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933",
-      "workday:thehartford:/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766",
-      "workday:vizient:/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
-      "smartrecruiters:Wise:744000160933600"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
