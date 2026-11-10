@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:cursor:164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+      "workday:globalhr:/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01887516"
+    ],
+    "telegram": [
+      "ashby:cursor:164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+      "workday:globalhr:/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01887516"
+    ]
   }
 }

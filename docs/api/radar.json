@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T03:00:38Z",
- "data_as_of": "2026-11-10T03:00:38Z",
- "rendered_at": "2026-11-10T03:00:38Z",
+ "generated_at": "2026-11-10T11:20:21Z",
+ "data_as_of": "2026-11-10T11:20:21Z",
+ "rendered_at": "2026-11-10T11:20:21Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -833,7 +833,7 @@
    "expected": "2026-09-08",
    "days_until": -63,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+   "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
    "note": "",
    "provenance": {
     "type": "engine-observed",
