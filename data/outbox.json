@@ -1,30 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437283",
-      "ashby:eliseai:2c7b711e-2fd2-439f-a3da-f9ac435e900a",
-      "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622",
-      "smartrecruiters:AECOM2:744000160723419",
-      "workday:oldrepublic:/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410",
-      "greenhouse:rocketlab:8057246003",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
-      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
-      "greenhouse:spacex:8920514002",
-      "workday:boeing:/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1",
-      "workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205"
-    ],
-    "telegram": [
-      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437283",
-      "ashby:eliseai:2c7b711e-2fd2-439f-a3da-f9ac435e900a",
-      "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622",
-      "smartrecruiters:AECOM2:744000160723419",
-      "workday:oldrepublic:/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410",
-      "greenhouse:rocketlab:8057246003",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
-      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
-      "greenhouse:spacex:8920514002",
-      "workday:boeing:/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1",
-      "workday:uw:/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
