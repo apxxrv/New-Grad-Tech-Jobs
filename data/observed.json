@@ -737,6 +737,18 @@
     }
    }
   },
+  "cummins": {
+   "name": "Cummins",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437283"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cursor": {
    "name": "Cursor",
    "cycles": {
@@ -2521,6 +2533,25 @@
     }
    }
   },
+  "whoop": {
+   "name": "Whoop",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622"
+     ],
+     "count": 1
+    },
+    "Class of 2026": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ziprecruiter": {
    "name": "ZipRecruiter",
    "cycles": {
@@ -2541,5 +2572,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T20:21:18Z"
+ "updated_at": "2026-11-10T03:00:38Z"
 }
