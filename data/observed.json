@@ -34,10 +34,11 @@
      "first_posted": "2026-09-24",
      "role_ids": [
       "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
       "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
       "workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1558,6 +1559,18 @@
     }
    }
   },
+  "newrez": {
+   "name": "Newrez",
+   "cycles": {
+    "Class of 2027": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "workday:newrez:/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -1580,7 +1593,9 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Quality-Engineer---San-Diego_R10256051",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
@@ -1591,7 +1606,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 18
+     "count": 20
     }
    }
   },
@@ -2000,16 +2015,18 @@
     "Class of 2026": {
      "first_posted": "2026-10-29",
      "role_ids": [
+      "workday:salesforce:/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
       "workday:salesforce:/job/India---Bangalore/Software-Engineering-AMTS_JR307116"
      ],
-     "count": 1
+     "count": 2
     },
     "Class of 2027": {
      "first_posted": "2026-11-06",
      "role_ids": [
+      "workday:salesforce:/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
       "workday:salesforce:/job/India---Hyderabad/Software-Engineering-AMTS_JR356580"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2076,24 +2093,35 @@
     "Class of 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:29917792-e504-4cb5-9e70-9d74212d3b1f",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:955d48ad-9380-4621-91f4-51f3f093ac10",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
+      "ashby:shield:29917792-e504-4cb5-9e70-9d74212d3b1f",
+      "ashby:shield:955d48ad-9380-4621-91f4-51f3f093ac10",
+      "ashby:shield:c0735824-2b3c-46a2-a888-99e7376a9606",
+      "ashby:shield:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
       "ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606",
       "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
       "lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
       "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319",
       "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896"
      ],
-     "count": 5
+     "count": 12
     },
     "Class of 2026": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "ashby:shield:29917792-e504-4cb5-9e70-9d74212d3b1f",
+      "ashby:shield:955d48ad-9380-4621-91f4-51f3f093ac10",
+      "ashby:shield:c0735824-2b3c-46a2-a888-99e7376a9606",
+      "ashby:shield:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
       "ashby:shieldai:c0735824-2b3c-46a2-a888-99e7376a9606",
       "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
       "lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
       "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319",
       "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896"
      ],
-     "count": 5
+     "count": 9
     }
    }
   },
@@ -2614,5 +2642,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T14:21:23Z"
+ "updated_at": "2026-11-11T21:34:55Z"
 }
