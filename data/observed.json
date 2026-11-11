@@ -1124,9 +1124,10 @@
       "workday:globalfoundries:/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
       "workday:globalfoundries:/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
       "workday:globalfoundries:/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163"
+      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2613,5 +2614,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T06:17:23Z"
+ "updated_at": "2026-11-11T14:21:23Z"
 }

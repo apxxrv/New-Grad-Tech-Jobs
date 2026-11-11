@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-11T06:17:23Z</updated>
+  <updated>2026-11-11T14:21:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:autodesk:/job/Novi-MI-USA/Software-Engineer_26WD102129-1</id>
+    <title>Autodesk: Software Engineer</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1"/>
+    <updated>2026-11-11T14:21:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Novi, MI, USA · Python, C++, C#, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalfoundries:/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093</id>
+    <title>GlobalFoundries: AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093"/>
+    <updated>2026-11-11T14:21:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · USA - Texas - Richardson · Python, C++, PyTorch, TensorFlow, Linux</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:amazon:amazon:10601956</id>
     <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC) 🇺🇸</title>
@@ -16,20 +32,20 @@
     <summary>Class of 2027 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Springfield/Jr-Data-Engineer_R0175096</id>
-    <title>Amentum: Jr. Data Engineer</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"/>
-    <updated>2026-11-11T06:17:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US-VA-Springfield · Python, SQL, AWS, Git, Hadoop</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:vast:4728775006</id>
     <title>VAST: Information Security Analyst</title>
     <link href="https://boards.greenhouse.io/vast/jobs/4728775006?gh_jid=4728775006"/>
     <updated>2026-11-11T06:17:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Long Beach, California, United States · Python, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Springfield/Jr-Data-Engineer_R0175096</id>
+    <title>Amentum: Jr. Data Engineer</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"/>
+    <updated>2026-11-11T06:17:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-VA-Springfield · Python, SQL, AWS, Git, Hadoop</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5</id>
@@ -118,6 +134,14 @@
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D · C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245</id>
@@ -323,9 +347,9 @@
     <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131</id>
     <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131"/>
-    <updated>2026-11-10T03:00:38Z</updated>
+    <updated>2026-11-11T14:21:23Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:oldrepublic:/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-06T18:41:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Detroit, MI, United States of America; Cypress Waters, Texas · React, GraphQL, AWS, Kubernetes, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:salesforce:/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2</id>
-    <title>Salesforce: AI Product Associate Analyst, Early Talent</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2"/>
-    <updated>2026-11-06T18:41:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Illinois - Chicago, United States of America; Indiana - Indianapolis · $69.2k–$76.23k/yr · Python, LLMs · H-1B track record: ~501 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:salesforce:/job/India---Hyderabad/Software-Engineering-AMTS_JR356580</id>
-    <title>Salesforce: Software Engineering AMTS</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR356580"/>
-    <updated>2026-11-06T18:41:36Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · India - Hyderabad; India - Bangalore · LLMs · status: closed · H-1B track record: ~501 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:bah:/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089</id>
-    <title>Booz Allen: Cybersecurity Analyst, Junior 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089"/>
-    <updated>2026-11-06T03:40:54Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Rome, NY · $108k/yr · sponsorship: citizens-only</summary>
   </entry>
 </feed>
