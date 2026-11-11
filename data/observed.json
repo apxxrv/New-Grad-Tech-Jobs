@@ -160,9 +160,10 @@
      "role_ids": [
       "greenhouse:andurilindustries:5162263007",
       "greenhouse:andurilindustries:5228868007",
-      "greenhouse:andurilindustries:5246141007"
+      "greenhouse:andurilindustries:5246141007",
+      "greenhouse:andurilindustries:5270839007"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2605,5 +2606,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T18:54:29Z"
+ "updated_at": "2026-11-11T00:01:33Z"
 }

@@ -1,6 +1,50 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5",
+      "oracle:efds.fa.em5.oraclecloud.com:73930",
+      "oracle:efds.fa.em5.oraclecloud.com:72607",
+      "eightfold:qualcomm:446721803210",
+      "oracle:hdde.fa.us2.oraclecloud.com:4581",
+      "workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040",
+      "greenhouse:andurilindustries:5270839007",
+      "smartrecruiters:CityAndCountyOfSanFrancisco1:3743990016774675",
+      "workday:cox:/job/Atlanta-GA/Software-Engineer-I---19025_R202684623",
+      "workday:tsys:/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067",
+      "smartrecruiters:Mirantis:744000160982204",
+      "workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109",
+      "workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245",
+      "workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244",
+      "workday:rsm:/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252",
+      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
+      "workday:globalhr:/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081",
+      "workday:boeing:/job/USA---El-Segundo-CA/Spacecraft-Software-Simulation---Test-Engineer---Millennium-Space-Systems_JR2026528041",
+      "workday:coke:/job/US---GA---Atlanta/Software-Engineer-I_R-148843",
+      "smartrecruiters:WesternDigital:744000160973301"
+    ],
+    "telegram": [
+      "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5",
+      "oracle:efds.fa.em5.oraclecloud.com:73930",
+      "oracle:efds.fa.em5.oraclecloud.com:72607",
+      "eightfold:qualcomm:446721803210",
+      "oracle:hdde.fa.us2.oraclecloud.com:4581",
+      "workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040",
+      "greenhouse:andurilindustries:5270839007",
+      "smartrecruiters:CityAndCountyOfSanFrancisco1:3743990016774675",
+      "workday:cox:/job/Atlanta-GA/Software-Engineer-I---19025_R202684623",
+      "workday:tsys:/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067",
+      "smartrecruiters:Mirantis:744000160982204",
+      "workday:morningstar:/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109",
+      "workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245",
+      "workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244",
+      "workday:rsm:/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252",
+      "workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
+      "workday:globalhr:/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081",
+      "workday:boeing:/job/USA---El-Segundo-CA/Spacecraft-Software-Simulation---Test-Engineer---Millennium-Space-Systems_JR2026528041",
+      "workday:coke:/job/US---GA---Atlanta/Software-Engineer-I_R-148843",
+      "smartrecruiters:WesternDigital:744000160973301"
+    ]
   }
 }
