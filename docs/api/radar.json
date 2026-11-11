@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T00:01:33Z",
- "data_as_of": "2026-11-11T00:01:33Z",
- "rendered_at": "2026-11-11T00:01:33Z",
+ "generated_at": "2026-11-11T06:17:23Z",
+ "data_as_of": "2026-11-11T06:17:23Z",
+ "rendered_at": "2026-11-11T06:17:23Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -1564,25 +1564,6 @@
    }
   },
   {
-   "company": "Gartner",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-10",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-10-10"
-   }
-  },
-  {
    "company": "General Motors",
    "last_cycle_posted": "",
    "posted_on": "2026-10-12",
@@ -2001,6 +1982,25 @@
    }
   },
   {
+   "company": "Amazon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-10"
+   }
+  },
+  {
    "company": "Wise",
    "last_cycle_posted": "",
    "posted_on": "2026-11-10",
@@ -2112,25 +2112,6 @@
     "type": "engine-projection",
     "cycle": "Class of 2026",
     "observed_on": "2026-08-14"
-   }
-  },
-  {
-   "company": "Amazon",
-   "last_cycle_posted": "2026-08-25",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2027-08-25",
-   "days_until": 287,
-   "status": "waiting",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-projection",
-    "cycle": "Class of 2026",
-    "observed_on": "2026-08-25"
    }
   },
   {
@@ -2701,6 +2682,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-10-08"
+   }
+  },
+  {
+   "company": "Gartner",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-10",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-10-10"
    }
   },
   {

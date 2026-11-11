@@ -110,6 +110,13 @@
       "amazon:amazon:10529546"
      ],
      "count": 2
+    },
+    "Class of 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "amazon:amazon:10601956"
+     ],
+     "count": 1
     }
    }
   },
@@ -2606,5 +2613,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T00:01:33Z"
+ "updated_at": "2026-11-11T06:17:23Z"
 }

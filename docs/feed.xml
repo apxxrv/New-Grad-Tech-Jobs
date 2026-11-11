@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-11T00:01:33Z</updated>
+  <updated>2026-11-11T06:17:23Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:amazon:amazon:10601956</id>
+    <title>Amazon: Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC) 🇺🇸</title>
+    <link href="https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc"/>
+    <updated>2026-11-11T06:17:23Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Springfield/Jr-Data-Engineer_R0175096</id>
+    <title>Amentum: Jr. Data Engineer</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"/>
+    <updated>2026-11-11T06:17:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-VA-Springfield · Python, SQL, AWS, Git, Hadoop</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:vast:4728775006</id>
+    <title>VAST: Information Security Analyst</title>
+    <link href="https://boards.greenhouse.io/vast/jobs/4728775006?gh_jid=4728775006"/>
+    <updated>2026-11-11T06:17:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Long Beach, California, United States · Python, Bash, Linux</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5</id>
     <title>Clera: Fullstack Engineer 🛂</title>
@@ -14,6 +38,14 @@
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco · $100k–$150k/yr · TypeScript, LLMs, Next.js · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:andurilindustries:5270839007</id>
+    <title>Anduril: 2027 New Grad Information Security Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Security · Costa Mesa, California, United States · Python, Bash, Computer Vision, AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:efds.fa.em5.oraclecloud.com:73930</id>
@@ -32,44 +64,12 @@
     <summary>Not stated · Data &amp; ML/AI · Fort Smith, AR, United States; Lewisville, TX, United States · Python, SQL, Databricks, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040</id>
-    <title>Amentum: Junior Software Developer 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:andurilindustries:5270839007</id>
-    <title>Anduril: 2027 New Grad Information Security Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Security · Costa Mesa, California, United States · Python, Bash, Computer Vision, AWS, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:smartrecruiters:CityAndCountyOfSanFrancisco1:3743990016774675</id>
     <title>City and County of San Francisco: Salesforce Developer - Office of the Assessor-Recorder (1042)</title>
     <link href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016774675"/>
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco, CA, United States (Hybrid) · Python, Java, JavaScript, SQL, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:cox:/job/Atlanta-GA/Software-Engineer-I---19025_R202684623</id>
-    <title>Cox: Software Engineer I - 19025</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta GA · C#, TypeScript, JavaScript, React, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:tsys:/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067</id>
-    <title>Global Payments: Information Security Analyst I 🛂</title>
-    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · COLUMBUS, GEORGIA · Linux · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:Mirantis:744000160982204</id>
@@ -80,36 +80,12 @@
     <summary>Not stated · Software · Remote, USA, United States (Remote) · Python, TypeScript, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245</id>
-    <title>Nightwing Intelligence Solutions: Cyber Defense Analyst (Tier 1) - Overnight</title>
-    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245"/>
+    <id>urn:grad-engine:smartrecruiters:WesternDigital:744000160973301</id>
+    <title>Western Digital: Software Engineer</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000160973301"/>
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244</id>
-    <title>Nightwing Intelligence Solutions: Cyber Defense Analyst (Tier 1) - Afternoon</title>
-    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:rsm:/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252</id>
-    <title>RSM: Associate, AI and Data Strategy Consultant</title>
-    <link href="https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago · LLMs, AWS, Azure, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D · C++ · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---El-Segundo-CA/Spacecraft-Software-Simulation---Test-Engineer---Millennium-Space-Systems_JR2026528041</id>
@@ -128,12 +104,60 @@
     <summary>Not stated · Software · US - GA - Atlanta · SQL · sponsorship: no-sponsorship · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:smartrecruiters:WesternDigital:744000160973301</id>
-    <title>Western Digital: Software Engineer</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000160973301"/>
+    <id>urn:grad-engine:workday:cox:/job/Atlanta-GA/Software-Engineer-I---19025_R202684623</id>
+    <title>Cox: Software Engineer I - 19025</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"/>
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript</summary>
+    <summary>Not stated · Software · Atlanta GA · C#, TypeScript, JavaScript, React, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D · C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245</id>
+    <title>Nightwing Intelligence Solutions: Cyber Defense Analyst (Tier 1) - Overnight</title>
+    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Remote-VA/Cyber-Defense-Analyst--Tier-1----Overnight_JR102245"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:nwis:/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244</id>
+    <title>Nightwing Intelligence Solutions: Cyber Defense Analyst (Tier 1) - Afternoon</title>
+    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Remote-VA/Cyber-Defense-Analyst--Tier-1-_JR102244"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040</id>
+    <title>Amentum: Junior Software Developer 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rsm:/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252</id>
+    <title>RSM: Associate, AI and Data Strategy Consultant</title>
+    <link href="https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago · LLMs, AWS, Azure, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tsys:/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067</id>
+    <title>Global Payments: Information Security Analyst I 🛂</title>
+    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · COLUMBUS, GEORGIA · Linux · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:ande:8ff8145e-8040-4a7a-a90c-cc1fdc36deb1</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-06T03:40:54Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Security · Rome, NY · $108k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:medtronic:/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1</id>
-    <title>Medtronic: Software Quality Engineer I 🛂</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1"/>
-    <updated>2026-11-06T03:40:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mounds View, Minnesota, United States of America; Newton, Massachusetts, United States of America · Python, Docker, Linux · sponsorship: no-sponsorship · H-1B track record: ~424 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:td:/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642</id>
-    <title>TD Bank: Applied Machine Learning Scientist I</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642"/>
-    <updated>2026-11-06T03:40:53Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada; Montréal, Québec · Python, SQL, LLMs, Azure, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:ultimagenomics:6250742004</id>
-    <title>Ultima Genomics: Firmware Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004"/>
-    <updated>2026-11-05T23:11:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Fremont, California, United States · Python</summary>
   </entry>
 </feed>
