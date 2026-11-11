@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10601956",
-      "workday:pae:/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
-      "greenhouse:vast:4728775006"
-    ],
-    "telegram": [
-      "amazon:amazon:10601956",
-      "workday:pae:/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
-      "greenhouse:vast:4728775006"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
