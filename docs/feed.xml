@@ -5,23 +5,63 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-11T21:34:55Z</updated>
+  <updated>2026-11-12T02:45:18Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
   <entry>
-    <id>urn:grad-engine:workable:bask-health-1:472CF47F60</id>
-    <title>Bask Health 1: Backend Engineer, New Grad</title>
-    <link href="https://apply.workable.com/bask-health-1/j/472CF47F60/"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States (Remote) · TypeScript, JavaScript, SQL, React, Next.js</summary>
+    <id>urn:grad-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873</id>
+    <title>Zensar: Software Engineer (AI)</title>
+    <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · Ann Arbor, MI, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:lever:biointellisense:52cc3af7-e615-4f5f-9d4a-5eec094b3e28</id>
-    <title>Biointellisense: Android Engineer</title>
-    <link href="https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28"/>
-    <updated>2026-11-11T21:34:55Z</updated>
+    <id>urn:grad-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153877</id>
+    <title>Zensar: Software Engineer (AI)</title>
+    <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Data &amp; ML/AI · New York, NY, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Remote-Any-State/RPA-Developer_334933</id>
+    <title>CACI: RPA Developer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/RPA-Developer_334933"/>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Redwood City, California · 60,000–80,000 USD/yr · Python, Kotlin, AWS, Git</summary>
+    <summary>Not stated · Software · Remote (Any State), United States of America; Scott AFB, IL, US · Python, Java, C#, SQL, .NET · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:caci:/job/Remote-Any-State/ArcGis-Developer_334932</id>
+    <title>CACI: ArcGis Developer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/ArcGis-Developer_334932"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote (Any State), United States of America; Scott AFB, IL, US · Python, JavaScript, SQL, HTML/CSS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:smartrecruiters:Experian:744000161186552</id>
+    <title>Experian: Data Scientist, Fraud Risk Detection</title>
+    <link href="https://jobs.smartrecruiters.com/Experian/744000161186552"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States, UNITED STATES, United States (Hybrid) · Python, scikit-learn, Pandas, HTML/CSS, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:rubrik:8351288</id>
+    <title>Rubrik: Software Engineer - Virtual Platform</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA · Java, C++, Scala, AWS, GCP · H-1B track record: ~117 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tandemdiabetes:/job/California---High-Bluff/Software-Test-Engineer-I--Systems-Test-_JR101674</id>
+    <title>Tandem Diabetes Care: Software Test Engineer I (Systems Test) 🛂</title>
+    <link href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---High-Bluff/Software-Test-Engineer-I--Systems-Test-_JR101674"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · California - High Bluff · $39.23–$49/hr · Python, C++, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:litellm:ee96c797-fb2b-4f91-9639-6017ae73c34c</id>
@@ -32,116 +72,12 @@
     <summary>Not stated · Data &amp; ML/AI · San Francisco · $200K – $250K · Python, LLMs, PostgreSQL, Redis</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:ashby:shield:29917792-e504-4cb5-9e70-9d74212d3b1f</id>
-    <title>Shield AI: Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Washington, D.C. · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:shield:955d48ad-9380-4621-91f4-51f3f093ac10</id>
-    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:shield:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7</id>
-    <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Washington, D.C. · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:shield:c0735824-2b3c-46a2-a888-99e7376a9606</id>
-    <title>Shield AI: Software Development Engineer - New Graduate</title>
-    <link href="https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · San Diego, California · Python, C++, Computer Vision, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Engineer_JR10016683</id>
-    <title>University of Wisconsin-Madison: Data Engineer 🛂</title>
-    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Engineer_JR10016683"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462</id>
-    <title>Adobe: 2027 University Graduate - Data Scientist</title>
-    <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose · $90k–$164.25k/yr · Python, SQL · H-1B track record: ~1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:echo:/job/Chicago-IL/Associate-Software-Support-Engineer_R4840</id>
-    <title>Echo Global Logistics: Associate Software Support Engineer</title>
-    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4840"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, IL · $64.291k/yr · C#, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:edmentum:6255572004</id>
     <title>edmentum: Software Engineer I</title>
     <link href="https://job-boards.greenhouse.io/edmentum/jobs/6255572004"/>
     <updated>2026-11-11T21:34:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Bloomington, Minnesota, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:newrez:/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389</id>
-    <title>Newrez: TRAIL Rising Leaders Program - Software Engineering</title>
-    <link href="https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · TX, Coppell · C#, JavaScript, SQL, Angular, Git · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer - Pathways - Colorado Springs 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-Colorado-Colorado Springs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171</id>
-    <title>Northrop Grumman: 2027 Associate Software Engineer - Pathways - Boulder CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · United States-Colorado-Boulder · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 · Python, Java, C++, Rust, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038</id>
-    <title>RTX: Software Engineer I (CMA-P1-1) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A · Python, Java, C++, Bash, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:salesforce:/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1</id>
-    <title>Salesforce: Software Engineering AMTS (College Grad)</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · California - San Francisco, United States of America; California - Palo Alto; New York - New York; Washington - Seattle; Washington - Bellevue; Texas - Dallas; Indiana - Indianapolis · $114.4k–$153k/yr · Python, Java, C++, JavaScript, SQL · H-1B track record: ~501 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:selffinancial:6255478004</id>
@@ -152,12 +88,36 @@
     <summary>Not stated · Software · Austin, TX · Python, SQL, AWS, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:tandemdiabetes:/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674</id>
-    <title>Tandem Diabetes Care: Software Test Engineer I (Systems Test) 🛂</title>
-    <link href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674"/>
+    <id>urn:grad-engine:greenhouse:twitch:8934067002</id>
+    <title>Twitch: Software Engineer I, Commerce</title>
+    <link href="https://job-boards.greenhouse.io/twitch/jobs/8934067002"/>
     <updated>2026-11-11T21:34:55Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · California - Barnes · $39.23–$49/hr · Python, C++, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Francisco, CA · $110.5k–$160k/yr · Go, TypeScript, Swift, Kotlin, React</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:biointellisense:52cc3af7-e615-4f5f-9d4a-5eec094b3e28</id>
+    <title>Biointellisense: Android Engineer</title>
+    <link href="https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Redwood City, California · 60,000–80,000 USD/yr · Python, Kotlin, AWS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:bask-health-1:472CF47F60</id>
+    <title>Bask Health 1: Backend Engineer, New Grad</title>
+    <link href="https://apply.workable.com/bask-health-1/j/472CF47F60/"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States (Remote) · TypeScript, JavaScript, SQL, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462</id>
+    <title>Adobe: 2027 University Graduate - Data Scientist</title>
+    <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose · $90k–$164.25k/yr · Python, SQL · H-1B track record: ~1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:boeing:/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463-1</id>
@@ -176,14 +136,6 @@
     <summary>Not stated · Software · USA - Heath, OH · C++, C# · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:twitch:8934067002</id>
-    <title>Twitch: Software Engineer I, Commerce</title>
-    <link href="https://job-boards.greenhouse.io/twitch/jobs/8934067002"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA · $110.5k–$160k/yr · Go, TypeScript, Swift, Kotlin, React</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:connect:/job/Secaucus-NJ/Test-Software-Developer_R-105519-1</id>
     <title>ZT Systems: Test Software Developer</title>
     <link href="https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1"/>
@@ -192,12 +144,84 @@
     <summary>Not stated · Software · Secaucus, NJ · Python, Java, C++, C#, JavaScript · H-1B track record: ~66 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:grad-engine:workday:echo:/job/Chicago-IL/Associate-Software-Support-Engineer_R4840</id>
+    <title>Echo Global Logistics: Associate Software Support Engineer</title>
+    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4840"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · $64.291k/yr · C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058</id>
+    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 · Python, Java, C++, Rust, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038</id>
+    <title>RTX: Software Engineer I (CMA-P1-1) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A · Python, Java, C++, Bash, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:newrez:/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389</id>
+    <title>Newrez: TRAIL Rising Leaders Program - Software Engineering</title>
+    <link href="https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · TX, Coppell · C#, JavaScript, SQL, Angular, Git · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer - Pathways - Boulder CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Colorado-Boulder · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer - Pathways - Colorado Springs 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Colorado-Colorado Springs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:salesforce:/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1</id>
+    <title>Salesforce: Software Engineering AMTS (College Grad)</title>
+    <link href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · California - San Francisco, United States of America; California - Palo Alto; New York - New York; Washington - Seattle; Washington - Bellevue; Texas - Dallas; Indiana - Indianapolis · $114.4k–$153k/yr · Python, Java, C++, JavaScript, SQL · H-1B track record: ~501 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tandemdiabetes:/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674</id>
+    <title>Tandem Diabetes Care: Software Test Engineer I (Systems Test) 🛂</title>
+    <link href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · California - Barnes · $39.23–$49/hr · Python, C++, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Engineer_JR10016683</id>
+    <title>University of Wisconsin-Madison: Data Engineer 🛂</title>
+    <link href="https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Engineer_JR10016683"/>
+    <updated>2026-11-11T21:34:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · University of Wisconsin Madison · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:grad-engine:workday:autodesk:/job/Novi-MI-USA/Software-Engineer_26WD102129-1</id>
     <title>Autodesk: Software Engineer</title>
     <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1"/>
-    <updated>2026-11-11T14:21:23Z</updated>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Novi, MI, USA · Python, C++, C#, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Novi, MI, USA · Python, C++, C#, TypeScript, JavaScript · status: closed · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalfoundries:/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093</id>
@@ -603,9 +627,9 @@
     <id>urn:grad-engine:workday:adobe:/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455</id>
     <title>Adobe: 2027 University Graduate - Data Engineer</title>
     <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455"/>
-    <updated>2026-11-09T20:21:18Z</updated>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · San Jose · $90k–$164.25k/yr · Python, SQL · H-1B track record: ~1k approvals (FY2022–2023)</summary>
+    <summary>Class of 2027 · Data &amp; ML/AI · San Jose · $90k–$164.25k/yr · Python, SQL · status: closed · H-1B track record: ~1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:cdk:/job/Hoffman-Estates-IL-USA/Pricing-Data-Analyst_JR9446</id>
@@ -659,17 +683,17 @@
     <id>urn:grad-engine:workday:sbasite:/job/Boca-Raton-FL-Corporate-Office/Cloud-Engineer-I_JR102701</id>
     <title>SBA Communications Corporation: Cloud Engineer I</title>
     <link href="https://sbasite.wd5.myworkdayjobs.com/SBA_Communications_Careers/job/Boca-Raton-FL-Corporate-Office/Cloud-Engineer-I_JR102701"/>
-    <updated>2026-11-09T20:21:18Z</updated>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Boca Raton, FL Corporate Office · AWS, GCP, Azure, Terraform, Linux</summary>
+    <summary>Not stated · Software · Boca Raton, FL Corporate Office · AWS, GCP, Azure, Terraform, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:stoneridge:/job/Novi-MI/Junior-AI-Specialist_JR102766</id>
     <title>Stoneridge: Junior AI Specialist</title>
     <link href="https://stoneridge.wd5.myworkdayjobs.com/careers/job/Novi-MI/Junior-AI-Specialist_JR102766"/>
-    <updated>2026-11-09T20:21:18Z</updated>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Novi, MI · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Novi, MI · status: closed · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:synchronyfinancial:/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752</id>
@@ -683,9 +707,9 @@
     <id>urn:grad-engine:workday:upbound:/job/Plano-TX/Platform-Engineer-II_R-100847</id>
     <title>Upbound Group: Platform Engineer I 🛂</title>
     <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Platform-Engineer-II_R-100847"/>
-    <updated>2026-11-09T20:21:18Z</updated>
+    <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Plano, TX · Python, LLMs, AWS, GCP, Kubernetes · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · Plano, TX · Python, LLMs, AWS, GCP, Kubernetes · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:visa:/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W</id>
@@ -733,15 +757,7 @@
     <link href="https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"/>
     <updated>2026-11-08T18:45:46Z</updated>
     <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319</id>
-    <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
-    <link href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"/>
-    <updated>2026-11-08T18:45:46Z</updated>
-    <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Washington, D.C. · 77,200–211,200 USD/yr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+    <summary>3 openings · Class of 2027 · Software · Washington, D.C. · 119,200–178,800 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896</id>
@@ -749,7 +765,15 @@
     <link href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"/>
     <updated>2026-11-08T18:45:46Z</updated>
     <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · United States · 77,200–211,200 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+    <summary>3 openings · Class of 2027 · Software · United States · 119,200–178,800 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319</id>
+    <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
+    <link href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"/>
+    <updated>2026-11-08T18:45:46Z</updated>
+    <category term="Class of 2027"/>
+    <summary>3 openings · Class of 2027 · Software · Washington, D.C. · 119,200–178,800 USD/yr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-10T03:00:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia, United States (Hybrid) · $40–$60/hr · Python, TypeScript, SQL, LLMs, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:smartrecruiters:AbbVie:3743990016715126</id>
-    <title>AbbVie: Associate Software Engineer I</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990016715126"/>
-    <updated>2026-11-07T03:21:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · North Chicago, IL, United States (Hybrid) · Java, TypeScript, SQL, LLMs, HTML/CSS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:nvidia:/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894</id>
-    <title>NVIDIA: Research Scientist, AI and Systems Security - PhD New College Grad 2026</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894"/>
-    <updated>2026-11-07T03:21:52Z</updated>
-    <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · US, MA, Westford, United States of America; US, CA, Santa Clara · Python, C++ · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:pendartechnologies:5475948008</id>
-    <title>Pendar Technologies: Scientific Software Engineer – Algorithms</title>
-    <link href="https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008"/>
-    <updated>2026-11-06T23:46:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · $100k–$130k/yr · Python, Computer Vision</summary>
   </entry>
 </feed>

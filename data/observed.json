@@ -2093,9 +2093,6 @@
     "Class of 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:29917792-e504-4cb5-9e70-9d74212d3b1f",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:955d48ad-9380-4621-91f4-51f3f093ac10",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
       "ashby:shield:29917792-e504-4cb5-9e70-9d74212d3b1f",
       "ashby:shield:955d48ad-9380-4621-91f4-51f3f093ac10",
       "ashby:shield:c0735824-2b3c-46a2-a888-99e7376a9606",
@@ -2106,7 +2103,7 @@
       "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319",
       "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896"
      ],
-     "count": 12
+     "count": 9
     },
     "Class of 2026": {
      "first_posted": "2026-10-06",
@@ -2622,6 +2619,19 @@
     }
    }
   },
+  "zensar": {
+   "name": "Zensar",
+   "cycles": {
+    "Class of 2026": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873",
+      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153877"
+     ],
+     "count": 2
+    }
+   }
+  },
   "ziprecruiter": {
    "name": "ZipRecruiter",
    "cycles": {
@@ -2642,5 +2652,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T21:34:55Z"
+ "updated_at": "2026-11-12T02:45:18Z"
 }
