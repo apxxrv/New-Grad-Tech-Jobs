@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873",
-      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153877",
-      "workday:caci:/job/Remote-Any-State/RPA-Developer_334933",
-      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334932",
-      "workday:cdk:/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
-      "smartrecruiters:Experian:744000161186552",
-      "greenhouse:rubrik:8351288",
-      "workday:tandemdiabetes:/job/California---High-Bluff/Software-Test-Engineer-I--Systems-Test-_JR101674"
-    ],
-    "telegram": [
-      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873",
-      "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153877",
-      "workday:caci:/job/Remote-Any-State/RPA-Developer_334933",
-      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334932",
-      "workday:cdk:/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
-      "smartrecruiters:Experian:744000161186552",
-      "greenhouse:rubrik:8351288",
-      "workday:tandemdiabetes:/job/California---High-Bluff/Software-Test-Engineer-I--Systems-Test-_JR101674"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
