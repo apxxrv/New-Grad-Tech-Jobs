@@ -5,8 +5,88 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-12T10:28:56Z</updated>
+  <updated>2026-11-12T18:54:14Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:lever:economicmodeling:aa5e1f5e-d9cf-446e-af35-fc12b9e453a5</id>
+    <title>Lightcast: Economic Research Analyst / Junior Data Scientist - 1089</title>
+    <link href="https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote (Work From Home) US · Python, SQL, LLMs, Snowflake, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41266</id>
+    <title>Nokia: Infrastructure Support Engineer</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Python, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f</id>
+    <title>Redhorse: Cloud Software Engineer (Full-Stack and AI) - Junior Level 🇺🇸</title>
+    <link href="https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Gainesville, VA · 90,000–110,000 USD/yr · Python, Java, C++, C#, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:signetjewelers:/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369</id>
+    <title>Signet Jewelers: AI Platform Engineer I</title>
+    <link href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Support Center - Irving, TX, United States of America; Support Center - Akron, OH · Python, TypeScript, LLMs, AWS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tplink:/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032</id>
+    <title>TP-Link Systems: 2026 Early Career Embedded Software Engineer 🛂</title>
+    <link href="https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Class of 2026"/>
+    <summary>Class of 2026 · Software · US 10 Mauchly · C++ · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:capitalone:/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1</id>
+    <title>Capital One: Associate, Data Scientist - US Card 🛂</title>
+    <link href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · Python, SQL, Scala, AWS, Spark · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:cdk:/job/Austin-TX-USA/Associate-Database-Engineer_JR9386</id>
+    <title>CDK Global: Associate Database Engineer</title>
+    <link href="https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, USA · SQL, AWS, Git, PostgreSQL · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060</id>
+    <title>Northrop Grumman: 2027 Associate Software Engineer / Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-Florida-Melbourne · Python, Java · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1</id>
+    <title>Rockwell Automation: Associate Software Engineer</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mayfield Heights, Ohio, United States · Python, C++, C#, JavaScript, Ruby · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:sierraspace:/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535</id>
+    <title>Sierra Space: Software Engineer I - DevOps / DevSecOps 🇺🇸</title>
+    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"/>
+    <updated>2026-11-12T18:54:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Louisville, CO, United States of America; Centennial, CO · Python, C++, Bash, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:workable:bask-health-1:95FB1074E4</id>
     <title>Bask Health 1: Frontend Engineer, New Grad</title>
@@ -35,17 +115,17 @@
     <id>urn:grad-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873</id>
     <title>Zensar: Software Engineer (AI)</title>
     <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873"/>
-    <updated>2026-11-12T02:45:18Z</updated>
+    <updated>2026-11-12T18:54:14Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · Ann Arbor, MI, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers</summary>
+    <summary>Class of 2026 · Data &amp; ML/AI · Ann Arbor, MI, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153877</id>
     <title>Zensar: Software Engineer (AI)</title>
     <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877"/>
-    <updated>2026-11-12T02:45:18Z</updated>
+    <updated>2026-11-12T18:54:14Z</updated>
     <category term="Class of 2026"/>
-    <summary>Class of 2026 · Data &amp; ML/AI · New York, NY, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers</summary>
+    <summary>Class of 2026 · Data &amp; ML/AI · New York, NY, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:smartrecruiters:Experian:744000161186552</id>
@@ -726,85 +806,5 @@
     <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Plano, TX · Python, LLMs, AWS, GCP, Kubernetes · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:visa:/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W</id>
-    <title>Visa: Associate Data Engineer</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Foster City, CA · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:barclays:/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Developer-Graduate-Programme-Prague_JR-0000131174-1</id>
-    <title>Barclays: 2027 Technology Developer Graduate Programme Prague</title>
-    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Developer-Graduate-Programme-Prague_JR-0000131174-1"/>
-    <updated>2026-11-09T20:21:17Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Gemini Building A, Prague, Czechia; Gemini Building B, Prague · Python, Java, C++, C#, TypeScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:barclays:/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Part-Time-Developer-Programme-Prague_JR-0000131175</id>
-    <title>Barclays: 2027 Technology Part Time Developer Programme Prague</title>
-    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Part-Time-Developer-Programme-Prague_JR-0000131175"/>
-    <updated>2026-11-09T20:21:17Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Gemini Building A, Prague, Czechia; Gemini Building B, Prague · Python, Java, C++, C#, TypeScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036</id>
-    <title>M&amp;T Bank: 2027 Technology Development Program - Software Engineering (Data &amp; API Engineering) 🛂</title>
-    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036"/>
-    <updated>2026-11-09T02:16:50Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Data &amp; ML/AI · Buffalo, NY · $29.57–$43.99/hr · Python, Java, SQL, Azure, Databricks · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:mtb:/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035</id>
-    <title>M&amp;T Bank: 2027 Technology Development Program - Software Engineering (Enterprise &amp; Wealth Application Development) 🛂</title>
-    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035"/>
-    <updated>2026-11-09T02:16:50Z</updated>
-    <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Buffalo, NY · $29.57–$43.99/hr · Java, C#, SQL, Angular, Spring · sponsorship: no-sponsorship · H-1B track record: ~137 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa</id>
-    <title>Shield AI: Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸</title>
-    <link href="https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"/>
-    <updated>2026-11-08T18:45:46Z</updated>
-    <category term="Class of 2027"/>
-    <summary>3 openings · Class of 2027 · Software · Washington, D.C. · 119,200–178,800 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896</id>
-    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
-    <link href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"/>
-    <updated>2026-11-08T18:45:46Z</updated>
-    <category term="Class of 2027"/>
-    <summary>3 openings · Class of 2027 · Software · United States · 119,200–178,800 USD/yr · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319</id>
-    <title>Shield AI: Engineer I, Software - Perception - New Grad - 6135 🇺🇸</title>
-    <link href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"/>
-    <updated>2026-11-08T18:45:46Z</updated>
-    <category term="Class of 2027"/>
-    <summary>3 openings · Class of 2027 · Software · Washington, D.C. · 119,200–178,800 USD/yr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:clera:4b22c4a0-a5f5-4688-ad32-06bcea97772b</id>
-    <title>Clera: GTM Associate, RL &amp; Physical AI</title>
-    <link href="https://jobs.ashbyhq.com/Clera/4b22c4a0-a5f5-4688-ad32-06bcea97772b"/>
-    <updated>2026-11-07T20:49:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:engine:8046374003</id>
-    <title>Engine: Software Engineer - GTM Engineering</title>
-    <link href="https://job-boards.greenhouse.io/engine/jobs/8046374003"/>
-    <updated>2026-11-07T16:34:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - US · Python, TypeScript, JavaScript</summary>
   </entry>
 </feed>

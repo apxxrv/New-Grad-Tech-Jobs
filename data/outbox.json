@@ -1,6 +1,34 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:egug.fa.us2.oraclecloud.com:26013354",
+      "oracle:egug.fa.us2.oraclecloud.com:26012796",
+      "lever:economicmodeling:aa5e1f5e-d9cf-446e-af35-fc12b9e453a5",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41266",
+      "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f",
+      "workday:signetjewelers:/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369",
+      "workday:tplink:/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032",
+      "workday:capitalone:/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
+      "workday:cdk:/job/Austin-TX-USA/Associate-Database-Engineer_JR9386",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1",
+      "workday:sierraspace:/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
+      "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840"
+    ],
+    "telegram": [
+      "oracle:egug.fa.us2.oraclecloud.com:26013354",
+      "oracle:egug.fa.us2.oraclecloud.com:26012796",
+      "lever:economicmodeling:aa5e1f5e-d9cf-446e-af35-fc12b9e453a5",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41266",
+      "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f",
+      "workday:signetjewelers:/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369",
+      "workday:tplink:/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032",
+      "workday:capitalone:/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
+      "workday:cdk:/job/Austin-TX-USA/Associate-Database-Engineer_JR9386",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1",
+      "workday:sierraspace:/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
+      "workday:truist:/job/Atlanta-GA/Data-Scientist-I_R0119840"
+    ]
   }
 }

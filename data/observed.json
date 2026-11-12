@@ -1597,6 +1597,7 @@
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411",
       "workday:ngc:/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
@@ -1606,7 +1607,7 @@
       "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
      ],
-     "count": 20
+     "count": 21
     }
    }
   },
@@ -2461,9 +2462,10 @@
     "Class of 2026": {
      "first_posted": "2026-05-12",
      "role_ids": [
-      "workable:tp-link-usa-corp:F943A617EC"
+      "workable:tp-link-usa-corp:F943A617EC",
+      "workday:tplink:/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2652,5 +2654,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T10:28:56Z"
+ "updated_at": "2026-11-12T18:54:14Z"
 }
