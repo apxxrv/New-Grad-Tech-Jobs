@@ -5,8 +5,32 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-12T02:45:18Z</updated>
+  <updated>2026-11-12T10:28:56Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workable:bask-health-1:95FB1074E4</id>
+    <title>Bask Health 1: Frontend Engineer, New Grad</title>
+    <link href="https://apply.workable.com/bask-health-1/j/95FB1074E4/"/>
+    <updated>2026-11-12T10:28:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States (Remote) · TypeScript, JavaScript, React, Next.js, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197</id>
+    <title>RTX: Associate Software Engineer I – CDS / Engine System Software (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197"/>
+    <updated>2026-11-12T10:28:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:rubrik:8351288</id>
+    <title>Rubrik: Software Engineer - Virtual Platform</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288"/>
+    <updated>2026-11-12T02:45:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA · Java, C++, Scala, AWS, GCP · H-1B track record: ~117 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:153873</id>
     <title>Zensar: Software Engineer (AI)</title>
@@ -24,12 +48,12 @@
     <summary>Class of 2026 · Data &amp; ML/AI · New York, NY, United States · Python, TypeScript, JavaScript, SQL, LLMs · sponsorship: offers</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:caci:/job/Remote-Any-State/RPA-Developer_334933</id>
-    <title>CACI: RPA Developer 🇺🇸</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/RPA-Developer_334933"/>
+    <id>urn:grad-engine:smartrecruiters:Experian:744000161186552</id>
+    <title>Experian: Data Scientist, Fraud Risk Detection</title>
+    <link href="https://jobs.smartrecruiters.com/Experian/744000161186552"/>
     <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Remote (Any State), United States of America; Scott AFB, IL, US · Python, Java, C#, SQL, .NET · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · United States, UNITED STATES, United States (Hybrid) · Python, scikit-learn, Pandas, HTML/CSS, AWS</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:caci:/job/Remote-Any-State/ArcGis-Developer_334932</id>
@@ -40,20 +64,12 @@
     <summary>Not stated · Software · Remote (Any State), United States of America; Scott AFB, IL, US · Python, JavaScript, SQL, HTML/CSS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:smartrecruiters:Experian:744000161186552</id>
-    <title>Experian: Data Scientist, Fraud Risk Detection</title>
-    <link href="https://jobs.smartrecruiters.com/Experian/744000161186552"/>
+    <id>urn:grad-engine:workday:caci:/job/Remote-Any-State/RPA-Developer_334933</id>
+    <title>CACI: RPA Developer 🇺🇸</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/RPA-Developer_334933"/>
     <updated>2026-11-12T02:45:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States, UNITED STATES, United States (Hybrid) · Python, scikit-learn, Pandas, HTML/CSS, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:rubrik:8351288</id>
-    <title>Rubrik: Software Engineer - Virtual Platform</title>
-    <link href="https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288"/>
-    <updated>2026-11-12T02:45:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA · Java, C++, Scala, AWS, GCP · H-1B track record: ~117 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Remote (Any State), United States of America; Scott AFB, IL, US · Python, Java, C#, SQL, .NET · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:tandemdiabetes:/job/California---High-Bluff/Software-Test-Engineer-I--Systems-Test-_JR101674</id>
@@ -203,9 +219,9 @@
     <id>urn:grad-engine:workday:tandemdiabetes:/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674</id>
     <title>Tandem Diabetes Care: Software Test Engineer I (Systems Test) 🛂</title>
     <link href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674"/>
-    <updated>2026-11-11T21:34:55Z</updated>
+    <updated>2026-11-12T10:28:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · California - Barnes · $39.23–$49/hr · Python, C++, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · California - Barnes · $39.23–$49/hr · Python, C++, C#, TypeScript, JavaScript · sponsorship: no-sponsorship · status: closed · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:wisconsin:/job/Madison-WI/Data-Engineer_JR10016683</id>
@@ -261,7 +277,7 @@
     <link href="https://jobs.ashbyhq.com/Clera/87e4356d-ecc4-476c-894c-84a62c566ba5"/>
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco · $100k–$150k/yr · TypeScript, LLMs, Next.js · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · San Francisco · $100K – $150K · TypeScript, LLMs, Next.js · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:andurilindustries:5270839007</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-07T16:34:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Remote - US · Python, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:keyfactorinc:6242660004</id>
-    <title>Keyfactor: Associate Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States (Remote) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workable:elevation-autism-center:B5CCC7D40B</id>
-    <title>Elevation Autism Center: Software Engineer - AI &amp; Workflow Automation</title>
-    <link href="https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/"/>
-    <updated>2026-11-10T03:00:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia, United States (Hybrid) · $40–$60/hr · Python, TypeScript, SQL, LLMs, React · status: closed</summary>
   </entry>
 </feed>
