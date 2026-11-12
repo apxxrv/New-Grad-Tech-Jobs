@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workable:bask-health-1:95FB1074E4",
-      "workday:globalhr:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197"
-    ],
-    "telegram": [
-      "workable:bask-health-1:95FB1074E4",
-      "workday:globalhr:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
