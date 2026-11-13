@@ -1,36 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "bytedance:bytedance:7632426574734035253",
-      "oracle:eeho.fa.us2.oraclecloud.com:350510",
-      "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com:3373",
-      "greenhouse:affirm:8181183003",
-      "workday:bah:/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
-      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334990",
-      "workday:guidehouse:/job/US---VA-McLean/Jr-Data-Scientist_44767",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
-      "workday:leidos:/job/Fort-Meade-MD/Junior-Cyber-Analyst_R-00183704",
-      "workday:leidos:/job/Gaithersburg-MD/Jr-Software-Engineer_R-00196853",
-      "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
-      "greenhouse:skyryse:8384242",
-      "greenhouse:spacex:8937195002"
-    ],
-    "telegram": [
-      "bytedance:bytedance:7632426574734035253",
-      "oracle:eeho.fa.us2.oraclecloud.com:350510",
-      "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com:3373",
-      "greenhouse:affirm:8181183003",
-      "workday:bah:/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
-      "workday:caci:/job/Remote-Any-State/ArcGis-Developer_334990",
-      "workday:guidehouse:/job/US---VA-McLean/Jr-Data-Scientist_44767",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
-      "workday:leidos:/job/Fort-Meade-MD/Junior-Cyber-Analyst_R-00183704",
-      "workday:leidos:/job/Gaithersburg-MD/Jr-Software-Engineer_R-00196853",
-      "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
-      "greenhouse:skyryse:8384242",
-      "greenhouse:spacex:8937195002"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
