@@ -5,8 +5,64 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-13T06:45:00Z</updated>
+  <updated>2026-11-13T15:14:52Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workable:raydar:6083239DEE</id>
+    <title>Raydar: Machine Learning Infrastructure Engineer</title>
+    <link href="https://apply.workable.com/raydar/j/6083239DEE/"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, California, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workable:raydar:B5490C5A2B</id>
+    <title>Raydar: Machine Learning Systems Engineer</title>
+    <link href="https://apply.workable.com/raydar/j/B5490C5A2B/"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Menlo Park, California, United States · CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:7e0ae8a3-4872-431c-a04a-2f2b8988b527</id>
+    <title>Shield AI: Engineer I, Software - New Grad - 6531</title>
+    <link href="https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Class of 2027"/>
+    <summary>3 openings · Class of 2027 · Software · Washington, D.C. · Python, C++, Docker, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:2296</id>
+    <title>Tulane University: Data Analyst I</title>
+    <link href="https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2296"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New Orleans, LA, United States · Python · H-1B track record: ~113 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423</id>
+    <title>Northrop Grumman: 2027 - Associate Software Engineer - McClellan CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Class of 2027"/>
+    <summary>Class of 2027 · Software · United States-California-McClellan · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pimacounty:/job/Tucson-AZ/Security-Engineer-I---Information-Technology_JR104837</id>
+    <title>Pima County: Security Engineer I - Information Technology 🛂</title>
+    <link href="https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Security-Engineer-I---Information-Technology_JR104837"/>
+    <updated>2026-11-13T15:14:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Tucson, AZ · $79.185k–$95.056k/yr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pg:/job/Weybridge/Data-Engineer_R000162789</id>
+    <title>Procter &amp; Gamble (P&amp;G): Data Engineer</title>
+    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789"/>
+    <updated>2026-11-13T15:14:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Weybridge, United Kingdom; London, England · Python, SQL, LLMs, Flask, Azure · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:abnormalsecurity:8196352003</id>
     <title>Abnormal Security: Software Engineer I, Data Platforms</title>
@@ -750,61 +806,5 @@
     <updated>2026-11-10T03:00:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · USA - Kent, WA · Python · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514"/>
-    <updated>2026-11-10T03:00:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131</id>
-    <title>RTX: Software Engineer I (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131"/>
-    <updated>2026-11-11T14:21:23Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 · Java · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:oldrepublic:/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410</id>
-    <title>Old Republic Title: Associate Developer - C#/.NET</title>
-    <link href="https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410"/>
-    <updated>2026-11-13T06:45:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · FL, Orlando (6545 Corporate Ctr Blvd) · C#, SQL, Azure, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:jerry.ai:81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea</id>
-    <title>Jerry: Associate Data Scientist</title>
-    <link href="https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, New York · $110K – $140K • Offers Equity · Python, SQL, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:netholabs:a16457f4-63a5-4a75-82d4-04ea2fc4e393</id>
-    <title>Netholabs: Junior AI/ML Engineer 🛂</title>
-    <link href="https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco · Python, PyTorch, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:coinbase:8278991</id>
-    <title>Coinbase: Software Engineer-1, Money Movement</title>
-    <link href="https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - USA · Java, LLMs, AWS, GCP · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:selffinancial:6252143004</id>
-    <title>Self Financial: Data Scientist 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/selffinancial/jobs/6252143004"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, TX · Python, SQL · sponsorship: citizens-only</summary>
   </entry>
 </feed>

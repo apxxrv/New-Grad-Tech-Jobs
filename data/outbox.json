@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workable:raydar:6083239DEE",
+      "workable:raydar:B5490C5A2B",
+      "lever:shieldai:c33ab680-2625-4da1-a96c-41bea441b98b",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:7e0ae8a3-4872-431c-a04a-2f2b8988b527",
+      "ashby:shield:7e0ae8a3-4872-431c-a04a-2f2b8988b527",
+      "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:2296",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
+      "workday:pimacounty:/job/Tucson-AZ/Security-Engineer-I---Information-Technology_JR104837",
+      "greenhouse:thoughtworksreferral:8333235"
+    ],
+    "telegram": [
+      "workable:raydar:6083239DEE",
+      "workable:raydar:B5490C5A2B",
+      "lever:shieldai:c33ab680-2625-4da1-a96c-41bea441b98b",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:7e0ae8a3-4872-431c-a04a-2f2b8988b527",
+      "ashby:shield:7e0ae8a3-4872-431c-a04a-2f2b8988b527",
+      "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:2296",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
+      "workday:pimacounty:/job/Tucson-AZ/Security-Engineer-I---Information-Technology_JR104837",
+      "greenhouse:thoughtworksreferral:8333235"
+    ]
   }
 }
