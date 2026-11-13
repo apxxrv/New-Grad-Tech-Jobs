@@ -5,8 +5,24 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-13T00:04:19Z</updated>
+  <updated>2026-11-13T06:45:00Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:greenhouse:abnormalsecurity:8196352003</id>
+    <title>Abnormal Security: Software Engineer I, Data Platforms</title>
+    <link href="https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"/>
+    <updated>2026-11-13T06:45:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - USA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972</id>
+    <title>RTX: Software Engineer I 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972"/>
+    <updated>2026-11-13T06:45:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 · Python, C++, MATLAB, Kubernetes, Docker · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:bytedance:bytedance:7632426574734035253</id>
     <title>ByteDance: Research Scientist - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</title>
@@ -14,6 +30,30 @@
     <updated>2026-11-13T00:04:19Z</updated>
     <category term="Class of 2027"/>
     <summary>Class of 2027 · Data &amp; ML/AI · San Jose, California, USA · H-1B track record: ~661 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:affirm:8181183003</id>
+    <title>Affirm: Software Engineer I, Backend (Continuous Delivery)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8181183003"/>
+    <updated>2026-11-13T00:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote US · Python, Kotlin, AWS, Kubernetes · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:skyryse:8384242</id>
+    <title>Skyryse: Junior Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/skyryse/jobs/8384242"/>
+    <updated>2026-11-13T00:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · El Segundo, CA · Python, C++, Rust, MATLAB, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:spacex:8937195002</id>
+    <title>SpaceX: RF Software Engineer (Starshield) 🇺🇸</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002"/>
+    <updated>2026-11-13T00:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Hawthorne, CA · $20k/yr · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:eeho.fa.us2.oraclecloud.com:350510</id>
@@ -32,20 +72,20 @@
     <summary>Not stated · Security · Orono, ME, United States · Python, Bash, Azure, Terraform, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:greenhouse:affirm:8181183003</id>
-    <title>Affirm: Software Engineer I, Backend (Continuous Delivery)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8181183003"/>
-    <updated>2026-11-13T00:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote US · Python, Kotlin, AWS, Kubernetes · H-1B track record: ~158 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:workday:bah:/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425</id>
     <title>Booz Allen: C++ Software Engineer, Junior 🇺🇸</title>
     <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"/>
     <updated>2026-11-13T00:04:19Z</updated>
     <category term="Class of 2026"/>
     <summary>Class of 2026 · Software · Beavercreek, OH · $126k/yr · C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:globalhr:/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077</id>
+    <title>RTX: Software Engineer I - Air Traffic Solutions (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"/>
+    <updated>2026-11-13T00:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:guidehouse:/job/US---VA-McLean/Jr-Data-Scientist_44767</id>
@@ -86,30 +126,6 @@
     <updated>2026-11-13T00:04:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:globalhr:/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077</id>
-    <title>RTX: Software Engineer I - Air Traffic Solutions (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"/>
-    <updated>2026-11-13T00:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:skyryse:8384242</id>
-    <title>Skyryse: Junior Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/skyryse/jobs/8384242"/>
-    <updated>2026-11-13T00:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · El Segundo, CA · Python, C++, Rust, MATLAB, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:greenhouse:spacex:8937195002</id>
-    <title>SpaceX: RF Software Engineer (Starshield) 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002"/>
-    <updated>2026-11-13T00:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $20k/yr · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:economicmodeling:aa5e1f5e-d9cf-446e-af35-fc12b9e453a5</id>
@@ -347,9 +363,9 @@
     <id>urn:grad-engine:workday:echo:/job/Chicago-IL/Associate-Software-Support-Engineer_R4840</id>
     <title>Echo Global Logistics: Associate Software Support Engineer</title>
     <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4840"/>
-    <updated>2026-11-11T21:34:55Z</updated>
+    <updated>2026-11-13T06:45:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, IL · $64.291k/yr · C#, SQL</summary>
+    <summary>Not stated · Software · Chicago, IL · $64.291k/yr · C#, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058</id>
@@ -707,9 +723,9 @@
     <id>urn:grad-engine:greenhouse:rocketlab:8057246003</id>
     <title>Rocket Lab: Software Engineer I 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8057246003"/>
-    <updated>2026-11-10T03:00:38Z</updated>
+    <updated>2026-11-13T06:45:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Pasadena, CA · Python, C++, Linux, Git, ROS · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Pasadena, CA · Python, C++, Linux, Git, ROS · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437283</id>
@@ -755,9 +771,9 @@
     <id>urn:grad-engine:workday:oldrepublic:/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410</id>
     <title>Old Republic Title: Associate Developer - C#/.NET</title>
     <link href="https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410"/>
-    <updated>2026-11-10T03:00:38Z</updated>
+    <updated>2026-11-13T06:45:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · FL, Orlando (6545 Corporate Ctr Blvd) · C#, SQL, Azure, Git</summary>
+    <summary>Not stated · Software · FL, Orlando (6545 Corporate Ctr Blvd) · C#, SQL, Azure, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:jerry.ai:81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-09T20:21:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, TX · Python, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:anavationllc:b6d788eb-e17a-42ff-9c06-821103960654</id>
-    <title>AnaVation: Junior Mobile Device RE and Software Engineer – HYBRID! 🇺🇸</title>
-    <link href="https://jobs.lever.co/anavationllc/b6d788eb-e17a-42ff-9c06-821103960654"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lorton, VA · 62,750–145,156 USD/yr · Python, C++, Rust, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:oracle:emje.fa.us6.oraclecloud.com:22659</id>
-    <title>Southern Company: Documentum Developer, Jr</title>
-    <link href="https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22659"/>
-    <updated>2026-11-09T20:21:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, United States · Python, Java, SQL, Bash, Kubernetes</summary>
   </entry>
 </feed>
