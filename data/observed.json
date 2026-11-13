@@ -389,10 +389,11 @@
     "Class of 2026": {
      "first_posted": "2026-10-22",
      "role_ids": [
+      "workday:bah:/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
       "workday:bah:/job/McLean-VA/University--Software-Developer_R0252280",
       "workday:bah:/job/McLean-VA/University--Software-Developer_R0252601"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -482,6 +483,7 @@
       "bytedance:bytedance:7629847900210399493",
       "bytedance:bytedance:7629850132083542325",
       "bytedance:bytedance:7631317232770500869",
+      "bytedance:bytedance:7632426574734035253",
       "bytedance:bytedance:7633537809438689541",
       "bytedance:bytedance:7633538176269306117",
       "bytedance:bytedance:7664894974764828981",
@@ -566,7 +568,7 @@
       "bytedance:bytedance:7698902624389482757",
       "bytedance:bytedance:7704089625815468293"
      ],
-     "count": 108
+     "count": 109
     }
    }
   },
@@ -1795,9 +1797,10 @@
     "Class of 2027": {
      "first_posted": "2026-09-30",
      "role_ids": [
-      "oracle:eeho.fa.us2.oraclecloud.com:346357"
+      "oracle:eeho.fa.us2.oraclecloud.com:346357",
+      "oracle:eeho.fa.us2.oraclecloud.com:350510"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2654,5 +2657,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T18:54:14Z"
+ "updated_at": "2026-11-13T00:04:19Z"
 }
