@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:abnormalsecurity:8196352003",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972"
-    ],
-    "telegram": [
-      "greenhouse:abnormalsecurity:8196352003",
-      "workday:globalhr:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
