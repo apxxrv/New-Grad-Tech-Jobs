@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T15:14:52Z",
- "data_as_of": "2026-11-13T15:14:52Z",
- "rendered_at": "2026-11-13T15:14:53Z",
+ "generated_at": "2026-11-13T21:42:15Z",
+ "data_as_of": "2026-11-13T21:42:15Z",
+ "rendered_at": "2026-11-13T21:42:15Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -2001,6 +2001,44 @@
    }
   },
   {
+   "company": "ZettaSquared",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-12",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/zetta2/28a44d44-b138-476f-acda-65384f1623dc",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-12"
+   }
+  },
+  {
+   "company": "PricewaterhouseCoopers (PwC)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Cybersecurity-Consulting-Associate---Winter-2027_773946WD",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-11-13"
+   }
+  },
+  {
    "company": "Lila Sciences",
    "last_cycle_posted": "2025-10-06",
    "posted_on": "",
@@ -2894,5 +2932,5 @@
    }
   }
  ],
- "count": 152
+ "count": 154
 }

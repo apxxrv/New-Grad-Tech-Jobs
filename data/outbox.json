@@ -1,6 +1,34 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5",
+      "recruitee:constructivedialogue:2782614",
+      "lever:esrtreit:9ec61f1b-1eeb-44c8-8be2-f25167b83267",
+      "lever:planettechnologies:38ff5246-4074-4e57-ae32-07b8d7802fe5",
+      "ashby:c898d712-c4ab-4157-954a-5df226a781e2:aff64320-4e2f-41b5-bbdf-7aed82751dd0",
+      "ashby:zetta2:28a44d44-b138-476f-acda-65384f1623dc",
+      "greenhouse:cmt:8385978",
+      "workday:gaig:/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882",
+      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J290145",
+      "workday:nwis:/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-I--System-Security-_JR102225",
+      "workday:pwc:/job/IL-Rosemont/Cybersecurity-Consulting-Associate---Winter-2027_773946WD",
+      "workday:snc:/job/Lone-Tree-CO/Software-Engineer-I_R0031292",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
+    ],
+    "telegram": [
+      "ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5",
+      "recruitee:constructivedialogue:2782614",
+      "lever:esrtreit:9ec61f1b-1eeb-44c8-8be2-f25167b83267",
+      "lever:planettechnologies:38ff5246-4074-4e57-ae32-07b8d7802fe5",
+      "ashby:c898d712-c4ab-4157-954a-5df226a781e2:aff64320-4e2f-41b5-bbdf-7aed82751dd0",
+      "ashby:zetta2:28a44d44-b138-476f-acda-65384f1623dc",
+      "greenhouse:cmt:8385978",
+      "workday:gaig:/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882",
+      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J290145",
+      "workday:nwis:/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-I--System-Security-_JR102225",
+      "workday:pwc:/job/IL-Rosemont/Cybersecurity-Consulting-Associate---Winter-2027_773946WD",
+      "workday:snc:/job/Lone-Tree-CO/Software-Engineer-I_R0031292",
+      "workday:travelers:/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
+    ]
   }
 }
