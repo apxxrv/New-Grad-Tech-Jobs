@@ -5,8 +5,40 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-13T21:42:15Z</updated>
+  <updated>2026-11-14T15:58:46Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013909</id>
+    <title>Emerson Electric: Software Engineer - Applied AI 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, TX, United States · Python, PyTorch, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230</id>
+    <title>Triumph: Data Engineer</title>
+    <link href="https://jobs.ashbyhq.com/triumph-arcade/8863c7e0-60a5-4775-b15b-d0e46329a230"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco HQ · $200K – $400K • Offers Equity</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tranetechnologies:/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1</id>
+    <title>Tranetechnologies: HVAC Project Developer</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Willowbrook, Illinois</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:greenhouse:twitch:8943553002</id>
+    <title>Twitch: Software Engineer I, Payments</title>
+    <link href="https://job-boards.greenhouse.io/twitch/jobs/8943553002"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA · Java, C++, Ruby, AWS</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5</id>
     <title>Bland AI: Internal Platform Engineer</title>
@@ -14,30 +46,6 @@
     <updated>2026-11-13T21:42:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco · $120K – $180K • Offers Equity · Python, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:recruitee:constructivedialogue:2782614</id>
-    <title>Constructive Dialogue Institute: Software Engineer (Early Career)</title>
-    <link href="https://constructivedialogue.org/o/software-engineer-early-career"/>
-    <updated>2026-11-13T21:42:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York, United States (Remote) · Python, Java, TypeScript, React, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:esrtreit:9ec61f1b-1eeb-44c8-8be2-f25167b83267</id>
-    <title>Empire State Realty Trust: Applied AI Engineer</title>
-    <link href="https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267"/>
-    <updated>2026-11-13T21:42:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · 135,000–145,000 USD/yr · Python, Java, C#, TypeScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:lever:planettechnologies:38ff5246-4074-4e57-ae32-07b8d7802fe5</id>
-    <title>Planet Technologies: Data Analyst</title>
-    <link href="https://jobs.lever.co/planettechnologies/38ff5246-4074-4e57-ae32-07b8d7802fe5"/>
-    <updated>2026-11-13T21:42:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, DC</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:c898d712-c4ab-4157-954a-5df226a781e2:aff64320-4e2f-41b5-bbdf-7aed82751dd0</id>
@@ -62,6 +70,30 @@
     <updated>2026-11-13T21:42:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cambridge, MA · Python, Swift, Kotlin, React, AWS · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:esrtreit:9ec61f1b-1eeb-44c8-8be2-f25167b83267</id>
+    <title>Empire State Realty Trust: Applied AI Engineer</title>
+    <link href="https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267"/>
+    <updated>2026-11-13T21:42:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · 135,000–145,000 USD/yr · Python, Java, C#, TypeScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:lever:planettechnologies:38ff5246-4074-4e57-ae32-07b8d7802fe5</id>
+    <title>Planet Technologies: Data Analyst</title>
+    <link href="https://jobs.lever.co/planettechnologies/38ff5246-4074-4e57-ae32-07b8d7802fe5"/>
+    <updated>2026-11-13T21:42:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, DC</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:recruitee:constructivedialogue:2782614</id>
+    <title>Constructive Dialogue Institute: Software Engineer (Early Career)</title>
+    <link href="https://constructivedialogue.org/o/software-engineer-early-career"/>
+    <updated>2026-11-13T21:42:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States (Remote) · Python, Java, TypeScript, React, Next.js</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:gaig:/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882</id>
@@ -125,15 +157,15 @@
     <link href="https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527"/>
     <updated>2026-11-13T15:14:52Z</updated>
     <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Washington, D.C. · Python, C++, Docker, Linux, Git</summary>
+    <summary>2 openings · Class of 2027 · Software · Arlington, VA, US · Python, C++, Docker, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:shieldai:c33ab680-2625-4da1-a96c-41bea441b98b</id>
     <title>Shield AI: Engineer I, Software - New Grad - 6531</title>
     <link href="https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"/>
-    <updated>2026-11-13T15:14:52Z</updated>
+    <updated>2026-11-14T15:58:46Z</updated>
     <category term="Class of 2027"/>
-    <summary>Class of 2027 · Software · Washington, D.C. · 74,560–111,840 USD/yr · Python, C++, Docker, Linux, Git</summary>
+    <summary>Class of 2027 · Software · Washington, D.C. · 74,560–111,840 USD/yr · Python, C++, Docker, Linux, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:2296</id>
@@ -307,9 +339,9 @@
     <id>urn:grad-engine:lever:economicmodeling:aa5e1f5e-d9cf-446e-af35-fc12b9e453a5</id>
     <title>Lightcast: Economic Research Analyst / Junior Data Scientist - 1089</title>
     <link href="https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5"/>
-    <updated>2026-11-12T18:54:14Z</updated>
+    <updated>2026-11-14T15:58:46Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote (Work From Home) US · Python, SQL, LLMs, Snowflake, Tableau</summary>
+    <summary>Not stated · Data &amp; ML/AI · Remote (Work From Home) US · Python, SQL, LLMs, Snowflake, Tableau · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f</id>
@@ -461,7 +493,7 @@
     <link href="https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f"/>
     <updated>2026-11-11T21:34:55Z</updated>
     <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Washington, D.C. · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
+    <summary>2 openings · Class of 2027 · Software · Arlington, VA, US · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:955d48ad-9380-4621-91f4-51f3f093ac10</id>
@@ -477,7 +509,7 @@
     <link href="https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7"/>
     <updated>2026-11-11T21:34:55Z</updated>
     <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · Washington, D.C. · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+    <summary>2 openings · Class of 2027 · Software · Arlington, VA, US · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:litellm:ee96c797-fb2b-4f91-9639-6017ae73c34c</id>
@@ -774,37 +806,5 @@
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040</id>
-    <title>Amentum: Junior Software Developer 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:rsm:/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252</id>
-    <title>RSM: Associate, AI and Data Strategy Consultant</title>
-    <link href="https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Senior-Associate--AI-and-Data-Strategy-Consultant_JR122252"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago · LLMs, AWS, Azure, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:tsys:/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067</id>
-    <title>Global Payments: Information Security Analyst I 🛂</title>
-    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · COLUMBUS, GEORGIA · Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:ande:8ff8145e-8040-4a7a-a90c-cc1fdc36deb1</id>
-    <title>Ande: Software Engineer, AI (Early Career)</title>
-    <link href="https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1"/>
-    <updated>2026-11-10T18:54:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York City · $120K – $160K • Offers Equity · Python, TypeScript, LLMs, React, PostgreSQL</summary>
   </entry>
 </feed>
