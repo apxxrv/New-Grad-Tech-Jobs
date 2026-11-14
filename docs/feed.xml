@@ -5,16 +5,8 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-14T15:58:46Z</updated>
+  <updated>2026-11-14T20:54:29Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
-  <entry>
-    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013909</id>
-    <title>Emerson Electric: Software Engineer - Applied AI 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909"/>
-    <updated>2026-11-14T15:58:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, TX, United States · Python, PyTorch, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
   <entry>
     <id>urn:grad-engine:ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230</id>
     <title>Triumph: Data Engineer</title>
@@ -24,20 +16,28 @@
     <summary>Not stated · Data &amp; ML/AI · San Francisco HQ · $200K – $400K • Offers Equity</summary>
   </entry>
   <entry>
-    <id>urn:grad-engine:workday:tranetechnologies:/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1</id>
-    <title>Tranetechnologies: HVAC Project Developer</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1"/>
-    <updated>2026-11-14T15:58:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Willowbrook, Illinois</summary>
-  </entry>
-  <entry>
     <id>urn:grad-engine:greenhouse:twitch:8943553002</id>
     <title>Twitch: Software Engineer I, Payments</title>
     <link href="https://job-boards.greenhouse.io/twitch/jobs/8943553002"/>
     <updated>2026-11-14T15:58:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Francisco, CA · Java, C++, Ruby, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:oracle:hdjq.fa.us2.oraclecloud.com:26013909</id>
+    <title>Emerson Electric: Software Engineer - Applied AI 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, TX, United States · Python, PyTorch, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:tranetechnologies:/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1</id>
+    <title>Tranetechnologies: HVAC Project Developer</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1"/>
+    <updated>2026-11-14T15:58:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Willowbrook, Illinois</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5</id>
@@ -109,7 +109,7 @@
     <link href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J290145"/>
     <updated>2026-11-13T21:42:15Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · PA, Working at Home - Pennsylvania · H-1B track record: ~92 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · PA, Working at Home - Pennsylvania · Python, Java, C++, C#, JavaScript · H-1B track record: ~92 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:nwis:/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-I--System-Security-_JR102225</id>
@@ -133,7 +133,7 @@
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292"/>
     <updated>2026-11-13T21:42:15Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Lone Tree, CO</summary>
+    <summary>Not stated · Software · Lone Tree, CO · Python, Java, C++, C#, Bash</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:workday:travelers:/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687</id>
@@ -251,9 +251,9 @@
     <id>urn:grad-engine:greenhouse:skyryse:8384242</id>
     <title>Skyryse: Junior Software Engineer</title>
     <link href="https://job-boards.greenhouse.io/skyryse/jobs/8384242"/>
-    <updated>2026-11-13T00:04:19Z</updated>
+    <updated>2026-11-14T20:54:29Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · El Segundo, CA · Python, C++, Rust, MATLAB, Docker</summary>
+    <summary>Not stated · Software · El Segundo, CA · Python, C++, Rust, MATLAB, Docker · status: closed</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:greenhouse:spacex:8937195002</id>
@@ -494,14 +494,6 @@
     <updated>2026-11-11T21:34:55Z</updated>
     <category term="Class of 2027"/>
     <summary>2 openings · Class of 2027 · Software · Arlington, VA, US · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:955d48ad-9380-4621-91f4-51f3f093ac10</id>
-    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10"/>
-    <updated>2026-11-11T21:34:55Z</updated>
-    <category term="Class of 2027"/>
-    <summary>2 openings · Class of 2027 · Software · United States · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:grad-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7</id>
@@ -806,5 +798,13 @@
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040</id>
+    <title>Amentum: Junior Software Developer 🇺🇸</title>
+    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"/>
+    <updated>2026-11-11T00:01:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>

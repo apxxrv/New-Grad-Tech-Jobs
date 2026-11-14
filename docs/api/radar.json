@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T15:58:46Z",
- "data_as_of": "2026-11-14T15:58:46Z",
- "rendered_at": "2026-11-14T15:58:46Z",
+ "generated_at": "2026-11-14T20:54:29Z",
+ "data_as_of": "2026-11-14T20:54:29Z",
+ "rendered_at": "2026-11-14T20:54:29Z",
  "cycle": "Class of 2027",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "companies": [
@@ -820,25 +820,6 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-09-04"
-   }
-  },
-  {
-   "company": "Cursor",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -67,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Class of 2027",
-    "observed_on": "2026-09-08"
    }
   },
   {
@@ -2473,6 +2454,25 @@
     "type": "engine-observed",
     "cycle": "Class of 2027",
     "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Cursor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -67,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Class of 2027",
+    "observed_on": "2026-09-08"
    }
   },
   {

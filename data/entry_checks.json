@@ -1520,6 +1520,15 @@
     "title": "Software Quality Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256305007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Engineer, Radar",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256306007": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -1531,6 +1540,15 @@
   },
   "greenhouse:andurilindustries:5256509007": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5256510007": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -1554,6 +1572,15 @@
       "Class of 2027"
     ],
     "title": "Mission Software Engineer, Mission Systems, Cyber Security",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5260431007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mission Software Engineer, Mission Systems, Deployment and Infrastructure",
     "version": 1
   },
   "greenhouse:andurilindustries:5260436007": {
@@ -1583,6 +1610,15 @@
     "title": "NX Developer",
     "version": 1
   },
+  "greenhouse:andurilindustries:5267747007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Classified Platform Engineer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5268991007": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -1590,6 +1626,15 @@
       "Class of 2027"
     ],
     "title": "Classified Platform Engineer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5269017007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Classified Cloud & Platform Engineer",
     "version": 1
   },
   "greenhouse:andurilindustries:5269031007": {
@@ -1673,6 +1718,15 @@
     "title": "Product Data Engineer",
     "version": 1
   },
+  "greenhouse:andurilindustries:5274647007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer- Infrastructure",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5275224007": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -1736,6 +1790,15 @@
     "title": "Research Scientist, Battlespace Awareness",
     "version": 1
   },
+  "greenhouse:andurilindustries:5281215007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Battlespace Awareness",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5281216007": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -1772,6 +1835,15 @@
     "title": "Machine Learning Tracking Engineer",
     "version": 1
   },
+  "greenhouse:andurilindustries:5283460007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5283822007": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -1806,6 +1878,24 @@
       "Class of 2027"
     ],
     "title": "Mission Software Engineer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5289370007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Realtime Software Engineer",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5290223007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Sentry Software (Allied Customer Deployment)",
     "version": 1
   },
   "greenhouse:andurilindustries:5290228007": {
@@ -2231,6 +2321,33 @@
     "title": "Software Engineer (Mission Applications)",
     "version": 1
   },
+  "greenhouse:atoms:8899477002": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full-Stack Engineer - Fleet Management",
+    "version": 1
+  },
+  "greenhouse:atoms:8899479002": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Back-End Engineer - Fleet Management",
+    "version": 1
+  },
+  "greenhouse:atoms:8920485002": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "QC Technician - PCBA Firmware Flashing and Functional Test",
+    "version": 1
+  },
   "greenhouse:attainpartners:5456943008": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -2652,6 +2769,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Sustaining Automation",
+    "version": 1
+  },
+  "greenhouse:chaosindustries:5254819007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "GNC Software Engineer",
     "version": 1
   },
   "greenhouse:chaosindustries:5254820007": {
@@ -3302,6 +3428,15 @@
     "title": "Software Engineering, Android (All Teams)",
     "version": 1
   },
+  "greenhouse:doordashusa:8191886": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Data Platform",
+    "version": 1
+  },
   "greenhouse:doordashusa:8192116": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -3327,6 +3462,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Spark Platform",
+    "version": 1
+  },
+  "greenhouse:doordashusa:8263726": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, ML Serving Platform",
     "version": 1
   },
   "greenhouse:doordashusa:8264542": {
@@ -4409,6 +4553,15 @@
     "title": "Business Process Analyst, UiPath Developer - Associate",
     "version": 1
   },
+  "greenhouse:icapitalnetwork:8919341002": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Integration Engineer - Associate",
+    "version": 1
+  },
   "greenhouse:icapitalnetwork:8930899002": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -5345,6 +5498,15 @@
     "title": "Medical Officer - AI Research Participants - United States (Remote)",
     "version": 1
   },
+  "greenhouse:prolificacademicltd:5025123101": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Plastic Surgeon - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
   "greenhouse:prolificacademicltd:5025124101": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -5903,6 +6065,15 @@
     "title": "Software Development Engineer in Test - Contractor",
     "version": 1
   },
+  "greenhouse:sonyinteractiveentertainmentglobal:6232183004": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Contract Software Development Engineer in Test - Subscription Platform",
+    "version": 1
+  },
   "greenhouse:sonyinteractiveentertainmentglobal:6237074004": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -5919,6 +6090,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Linux Kernel (Starlink)",
+    "version": 1
+  },
+  "greenhouse:spacex:8852122002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Supercomputer Network (Starlink)",
     "version": 1
   },
   "greenhouse:spacex:8852123002": {
@@ -5948,6 +6128,15 @@
     "title": "Environmental Health & Safety Engineer (AI Supercomputer)",
     "version": 1
   },
+  "greenhouse:spacex:8861901002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
   "greenhouse:spacex:8861902002": {
     "checked_at": "2026-11-13T21:42:15Z",
     "cycles": [
@@ -5964,6 +6153,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, AI Infrastructure (Starshield)",
+    "version": 1
+  },
+  "greenhouse:spacex:8861910002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Software Engineer, Manufacturing Systems",
     "version": 1
   },
   "greenhouse:spacex:8869044002": {
@@ -6065,6 +6263,15 @@
     "title": "Network Security Engineer",
     "version": 1
   },
+  "greenhouse:spacex:8893741002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Software)",
+    "version": 1
+  },
   "greenhouse:spacex:8893742002": {
     "checked_at": "2026-11-13T21:42:15Z",
     "cycles": [
@@ -6126,6 +6333,15 @@
       "Class of 2027"
     ],
     "title": "AI Software Engineer (Vehicle Engineering)",
+    "version": 1
+  },
+  "greenhouse:spacex:8915956002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Software Engineer, Launch Software",
     "version": 1
   },
   "greenhouse:spacex:8918317002": {
@@ -6263,6 +6479,15 @@
     "title": "Supervisor, IT Network Infrastructure",
     "version": 1
   },
+  "greenhouse:spacex:8932368002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Site Reliability Engineer (Starlink)",
+    "version": 1
+  },
   "greenhouse:spacex:8932369002": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -6333,6 +6558,15 @@
       "Class of 2027"
     ],
     "title": "IT Network Infrastructure Technician",
+    "version": 1
+  },
+  "greenhouse:spacex:8937029002": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer (Starship)",
     "version": 1
   },
   "greenhouse:spacex:8938027002": {
@@ -6614,6 +6848,15 @@
     "title": "Software Engineer",
     "version": 1
   },
+  "greenhouse:systemstechnologyresearch:4720560006": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Reverse Engineer",
+    "version": 1
+  },
   "greenhouse:systemstechnologyresearch:4720562006": {
     "checked_at": "2026-11-13T21:42:15Z",
     "cycles": [
@@ -6659,6 +6902,15 @@
     "title": "Applied AI Engineer",
     "version": 1
   },
+  "greenhouse:systemstechnologyresearch:4728422006": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Developer - Business Applications & Analytics",
+    "version": 1
+  },
   "greenhouse:systemstechnologyresearch:4728527006": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -6702,6 +6954,15 @@
       "Class of 2027"
     ],
     "title": "Developer Relations Engineer",
+    "version": 1
+  },
+  "greenhouse:tastylive:6230133004": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer",
     "version": 1
   },
   "greenhouse:tastytrade:6230131004": {
@@ -7008,6 +7269,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Compute",
+    "version": 1
+  },
+  "greenhouse:vercel:6242244004": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Connect",
     "version": 1
   },
   "greenhouse:vercel:6242246004": {
@@ -8279,6 +8549,24 @@
     "title": "AI SEO R&D Trainee - Full-Stack Engineer (Go Backend) - Bilingual Mandarin",
     "version": 1
   },
+  "workday:3m:/job/US-Minnesota-Maplewood/Global-Network---Telecom-Services---Full-Stack-Product-Engineer--Network-Automation---AI-Ops-_R01172521": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Global Network & Telecom Services - Full-Stack Product Engineer (Network Automation & AI-Ops)",
+    "version": 1
+  },
+  "workday:aaaie:/job/Arizona---Home-Teleworkers/Software-Engineer---AI-ML-Platform-Operations---Hybrid_R8062": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - AI/ML Platform Operations - Hybrid",
+    "version": 1
+  },
   "workday:abb:/job/Helsinki-Uusimaa-Finland/Data-Engineer--Snowflake---Data-Platforms_JR00045124": {
     "checked_at": "2026-11-14T15:58:44Z",
     "cycles": [
@@ -8313,6 +8601,69 @@
       "Class of 2027"
     ],
     "title": "Working student (m/f/d) - LVS Data Analyst",
+    "version": 1
+  },
+  "workday:accenture:/job/Assago-Via-del-Mulino-11a/Application-Security-Engineer_R00365985": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Security Engineer",
+    "version": 1
+  },
+  "workday:accenture:/job/Chicago-Accenture-Tower-Corp/Consultant--AI-Full-Stack-Developer_R00371156": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Consultant, AI Full-Stack Developer",
+    "version": 1
+  },
+  "workday:accenture:/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Junior M365 Developer (SharePoint / SPFx / React)",
+    "version": 1
+  },
+  "workday:accenture:/job/Milano/Full-Stack-Engineer---Net-8--ASPNET-MVC--Reactjs--Angular-11-_R00370943": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full-Stack Engineer | .Net 8, ASP.NET MVC, React.js, Angular 11+",
+    "version": 1
+  },
+  "workday:accenture:/job/Roma/Back-End-Engineer---NET-8--API-Rest--SQL-Server_R00370301": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Back-End Engineer | .NET 8, API Rest, SQL Server",
+    "version": 1
+  },
+  "workday:accenture:/job/Wroclaw-Dominikanski-Center/Backend-NET-Developer-with-Copilot-Studio-Experience_R00366900": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Backend .NET Developer with Copilot Studio Experience",
+    "version": 1
+  },
+  "workday:accenture:/job/Wroclaw-Dominikanski-Center/Backend-NET-Developer-with-Data-Platform-Experience_R00366886-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Backend .NET Developer with Data Platform Experience",
     "version": 1
   },
   "workday:accuray:/job/Remote---US/Fullstack-Engineer_3309-1": {
@@ -8385,6 +8736,24 @@
       "Class of 2027"
     ],
     "title": "Mgr, Software Development",
+    "version": 1
+  },
+  "workday:aep:/job/Columbus-OH/Financial-Analyst--Data---AI_R20800": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Financial Analyst, Data & AI",
+    "version": 1
+  },
+  "workday:aep:/job/New-Albany-OH/TSOE-Tools---Analytics-Engineer_R19939": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "TSOE Tools & Analytics Engineer",
     "version": 1
   },
   "workday:aero:/job/Chantilly-VA/AI-ML-Remote-Sensing-Scientist_R016228": {
@@ -8657,6 +9026,15 @@
     "title": "Radar Systems GPU Software engineer",
     "version": 1
   },
+  "workday:aptiv:/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vehicle Software Integration Engineer",
+    "version": 1
+  },
   "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Software-Quality-Assurance-Engineer_J000701885": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -8718,6 +9096,15 @@
       "Class of 2027"
     ],
     "title": "Data Analyst",
+    "version": 1
+  },
+  "workday:armaninollp:/job/New-York-City-New-York-Madison-Ave/ServiceNow-Business-Systems-Developer_JR104480": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ServiceNow Business Systems Developer",
     "version": 1
   },
   "workday:asml:/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1": {
@@ -8828,6 +9215,276 @@
     "title": "Customs & Trade Data Analyst",
     "version": 1
   },
+  "workday:axos:/job/HQ---San-Diego-CA/AI-Platform-Engineer_JR4943": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Engineer, Automation & AI Platforms",
+    "version": 1
+  },
+  "workday:axos:/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "JBATA - Data Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Albuquerque-NM/Software-Engineer--Junior_R0242700": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Junior",
+    "version": 1
+  },
+  "workday:bah:/job/Alexandria-VA/Data-Scientist_R0247486": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
+    "version": 1
+  },
+  "workday:bah:/job/Annapolis-Junction-MD/Wireless-and-Edge-AI-ML-Engineer_R0251743": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Wireless and Edge AI/ML Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Arlington-VA/Cyber-Compliance-Specialist_R0248273": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Compliance Specialist",
+    "version": 1
+  },
+  "workday:bah:/job/Arlington-VA/Cyber-Compliance-Specialist_R0249054": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Compliance Specialist",
+    "version": 1
+  },
+  "workday:bah:/job/Arlington-VA/Cyber-Compliance-Specialist_R0249055": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Compliance Specialist",
+    "version": 1
+  },
+  "workday:bah:/job/Arlington-VA/Cyber-Compliance-Specialist_R0249056": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Compliance Specialist",
+    "version": 1
+  },
+  "workday:bah:/job/Arlington-VA/Cyber-Strategy-Subject-Matter-Expert_R0251353": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Strategy Subject Matter Expert",
+    "version": 1
+  },
+  "workday:bah:/job/Camp-Pendleton-CA/Data-Analyst_R0253330": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analyst",
+    "version": 1
+  },
+  "workday:bah:/job/Chantilly-VA/Data-Scientist_R0252328": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
+    "version": 1
+  },
+  "workday:bah:/job/Chantilly-VA/Front-End-Software-Engineer_R0245448": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Front-End Software Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Chantilly-VA/Front-End-Software-Engineer_R0245760": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Front End Software Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Chantilly-VA/Front-End-Software-Engineer_R0245772": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Front-End Software Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Chantilly-VA/PeopleSoft-Application-Developer_R0240353": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "PeopleSoft Application Developer",
+    "version": 1
+  },
+  "workday:bah:/job/Fayetteville-NC/DevSecOps-Engineer--Senior_R0246126": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevSecOps Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Fort-Belvoir-VA/Front-End-Developer_R0253430": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Front End Developer",
+    "version": 1
+  },
+  "workday:bah:/job/Fort-Meade-MD/Software-Developer_R0236271": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Developer",
+    "version": 1
+  },
+  "workday:bah:/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI and Data Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Lexington-MA/Cloud-Cybersecurity-Engineer_R0251747": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cloud Cybersecurity Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Cyber-Logistics-and-Business-Operations-Analyst_R0252853": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Enterprise Cybersecurity Cyber Logistics and Business Operations Analyst",
+    "version": 1
+  },
+  "workday:bah:/job/McLean-VA/Full-Stack-Developer_R0253429": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Developer",
+    "version": 1
+  },
+  "workday:bah:/job/McLean-VA/M365-Platform-Engineer-and-Developer_R0251289": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "M365 Platform Engineer and Developer",
+    "version": 1
+  },
+  "workday:bah:/job/McLean-VA/Real-Time-Software-Engineer_R0247301": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Real-Time Software Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software and Documentation Support Engineer, Junior",
+    "version": 1
+  },
+  "workday:bah:/job/Rome-NY/CNO-Software-Engineer_R0252924": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "CNO Software Engineer",
+    "version": 1
+  },
+  "workday:bah:/job/Rome-NY/Cybersecurity-Analyst--Junior_R0252510": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cybersecurity Analyst, Junior",
+    "version": 1
+  },
+  "workday:bah:/job/Rome-NY/Cybersecurity-Test-Engineer--Junior_R0253386": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cybersecurity Test Engineer, Junior",
+    "version": 1
+  },
+  "workday:bah:/job/Washington-DC/Security-Engineer-and-Firewall-SME_R0253490": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer and Firewall SME",
+    "version": 1
+  },
   "workday:baicommunications:/job/Texas-Remote/Software-Developer_JR1582": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -8900,6 +9557,51 @@
     "title": "DevOps Engineer",
     "version": 1
   },
+  "workday:blueorigin:/job/Denver-CO/Mission-Operations-Ground-Software-DevOps-Engineer---Lunar-Permanence_R74241": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mission Operations Ground Software DevOps Engineer - Lunar Permanence",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/FPGA-Designer---TeraWave-RF-and-Optical-Systems-Firmware_R75312": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "FPGA Designer - TeraWave RF and Optical Systems Firmware",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/MK1-Mission-Analysis-Infrastructure-Developer_R74156": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "MK1 Mission Analysis Infrastructure Developer",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/Project-Controls-Data-Analytics---AI-Tools_R75166": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Project Controls Data Analytics & AI Tools",
+    "version": 1
+  },
+  "workday:blueorigin:/job/Greater-Seattle-Area/Software-Emulation-Engineer---Blue-Ring--TS-SCI-Desired-_R66406": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Hardware-in-the-Loop Software Engineer - Blue Ring (TS/SCI Desired)",
+    "version": 1
+  },
   "workday:blueorigin:/job/Greater-Seattle-Area/Software-Engineer--Toolpath---Manufacturing-Automation_R65620": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -8936,6 +9638,51 @@
     "title": "Research Software Engineer",
     "version": 1
   },
+  "workday:boeing:/job/GBR---Bristol-UK/Product-Security-Engineer_JR2026529222-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Product Security Engineer",
+    "version": 1
+  },
+  "workday:boeing:/job/GBR---Bristol-UK/Software-Engineer_JR2026526970-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:boeing:/job/USA---Berkeley-MO/Associate-Missions-Systems-Software-Engineer---Embedded_JR2026523431": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Associate Missions Systems Software Engineer - Embedded",
+    "version": 1
+  },
+  "workday:boeing:/job/USA---Berkeley-MO/Product-Security-Engineer--Product-Security-Engineer-_JR2026520870": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Product Security Engineer (Product Security Engineer)",
+    "version": 1
+  },
+  "workday:boeing:/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Entry Flight Software Engineer - Vehicle Management Systems",
+    "version": 1
+  },
   "workday:boeing:/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347": {
     "checked_at": "2026-11-13T21:42:15Z",
     "cycles": [
@@ -8943,6 +9690,24 @@
       "Class of 2027"
     ],
     "title": "Software Engineer Developer – Millennium Space Systems",
+    "version": 1
+  },
+  "workday:boeing:/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Software Engineer",
+    "version": 1
+  },
+  "workday:boeing:/job/USA---Seal-Beach-CA/DevOps-Developer--Associate-_JR2026528876": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Developer (Associate)",
     "version": 1
   },
   "workday:boseallaboutme:/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335": {
@@ -9017,6 +9782,42 @@
     "title": "Software Engineer",
     "version": 1
   },
+  "workday:broadcom:/job/USA-CA---Promontory-D/Platform-Engineer---VCF-Networking_R027365": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Core Distributed Systems Database Engineer",
+    "version": 1
+  },
+  "workday:broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "R&D Engineer Firmware",
+    "version": 1
+  },
+  "workday:broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/MES-Software-Engineer_R027823-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "MES Software Engineer",
+    "version": 1
+  },
+  "workday:broadcom:/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-3-_R027629": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer (ICB 3)",
+    "version": 1
+  },
   "workday:cae:/job/Arlington-TX/Engineering-Licensing---Software-Asset-Specialist_122232": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -9069,6 +9870,24 @@
       "Class of 2027"
     ],
     "title": "Software Engineer - Clinical Software",
+    "version": 1
+  },
+  "workday:cat:/job/Irving-Texas/AI-Automation-Engineer--Data-Annotation-Services_R0000395384": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Automation Engineer, Data Annotation Services",
+    "version": 1
+  },
+  "workday:cat:/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist---Agentic-IDE_R0000404578": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Software Engineering Specialist - Agentic IDE",
     "version": 1
   },
   "workday:cboe:/job/Chicago-IL/Senior-Quantitative-Data-Analyst_R-4464": {
@@ -9195,6 +10014,15 @@
       "Class of 2027"
     ],
     "title": "ServiceNow Developer",
+    "version": 1
+  },
+  "workday:circle:/job/San-Francisco---remote-first-in-US/Data-Engineer---Risk---Compliance_JR101206": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer - Risk & Compliance",
     "version": 1
   },
   "workday:cisco:/job/Austin-Texas-US/Software-Engineer-Compiler-I--Full-Time----United-States_2031593": {
@@ -9449,6 +10277,15 @@
     "title": "EV Charging Station Data Analyst",
     "version": 1
   },
+  "workday:clearwateranalytics:/job/Office---Boise/Staff-Front-End-Software-Development-Engineer_R10716": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer - Front End",
+    "version": 1
+  },
   "workday:clio:/job/Toronto/Application-Security-Developer_REQ-5443": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -9593,6 +10430,42 @@
     "title": "Cloud Infrastructure Engineer",
     "version": 1
   },
+  "workday:cw:/job/Austin-Texas-USA/Mobile-Engineer_R338551-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mobile Engineer (Houston, TX)",
+    "version": 1
+  },
+  "workday:cw:/job/Client-Site---USA---CA---Los-Angeles---800-S-Hope-Street/Mobile-Engineer_R337873": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mobile Engineer",
+    "version": 1
+  },
+  "workday:cw:/job/Client-Site---USA---OK---Tulsa---4500-S-129th-East-Ave-Ste-195/Mobile-Engineer_R337974": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mobile Engineer",
+    "version": 1
+  },
+  "workday:cw:/job/Client-Site---USA---OR---Hillsboro---3825-NE-Aloclek-Dr/Mobile-Engineer_R340152-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mobile Engineer",
+    "version": 1
+  },
   "workday:db:/job/New-York-1-Columbus-Circle/Java-Full-Stack-Developer---Vice-President_R0451008-1": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -9726,6 +10599,24 @@
       "Class of 2027"
     ],
     "title": "Research Scientist - Product development",
+    "version": 1
+  },
+  "workday:elevancehealth:/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor---Detection-Engineer_JR207713": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Information Security Advisor - Detection Engineer",
+    "version": 1
+  },
+  "workday:elevancehealth:/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor_JR208160": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Information Security Advisor",
     "version": 1
   },
   "workday:ensemblehp:/job/Austin-TX/Software-Engineer_R40510": {
@@ -10160,6 +11051,15 @@
     "title": "Mainframe COBOL Software Engineer",
     "version": 1
   },
+  "workday:flextronics:/job/USA-SC-Columbia/Application-Developer_WD232933": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Developer",
+    "version": 1
+  },
   "workday:flir:/job/Canada---Ottawa-ON-TDY/Acquisition-Software-Developer_REQ36185": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -10329,6 +11229,15 @@
       "Class of 2027"
     ],
     "title": "Network Infrastructure Technician - Tier 1",
+    "version": 1
+  },
+  "workday:gdit:/job/USA-FL-MacDill-AFB/Platform---Software-Engineer_RQ226307": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform / Software Engineer",
     "version": 1
   },
   "workday:gdit:/job/USA-FL-MacDill-AFB/Platform---Software-Engineer_RQ226307-2": {
@@ -10538,6 +11447,33 @@
     "title": "Algorithm Software Engineer- Medical Imaging",
     "version": 1
   },
+  "workday:gehc:/job/Haifa-HEALTHCARE-HA-IL-2/Cyber-Security-Engineer_R4048791-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Security Engineer",
+    "version": 1
+  },
+  "workday:gehc:/job/Horten/AI-Regulatory-Engineer_R4047654-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Regulatory Engineer",
+    "version": 1
+  },
+  "workday:gehc:/job/Madison/Software-Verification-Engineer_R4047603-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Verification Engineer",
+    "version": 1
+  },
   "workday:geico:/job/Bethesda-MD/Business-Intelligence-Analyst---Data-Engineer_R0066502-1": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -10547,6 +11483,69 @@
     "title": "Business Intelligence Analyst / Data Engineer",
     "version": 1
   },
+  "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Automated-Driving-Performance-HIL-Infrastructure-Engineer_JR-202600380": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Automated Driving Performance HIL Infrastructure Engineer",
+    "version": 1
+  },
+  "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Engineering-Group-Leader--Basic-Software-Development_JR-202613204": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Engineering Group Leader– Basic Software Development",
+    "version": 1
+  },
+  "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/Software-Engineer--AV-Platform-MCU_JR-202622947-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, AV Platform MCU",
+    "version": 1
+  },
+  "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Loose-Piece-Reflash-Deployment-Supervisor---Global-Manufacturing-Electrical---SDV_JR-202608389": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Engineering Supervisor - ECU Software Flashing & Embedded Systems",
+    "version": 1
+  },
+  "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Software-Developer-Configurator---OneStream-EPM-Development_JR-202623038": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Developer/Configurator – OneStream/EPM Development",
+    "version": 1
+  },
+  "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/Software-Issue-Resolution-Team--SW-IRT-_JR-202616577": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Issue Resolution Team (SW IRT)",
+    "version": 1
+  },
+  "workday:genesys:/job/Galway-Flexible/Software-Engineer_JR112638-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:genesys:/job/Indianapolis-Flexible/Full-Stack-Software-Engineer---Developer-Experience_JR112599": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -10554,6 +11553,51 @@
       "Class of 2027"
     ],
     "title": "Full Stack Software Engineer - Developer Experience",
+    "version": 1
+  },
+  "workday:genpt:/job/Birmingham-AL-USA/Cyber-Defense-Engineer-Principle---Global-Industrial_R26_0000028932": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Defense Engineer Principle - Global Industrial",
+    "version": 1
+  },
+  "workday:genpt:/job/Birmingham-AL-USA/Cyber-Operations-Engineer--IR----Global-Industrial_R26_0000028926-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Operations Engineer (IR) - Global Industrial",
+    "version": 1
+  },
+  "workday:genpt:/job/Birmingham-AL-USA/Cyber-Operations-Engineer--IR----Global-Industrial_R26_0000028929": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Operations Engineer (IR) - Global Industrial",
+    "version": 1
+  },
+  "workday:genpt:/job/Birmingham-AL-USA/ML-Search-Engineer_R26_0000004143": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ML Search Engineer",
+    "version": 1
+  },
+  "workday:genpt:/job/Birmingham-AL-USA/Software-Developer_R26_0000015685": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Developer",
     "version": 1
   },
   "workday:gevernova:/job/Bellevue-WA-US/Power-Systems-AI-ML-Software-Engineer_R5058168-1": {
@@ -10610,6 +11654,15 @@
     "title": "SRE Observability SLO Engineer",
     "version": 1
   },
+  "workday:gevernova:/job/Mexico-City/SRE-Platform-Engineer_R5049173-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "SRE Platform Engineer",
+    "version": 1
+  },
   "workday:gevernova:/job/Mexico-City/SRE-Platform-Engineer_R5049173-2": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -10662,6 +11715,42 @@
       "Class of 2027"
     ],
     "title": "Embedded Software Engineer - Zephyr RTOS",
+    "version": 1
+  },
+  "workday:globalhr:/job/US-CT-EAST-HARTFORD-RTRC-L--411-Silver-Ln--RTRC-L/Full-Stack-AI-Platform-Engineer---AI-Accelerator_01861714": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack AI Platform Engineer – AI Accelerator",
+    "version": 1
+  },
+  "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Applied-Research-Engineer---Embedded-Battlespace-Systems--Onsite-_01889560": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Applied Research Engineer – Embedded Battlespace Systems (Onsite)",
+    "version": 1
+  },
+  "workday:globalhr:/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/LabVIEW-Software---Test-Systems-Engineer_01888987": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "LabVIEW Software & Test Systems Engineer",
+    "version": 1
+  },
+  "workday:globalhr:/job/US-TX-REMOTE/Appian-Developer_01888036": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Appian Developer",
     "version": 1
   },
   "workday:globusmedical:/job/Audubon-PA/Application-Developer_JR108164": {
@@ -10853,6 +11942,24 @@
     "title": "Java Software Development Engineer",
     "version": 1
   },
+  "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286267": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer (IBM Cognos)",
+    "version": 1
+  },
+  "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286286": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:hitachi:/job/Warszawa-Masovian-Poland/Inynier-ds-Rozwoju-Oprogramowania--Software-Engineer---f-m-x-_R0150471": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -10871,6 +11978,15 @@
     "title": "Presales Solution Engineer - Edge AI",
     "version": 1
   },
+  "workday:hp:/job/All-Cities-Colorado-United-States-of-America/Presales-Solution-Engineer---Edge-AI_3170277-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Presales Solution Engineer - Edge AI",
+    "version": 1
+  },
   "workday:hp:/job/All-Cities-Texas-United-States-of-America/Edge-AI-Solution-Engineer_3169805": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -10880,8 +11996,44 @@
     "title": "Edge AI Solution Engineer",
     "version": 1
   },
+  "workday:hp:/job/All-Cities-Texas-United-States-of-America/Edge-AI-Solution-Engineer_3169805-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Edge AI Solution Engineer",
+    "version": 1
+  },
+  "workday:hp:/job/Austin-Texas-United-States-of-America/C---Engineer--Computer-Vision-Embedded-Systems-_3169949-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "C++ Engineer (Computer Vision/Embedded Systems)",
+    "version": 1
+  },
+  "workday:hp:/job/Bengaluru-Karnataka-India/Data-Analytics--AI-Platforms_3165880-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software System Engineer",
+    "version": 1
+  },
   "workday:hp:/job/Bengaluru-Karnataka-India/Open-AI-Platform-Engineer-and-Infrastructure-Support_3169566": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Open AI Platform Engineer and Infrastructure Support",
+    "version": 1
+  },
+  "workday:hp:/job/Bengaluru-Karnataka-India/Open-AI-Platform-Engineer-and-Infrastructure-Support_3169566-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10898,8 +12050,26 @@
     "title": "Software Development Engineer- Frontend",
     "version": 1
   },
+  "workday:hp:/job/Bengaluru-Karnataka-India/Software-Development-Engineer--Frontend_3170250-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer- Frontend",
+    "version": 1
+  },
   "workday:hp:/job/Corvallis-Oregon-United-States-of-America/Facilities-Infrastructure-R---M-Technician_3170061": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Facilities Infrastructure R & M Technician",
+    "version": 1
+  },
+  "workday:hp:/job/Corvallis-Oregon-United-States-of-America/Facilities-Infrastructure-R---M-Technician_3170061-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10916,6 +12086,15 @@
     "title": "Secure Infrastructure Engineer",
     "version": 1
   },
+  "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Inside-Solution-Engineer---Edge-AI-and-Advanced-Compute-Practice_3170320-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Inside Solution Engineer - Edge AI and Advanced Compute Practice",
+    "version": 1
+  },
   "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -10925,8 +12104,44 @@
     "title": "Software Applications Engineer",
     "version": 1
   },
+  "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Applications Engineer",
+    "version": 1
+  },
+  "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/UEFI-BIOS-Developer-for-HP-Z-Workstations_3170602-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "UEFI BIOS Developer for HP Z Workstations",
+    "version": 1
+  },
+  "workday:hp:/job/Fort-Collins-Colorado-United-States-of-America/UEFI-BIOS-Developer-for-HP-Z-Workstations_3170603-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "UEFI BIOS Developer for HP Z Workstations",
+    "version": 1
+  },
   "workday:hp:/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President - PS Agentic AI PC Architecture & Development",
+    "version": 1
+  },
+  "workday:hp:/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10943,8 +12158,26 @@
     "title": "AI Data Scientist",
     "version": 1
   },
+  "workday:hp:/job/Spring-Texas-United-States-of-America/AI-Data-Scientist_3151305-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Data Scientist",
+    "version": 1
+  },
   "workday:hp:/job/Spring-Texas-United-States-of-America/Android-OS-SW-Developer_3169720": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Android OS SW Developer",
+    "version": 1
+  },
+  "workday:hp:/job/Spring-Texas-United-States-of-America/Android-OS-SW-Developer_3169720-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10961,6 +12194,24 @@
     "title": "DevOps Infrastructure Administrator",
     "version": 1
   },
+  "workday:hp:/job/Spring-Texas-United-States-of-America/DevOps-Infrastructure-Administrator_3165194-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Infrastructure Administrator",
+    "version": 1
+  },
+  "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Systems-Engineer_3170050": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Systems Engineer",
+    "version": 1
+  },
   "workday:hp:/job/Spring-Texas-United-States-of-America/Systems-Infrastructure---Network-Security-Operations-Engineer_3156552": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -10970,8 +12221,35 @@
     "title": "Security Engineer",
     "version": 1
   },
+  "workday:hp:/job/Spring-Texas-United-States-of-America/Systems-Infrastructure---Network-Security-Operations-Engineer_3156552-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer",
+    "version": 1
+  },
+  "workday:hp:/job/Tlaquepaque-Jalisco-Mexico/Developer-Support-Engineer----AI---Automation_3159833-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Developer/Support Engineer -  AI & Automation",
+    "version": 1
+  },
   "workday:hp:/job/Vancouver-Washington-United-States-of-America/Firmware-Engineer_3170345": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Firmware Engineer",
+    "version": 1
+  },
+  "workday:hp:/job/Vancouver-Washington-United-States-of-America/Firmware-Engineer_3170345-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -10988,8 +12266,35 @@
     "title": "Firmware Security Certification Engineer",
     "version": 1
   },
+  "workday:hp:/job/Vancouver-Washington-United-States-of-America/Firmware-Security-Certification-Engineer_3170182-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Firmware Security Certification Engineer",
+    "version": 1
+  },
+  "workday:hp:/job/Vancouver-Washington-United-States-of-America/Print-Supplies-Big-Data-Analyst_3165759-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Print Supplies Big Data Analyst",
+    "version": 1
+  },
   "workday:hp:/job/Vancouver-Washington-United-States-of-America/Supplies-Security-Software-Technician_3165668": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Supplies Security Software Technician",
+    "version": 1
+  },
+  "workday:hp:/job/Vancouver-Washington-United-States-of-America/Supplies-Security-Software-Technician_3165668-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11006,6 +12311,15 @@
     "title": "AI and Machine Learning Engineer",
     "version": 1
   },
+  "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/AI-and-Machine-Learning-Engineer_1216103-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI and Machine Learning Engineer",
+    "version": 1
+  },
   "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Principal-Cloud-Developer-in-Test_1189841-2": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -11013,6 +12327,24 @@
       "Class of 2027"
     ],
     "title": "Software Quality Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Principal-Cloud-Developer-in-Test_1189841-4": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Quality Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA, MD, AL, OH",
     "version": 1
   },
   "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-3": {
@@ -11033,8 +12365,26 @@
     "title": "HPC Software & Storage Engineering Strategist",
     "version": 1
   },
+  "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "HPC Software & Storage Engineering Strategist",
+    "version": 1
+  },
   "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cybersecurity Operations & Enablement",
+    "version": 1
+  },
+  "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088-3": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11051,8 +12401,26 @@
     "title": "Frontier AI Product Owner & Program Leader",
     "version": 1
   },
+  "workday:hpe:/job/Spring-Texas-United-States-of-America/Frontier-AI-Product-Owner---Program-Leader_1218036-3": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Frontier AI Product Owner & Program Leader",
+    "version": 1
+  },
   "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Sr-Principal-Software-Engineer_1198281-2": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Embedded Platform Software Development",
+    "version": 1
+  },
+  "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Sr-Principal-Software-Engineer_1198281-3": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11112,6 +12480,15 @@
       "Class of 2027"
     ],
     "title": "Actimize Full-stack Engineer",
+    "version": 1
+  },
+  "workday:huron:/job/Chicago---550-Van-Buren/Microsoft-Dynamics-365-Technical-Consultant---Developer_JR-0016931": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Microsoft Dynamics 365 Technical Consultant / Developer",
     "version": 1
   },
   "workday:hyperiongrp:/job/London/HR-Data-Analyst_R0019619": {
@@ -11222,6 +12599,15 @@
     "title": "Full Stack Developer — Global Health & AI (REMOTE ROLE)",
     "version": 1
   },
+  "workday:idexcorp:/job/Wheeling-Illinois/Software-Engineer_R-09759": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:insperity:/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -11258,6 +12644,51 @@
     "title": "Data Analyst",
     "version": 1
   },
+  "workday:intel:/job/US-Arizona-Phoenix/Operations-Research-Engineer_JR0286348": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Operations Research Engineer",
+    "version": 1
+  },
+  "workday:intel:/job/US-Arizona-Phoenix/Software-Application-Development-Engineer-Grade_JR0283627": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Application Development Engineer",
+    "version": 1
+  },
+  "workday:intel:/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Compiler Engineer for AI DSLs",
+    "version": 1
+  },
+  "workday:intel:/job/US-Oregon-Hillsboro/Software-Integration-Engineer_JR0288267": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Integration Engineer",
+    "version": 1
+  },
+  "workday:interdigital:/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Research Engineer / Scientist (Wireless + AI/ML)",
+    "version": 1
+  },
   "workday:interpublic:/job/Greenville-South-Carolina-United-States-of-America/Full-Stack-Developer_R14145": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -11283,6 +12714,24 @@
       "Class of 2027"
     ],
     "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:invesco:/job/Atlanta-Georgia/Quantitative-Researcher_R-15755-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Quantitative Researcher",
+    "version": 1
+  },
+  "workday:ironmountain:/job/MEX--Ciudad-de-Mexico--Rodolfo-Gaona-86/Sn-Software-Engineer---Biligual---Remote_J0106500": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Sn. Software Engineer / Biligual / Remote",
     "version": 1
   },
   "workday:itron:/job/United-States-of-America-Illinois-Chicago/DevOps-Engineer_JR102824": {
@@ -11337,6 +12786,24 @@
       "Class of 2027"
     ],
     "title": "HR Data Analyst",
+    "version": 1
+  },
+  "workday:jabil:/job/Florence-KY/Test-Infrastructure-Technician-I--Sun-Tues-Sun---Wed-6am-6pm-_J2469652": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Test Infrastructure Technician I (Sun.-Tues.-Sun. - Wed. 6am-6pm)",
+    "version": 1
+  },
+  "workday:jabil:/job/Florence-KY/Test-Infrastructure-Technician-I--Wed--Sat-Thurs-Sat-6am-6pm-_J2469656": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Test Infrastructure Technician I (Wed.- Sat./Thurs.-Sat. 6am-6pm)",
     "version": 1
   },
   "workday:jadeglobal:/job/San-Jose-CA/Data---AI-GTM-Leader_R-106408": {
@@ -11438,6 +12905,51 @@
     "title": "Expert Software Engineer",
     "version": 1
   },
+  "workday:jj:/job/Beerse-Antwerp-Belgium/Post-Doc---AI-Safety_R-103081": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Post Doc - AI Safety",
+    "version": 1
+  },
+  "workday:jj:/job/Cambridge-Massachusetts-United-States-of-America/Post-Doc---AI-ML-and-Optimization_R-106767-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Post Doc - AI/ML and Optimization",
+    "version": 1
+  },
+  "workday:jj:/job/Milano-Italy/AI-Operations-Analyst_R-109884": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Operations Analyst",
+    "version": 1
+  },
+  "workday:jj:/job/Raynham-Massachusetts-United-States-of-America/Tech-Professional--Quality-Systems--AI_R-093338": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Tech Professional, Quality Systems, AI",
+    "version": 1
+  },
+  "workday:jj:/job/Sao-Jose-Brazil/Workday-Integration-and-Platform-Developer_R-104641": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Workday Integration and Platform Developer",
+    "version": 1
+  },
   "workday:kbr:/job/Bristol-United-Kingdom/Cyber-Security-for-Airworthiness-Consultant_R2131692": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -11492,6 +13004,15 @@
     "title": "Technical Curriculum Developer",
     "version": 1
   },
+  "workday:kiongroup:/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0098427": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:kiongroup:/job/Wauwatosa-WI-United-States/Software-Engineer_JR-0098427-1": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -11501,8 +13022,116 @@
     "title": "Software Engineer",
     "version": 1
   },
+  "workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer_2641706-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI/ML Software Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71697": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71703": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71704": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71705": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71706": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71707": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71718": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71720": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71807": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71808-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
   "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71809": {
     "checked_at": "2026-11-13T21:42:14Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71810": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11517,6 +13146,231 @@
       "Class of 2027"
     ],
     "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Agentic-AI-Engineer---Mainframe-Modernization_R-71812": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Agentic AI Engineer – Mainframe Modernization",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Azure-DevOps-Engineer_R-68622-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Azure DevOps Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Azure-Platform-Engineer_R-70289": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Azure Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/CyberSecurity-Infrastructure---Mainframe-Security-ACF2_R-69751-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Security Specialist - Mainframe Security ACF2",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Data-Engineer-Lead_R-66921": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analyst",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Full-Stack-Developer_R-60925": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Developer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Infrastructure-Specialist_R-70927": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Infrastructure-Specialist_R-70947-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Infrastructure-Specialist_R-70950": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Mainframe-Application-Developer_R-68923": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mainframe Application Developer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Mainframe-Cybersecurity-Specialist_R-70882": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Mainframe Cybersecurity Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Platform-Engineer---Data_R-66934": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analyst",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Platform-Engineer_R-70054-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Platform-Engineer_R-70320-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Bangalore-Karnataka-India/Platform-Engineer_R-70323-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Greater-Noida-Uttar-Pradesh-India/Azure-Platform-Engineer_R-70306": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Azure Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Greater-Noida-Uttar-Pradesh-India/Infrastructure-Specialist_R-71535-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Greater-Noida-Uttar-Pradesh-India/Linux-DevOps-Engineer_R-71136-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Linux DevOps Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Greater-Noida-Uttar-Pradesh-India/Network-Infrastructure-Cloud-Architecture_R-67429-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Network Infrastructure/Cloud Architecture",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Hortolandia-So-Paulo-Brazil/Network-Automation-and-Platform-Engineer_R-69618-1": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Network Automation and Platform Engineer",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69551": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering - Technical Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69559": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering - Technical Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69561": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering - Technical Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69566": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineering - Technical Specialist",
+    "version": 1
+  },
+  "workday:kyndryl:/job/Shenyang-Liaoning-China/networking_R-58369": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Network Developer",
     "version": 1
   },
   "workday:lbg:/job/Leeds-Wellington-Place/Mac-Infrastructure-Specialist_157946-3": {
@@ -11852,8 +13706,26 @@
     "title": "AI Engineer",
     "version": 1
   },
+  "workday:lthc:/job/Rochester/AI-Engineer-I-II_JR103556-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer",
+    "version": 1
+  },
   "workday:lthc:/job/Rochester/IT-Cloud-Engineer-Network_JR104255-1": {
     "checked_at": "2026-11-14T15:58:45Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "IT Cloud Engineer Network",
+    "version": 1
+  },
+  "workday:lthc:/job/Rochester/IT-Cloud-Engineer-Network_JR104255-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
       "Class of 2026",
       "Class of 2027"
@@ -11870,6 +13742,15 @@
     "title": "Software Engineer - ETL",
     "version": 1
   },
+  "workday:lthc:/job/Rochester/Software-Engineer---ETL_JR104172-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - ETL",
+    "version": 1
+  },
   "workday:maersk:/job/India-Bengaluru-560064/Software-Engineer--Data---AIML-_R199251": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -11877,6 +13758,60 @@
       "Class of 2027"
     ],
     "title": "Software Engineer (Data & AIML)",
+    "version": 1
+  },
+  "workday:magna:/job/Bangalore-IN/AI-Developer--RPA---Testing_R00240781": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Developer, RPA & Testing",
+    "version": 1
+  },
+  "workday:magna:/job/Bengaluru-IN/Engineer-Functional-Software_R00264752": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Engineer Functional Software",
+    "version": 1
+  },
+  "workday:magna:/job/Bengaluru-IN/Specialist-Gen-AI_R00268297": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Specialist Gen AI",
+    "version": 1
+  },
+  "workday:magna:/job/Bengaluru-IN/Specialist-HIL-Infrastructure---HIL-Modelling_R00268262": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Specialist HIL Infrastructure / HIL Modelling",
+    "version": 1
+  },
+  "workday:magna:/job/Timisoara-RO/Machine-Learning-Engineer_R00259007": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Machine Learning Engineer",
+    "version": 1
+  },
+  "workday:magna:/job/Troy-Michigan-US/Software-Engineer_R00267835": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software and HiL Engineer",
     "version": 1
   },
   "workday:manulife:/job/Boston-Massachusetts/CIAM-Full-Stack-Engineer_JR26110082": {
@@ -11969,6 +13904,15 @@
     "title": "Platform Engineer",
     "version": 1
   },
+  "workday:marvell:/job/Santa-Clara-CA/Engineering-Lab-Infrastructure-and-Rework-Engineer_2605254": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Engineering Lab Infrastructure and Rework Engineer",
+    "version": 1
+  },
   "workday:massgeneralbrigham:/job/Charlestown-MA/Research-Scientist--Gene-Editing-Core_RQ4085232": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -11994,6 +13938,42 @@
       "Class of 2027"
     ],
     "title": "AI Product Owner – Microsoft Copilot & Anthropic Claude",
+    "version": 1
+  },
+  "workday:mastercard:/job/New-York-City-New-York/Vice-President--Software-Engineering_R-286632": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President, Software Engineering",
+    "version": 1
+  },
+  "workday:mastercard:/job/OFallon-Missouri/AI-Engineer---_R-278791": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer ||",
+    "version": 1
+  },
+  "workday:mastercard:/job/OFallon-Missouri/Vice-President-Platform-Engineering_R-277842": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President Platform Engineering",
+    "version": 1
+  },
+  "workday:mastercard:/job/San-Francisco-California/Vice-President--Software-Engineering_R-290779": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President, Software Engineering",
     "version": 1
   },
   "workday:maxar:/job/Arlington-VA/Senior-API-Java-Python-Developer_R24670": {
@@ -12140,6 +14120,15 @@
     "title": "Full Stack Liferay Application Developer",
     "version": 1
   },
+  "workday:mckesson:/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Specialist, Software Engineering",
+    "version": 1
+  },
   "workday:mckesson:/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598-1": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -12230,6 +14219,51 @@
     "title": "Cyber Security Operations Center Analyst / AI-Automation Engineer",
     "version": 1
   },
+  "workday:micron:/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111962": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack AI Engineer",
+    "version": 1
+  },
+  "workday:micron:/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111963": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack AI Engineer",
+    "version": 1
+  },
+  "workday:micron:/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111970": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack AI Engineer",
+    "version": 1
+  },
+  "workday:micron:/job/Boise-ID---Main-Site/Information-Security-Engineer---Global-Security-Infrastructure_JR116695": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Information Security Engineer – Global Security Infrastructure",
+    "version": 1
+  },
+  "workday:micron:/job/Folsom-CA/MTS--AI-Optimized-Memory-Digital-Design-Engineer_JR108051": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "MTS, AI Optimized Memory Digital Design Engineer",
+    "version": 1
+  },
   "workday:mitel:/job/Sofia-Hybrid/Information-Security-Specialist_R012920": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -12246,6 +14280,15 @@
       "Class of 2027"
     ],
     "title": "Infrastructure Finance Credit - Vice President",
+    "version": 1
+  },
+  "workday:mmc:/job/Houston---Dallas/Credit-Specialties-DI-Advisor_R_348957": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Energy & Power - Digital Infrastructure Advisor",
     "version": 1
   },
   "workday:mobility:/job/Gurugram-Haryana/Software-Engineer--Java-React-_523-1": {
@@ -12581,6 +14624,15 @@
     "title": "Program Associate – Private Investment Portfolios and Co-Investment (“PIPCO”) Infrastructure",
     "version": 1
   },
+  "workday:ncr:/job/ATLANTA-GA-USA/AI-Engineer_R0158787": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer",
+    "version": 1
+  },
   "workday:nelnet:/job/Centennial-CO/IT-Software-Engineer---Diversification_R23223-1": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -12761,6 +14813,51 @@
     "title": "Patient Safety Data Analyst",
     "version": 1
   },
+  "workday:nvidia:/job/Israel-Yokneam/Software-Developer---Networking_JR2024804": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Developer - Networking",
+    "version": 1
+  },
+  "workday:nvidia:/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "HPC Middleware Developer",
+    "version": 1
+  },
+  "workday:nvidia:/job/US-CA-Santa-Clara/Robotics-Research-Engineer---Robot-Simulation-and-Evaluation_JR2023397": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Robotics Research Engineer - Robot Simulation and Evaluation",
+    "version": 1
+  },
+  "workday:nvidia:/job/US-CA-Santa-Clara/Software-R-D-Engineer--RTL-Optimization-Tools_JR2019332": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software R&D Engineer, RTL Optimization Tools",
+    "version": 1
+  },
+  "workday:nvidia:/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2028394": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "System Software Engineer – Data Center GPU Compute Diagnostics",
+    "version": 1
+  },
   "workday:nwis:/job/San-Antonio-TX/Vulnerability-Researcher-CNO-Developer--Onsite-_JR100873": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -12768,6 +14865,24 @@
       "Class of 2027"
     ],
     "title": "Vulnerability Researcher/CNO Developer (Onsite)",
+    "version": 1
+  },
+  "workday:okgov:/job/Oklahoma-County/AI-Software-Engineer_JR67717": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Software Engineer",
+    "version": 1
+  },
+  "workday:oregon:/job/Salem--OHA--Oregon-State-Hospital/Hospital-Information-Systems-Developer--ISS4--Oregon-State-Hospital_REQ-209292": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Hospital Information Systems Developer (ISS4) Oregon State Hospital",
     "version": 1
   },
   "workday:orionsteel:/job/Pueblo-CO-USA/Software-Developer-Engineer_R8267": {
@@ -12959,6 +15074,15 @@
     "title": "Software Test Engineer - SOA C3",
     "version": 1
   },
+  "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138380": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:philips:/job/Orange-OH-Ohio-United-States/Research-Scientist---Computed-Tomography--Orange--OH-_586925": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -12977,6 +15101,24 @@
     "title": "Research Scientist-Computed Tomography",
     "version": 1
   },
+  "workday:pnc:/job/CO---Lakewood-80215/AI-Security-Specialist_R235935": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Security Specialist",
+    "version": 1
+  },
+  "workday:pnc:/job/PA---Pittsburgh-15219/Infrastructure-Engineer---DB2-Support_R239235-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Infrastructure Engineer - DB2 Support",
+    "version": 1
+  },
   "workday:pnc:/job/PA---Pittsburgh-15219/Software-DevOps-Cloud-Engineer---Data-and-Automation_R232037-1": {
     "checked_at": "2026-11-13T21:42:14Z",
     "cycles": [
@@ -12984,6 +15126,24 @@
       "Class of 2027"
     ],
     "title": "Software DevOps Cloud Engineer - Data and Automation",
+    "version": 1
+  },
+  "workday:pnc:/job/PA---Pittsburgh-15222/Application-Security-Analyst_R240123-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Security Analyst",
+    "version": 1
+  },
+  "workday:pnc:/job/PA---Pittsburgh-15222/Data-Scientist---Anti-Money-Laundering-Analytics---Modeling_R226286-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist - Anti-Money Laundering Analytics & Modeling",
     "version": 1
   },
   "workday:polaris:/job/Medina-MN-USA/IT-Infrastructure-Support-Specialist_R31701": {
@@ -13049,6 +15209,24 @@
     "title": "Information Security Identity and Access Engineer",
     "version": 1
   },
+  "workday:psu:/job/Reston-VA/Software-Engineer_REQ_0000083537-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:psu:/job/San-Diego-CA/Network-Security-Engineer_REQ_0000083346-2": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Network Security Engineer",
+    "version": 1
+  },
   "workday:pwc:/job/GA-Atlanta/Cybersecurity--Privacy-and-Forensics---Palo-Alto-Networks-XSIAM-Engineer_753813WD": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13083,6 +15261,51 @@
       "Class of 2027"
     ],
     "title": "Data Engineer",
+    "version": 1
+  },
+  "workday:quickenloans:/job/Seattle-WA/Full-Stack-Software-Developer---Hybrid-OR-Remote_R-084963": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Developer - Hybrid OR Remote",
+    "version": 1
+  },
+  "workday:r1rcm:/job/New-York-NY/Platform-Engineer--R37-_R260000008134": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Platform Engineer (R37)",
+    "version": 1
+  },
+  "workday:r1rcm:/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "ML Ops Engineer (R37)",
+    "version": 1
+  },
+  "workday:racetrac:/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Content-Developer_R10016826": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Content Developer",
+    "version": 1
+  },
+  "workday:racetrac:/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/M365-Platform-Engineer_R10013425": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI & M365 Platform Engineer",
     "version": 1
   },
   "workday:rb:/job/Omaha-NE/SVC-Software-Engineer---Android_R-0000033904": {
@@ -13319,6 +15542,15 @@
     "title": "Power Platform Developer",
     "version": 1
   },
+  "workday:rsm:/job/New-York/Supervisor---Cyber-M-A-Diligence_JR120205": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Supervisor - Cyber M&A Diligence",
+    "version": 1
+  },
   "workday:salesforce:/job/California---Palo-Alto/Senior-Software-Engineer_JR360316": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13526,6 +15758,42 @@
     "title": "Health Plan Data Scientist",
     "version": 1
   },
+  "workday:sedgwick:/job/Telecommuter-FL/AI-Evaluation-Engineer_R80152": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Evaluation Engineer",
+    "version": 1
+  },
+  "workday:sedgwick:/job/Telecommuter-FL/AI-Platform-Administrator_R79508-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Platform Administrator",
+    "version": 1
+  },
+  "workday:sedgwick:/job/Telecommuter-TN/UX-Designer---Sedgwick-AI_R79707": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "UX Designer – Sedgwick AI",
+    "version": 1
+  },
+  "workday:sedgwick:/job/Telecommuter-TX/Data-Engineer_R75957": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer",
+    "version": 1
+  },
   "workday:seic:/job/USA---PA---Oaks/Infrastructure-Engineer_R0038816": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13551,6 +15819,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer (Hybrid Work Model)",
+    "version": 1
+  },
+  "workday:shawinc:/job/Shaw-Plant-72-900-VD-Parrot-Parkway-Dalton-GA-30721-USA/Data-Analytics-Engineer_R-158460-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analytics Engineer",
     "version": 1
   },
   "workday:shi:/job/Piscataway-NJ-USA/Software-Engineer---Integration-Center_JR3982": {
@@ -13625,6 +15902,24 @@
     "title": "AI Efficiency, Innovation & Automation Analyst",
     "version": 1
   },
+  "workday:spgi:/job/IN---CHENNAI-PRESTIGE-POLYGON-BUILDING/Data-Engineer--Data-Platforms_330903-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer, Data Platforms",
+    "version": 1
+  },
+  "workday:spgi:/job/New-York-NY/Data-Scientist_332760-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
+    "version": 1
+  },
   "workday:spinmaster:/job/Toronto-Remote/ML-Engineer--Trust---Safety--Hapiko-_R5174": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13695,6 +15990,60 @@
       "Class of 2027"
     ],
     "title": "SVP, Original Programming",
+    "version": 1
+  },
+  "workday:statestreet:/job/Burlington-Massachusetts/Data-Integration-Engineer--AVP_R-796511": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Integration Framework Developer - Java, AVP",
+    "version": 1
+  },
+  "workday:statestreet:/job/Dallas/Software-Engineer---Backend-Platforms--Assistant-Vice-President--Wealth-Custody---Clearing-_R-793611-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer – Backend Platforms, Assistant Vice President (Wealth Custody & Clearing)",
+    "version": 1
+  },
+  "workday:statestreet:/job/Gdansk-Poland/Java-Software-Engineer--hybrid--Offcer_R-774716": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Java Software Engineer, hybrid, Officer",
+    "version": 1
+  },
+  "workday:statestreet:/job/Krakow-Poland/Fullstack-Software-Engineer--Java---React---hybird--Officer_R-774717": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full-Stack Developer (React + Java), Officer",
+    "version": 1
+  },
+  "workday:statestreet:/job/Princeton-New-Jersey/RKS-Configuration-Management-and-DevOps--AVP_R-799107": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "RKS Configuration Management and DevOps, AVP",
+    "version": 1
+  },
+  "workday:statestreet:/job/Quincy-Massachusetts/AI-Systems-Design-Architect---Assistant-Vice-President_R-795007": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "CDAIO Agentic AI Engineer - Assistant Vice President",
     "version": 1
   },
   "workday:stevens:/job/Hoboken-NJ---Main-Campus/Course-Assistant---Digital-Practitioners-AI-course_RQ30900-1": {
@@ -13769,6 +16118,15 @@
     "title": "High School Computer Science Teacher",
     "version": 1
   },
+  "workday:swbc:/job/San-Antonio-TX/Software-Engineer_R0015707-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
   "workday:synechron:/job/Hyderabad--Eco-Park/Full-Stack-Java-Developer---Spring-Boot--Angular-React---Microservices_JR1044358": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13785,6 +16143,87 @@
       "Class of 2027"
     ],
     "title": "Software Engineer - AI Integration - Fixed Term Contract - 12 months",
+    "version": 1
+  },
+  "workday:tamus:/job/College-Station-TX/Assistant-Research-Scientist_R-098749-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant Research Scientist",
+    "version": 1
+  },
+  "workday:tamus:/job/College-Station-TX/Licensing-Associate---Software-and-AI_R-098471-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Licensing Associate - Software and AI",
+    "version": 1
+  },
+  "workday:tamus:/job/Houston-TX/Research-Scientist_R-098679-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Research Scientist",
+    "version": 1
+  },
+  "workday:tamus:/job/Killeen-TX/Postdoctoral-Researcher-Assistant-Research-Scientist---AI--Cybersecurity---High-Performance-Research-Computing_R-098324": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Postdoctoral Researcher/Assistant Research Scientist – AI, Cybersecurity & High-Performance Research Computing",
+    "version": 1
+  },
+  "workday:tamus:/job/Laredo-TX/Assistant-Professor-of-Computer-Science--Mobile-Device-Forensics-_R-097638": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant Professor of Computer Science (Mobile Device Forensics)",
+    "version": 1
+  },
+  "workday:tamus:/job/Laredo-TX/Assistant-Professor-of-Petroleum-Engineering--Artificial-Intelligence-_R-097668": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant Professor of Petroleum Engineering (Artificial Intelligence)",
+    "version": 1
+  },
+  "workday:tamus:/job/Texarkana-TX/Adjunct-Instructor---Computer-Science_R-098520": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Adjunct Instructor - Computer Science",
+    "version": 1
+  },
+  "workday:tamus:/job/Texarkana-TX/Assistant-Associate-Professor-of-Computer-Science_R-098555-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant/Associate Professor of Computer Science",
+    "version": 1
+  },
+  "workday:tcbrands:/job/CG--CGI-Austin-Texas/Front-End-Developer_JR2023-16204": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Front End Developer",
     "version": 1
   },
   "workday:tcenergy:/job/Houston-Office-TC-Energy-Center/Project-Developer_JR-11343": {
@@ -13848,6 +16287,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:thermofisher:/job/Remote-United-Kingdom/Research-Scientist---Patient-Centered-Outcomes---In-Trial-Research_R-01374467": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Research Scientist – Patient-Centered Outcomes & In-Trial Research",
     "version": 1
   },
   "workday:topcon:/job/Concordia-sulla-Secchia-IT/Senior-Software-Engineer--C---Field-Software-_JR107505": {
@@ -13976,6 +16424,51 @@
     "title": "Software Engineer (Workday Integration Engineer)",
     "version": 1
   },
+  "workday:trellix:/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0037660": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer – Agentic AI",
+    "version": 1
+  },
+  "workday:trellix:/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0038076": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer – Agentic AI",
+    "version": 1
+  },
+  "workday:trellix:/job/Remote-United-States/Cyber-Threat-Hunter--TS-SCI-Clearance-Required-_JR0038010": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Threat Hunter (TS/SCI Clearance Required)",
+    "version": 1
+  },
+  "workday:trellix:/job/Remote-United-States/Reverse-Engineer---Android_JR0038109": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Reverse Engineer - Android",
+    "version": 1
+  },
+  "workday:trellix:/job/US-Virginia-Fairfax/Sr-Solution-Consultant--TS-SCI-Clearance-Required-_JR0037711-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Threat Hunter (TS/SCI Clearance Required)",
+    "version": 1
+  },
   "workday:trimble:/job/US---OR-Lake-Oswego/AI-Agentic-Software-Engineer_R58261": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -13994,6 +16487,15 @@
     "title": "Investment AI Workflow Specialist",
     "version": 1
   },
+  "workday:truist:/job/Atlanta-GA/Software-Engineer---CLOUD_R0118010-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer---CLOUD",
+    "version": 1
+  },
   "workday:truist:/job/Atlanta-GA/Software-Engineer---Java---AWS_R0121814": {
     "checked_at": "2026-11-13T21:42:15Z",
     "cycles": [
@@ -14001,6 +16503,96 @@
       "Class of 2027"
     ],
     "title": "Software Engineer – Java / AWS",
+    "version": 1
+  },
+  "workday:truist:/job/Atlanta-GA/Software-Engineer_R0118957-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:truist:/job/Charlotte-NC/IT-Project-Manager-I_R0121452": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:truist:/job/Charlotte-NC/Security-Engineer--Data-Engineering--Protection-_R0120831": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Data Engineering/ Protection)",
+    "version": 1
+  },
+  "workday:truist:/job/New-York-NY/Investment-Banking-Associate---Power--Utilities---Infrastructure--Renewables-_R0119372": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+    "version": 1
+  },
+  "workday:truist:/job/Raleigh-NC/Software-Engineer--TOW-operations--DevOps_R0121670": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer--TOW operations--DevOps",
+    "version": 1
+  },
+  "workday:truist:/job/Raleigh-NC/Software-Engineer_R0121546": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:truist:/job/Richmond-VA/Software-Engineer---Integration-Developer_R0118870": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer---Integration Developer",
+    "version": 1
+  },
+  "workday:truist:/job/Richmond-VA/Software-Engineer---Workflow-and-Ontology-Developer_R0118872": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Workflow and Ontology Developer",
+    "version": 1
+  },
+  "workday:truist:/job/Richmond-VA/Software-Engineer_R0118988": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data & Platform Engineer",
+    "version": 1
+  },
+  "workday:truist:/job/Richmond-VA/XMLNAME-Net-Software-Engineer_R0118984": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": ".Net Software Engineer",
     "version": 1
   },
   "workday:tsc:/job/Aurora-CO/Software-System-Test-Engineer_JR2772": {
@@ -14019,6 +16611,78 @@
       "Class of 2027"
     ],
     "title": "Firmware Design Engineer",
+    "version": 1
+  },
+  "workday:tsys:/job/BENGALURU--INDIA/Software-Test-Analyst---Salesforce--Playwright-automation--API-integration-testing--CI-CD---5-8-Years--Bangalore--Pune--Indore_R0077322": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Test Analyst - Salesforce, Playwright automation, API/integration testing, CI/CD - 5-8 Years- Bangalore, Pune, Indore",
+    "version": 1
+  },
+  "workday:tsys:/job/BOSTON-MASSACHUSETTS/Software-Engineer---Java-Spring-boot-Engineer_R0076077": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer – Java/Spring boot Engineer",
+    "version": 1
+  },
+  "workday:tsys:/job/CINCINNATI-OHIO/Software-Engineer-II_R0075310": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Full Stack",
+    "version": 1
+  },
+  "workday:turo:/job/San-Francisco/Data-Scientist--Dynamic-Pricing_R-102761": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist, Dynamic Pricing",
+    "version": 1
+  },
+  "workday:uline:/job/Pleasant-Prairie-WI/AI-Engineer_R268834": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer",
+    "version": 1
+  },
+  "workday:uline:/job/Pleasant-Prairie-WI/Power-Apps-Developer_R263380-2": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "BI Analytics Engineer",
+    "version": 1
+  },
+  "workday:uline:/job/Pleasant-Prairie-WI/Vice-President-of-Information-Security_R268816": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President of Information Security",
+    "version": 1
+  },
+  "workday:uline:/job/Pleasant-Prairie-WI/Vice-President-of-Infrastructure_R268954-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Vice President of Infrastructure",
     "version": 1
   },
   "workday:ulse:/job/Skokie-IL/Robotics-Software-Engineer_JR1608-1": {
@@ -14057,6 +16721,42 @@
     "title": "Software and Data Engineer",
     "version": 1
   },
+  "workday:umiami:/job/Coral-Gables-FL/AI-Initiatives-Libraria---Librarian-Asst-Professor-Librarian-Assoc-Professor_R100102903": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Initiatives Librarian - Librarian Asst. Professor/Librarian Assoc. Professor",
+    "version": 1
+  },
+  "workday:umiami:/job/Coral-Gables-FL/Assistant-Professor-in-Computer-Science---Artificial-Intelligence_R100103034": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant Professor in Computer Science - Artificial Intelligence",
+    "version": 1
+  },
+  "workday:umiami:/job/Coral-Gables-FL/Assistant-Professor-in-Computer-Science---Quantum-Computing_R100103062": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Assistant Professor in Computer Science - Quantum Computing",
+    "version": 1
+  },
+  "workday:umiami:/job/Coral-Gables-FL/Open-Rank--Asst-Professor--Assoc-Professor--or-Professor--of-Political-Science---Artificial-Intelligence_R100102553": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Open Rank (Asst. Professor, Assoc. Professor, or Professor) of Political Science - Artificial Intelligence",
+    "version": 1
+  },
   "workday:unisys:/job/Bangalore-KA-India/Knowledge-Management---AI---Content-Strategy-Engineer_REQ576724": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -14084,6 +16784,42 @@
     "title": "Développeur(se) de logiciels | Software Developer",
     "version": 1
   },
+  "workday:unum:/job/Portland-Maine-USA/AVP--Agentic---Generative-AI-PM_836533": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AVP, Agentic & Generative AI PM",
+    "version": 1
+  },
+  "workday:usbank:/job/Minneapolis-MN/Data-Analyst_2026-0033891": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analyst",
+    "version": 1
+  },
+  "workday:usbank:/job/Minneapolis-MN/Financial-Risk-Quantitative-Analyst_2026-0033895-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Financial Risk Quantitative Analyst",
+    "version": 1
+  },
+  "workday:usbank:/job/New-York-NY/BTIG--Research--Equity-Research-Associate--Vice-President--Energy---Infrastructure-_2026-0033093-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "BTIG: Research, Equity Research Associate, Vice President (Energy & Infrastructure)",
+    "version": 1
+  },
   "workday:usc:/job/Los-Angeles-CA---Health-Sciences-Campus/Data-Scientist--ITS-_REQ20177952": {
     "checked_at": "2026-11-14T15:58:46Z",
     "cycles": [
@@ -14109,6 +16845,42 @@
       "Class of 2027"
     ],
     "title": "Coordinator of Programming & Leadership",
+    "version": 1
+  },
+  "workday:utaustin:/job/UT-MAIN-CAMPUS/Data-Analytics-Engineer--College-of-Natural-Sciences_R_00049943": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Analytics Engineer, College of Natural Sciences",
+    "version": 1
+  },
+  "workday:utaustin:/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Research Assistant: Remote Sensing, UAV/Satellite Image Processing, and Computer Science",
+    "version": 1
+  },
+  "workday:utaustin:/job/UT-MAIN-CAMPUS/Research-Scientist--Laser-Plasma-Accelerators-and-X-ray-Sources_R_00049837": {
+    "checked_at": "2026-11-14T20:54:28Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Research Scientist, Laser-Plasma Accelerators and X-ray Sources",
+    "version": 1
+  },
+  "workday:uw:/job/Seattle-WA/Tinian-Forest-Bird-Research-Scientist_REQ-0000137938": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Tinian Forest Bird Research Scientist",
     "version": 1
   },
   "workday:valeo:/job/Troy-MI/Software-Engineer_REQ2026079968": {
@@ -14217,6 +16989,15 @@
       "Class of 2027"
     ],
     "title": "AI Engineer - Go To Market",
+    "version": 1
+  },
+  "workday:verizon:/job/Temple-Terrace-Florida/Java-Full-Stack-Developer_R-1103683": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Java Full Stack Developer",
     "version": 1
   },
   "workday:verizon:/job/Temple-Terrace-Florida/Java-Full-Stack-Developer_R-1103683-1": {
@@ -14424,6 +17205,42 @@
       "Class of 2027"
     ],
     "title": "Infrastructure Engineer, Enterprise AI",
+    "version": 1
+  },
+  "workday:workday:/job/USA-CA-Pleasanton/Forward-Deployed-Engineer--AI-Products_JR-0111367-1": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Forward Deployed Engineer, AI Products",
+    "version": 1
+  },
+  "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer, Admin Central",
+    "version": 1
+  },
+  "workday:workday:/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer, SRE (US Federal)",
+    "version": 1
+  },
+  "workday:wustl:/job/Washington-University-Danforth-Campus/Programming---Outreach-Specialist---Gephardt-Institute-for-Civic-and-Community-Engagement_JR98168": {
+    "checked_at": "2026-11-14T20:54:29Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Programming & Outreach Specialist - Gephardt Institute for Civic and Community Engagement",
     "version": 1
   },
   "workday:zebra:/job/Lincolnshire-Illinois/Firmware-Software-Engineer--Advanced_JR103696": {
