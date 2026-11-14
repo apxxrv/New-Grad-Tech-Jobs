@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26013909",
-      "ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230",
-      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
-      "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725",
-      "workday:tranetechnologies:/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1",
-      "greenhouse:twitch:8943553002"
-    ],
-    "telegram": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26013909",
-      "ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230",
-      "workday:costar:/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724",
-      "workday:costar:/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725",
-      "workday:tranetechnologies:/job/Willowbrook-Illinois/HVAC-Project-Developer_JR-6517-1",
-      "greenhouse:twitch:8943553002"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
