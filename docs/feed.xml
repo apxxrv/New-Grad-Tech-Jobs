@@ -5,8 +5,16 @@
   <subtitle>Auto-detected new grad tech roles, newest finds first.</subtitle>
   <link href="https://apxxrv.github.io/New-Grad-Tech-Jobs/feed.xml" rel="self"/>
   <link href="https://github.com/apxxrv/New-Grad-Tech-Jobs"/>
-  <updated>2026-11-15T14:54:42Z</updated>
+  <updated>2026-11-15T20:39:51Z</updated>
   <author><name>New Grad Tech Jobs</name><uri>https://github.com/apxxrv/New-Grad-Tech-Jobs</uri></author>
+  <entry>
+    <id>urn:grad-engine:workday:fmr:/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360</id>
+    <title>Fidelity Investments: Full Stack Engineer (backend API, AWS) 🛂</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360"/>
+    <updated>2026-11-15T20:39:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Durham, NC · Python, Java, Node.js, Git · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:grad-engine:ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230</id>
     <title>Triumph: Data Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-11T00:01:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote, VA · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:grad-engine:workday:pae:/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040</id>
-    <title>Amentum: Junior Software Developer 🇺🇸</title>
-    <link href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"/>
-    <updated>2026-11-11T00:01:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-VA-Dahlgren · Python, Java, C++, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>

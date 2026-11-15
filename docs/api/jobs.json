@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-11-15T14:54:42Z",
- "data_as_of": "2026-11-15T14:54:42Z",
- "rendered_at": "2026-11-15T14:54:42Z",
+ "generated_at": "2026-11-15T20:39:51Z",
+ "data_as_of": "2026-11-15T20:39:51Z",
+ "rendered_at": "2026-11-15T20:39:51Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1069,
+ "count": 1070,
  "jobs": [
+  {
+   "id": "workday:fmr:/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360",
+   "company": "Fidelity Investments",
+   "title": "Full Stack Engineer (backend API, AWS)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Durham, NC",
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360",
+   "posted_at": "2026-11-13T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-11-15T20:39:50Z",
+   "sponsorship": "no-sponsorship",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "Node.js",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 2354,
+   "program": "New Grad",
+   "remote": false
+  },
   {
    "id": "ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230",
    "company": "Triumph",
@@ -9239,14 +9265,14 @@
   },
   {
    "id": "workday:tamus:/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2",
-   "company": "Texas A&M University System",
+   "company": "Texas A&M AgriLife Research",
    "title": "Associate Research Scientist: One Health Bioinformatics and Molecular Diagnostics",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "College Station, TX",
-   "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277-2",
+   "url": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Associate-Research-Scientist--One-Health-Bioinformatics-and-Molecular-Diagnostics_R-098277",
    "posted_at": "2026-10-23T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-23T18:09:11Z",
@@ -9259,7 +9285,7 @@
     "Git"
    ],
    "source": "workday",
-   "h1b_approvals": null,
+   "h1b_approvals": 97,
    "program": "Junior / Associate",
    "remote": false
   },
