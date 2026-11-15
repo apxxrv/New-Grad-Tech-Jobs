@@ -1538,6 +1538,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256503007": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256509007": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -1788,6 +1797,15 @@
       "Class of 2027"
     ],
     "title": "Research Scientist, Battlespace Awareness",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5281214007": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Battlespace Awareness",
     "version": 1
   },
   "greenhouse:andurilindustries:5281215007": {
@@ -2760,6 +2778,15 @@
       "Class of 2027"
     ],
     "title": "Software Engineer, Sustaining Automation",
+    "version": 1
+  },
+  "greenhouse:chaosindustries:5254818007": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "GNC Software Engineer",
     "version": 1
   },
   "greenhouse:chaosindustries:5254819007": {
@@ -5480,6 +5507,15 @@
     "title": "Data Engineer in Test",
     "version": 1
   },
+  "greenhouse:prolificacademicltd:5025121101": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Medical Genetics Physician - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
   "greenhouse:prolificacademicltd:5025122101": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -6074,6 +6110,15 @@
     "title": "Contract Software Development Engineer in Test - Subscription Platform",
     "version": 1
   },
+  "greenhouse:spacex:8852119002": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, Linux Kernel (Starlink)",
+    "version": 1
+  },
   "greenhouse:spacex:8852121002": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -6108,6 +6153,15 @@
       "Class of 2027"
     ],
     "title": "Environmental Health & Safety Engineer (AI Supercomputer)",
+    "version": 1
+  },
+  "greenhouse:spacex:8861900002": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer, AI Infrastructure (Starshield)",
     "version": 1
   },
   "greenhouse:spacex:8861901002": {
@@ -6162,6 +6216,15 @@
       "Class of 2027"
     ],
     "title": "Embedded Software Engineer, Data Center Engineering (Starmind)",
+    "version": 1
+  },
+  "greenhouse:spacex:8873383002": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Application Software Engineer, Employee Experience",
     "version": 1
   },
   "greenhouse:spacex:8875925002": {
@@ -6243,6 +6306,15 @@
       "Class of 2027"
     ],
     "title": "Network Security Engineer",
+    "version": 1
+  },
+  "greenhouse:spacex:8893740002": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Security Engineer (Software)",
     "version": 1
   },
   "greenhouse:spacex:8893741002": {
@@ -6576,6 +6648,15 @@
       "Class of 2027"
     ],
     "title": "Aerospace Software Engineer (Starfall)",
+    "version": 1
+  },
+  "greenhouse:spacex:8943586002": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Full Stack Software Engineer (Starlink)",
     "version": 1
   },
   "greenhouse:sparksoftcorporation:5262202007": {
@@ -9530,6 +9611,24 @@
     "title": "AI Product Engineer",
     "version": 1
   },
+  "workday:bbinsurance:/job/Olivette-MO-USA/Software-Engineer_R26_0000003648": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:bbinsurance:/job/Sandy-Springs-Atlanta-GA-USA/Cyber-Risk-Analyst_R26_0000003320": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Risk Analyst",
+    "version": 1
+  },
   "workday:bbva:/job/New-York/Portfolio-Monitoring-Real-Estate-and-Digital-Infrastructure-Vice-President_JR00116142-1": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -9771,6 +9870,24 @@
       "Class of 2027"
     ],
     "title": "Data Engineer",
+    "version": 1
+  },
+  "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Data-Engineer_R1604344": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer",
+    "version": 1
+  },
+  "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Quality-system-analyst_R1605789": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer - Quality system",
     "version": 1
   },
   "workday:bristolmyerssquibb:/job/Hyderabad---TS---IN/Software-Engineer_R1607717": {
@@ -10392,6 +10509,15 @@
       "Class of 2027"
     ],
     "title": "Mobile Engineer",
+    "version": 1
+  },
+  "workday:davita:/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DevOps Engineer - FinOps",
     "version": 1
   },
   "workday:db:/job/New-York-1-Columbus-Circle/Java-Full-Stack-Developer---Vice-President_R0451008-1": {
@@ -11564,6 +11690,15 @@
     "title": "SRE Observability SLO Engineer",
     "version": 1
   },
+  "workday:gevernova:/job/Mexico-City/SRE-Observability-SLO-Engineer_R5048915-2": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "SRE Observability SLO Engineer",
+    "version": 1
+  },
   "workday:gevernova:/job/Mexico-City/SRE-Platform-Engineer_R5049173-1": {
     "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
@@ -12275,6 +12410,15 @@
     "title": "Supplies Security Software Technician",
     "version": 1
   },
+  "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/AI-and-Machine-Learning-Engineer_1216103": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI and Machine Learning Engineer",
+    "version": 1
+  },
   "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/AI-and-Machine-Learning-Engineer_1216103-1": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -12291,6 +12435,15 @@
       "Class of 2027"
     ],
     "title": "AI and Machine Learning Engineer",
+    "version": 1
+  },
+  "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Principal-Cloud-Developer-in-Test_1189841-2": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Quality Engineer",
     "version": 1
   },
   "workday:hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Principal-Cloud-Developer-in-Test_1189841-3": {
@@ -12311,6 +12464,15 @@
     "title": "Software Quality Engineer",
     "version": 1
   },
+  "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA, MD, AL, OH",
+    "version": 1
+  },
   "workday:hpe:/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-2": {
     "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
@@ -12327,6 +12489,15 @@
       "Class of 2027"
     ],
     "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA, MD, AL, OH",
+    "version": 1
+  },
+  "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "HPC Software & Storage Engineering Strategist",
     "version": 1
   },
   "workday:hpe:/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872-1": {
@@ -12347,6 +12518,15 @@
     "title": "HPC Software & Storage Engineering Strategist",
     "version": 1
   },
+  "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cybersecurity Operations & Enablement",
+    "version": 1
+  },
   "workday:hpe:/job/Reston-Virginia-United-States-of-America/Cybersecurity-Operations---Enablement_1211088-1": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -12365,6 +12545,15 @@
     "title": "Cybersecurity Operations & Enablement",
     "version": 1
   },
+  "workday:hpe:/job/Spring-Texas-United-States-of-America/Frontier-AI-Product-Owner---Program-Leader_1218036": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Frontier AI Product Owner & Program Leader",
+    "version": 1
+  },
   "workday:hpe:/job/Spring-Texas-United-States-of-America/Frontier-AI-Product-Owner---Program-Leader_1218036-2": {
     "checked_at": "2026-11-15T00:29:48Z",
     "cycles": [
@@ -12381,6 +12570,15 @@
       "Class of 2027"
     ],
     "title": "Frontier AI Product Owner & Program Leader",
+    "version": 1
+  },
+  "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Sr-Principal-Software-Engineer_1198281-1": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer - Embedded Platform Software Development",
     "version": 1
   },
   "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Sr-Principal-Software-Engineer_1198281-2": {
@@ -15866,6 +16064,15 @@
     "title": "AI Efficiency, Innovation & Automation Analyst",
     "version": 1
   },
+  "workday:spgi:/job/IN---CHENNAI-PRESTIGE-POLYGON-BUILDING/Data-Engineer--Data-Platforms_330903": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Engineer, Data Platforms",
+    "version": 1
+  },
   "workday:spgi:/job/IN---CHENNAI-PRESTIGE-POLYGON-BUILDING/Data-Engineer--Data-Platforms_330903-2": {
     "checked_at": "2026-11-14T20:54:29Z",
     "cycles": [
@@ -15873,6 +16080,15 @@
       "Class of 2027"
     ],
     "title": "Data Engineer, Data Platforms",
+    "version": 1
+  },
+  "workday:spgi:/job/New-York-NY/Data-Scientist_332760": {
+    "checked_at": "2026-11-15T07:21:07Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Data Scientist",
     "version": 1
   },
   "workday:spgi:/job/New-York-NY/Data-Scientist_332760-1": {

@@ -8,7 +8,7 @@
 
 ### 1072 open roles (568 listed below) · 132 new this week
 
-5,292 employers tracked · data as of Nov 15, 2026 at 00:29 UTC
+5,292 employers tracked · data as of Nov 15, 2026 at 07:21 UTC
 
 _559 have a class year the employer stated · 513 are recent postings whose class year isn't stated (listed separately, never mixed in)._
 
@@ -321,8 +321,8 @@ These postings never name a class year — not in the title, not in the posting 
 | Tulane University ✓ | Data Analyst I 🆕 | [Apply](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2296) | New Orleans, LA, United States | Python | Nov 13, 2026 |
 | Pima County | Security Engineer I - Information Technology 🛂 🆕 | [Apply](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Security-Engineer-I---Information-Technology_JR104837) | Tucson, AZ | No skills listed | Nov 13, 2026 |
 | Empire State Realty Trust | Applied AI Engineer 🆕 | [Apply](https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267) | New York, New York, United States | Python, Java, C#, TypeScript | Nov 12, 2026 |
-| Abnormal Security ✓ 🆁 | Software Engineer I, Data Platforms 🆕 | [Apply](https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003) | Remote - USA | Python, LLMs, AWS, GCP | Nov 12, 2026 |
-| RTX | Software Engineer I 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Pos… | Python, C++, MATLAB, Kubernetes | Nov 12, 2026 |
+| Abnormal Security ✓ 🆁 | Software Engineer I, Data Platforms | [Apply](https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003) | Remote - USA | Python, LLMs, AWS, GCP | Nov 12, 2026 |
+| RTX | Software Engineer I 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Pos… | Python, C++, MATLAB, Kubernetes | Nov 12, 2026 |
 | Affirm ✓ 🆁 | Software Engineer I, Backend (Continuous Delivery) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US | Python, Kotlin, AWS, Kubernetes | Nov 12, 2026 |
 | SpaceX | RF Software Engineer (Starshield) 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002) | Hawthorne, CA | Python, C++, Linux | Nov 12, 2026 |
 | University of Maine System | Engineer I - Cloud Infrastruc​ture and Security 🇺🇸 | [Apply](https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3373) | Orono, ME, United States | Python, Bash, Azure, Terraform | Nov 12, 2026 |
@@ -524,7 +524,7 @@ These postings never name a class year — not in the title, not in the posting 
 | The Aerospace Corporation | Junior Full Stack Engineer 🇺🇸 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972) | Chantilly, VA | Python, Java, C++, TypeScript | Oct 22, 2026 |
 | CDK Global ✓ | Associate Software Engineer _(2 openings)_ | [Apply](https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204) [#2](https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1) | Austin, TX, USA | Node.js, AWS, Kafka, MongoDB | Oct 22, 2026 |
 | CVS Health | Data Scientist - Pharmacy Benefits | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Scientist---Pharmacy-Benefits_R1069422-1) | New York-161 Ave of the Americas +2 more | Python, SQL, LLMs, GCP | Oct 22, 2026 |
-| Blue Yonder ✓ | Software Engineer I (Java Required) | [Apply](https://jda.wd5.myworkdayjobs.com/university/job/Dallas/Software-Engineer-I--Java-Required-_263368) | Dallas | Java, Python, SQL, Git | Oct 22, 2026 |
+| Blue Yonder ✓ | Software Engineer I (Java Required) | [Apply](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Software-Engineer-I--Java-Required-_263368-1) | Dallas | Java, Python, SQL, Git | Oct 22, 2026 |
 | Cencora 🆁 | Information Security Human Risk Analyst I | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Information-Security-Human-Risk-Analyst-I_R2618037-1) | Remote +4 more | No skills listed | Oct 22, 2026 |
 | Salesforce ✓ | Research Scientist - Salesforce AI Research | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1) | California - Palo Alto +2 more | Python, PyTorch, LLMs, Computer Vision | Oct 22, 2026 |
 | Tarleton State University ✓ | AI Solutions Specialist | [Apply](https://tamus.wd1.myworkdayjobs.com/TARLETON_External/job/Stephenville-TX/AI-Solutions-Specialist_R-097985-1) | Stephenvil​le, TX | LLMs | Oct 22, 2026 |
@@ -768,7 +768,7 @@ Roles posted per week, from each role's real published date - redrawn automatica
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,866 of 5,649 registered boards returned successfully across 13 ATS platforms (93% of boards attempted, 86% of the full registry) · completed in 1021.6s · 187 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,879 of 5,649 registered boards returned successfully across 13 ATS platforms (92% of boards attempted, 86% of the full registry) · completed in 1009.2s · 196 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
