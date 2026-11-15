@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T07:21:07Z",
- "data_as_of": "2026-11-15T07:21:07Z",
- "rendered_at": "2026-11-15T07:21:07Z",
+ "generated_at": "2026-11-15T14:54:42Z",
+ "data_as_of": "2026-11-15T14:54:42Z",
+ "rendered_at": "2026-11-15T14:54:42Z",
  "source": "https://github.com/apxxrv/New-Grad-Tech-Jobs",
  "h1b_window": "FY2022–2023",
- "count": 1072,
+ "count": 1069,
  "jobs": [
   {
    "id": "ashby:triumph-arcade:8863c7e0-60a5-4775-b15b-d0e46329a230",
@@ -1978,32 +1978,6 @@
    "source": "oracle",
    "h1b_approvals": 1148,
    "program": "Early Career",
-   "remote": false
-  },
-  {
-   "id": "oracle:hdde.fa.us2.oraclecloud.com:4581",
-   "company": "Rheem",
-   "title": "Product Data Analyst I",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Fort Smith, AR, United States; Lewisville, TX, United States",
-   "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581",
-   "posted_at": "2026-11-10",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-11-11T00:01:33Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Databricks",
-    "Tableau"
-   ],
-   "source": "oracle",
-   "h1b_approvals": null,
-   "program": "New Grad",
    "remote": false
   },
   {
@@ -4136,7 +4110,7 @@
    "season_inferred": true,
    "category": "Software",
    "location": "San Francisco, California, United States of America",
-   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1",
    "posted_at": "2026-11-04T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-11-05T02:00:31Z",
@@ -12114,30 +12088,6 @@
    "remote": true
   },
   {
-   "id": "workday:pimco:/job/Austin-TX-USA/Cybersecurity-Operations-Analyst_R107032-1",
-   "company": "PIMCO",
-   "title": "Cybersecurity Operations Analyst",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security",
-   "location": "Austin, TX USA",
-   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/Cybersecurity-Operations-Analyst_R107032-1",
-   "posted_at": "2026-10-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "AWS"
-   ],
-   "source": "workday",
-   "h1b_approvals": 42,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
    "id": "workday:rsm:/job/Chicago/Endpoint-Infrastructure-and-AVD-Engineer---Associate_JR121569",
    "company": "RSM",
    "title": "Endpoint Infrastructure and AVD Engineer - Associate",
@@ -12154,30 +12104,6 @@
    "salary": null,
    "skills": [
     "AWS"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:statestreet:/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-778404-1",
-   "company": "State Street",
-   "title": "Application, Infrastructure and Service Management, Officer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Burlington Massachusetts",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-778404-1",
-   "posted_at": "2026-10-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-17T02:09:43Z",
-   "sponsorship": "unknown",
-   "salary": "$70k–$118.75k/yr",
-   "skills": [
-    "SQL",
-    "Azure"
    ],
    "source": "workday",
    "h1b_approvals": null,
@@ -12515,27 +12441,6 @@
    ],
    "source": "lever",
    "h1b_approvals": null,
-   "program": "New Grad",
-   "remote": false
-  },
-  {
-   "id": "workday:arrow:/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452",
-   "company": "Arrow Electronics",
-   "title": "Programming Machine Operator I / 4 PM - 12:30 AM",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "US-NV-Reno, Nevada (Maestro Dr)",
-   "url": "https://arrow.wd1.myworkdayjobs.com/ac/job/US-NV-Reno-Nevada-Maestro-Dr/Programming-Machine-Operator-I_R248452",
-   "posted_at": "2026-10-15T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-20T21:48:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 106,
    "program": "New Grad",
    "remote": false
   },
@@ -16637,6 +16542,35 @@
    ],
    "source": "workday",
    "h1b_approvals": 1526,
+   "program": "New Grad",
+   "remote": false
+  },
+  {
+   "id": "workday:exelixis:/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
+   "company": "Exelixis",
+   "title": "AI and Agentic Engineer I",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Alameda, CA",
+   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-I_JR7022-1",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-17T04:32:11Z",
+   "sponsorship": "unknown",
+   "salary": "$129k–$182k/yr",
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "LLMs",
+    "AWS",
+    "Git",
+    "Databricks"
+   ],
+   "source": "workday",
+   "h1b_approvals": 36,
    "program": "New Grad",
    "remote": false
   },

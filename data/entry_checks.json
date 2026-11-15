@@ -1538,6 +1538,15 @@
     "title": "DevOps Engineer, Radar",
     "version": 1
   },
+  "greenhouse:andurilindustries:5256500007": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "NX Developer",
+    "version": 1
+  },
   "greenhouse:andurilindustries:5256503007": {
     "checked_at": "2026-11-15T07:21:07Z",
     "cycles": [
@@ -1797,6 +1806,15 @@
       "Class of 2027"
     ],
     "title": "Research Scientist, Battlespace Awareness",
+    "version": 1
+  },
+  "greenhouse:andurilindustries:5281208007": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "GNC Software Engineer",
     "version": 1
   },
   "greenhouse:andurilindustries:5281214007": {
@@ -5507,6 +5525,15 @@
     "title": "Data Engineer in Test",
     "version": 1
   },
+  "greenhouse:prolificacademicltd:5025120101": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Hematologist - AI Research Participants - United States (Remote)",
+    "version": 1
+  },
   "greenhouse:prolificacademicltd:5025121101": {
     "checked_at": "2026-11-15T07:21:07Z",
     "cycles": [
@@ -6108,6 +6135,15 @@
       "Class of 2027"
     ],
     "title": "Contract Software Development Engineer in Test - Subscription Platform",
+    "version": 1
+  },
+  "greenhouse:spacex:8852118002": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
     "version": 1
   },
   "greenhouse:spacex:8852119002": {
@@ -9080,6 +9116,42 @@
     "title": "Application Security Engineer",
     "version": 1
   },
+  "workday:aptiv:/job/Agoura-Hills-CA---USA/Software-Engineer_J000702028": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer",
+    "version": 1
+  },
+  "workday:aptiv:/job/Carmel-IN---USA/DSP-Software-Engineer_J000702027": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "DSP Software Engineer",
+    "version": 1
+  },
+  "workday:aptiv:/job/Carmel-IN---USA/Embedded-Systems-Engineer_J000702089": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Embedded Systems Engineer",
+    "version": 1
+  },
+  "workday:aptiv:/job/Carmel-IN---USA/Radar-Systems-GPU-Software-engineer_J000705080": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Radar Systems GPU Software engineer",
+    "version": 1
+  },
   "workday:aptiv:/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071": {
     "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
@@ -9087,6 +9159,15 @@
       "Class of 2027"
     ],
     "title": "Vehicle Software Integration Engineer",
+    "version": 1
+  },
+  "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Software-Quality-Assurance-Engineer_J000701885": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Quality Assurance & Compliance Engineer - DO-178C",
     "version": 1
   },
   "workday:arcticwolf:/job/Remote-Germany/Cyber-Security-Consultant--m-w-d----Security-Advisor---100--Remote-in-Deutschland_R26_1146": {
@@ -9989,6 +10070,24 @@
     "title": "Software Engineer - Clinical Software",
     "version": 1
   },
+  "workday:cat:/job/Chennai-Tamil-Nadu/Software-Engineer_R0000362478": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer- Automation Testing",
+    "version": 1
+  },
+  "workday:cat:/job/Chennai-Tamil-Nadu/Software-Test-Engineer---Automation-Testing_R0000380754": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Test Engineer - Automation Testing",
+    "version": 1
+  },
   "workday:cat:/job/Irving-Texas/AI-Automation-Engineer--Data-Annotation-Services_R0000395384": {
     "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
@@ -10473,6 +10572,33 @@
       "Class of 2027"
     ],
     "title": "Cloud Infrastructure Engineer",
+    "version": 1
+  },
+  "workday:cvshealth:/job/IL---Work-from-home/Software-Development-Engineer--Angular-Java-_R1101788": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Development Engineer (Angular/Java)",
+    "version": 1
+  },
+  "workday:cvshealth:/job/NY---Work-from-hom/AI-Engineer_R1094134": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "AI Engineer",
+    "version": 1
+  },
+  "workday:cvshealth:/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Engineer (AI Engineering)",
     "version": 1
   },
   "workday:cw:/job/Austin-Texas-USA/Mobile-Engineer_R338551-1": {
@@ -14399,6 +14525,15 @@
     "title": "Category Specialist - Client Software",
     "version": 1
   },
+  "workday:micron:/job/Boise-ID---Main-Site/Cyber-Security-Operations-Center-Analyst---AI-Automation-Engineer_JR116338-1": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cyber Security Operations Center Analyst / AI-Automation Engineer",
+    "version": 1
+  },
   "workday:micron:/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111962": {
     "checked_at": "2026-11-14T20:54:28Z",
     "cycles": [
@@ -15155,6 +15290,15 @@
     "title": "Cybersecurity Systems Analyst (Associate)",
     "version": 1
   },
+  "workday:pae:/job/US-FL-Tampa/Cybersecurity-Systems-Analyst--Associate-_R0175171": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Cybersecurity Systems Analyst (Associate)",
+    "version": 1
+  },
   "workday:pae:/job/US-MD-Baltimore/Full-Stack-Developer_R0174516": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -15209,6 +15353,15 @@
     "title": "AI Solutions Engineer",
     "version": 1
   },
+  "workday:pae:/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0175065": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "RTOS / VXWorks developer",
+    "version": 1
+  },
   "workday:pae:/job/US-VA-Dahlgren/Software-Support-Subject-Matter-Expert--SME-_R0174171": {
     "checked_at": "2026-11-14T15:58:45Z",
     "cycles": [
@@ -15216,6 +15369,15 @@
       "Class of 2027"
     ],
     "title": "Software Support Subject Matter Expert (SME)",
+    "version": 1
+  },
+  "workday:pae:/job/US-VA-Norfolk/Software-Test-Engineer---SOA-C3_R0175389-1": {
+    "checked_at": "2026-11-15T14:54:42Z",
+    "cycles": [
+      "Class of 2026",
+      "Class of 2027"
+    ],
+    "title": "Software Test Engineer - SOA C3",
     "version": 1
   },
   "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138380": {
