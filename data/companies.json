@@ -3748,6 +3748,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Beacon Mobility",
+    "slug": "gobeacon",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "beaconmobilitycareers"
+  },
+  {
     "name": "Beaconsoftware",
     "slug": "beaconsoftware",
     "ats": "ashby"
@@ -4252,6 +4259,13 @@
   {
     "name": "Blizzard Entertainment",
     "slug": "activision",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Blizzard_External_Careers"
+  },
+  {
+    "name": "Blizzard Entertainment",
+    "slug": "xboxgaming",
     "ats": "workday",
     "wd": "wd1",
     "site": "Blizzard_External_Careers"
@@ -11601,6 +11615,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Fort Bend County",
+    "slug": "fortbendcountytx",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "externalcareers"
+  },
+  {
     "name": "Fortell",
     "slug": "fortell",
     "ats": "ashby"
@@ -14369,6 +14390,13 @@
     "ats": "ashby"
   },
   {
+    "name": "IAG Loyalty",
+    "slug": "iagloyalty",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "iagloyalty"
+  },
+  {
     "name": "Iambic Therapeutics",
     "slug": "iambic-therapeutics",
     "ats": "ashby"
@@ -16946,6 +16974,20 @@
     "name": "Liberis",
     "slug": "liberis",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Liberty Blume",
+    "slug": "libertyglobal",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "Liberty_Global_Blume"
+  },
+  {
+    "name": "Liberty Global",
+    "slug": "libertyglobal",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "Liberty_Global_Careers"
   },
   {
     "name": "Liberty Mutual Canada",
@@ -19923,6 +19965,13 @@
     "site": "ext_intern"
   },
   {
+    "name": "NCR Atleos",
+    "slug": "ncratleos",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "ext_non_usalteos"
+  },
+  {
     "name": "NCR Voyix",
     "slug": "ncr",
     "ats": "workday",
@@ -21556,6 +21605,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "sor_external_career_site"
+  },
+  {
+    "name": "Oregon State University",
+    "slug": "oregonstate",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "OSU_Careers_Site"
   },
   {
     "name": "Orennia",
@@ -23801,6 +23857,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Raft",
+    "slug": "raft",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Railway",
     "slug": "railway",
     "ats": "ashby"
@@ -23928,6 +23989,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "RaymondJamesEarlyCareers"
+  },
+  {
+    "name": "RBFCU",
+    "slug": "rbfcu",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "RegionalJobsSanAntonio"
   },
   {
     "name": "RBI",
@@ -25043,6 +25111,13 @@
     "name": "Runwise",
     "slug": "runwise",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Russell Investments",
+    "slug": "russell",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "russellinvestments"
   },
   {
     "name": "RWS",
@@ -28069,6 +28144,13 @@
     "site": "targetcareers"
   },
   {
+    "name": "Tarkett",
+    "slug": "tarkett",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "tarkett_careers"
+  },
+  {
     "name": "Tarleton State University",
     "slug": "tamus",
     "ats": "workday",
@@ -29855,6 +29937,13 @@
     "site": "TSN"
   },
   {
+    "name": "Tyson Foods",
+    "slug": "tysonfoods",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "TYIT"
+  },
+  {
     "name": "U.S. Bank",
     "slug": "usbank",
     "ats": "workday",
@@ -30988,6 +31077,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "VEH_EXTERNAL_CAREER_SITE"
+  },
+  {
+    "name": "Videojet",
+    "slug": "veralto",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "videojetjobs"
   },
   {
     "name": "Videotron",
