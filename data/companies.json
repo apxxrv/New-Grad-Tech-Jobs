@@ -4115,6 +4115,11 @@
     "ats": "lever"
   },
   {
+    "name": "Bitdeer",
+    "slug": "bitdeer",
+    "ats": "breezy"
+  },
+  {
     "name": "BitGo",
     "slug": "bitgointernships",
     "ats": "greenhouse"
@@ -15795,6 +15800,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Jessup University",
+    "slug": "WilliamJessupUniversityBayAreaCampus",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Jigsaw",
     "slug": "jigsaw",
     "ats": "ashby"
@@ -17002,6 +17012,13 @@
     "site": "external"
   },
   {
+    "name": "Lennar",
+    "slug": "lennar",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "early_careers"
+  },
+  {
     "name": "Lennar Corporation",
     "slug": "lennar",
     "ats": "workday",
@@ -17988,6 +18005,11 @@
   {
     "name": "Makai Labs",
     "slug": "makai-labs",
+    "ats": "ashby"
+  },
+  {
+    "name": "MakerMaker",
+    "slug": "makermaker",
     "ats": "ashby"
   },
   {
@@ -20156,6 +20178,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "MyNelnet"
+  },
+  {
+    "name": "Nemetschekse2",
+    "slug": "NemetschekSE2",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Neo Financial",
@@ -24228,6 +24255,11 @@
     "site": "RecorExternal"
   },
   {
+    "name": "Rectanglehealth",
+    "slug": "rectanglehealth",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Recursion Pharmaceuticals",
     "slug": "recursionpharmaceuticals",
     "ats": "greenhouse"
@@ -26728,6 +26760,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Smiledigitalhealth",
+    "slug": "smiledigitalhealth",
+    "ats": "lever"
+  },
+  {
     "name": "Smith+Nephew",
     "slug": "smithnephew",
     "ats": "workday",
@@ -27098,6 +27135,14 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "SouthernTide"
+  },
+  {
+    "name": "Southern Water",
+    "slug": "southernwater",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "SouthernWater",
+    "host": "wd3.myworkdaysite.com"
   },
   {
     "name": "SouthState Bank",
@@ -28297,6 +28342,11 @@
     "name": "Tanium",
     "slug": "tanium",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Tank Payments",
+    "slug": "tank-payments",
+    "ats": "ashby"
   },
   {
     "name": "Tapcart",
