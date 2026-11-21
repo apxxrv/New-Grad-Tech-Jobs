@@ -2605,6 +2605,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Arvaintelligence",
+    "slug": "arvaintelligence",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Arvinas",
     "slug": "arvinas",
     "ats": "greenhouse"
@@ -4093,6 +4098,11 @@
     "site": "external"
   },
   {
+    "name": "Biohub",
+    "slug": "biohub",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Biointellisense",
     "slug": "biointellisense",
     "ats": "lever"
@@ -4633,6 +4643,11 @@
   {
     "name": "Boom Supersonic",
     "slug": "boomsupersonic",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Boomi",
+    "slug": "boomilp",
     "ats": "greenhouse"
   },
   {
@@ -6014,6 +6029,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "centerwell_external_career_site"
+  },
+  {
+    "name": "Centier Bank",
+    "slug": "centier",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "centierbankcareers"
   },
   {
     "name": "Centific",
@@ -9074,6 +9096,11 @@
     "ats": "lever"
   },
   {
+    "name": "Diversified Services Network",
+    "slug": "dsn",
+    "ats": "workable"
+  },
+  {
     "name": "DLA Piper",
     "slug": "dlapiper",
     "ats": "workday",
@@ -10266,6 +10293,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "EP Wealth Advisors",
+    "slug": "epwealth",
+    "ats": "lever"
+  },
+  {
     "name": "Epia Neuro",
     "slug": "epianeuro",
     "ats": "ashby"
@@ -11345,6 +11377,13 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "FNBCORP"
+  },
+  {
+    "name": "First PREMIER Bank",
+    "slug": "firstpremier",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "PREMIER_Careers"
   },
   {
     "name": "First Quality",
@@ -16259,6 +16298,11 @@
     "site": "kenvue"
   },
   {
+    "name": "Keplar",
+    "slug": "keplar",
+    "ats": "ashby"
+  },
+  {
     "name": "Kepler Communications",
     "slug": "kepler",
     "ats": "lever"
@@ -16501,6 +16545,11 @@
     "name": "Koalafi",
     "slug": "koalafi",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Kobalt Labs",
+    "slug": "kobalt",
+    "ats": "ashby"
   },
   {
     "name": "Kobie",
@@ -17399,6 +17448,13 @@
     "site": "Littelfuse-Careers"
   },
   {
+    "name": "Littelfuse",
+    "slug": "littelfuse",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Littelfuse-University-Relations"
+  },
+  {
     "name": "Little Caesars Enterprises",
     "slug": "ilitch",
     "ats": "workday",
@@ -17485,6 +17541,11 @@
     "name": "Loft Orbital",
     "slug": "loftorbital",
     "ats": "lever"
+  },
+  {
+    "name": "Logan A C Heat Services B29Ac6F9712D",
+    "slug": "logan-a-c-heat-services-b29ac6f9712d",
+    "ats": "breezy"
   },
   {
     "name": "Logicbroker, Inc.",
@@ -19468,6 +19529,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Mom's Meals",
+    "slug": "momsmeals",
+    "ats": "lever"
+  },
+  {
     "name": "Moment Energy",
     "slug": "momentenergy",
     "ats": "greenhouse"
@@ -19834,6 +19900,11 @@
     "ats": "workday",
     "wd": "wd10",
     "site": "MMEC"
+  },
+  {
+    "name": "Multiply",
+    "slug": "multiplyai",
+    "ats": "ashby"
   },
   {
     "name": "Multiply Labs",
@@ -24143,6 +24214,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Rand",
+    "slug": "rand",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "external_career_site"
+  },
+  {
     "name": "Randstad",
     "slug": "Randstad4",
     "ats": "smartrecruiters"
@@ -25980,6 +26058,11 @@
     "name": "Secureframe",
     "slug": "secureframe",
     "ats": "lever"
+  },
+  {
+    "name": "Secureframe",
+    "slug": "secureframe",
+    "ats": "ashby"
   },
   {
     "name": "Securian Financial Group",
@@ -31121,6 +31204,13 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Veolia",
+    "slug": "veoliauki",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "VESCareers"
+  },
+  {
     "name": "Vera Bradley",
     "slug": "verabradley",
     "ats": "workday",
@@ -31266,6 +31356,11 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "vertex_intern"
+  },
+  {
+    "name": "Vertex Service Partners",
+    "slug": "vertexservicepartners",
+    "ats": "greenhouse"
   },
   {
     "name": "Very Good Security",
