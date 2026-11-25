@@ -306,6 +306,11 @@
     "site": "abrdn"
   },
   {
+    "name": "Abilitypath",
+    "slug": "abilitypath",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Abnormal Security",
     "slug": "abnormalsecurity",
     "ats": "greenhouse"
@@ -2200,6 +2205,11 @@
   {
     "name": "AppLovin",
     "slug": "applovin",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Appodeal",
+    "slug": "appodeal",
     "ats": "greenhouse"
   },
   {
@@ -8604,6 +8614,11 @@
     "site": "DavidYurmanCareers"
   },
   {
+    "name": "Davidson Kempner",
+    "slug": "5364856uhdfnvbkldfnbhrpkdfgbdvtyhro",
+    "ats": "greenhouse"
+  },
+  {
     "name": "DaVita",
     "slug": "davita",
     "ats": "workday",
@@ -12622,6 +12637,13 @@
     "name": "Genovatech",
     "slug": "genovatech",
     "ats": "lever"
+  },
+  {
+    "name": "Genpact",
+    "slug": "genpact",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "external_careers"
   },
   {
     "name": "GenScript",
@@ -22473,6 +22495,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "PatientPoint",
+    "slug": "patientpointinviteonly",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Patreon",
     "slug": "patreon",
     "ats": "ashby"
@@ -23686,6 +23713,11 @@
     "site": "Prologis_External_Careers"
   },
   {
+    "name": "Prolucid Technologies",
+    "slug": "prolucid-technologies",
+    "ats": "workable"
+  },
+  {
     "name": "Promise Robotics",
     "slug": "promiserobotics",
     "ats": "lever"
@@ -24405,6 +24437,11 @@
     "name": "Reach Financial",
     "slug": "reach",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Reach Labs",
+    "slug": "reachpower",
+    "ats": "lever"
   },
   {
     "name": "Reach3 Insights",
@@ -29380,6 +29417,11 @@
     "name": "The Shipyard",
     "slug": "theshipyard",
     "ats": "workable"
+  },
+  {
+    "name": "The Tech Interactive",
+    "slug": "the-tech",
+    "ats": "rippling"
   },
   {
     "name": "The Toro Company",
